@@ -2,11 +2,11 @@ collections:
   our-school:
     output: true
     order:
-      - Niche Programmes/Learning For Life Programme (LLP).md
+      - Niche Programmes/.keep
+      - Niche Programmes/THOBURN Programme.md
       - "Niche Programmes/Applied Learning Programme (ALP): ACS (Junior)
         Thinkers Programme.md"
-      - Niche Programmes/THOBURN Programme.md
-      - Niche Programmes/.keep
+      - Niche Programmes/Learning For Life Programme (LLP).md
       - Financial Information.md
       - School Rules.md
       - School Song.md
