@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - General Information/.keep
       - Pupil Recognition.md
       - Supporting Singaporean Students.md
       - P1 Registration Information.md
