@@ -206,3 +206,250 @@ GPS Trackers and Fitness Trackers that only have tracking functionalities are al
   
 
 ACS (Junior) groups offences into 3 levels; Level 1 offences are characterized as minor misdemeanours while Level 3 is for very serious offences. The school will take one or more of the following actions when students misbehave.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8l4p{background-color:#EAEAEA;color:#232323;text-align:left;vertical-align:top}
+.tg .tg-32fj{background-color:#EAEAEA;border-color:inherit;color:#232323;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-rsx2{background-color:#EAEAEA;color:#232323;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-32fj">Level 1 Offences</th>
+    <th class="tg-rsx2">Level 1 Follow-up Action</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8l4p">●      Late-coming<br>●      Not handing in work<br>●      Disruptive behaviour<br></td>
+    <td class="tg-8l4p">●      Verbal Warning<br>●      Detention<br></td>
+  </tr>
+  <tr>
+    <td class="tg-rsx2">Level 2 Offences</td>
+    <td class="tg-rsx2">Level 2 Follow-up Action</td>
+  </tr>
+  <tr>
+    <td class="tg-8l4p">●      Use of vulgar language<br>●      Unauthorized use of electronic devices (e.g.playing games on smartphone)<br>●      Any Persistent Level 1 Offences<br></td>
+    <td class="tg-8l4p">●      Verbal Warning<br>●      Written Warning<br>●      Detention<br>●      Confiscation of electronic devices</td>
+  </tr>
+  <tr>
+    <td class="tg-rsx2">Level 3 Offences</td>
+    <td class="tg-rsx2">Level 3 Follow-up Action</td>
+  </tr>
+  <tr>
+    <td class="tg-8l4p">●      Truancy / Leaving school without permission<br>●      Bullying / Cyber-bullying<br>●      Cheating / Forgery<br>●      Stealing<br>●      Vandalism / Misuse of school property<br>●      Possession of dangerous weapons or weapon-like objects<br>●      Actions leading to potential danger<br>●      Disrespectful / Defiant to teachers/staff<br>●      Other serious offences<br>●      Any Persistent Level 2 Offences</td>
+    <td class="tg-8l4p">●      Written warning<br>●      Corrective Work Order<br>●      Detention<br>●      Deduction of marks (cheating cases)<br>●      Counselling<br>●      Downgrade/Removal of School Award<br>●      Removal of Leadership position<br>●      Internal suspension<br>●      Home suspension<br>●      Caning</td>
+  </tr>
+</tbody>
+</table>
+
+**_School Transport_**
+
+Pupils will:
+
+* sit properly on a seat (in an allocated seat if directed by the driver) throughout the journey
+*   treat bus drivers and other people and their possessions with respect
+*   obey bus driver’s instructions without argument
+*   treat all bus property, equipment and signs with respect
+*   wear the seat belt at all times if available
+*   speak quietly and not create unnecessary noise
+*   wait until the bus stops before getting up from their seat to get off
+*   board and alight the bus in a quiet and orderly fashion
+    
+      
+    
+
+**It is not appropriate or acceptable for pupils to:**
+
+*   bully or harass other pupils or the driver
+*   walk or run along the aisle
+*   put their feet on the seats
+*   fight, spit or use offensive language
+*   throw any items within or out of the bus
+*   consume food or drink, or play music without permission of the driver
+*   stick their hands or any other part of their bodies out of the bus windows
+*   use a mobile phone to send threatening messages, or photograph others without consent, distract drivers through use of mobile phones or other objects
+
+  
+
+**_Respect for School Property_**
+
+*   No vandalism  
+      
+    
+*   No littering; keep the school a clean and conducive place to learn in  
+      
+    
+*   Pupils are expected to use school facilities and equipment with care. Acts of vandalism include:
+
+- Damaging furniture/equipment (chairs, books, sports equipment, etc); 
+- Damaging buildings/fittings (wash-basins, drinking fountains, cabinets, lockers, fire alarm, etc); and
+- Defacing walls, notices, etc.  
+  
+
+*   No wasting of water and electricity. Pupils must take care not to waste water or electricity. The practice of    strict economy in the use of both utilities is encouraged  
+      
+    
+*   No stealing or misuse of school property / equipment or property belonging to others
+
+  
+
+**_Expected conduct in/during ..._**
+
+**_Flag Raising Ceremony_**
+
+*   **Pupils who are Singapore citizens must sing the National Anthem and take the Pledge at each Assembly. Pupils should take the Pledge with the right fist placed over the heart.**
+      
+    
+*   Pupils in the school campus are to stand at attention and face the flag poles once the National Anthem is played  
+      
+    
+*   These ceremonies are to be taken seriously by all pupils, with due respect given to the nation’s flag, anthem and pledge.
+
+  
+
+**_Classroom_**
+
+*   When a teacher enters the classroom, all boys should stand and greet the teacher.
+*   No food or flavoured drinks to be consumed in the classroom.
+*   No pupils are allowed in the classroom during recess without the presence of a teacher.
+*   Permission must be sought when going to the toilet.
+*   At the end of each day, chairs must be pushed in and tables arranged in an orderly manner and all litter should be cleared from the tables and floor. 
+    
+      
+    
+
+**_Computer Lab_**
+
+*   Follow instructions of the teachers or instructors at all times
+*   Only visit approved internet sites and only when you have permission to do so
+*   Do not download anything unless told to do so
+*   Never give out or share personal information e.g. Passwords
+*   Improper, unlawful, or incorrect use of information technology and communications e.g. computer, mobile phone, all social networking sites (Facebook), etc. will be considered as abuse of technology  
+    
+      
+    
+
+**_Science Lab / Art Room_**
+
+*   No playing in the Science Labs
+*   Do not touch any of the equipment / apparatus until permission is given
+*   Listen to instructions from the teacher carefully 
+    
+      
+    
+
+**_Canteen_**
+
+*   Pupils must queue up in an orderly manner for their food and drinks. They are expected to return the crockery   and cutlery to the receptacles in the canteen after their meal.
+
+  
+
+**_Library_**
+
+*   Follow instructions of the librarian / parent volunteers at all times
+*   Return borrowed books on time
+*   No playing, eating and drinking in the library
+    
+      
+    
+
+**_Bookstore_**
+
+• Pupils must queue up in an orderly manner to make payment.
+
+  
+
+**_Staff Rooms_**
+
+• Staff rooms are strictly out-of-bounds to all pupils unless accompanied by a teacher.
+
+  
+
+**_Play areas_**
+
+
+
+*   Table Tennis Tables:
+
+-       respect each other; queue to play
+> 
+-       be inclusive; allowing others to play
+> 
+-       play fair; play safe
+> 
+-       play by the rules
+
+
+                                   
+*   Playground:
+> 
+-       No playing when the playground is wet or it is raining
+> 
+-       Play safe; take turns; no rough play
+> 
+ 
+
+  
+
+*   The following areas are non-play areas:
+
+-       Around Admin block
+> 
+-       Corridors around the PAH and Computer Labs
+> 
+-       Parade square / carpark
+> 
+-       Around the teaching blocks / along corridors / staircases
+> 
+-       Slopes at playground & around Block E
+> 
+-       Soccer field, tennis courts, basketball court, fitness area, MPH
+
+**Conduct Grade**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8l4p{background-color:#EAEAEA;color:#232323;text-align:left;vertical-align:top}
+.tg .tg-32fj{background-color:#EAEAEA;border-color:inherit;color:#232323;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-rsx2{background-color:#EAEAEA;color:#232323;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-32fj">Conduct Grade</th>
+    <th class="tg-rsx2">Descriptors</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rsx2">Excellent</td>
+    <td class="tg-8l4p">1.       Exemplary in conduct in school and in public, demonstrates School Values of Integrity, Love, Loyalty, Collaboration, Curiosity and Excellence.<br>2.       Polite and respectful towards teachers and peers all the time<br>3.       Punctual all the time.<br>4.       Leads other students to be exemplary in their behaviour most of the time.<br>5.       Prompt in submission of schoolwork.<br>6.       Has not committed any minor or major offences.</td>
+  </tr>
+  <tr>
+    <td class="tg-rsx2">Very Good</td>
+    <td class="tg-8l4p">1.       Mostly good in conduct in school and in public, demonstrates most of the School Values of Integrity, Love, Loyalty, Collaboration, Curiosity and Excellence.<br>2.       Polite and respectful towards teachers and peers most of the time<br>3.       Punctual most of the time.<br>4.       Leads other students to be exemplary in their behaviour at times.<br>5.       Mostly prompt in submission of schoolwork.<br>6.       Has not committed any major offences</td>
+  </tr>
+  <tr>
+    <td class="tg-rsx2">Good</td>
+    <td class="tg-8l4p">1.       Good in conduct in school and in public, demonstrates some of the School Values of Integrity, Love, Loyalty, Collaboration, Curiosity and Excellence.<br>2.       Polite and respectful towards teachers and peers most of the time with some minor indiscretions.<br>3.       Punctual most of the time with occasions of late-coming (i.e. has not received a late-coming letter)<br>4.       Has to be reminded occasionally about correct behaviour.<br>5.       Has to be reminded occasionally about schoolwork.<br>6.       Might have committed an offence but has learnt from it.</td>
+  </tr>
+  <tr>
+    <td class="tg-rsx2">Fair</td>
+    <td class="tg-8l4p">1.       Fair in conduct in school and in public, demonstrates little of the School Values of Integrity, Love, Loyalty, Collaboration, Curiosity and Excellence.<br>2.       Disrespectful towards teachers and peers<br>3.       Punctual some of the time (i.e. has received a late-coming letter)<br>4.       Has to be reminded constantly about correct behaviour.<br>5.       Has to be reminded constantly about schoolwork (e.g. non-submission’ tardiness).<br>6.       Has committed minor and major offences as specified in the ACSJ Code of Conduct.</td>
+  </tr>
+  <tr>
+    <td class="tg-rsx2">Poor</td>
+    <td class="tg-8l4p">1.       Poor in conduct in school and in public, demonstrates none of the School Values of Integrity, Love, Loyalty, Collaboration, Curiosity and Excellence.<br>2.       Defiant towards teachers and peers.<br>3.       Constantly late to school and has issues with truancy.<br>4.       Has to be warned constantly about correct behaviour.<br>5.       Submission of schoolwork is a serious issue (e.g. non-submission, tardiness).<br>6.       Has been suspended / caned / involved in a police case.</td>
+  </tr>
+</tbody>
+</table>
