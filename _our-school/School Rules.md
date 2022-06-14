@@ -104,3 +104,105 @@ Proper attire and grooming have a positive impact on the image of the school and
 *   The official school PE or House tank tops which must be worn during PE lessons.  
     
 *   Pupils are strongly encouraged to have their water bottles to hydrate themselves during and after the PE lessons
+
+![](/images/school%20rules%20uniform%20-%20all.png)
+From left to right: (A) Formal Uniform, (B) Corporate T-Shirt Tucked-In with School Shorts, (C) Corporate T-Shirt Tucked-Out with School Shorts, (D) PE Attire Tucked-In with School Shorts (E) PE Attire Tucked-Out with School Shorts
+
+**_Grooming_**
+
+• Pupils must be clean-shaven with no facial hair i.e. Sideburns, moustache and beard are not allowed
+
+• Pupils must be neat in appearance at all times
+
+• Pupils must practise good hygiene habits i.e. trimmed nails and washing of hands before eating
+
+• Pupils must have a short and neat hairstyle. Their hair must not touch their ears or the collar of their uniform
+
+- Outlandish hairstyles are not allowed
+- No dyeing, tinting or highlighting of hair. Pupils with such hair will be required to dye their hair back to its original colour
+- The fringe must not touch the eyebrows when combed down. 
+- No shaved head unless on medical grounds.
+
+**BEHAVIOUR**
+
+All pupils are expected to demonstrate exemplary behaviour by observing the school values
+
+*   Respecting school staff and peers
+*   Persevering and pursuing excellence in all that they do
+*   Demonstrating integrity
+*   Demonstrating generosity in spirit
+*   Co-operating with the pupil leaders in their duties
+*   Demonstrating the school motto that the “The Best is Yet To Be”
+
+Misbehaviour will not be tolerated and will be dealt with accordingly. For serious offences, disciplinary action will include, but not be restricted to, caning, probation, suspension, expulsion and/or any other action deemed appropriate by the school. Where necessary, the assistance of pupils’ parents/guardians will be sought to obtain home support for remedial action. 
+
+The following types of behaviour will not be tolerated and will be considered as a serious offence:
+
+*   open defiance and rudeness (in behaviour or speech) eg. refusing to follow instructions or speaking back to a staff member or student leader.
+*   vandalism e.g. deliberately damaging or misuse of school or another’s property
+*   fighting
+*   extortion and theft
+*   harassment and bullying
+*   possession of weapons or dangerous items.
+*   offensive language or behaviour
+*   cheating
+*   truancy
+
+All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+
+**_Respect for authority and members of the school community_**
+
+*   No foul language (both verbal and body language)
+
+*   Using language or behaving in a manner detrimental to the moral tone of the school will not be condoned
+
+*   No cheating
+
+*   Cheating in examinations and tests, plagiarism and making unauthorised alterations in official documents are acts of dishonesty and are viewed as a serious offence
+
+*   No recording in any form (audio or video)  
+      
+    
+*   Recording is allowed only if the explicit consent of the school administration and the persons involved is obtained.  
+      
+    
+*   No gambling of any form is allowed in the school.  
+      
+    
+*   No trading games of any items are allowed in the school.  
+      
+    
+*   No hand-held electronic games are allowed in the school.
+
+  
+
+Use of Mobile Phones
+
+*   While we discourage pupils from bringing mobile phones, we understand that some parents prefer to have their children carry mobile phones for the convenience of communication and safety, especially children travelling alone on public transport or commuting long distances to school. Kindly refer to the points below which are designed to provide pupils and parents with guidelines and instructions for the appropriate use of mobile phones during school hours.
+    
+      
+    
+*   **The mobile phone must be labelled with pupil’s name and class.** 
+*   The mobile phone must be switched off and kept out of sight during all school activities (ie. lessons, chapel, assembly, recess, CCAs, excursions).
+*   Pupils will use the mobile phones solely for communication and not for playing games, taking still or moving images, or surfing the internet.
+*   The use of the mobile phone is restricted to before and after school at the foyer only and/or when permission is granted by a teacher. Restriction on use of mobile phone applies to pupils during excursions, camps and co-curriculum activities.
+*   **The school will not be responsible for the loss or damage of the mobile phone.** 
+*   No mobile phones will be allowed in examination rooms. Pupils are to surrender their mobile phones (in the event they bring it to school on any examination day) to the teacher in the classroom. The mobile phones will be returned to the pupils after all the examinations for that day.
+*   **Pupils who fail to abide by the rules will have their mobile phones (including SIM card) confiscated. Confiscated mobile phones can only be collected by pupil’s parents.**
+*   Repeat offenders will be barred from bringing any mobile phone to school.
+
+  
+
+Smart Watches
+
+All Smart Watches (i.e. a wearable computing device capable for communicating and transmitting information) are **not allowed** in our school. Pupils who wear Smart Watches will have their devices confiscated. Confiscated Smart Watches can only be collected by pupil’s parents.
+
+GPS Trackers and Fitness Trackers that only have tracking functionalities are allowed. These trackers must not have any communication or recording functionalities.
+
+  
+
+**ACSJ Classification of Offences & Follow-up Action**
+
+  
+
+ACS (Junior) groups offences into 3 levels; Level 1 offences are characterized as minor misdemeanours while Level 3 is for very serious offences. The school will take one or more of the following actions when students misbehave.
