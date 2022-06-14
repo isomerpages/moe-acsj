@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Supporting Singaporean Students.md
       - P1 Registration Information.md
       - Niche Programmes/.keep
       - Niche Programmes/THOBURN Programme.md
