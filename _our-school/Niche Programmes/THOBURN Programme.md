@@ -4,6 +4,8 @@ permalink: /our-school/thoburn/permalink
 description: ""
 third_nav_title: Niche Programmes
 ---
+![](/images/Sub-banner2.jpg)
+
 THOBURN Programme
 =================
 
