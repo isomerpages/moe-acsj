@@ -76,7 +76,3 @@ Applied Learning Programme (ALP): ACS (Junior) Thinkers Programme
   </tr>
 </tbody>
 </table>
-
-
-
- 
