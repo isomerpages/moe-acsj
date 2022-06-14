@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Niche Programmes/THOBURN Programme.md
       - Niche Programmes/.keep
       - Financial Information.md
       - School Rules.md
