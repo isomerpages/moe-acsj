@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - School Motto.md
       - Vision, Mission & Values.md
       - School History.md
