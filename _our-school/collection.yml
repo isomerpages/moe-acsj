@@ -2,6 +2,8 @@ collections:
   our-school:
     output: true
     order:
+      - "Niche Programmes/Applied Learning Programme (ALP): ACS (Junior)
+        Thinkers Programme.md"
       - Niche Programmes/THOBURN Programme.md
       - Niche Programmes/.keep
       - Financial Information.md
