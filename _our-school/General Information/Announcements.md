@@ -20,4 +20,3 @@ Announcements
 * [1st Principal's Letter](/files/1st%20Principal%20Letter%2030%20Dec%2021.pdf)
 * [Infographic on Student Vaccination Exercise ](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
 * [Subject Based Banding](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
-
