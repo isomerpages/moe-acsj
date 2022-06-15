@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - English/Example Title.md
       - English/Overview.md
       - English/.keep
