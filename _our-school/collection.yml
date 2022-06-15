@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - General Information/Assessments.md
       - General Information/School Booklist.md
       - General Information/School Vendors.md
       - General Information/Forms.md
