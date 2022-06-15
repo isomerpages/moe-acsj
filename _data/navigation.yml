@@ -1,8 +1,32 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our School
-    url: /permalink
-    sublinks: []
+    url: /our-school/permalink
+    sublinks:
+      - title: School History
+        url: /our-school/permalink
+      - title: Vision, Mission & Values
+        url: /values/permalink
+      - title: School Motto
+        url: /motto/permalink
+      - title: School Crest
+        url: /crest/permalink
+      - title: School Song
+        url: /schoolsong/permalink
+      - title: School Rules
+        url: /rules/permalink
+      - title: Financial Information
+        url: /finance/permalink
+      - title: Niche Programmes
+        url: /our-school/thoburn/permalink
+      - title: P1 Registration Information
+        url: /p1/permalink
+      - title: General Information
+        url: /our-school/openinghours/permalink
+      - title: Supporting Students
+        url: /supportingstudents/permalink
+      - title: Pupil Recognition
+        url: /pupilrecognition/permalink
   - title: Our ACSJ Family
     url: /permalink
     sublinks: []
