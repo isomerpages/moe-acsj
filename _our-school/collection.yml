@@ -2,6 +2,19 @@ collections:
   our-school:
     output: true
     order:
+      - School History.md
+      - Vision, Mission & Values.md
+      - School Motto.md
+      - School Crest.md
+      - School Song.md
+      - School Rules.md
+      - Financial Information.md
+      - Niche Programmes/.keep
+      - Niche Programmes/THOBURN Programme.md
+      - "Niche Programmes/Applied Learning Programme (ALP): ACS (Junior)
+        Thinkers Programme.md"
+      - Niche Programmes/Learning For Life Programme (LLP).md
+      - P1 Registration Information.md
       - General Information/.keep
       - General Information/Operating Hours & Location.md
       - General Information/Announcements.md
@@ -15,18 +28,5 @@ collections:
       - General Information/Meet the Parents Sessions.md
       - General Information/Road Safety of Students.md
       - General Information/Sexuality Education.md
-      - Pupil Recognition.md
       - Supporting Singaporean Students.md
-      - P1 Registration Information.md
-      - Niche Programmes/.keep
-      - Niche Programmes/THOBURN Programme.md
-      - "Niche Programmes/Applied Learning Programme (ALP): ACS (Junior)
-        Thinkers Programme.md"
-      - Niche Programmes/Learning For Life Programme (LLP).md
-      - Financial Information.md
-      - School Rules.md
-      - School Song.md
-      - School Crest.md
-      - School Motto.md
-      - Vision, Mission & Values.md
-      - School History.md
+      - Pupil Recognition.md
