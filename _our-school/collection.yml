@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - General Information/Operating Hours & Location.md
       - General Information/Meet the Parents Sessions.md
       - General Information/Assessments.md
       - General Information/School Booklist.md
