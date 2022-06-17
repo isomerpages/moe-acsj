@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - English/Useful Links.md
-      - English/Example Title.md
-      - English/Programmes.md
-      - English/Department Members.md
-      - English/Overview.md
       - English/.keep
+      - English/Overview.md
+      - English/Department Members.md
+      - English/Programmes.md
+      - English/Example Title.md
+      - English/Useful Links.md
