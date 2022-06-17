@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Overview.md
       - Science/.keep
       - Mathematics/Useful Links.md
       - Mathematics/Assessment.md
