@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE, CCA & Aesthetics/Programmes.md
       - PE, CCA & Aesthetics/Department Members.md
       - PE, CCA & Aesthetics/.keep
       - Science/Useful Links.md
