@@ -35,4 +35,4 @@ Essentially, the **_Thinkers Programme@ACS(Junior) seeks to develop and nurture
 
 ![](/images/Prog2.jpg)
 
-Click **[here](https://acsj.moe.edu.sg/our-school/niche-programmes/applied-learning-programme-alp-acs-junior-thinkers-programme)** to learn more of our ACS (Junior) Thinkers Programme.
+Click **[here](/our-school/alp/permalink)** to learn more of our ACS (Junior) Thinkers Programme.
