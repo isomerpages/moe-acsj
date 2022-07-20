@@ -2,11 +2,11 @@ collections:
   our-ccas:
     output: true
     order:
-      - Clubs/Science Club.md
-      - Clubs/Christian Fellowship.md
-      - Clubs/Chinese Club.md
-      - Clubs/Chess Club.md
       - Clubs/.keep
+      - Clubs/Chess Club.md
+      - Clubs/Chinese Club.md
+      - Clubs/Christian Fellowship.md
+      - Clubs/Science Club.md
       - External CCA.md
       - CCA POLICIES.md
       - 2022 CCA REGISTRATION.md
