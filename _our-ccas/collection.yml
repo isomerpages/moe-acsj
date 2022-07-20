@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Clubs/.keep
       - External CCA.md
       - CCA POLICIES.md
       - 2022 CCA REGISTRATION.md
