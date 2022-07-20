@@ -9,8 +9,7 @@ third_nav_title: Special Education Needs (SEN)
 Overview
 ========
 
-Overview
-========
+
 
 The Special Educational Needs (SEN) Department seeks to nurture, develop and support students with learning needs by working together with the teachers, parents and/or psychologist/therapist(s)/shadow teachers.
 
@@ -58,5 +57,3 @@ For all new applicants for access arrangements, please download and fill up an a
       
     
 *   For PSLE Access Arrangements, please contact Ms Kim Quek (Senior Teacher/Special Educational Needs) at [**quek\_soo\_kim@moe.edu.sg**](mailto:quek_soo_kim@moe.edu.sg)
-		 
-		 
