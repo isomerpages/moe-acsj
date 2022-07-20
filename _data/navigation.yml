@@ -32,7 +32,13 @@ links:
     sublinks: []
   - title: Departments
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: English
+        url: /departments/English/permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
   - title: Our CCAs
     url: /permalink
     sublinks: []
