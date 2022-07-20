@@ -2,44 +2,44 @@ collections:
   departments:
     output: true
     order:
-      - Special Education Needs (SEN)/.keep
-      - Special Education Needs (SEN)/Overview.md
-      - Special Education Needs (SEN)/Department Members.md
-      - Special Education Needs (SEN)/Allied Educators.md
-      - Special Education Needs (SEN)/Useful Links.md
-      - Innovation/Useful Links.md
-      - Innovation/Overview.md
-      - Innovation/Department Members.md
-      - Innovation/.keep
-      - ICT/Useful Links.md
-      - ICT/Programmes.md
-      - ICT/Department Members.md
-      - ICT/Overview.md
-      - ICT/.keep
-      - CCE/Programmes.md
-      - CCE/Department Members.md
-      - CCE/Overview.md
-      - CCE/.keep
-      - PE, CCA & Aesthetics/USEFUL LINKS.md
-      - PE, CCA & Aesthetics/Overview.md
-      - PE, CCA & Aesthetics/Programmes.md
-      - PE, CCA & Aesthetics/Department Members.md
-      - PE, CCA & Aesthetics/.keep
-      - Science/Useful Links.md
-      - Science/Assessment.md
-      - Science/Programmes.md
-      - Science/Department Members.md
-      - Science/Overview.md
-      - Science/.keep
-      - Mathematics/Useful Links.md
-      - Mathematics/Assessment.md
-      - Mathematics/Programmes.md
-      - Mathematics/Department Members.md
-      - Mathematics/Overview.md
-      - Mathematics/.keep
       - English/.keep
       - English/Overview.md
       - English/Department Members.md
       - English/Programmes.md
       - English/Assessment.md
       - English/Useful Links.md
+      - Mathematics/.keep
+      - Mathematics/Useful Links.md
+      - Mathematics/Assessment.md
+      - Mathematics/Programmes.md
+      - Mathematics/Department Members.md
+      - Mathematics/Overview.md
+      - Science/.keep
+      - Science/Useful Links.md
+      - Science/Assessment.md
+      - Science/Programmes.md
+      - Science/Department Members.md
+      - Science/Overview.md
+      - PE, CCA & Aesthetics/.keep
+      - PE, CCA & Aesthetics/USEFUL LINKS.md
+      - PE, CCA & Aesthetics/Overview.md
+      - PE, CCA & Aesthetics/Programmes.md
+      - PE, CCA & Aesthetics/Department Members.md
+      - CCE/.keep
+      - CCE/Programmes.md
+      - CCE/Department Members.md
+      - CCE/Overview.md
+      - ICT/.keep
+      - ICT/Useful Links.md
+      - ICT/Programmes.md
+      - ICT/Department Members.md
+      - ICT/Overview.md
+      - Innovation/.keep
+      - Innovation/Useful Links.md
+      - Innovation/Overview.md
+      - Innovation/Department Members.md
+      - Special Education Needs (SEN)/.keep
+      - Special Education Needs (SEN)/Overview.md
+      - Special Education Needs (SEN)/Department Members.md
+      - Special Education Needs (SEN)/Allied Educators.md
+      - Special Education Needs (SEN)/Useful Links.md
