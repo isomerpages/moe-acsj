@@ -29,7 +29,15 @@ links:
         url: /pupilrecognition/permalink
   - title: Our ACSJ Family
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: School Leaders
+        url: /permalink
+      - title: Management Team
+        url: /permalink
+      - title: Academic Staff
+        url: /permalink
+      - title: Administrative Staff
+        url: /permalink
   - title: Departments
     url: /permalink
     sublinks:
@@ -38,6 +46,18 @@ links:
       - title: Mother Tongue
         url: /permalink
       - title: Mathematics
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: PE, CCA & Aesthetics
+        url: /permalink
+      - title: CCE
+        url: /permalink
+      - title: ICT
+        url: /permalink
+      - title: "Innovation "
+        url: /permalink
+      - title: Special Education Needs (SEN)
         url: /permalink
   - title: Our CCAs
     url: /permalink
