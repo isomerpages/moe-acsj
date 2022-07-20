@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Special Education Needs (SEN)/Useful Links.md
-      - Special Education Needs (SEN)/Allied Educators.md
-      - Special Education Needs (SEN)/Department Members.md
-      - Special Education Needs (SEN)/Overview.md
       - Special Education Needs (SEN)/.keep
+      - Special Education Needs (SEN)/Overview.md
+      - Special Education Needs (SEN)/Department Members.md
+      - Special Education Needs (SEN)/Allied Educators.md
+      - Special Education Needs (SEN)/Useful Links.md
       - Innovation/Useful Links.md
       - Innovation/Overview.md
       - Innovation/Department Members.md
