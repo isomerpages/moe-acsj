@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT/Useful Links.md
       - ICT/Programmes.md
       - ICT/Department Members.md
       - ICT/Overview.md
