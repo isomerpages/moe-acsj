@@ -6,8 +6,8 @@ third_nav_title: Sports
 ---
 ![](/images/Sub-banner2.jpg)
 
-ACScite (DEVELOPMENT/TRAINING SQUAD)
-=====================
+## ACScite (DEVELOPMENT/TRAINING SQUAD)
+
 
 ![](/images/Sports08.png)
 
