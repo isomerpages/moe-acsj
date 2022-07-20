@@ -53,10 +53,8 @@ SPARK is an independent, voluntary and non-profit organisation.
 It aims for:  
   
 
-1.  To create public awareness of Attention-Deficit Hyperactivity Disorder (ADHD)  
-    
+1.  To create public awareness of Attention-Deficit Hyperactivity Disorder (ADHD) 
 2.  To help families with ADHD children cope better with the disorder  
-    
 3.  To promote understanding and research on ADHD  
     
 
