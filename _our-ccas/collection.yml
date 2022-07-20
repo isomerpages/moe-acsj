@@ -2,9 +2,9 @@ collections:
   our-ccas:
     output: true
     order:
-      - Uniformed Groups/The Boys' Brigade.md
-      - Uniformed Groups/Cadet Scouts.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Cadet Scouts.md
+      - Uniformed Groups/The Boys' Brigade.md
       - Clubs/.keep
       - Clubs/Chess Club.md
       - Clubs/Chinese Club.md
