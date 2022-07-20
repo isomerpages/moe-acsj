@@ -2,12 +2,12 @@ collections:
   our-ccas:
     output: true
     order:
-      - Visual & Performing Arts/String Orchestra.md
-      - Visual & Performing Arts/Junior Vibez (Dance Club).md
-      - Visual & Performing Arts/Concert Band.md
-      - Visual & Performing Arts/Choir.md
-      - Visual & Performing Arts/Art Club.md
       - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art Club.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/Junior Vibez (Dance Club).md
+      - Visual & Performing Arts/String Orchestra.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Cadet Scouts.md
       - Uniformed Groups/The Boys' Brigade.md
