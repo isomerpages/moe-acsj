@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Innovation/Overview.md
       - Innovation/Department Members.md
       - Innovation/.keep
       - ICT/Useful Links.md
