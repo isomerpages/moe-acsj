@@ -72,4 +72,4 @@ description: ""
 6.  More information is provided on the link. Please refer to the form before contacting the school. Registration will close on 24th January 12 noon when these website links are deactivated.
 
 *   P3 - P5 :  [**Click Here**](https://go.gov.sg/2022p3-5ccareg) 
-*   P6 :  [**Click Here**](https://go.gov.sg/2022p6ccareg) 
+*   P6 :  [**Click Here**](https://go.gov.sg/2022p6ccareg)
