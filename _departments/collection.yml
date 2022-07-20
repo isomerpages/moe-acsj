@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Special Education Needs/.keep
+      - Special Education Needs (SEN)/.keep
       - Innovation/Useful Links.md
       - Innovation/Overview.md
       - Innovation/Department Members.md
