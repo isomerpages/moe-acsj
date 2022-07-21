@@ -60,8 +60,22 @@ links:
       - title: Special Education Needs (SEN)
         url: /permalink
   - title: Our CCAs
-    url: /permalink
-    sublinks: []
+    url: /our-ccas/permalink
+    sublinks:
+      - title: 2022 CCA REGISTRATION
+        url: /our-ccas/permalink
+      - title: CCA POLICIES
+        url: /our-ccas/policies/permalink
+      - title: External CCA
+        url: /our-ccas/external/permalink
+      - title: Clubs
+        url: /our-ccas/Clubs/permalink
+      - title: Uniformed Groups
+        url: /our-ccas/Uniformed-Groups/permalink
+      - title: Visual and Performing Arts
+        url: /our-ccas/Visual-and-Performing-Arts/permalink
+      - title: ACSplore (RECREATIONAL)
+        url: /our-ccas/Sports/recre/permalink
   - title: "Our Partners "
     url: /permalink
   - title: Calendar
