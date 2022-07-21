@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - The ACS Family.md
       - ACS(J) PSG.md
       - Prayer Groups.md
