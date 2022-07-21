@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Sports/Table Tennis.md
       - Sports/Swimming.md
       - Sports/Sailing.md
       - Sports/Rugby.md
