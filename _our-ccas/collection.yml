@@ -2,17 +2,17 @@ collections:
   our-ccas:
     output: true
     order:
-      - Sports/Tennis.md
-      - Sports/Table Tennis.md
-      - Sports/Swimming.md
-      - Sports/Sailing.md
-      - Sports/Rugby.md
-      - Sports/Football.md
-      - Sports/Bowling.md
-      - Sports/Badminton.md
-      - Sports/ACScite (DEVELOPMENT or TRAINING SQUAD).md
-      - Sports/ACSplore (RECREATIONAL).md
       - Sports/.keep
+      - Sports/ACSplore (RECREATIONAL).md
+      - Sports/ACScite (DEVELOPMENT or TRAINING SQUAD).md
+      - Sports/Badminton.md
+      - Sports/Bowling.md
+      - Sports/Football.md
+      - Sports/Rugby.md
+      - Sports/Sailing.md
+      - Sports/Swimming.md
+      - Sports/Table Tennis.md
+      - Sports/Tennis.md
       - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Art Club.md
       - Visual & Performing Arts/Choir.md
