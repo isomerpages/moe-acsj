@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/PSLE Matters.md
       - Parents/Meet The Parents Session.md
       - Parents/FAQs and Useful Links.md
       - Parents/P1 Orientation Microsite.md
