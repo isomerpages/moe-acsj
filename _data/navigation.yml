@@ -76,8 +76,16 @@ links:
         url: /our-ccas/Visual-and-Performing-Arts/permalink
       - title: ACSplore (RECREATIONAL)
         url: /our-ccas/Sports/recre/permalink
-  - title: "Our Partners "
+  - title: Our Partners
     url: /permalink
+    sublinks:
+      - title: Parents
+        url: /permalink
+      - title: The ACS Family
+        url: /permalink
+      - title: ACS(J) PSG
+        url: /permalink
+      - title: Prayer Groups
+        url: /permalink
   - title: Calendar
     url: /permalink
-    sublinks: []
