@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Anglo-Chinese School (Junior)
+description: Anglo-Chinese School (Junior)
+image: /images/school_crest.png
 permalink: /
 notification: ""
 sections:
@@ -20,3 +20,4 @@ sections:
           description: ""
           url: /privacy/
 ---
+
