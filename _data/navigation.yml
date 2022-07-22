@@ -28,18 +28,18 @@ links:
       - title: Pupil Recognition
         url: /pupilrecognition/permalink
   - title: Our ACSJ Family
-    url: /permalink
+    url: /our-acsj-family/permalink
     sublinks:
       - title: School Leaders
-        url: /permalink
+        url: /our-acsj-family/permalink
       - title: Management Team
-        url: /permalink
+        url: /management/permalink
       - title: Academic Staff
-        url: /permalink
+        url: /AcademicStaff/permalink
       - title: Administrative Staff
-        url: /permalink
+        url: /AdministrativeStaff/permalink
   - title: Departments
-    url: /permalink
+    url: /departments/English/permalink
     sublinks:
       - title: English
         url: /departments/English/permalink
@@ -80,12 +80,12 @@ links:
     url: /permalink
     sublinks:
       - title: Parents
-        url: /permalink
+        url: /our-partners/Parents/generalinfo/permalink
       - title: The ACS Family
-        url: /permalink
+        url: /our-partners/acsfamily/permalink
       - title: ACS(J) PSG
-        url: /permalink
+        url: /our-partners/psg/permalink
       - title: Prayer Groups
-        url: /permalink
+        url: /our-partners/PrayerGroups/permalink
   - title: Calendar
     url: /permalink
