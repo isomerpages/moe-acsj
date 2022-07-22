@@ -2,19 +2,19 @@ title: Anglo-Chinese School (Junior)
 url: ""
 favicon: /images/bottom-logo (1).png
 colors:
-  primary-color: "#003872"
-  secondary-color: "#c9b706"
+  primary-color: "#153965"
+  secondary-color: "#948d1b"
   media-colors:
     - title: media-color-one
-      color: "#003872"
+      color: "#153965"
     - title: media-color-two
-      color: "#003872"
+      color: "#153965"
     - title: media-color-three
-      color: "#003872"
+      color: "#153965"
     - title: media-color-four
-      color: "#003872"
+      color: "#153965"
     - title: media-color-five
-      color: "#00838f"
+      color: "#153965"
 description: Anglo-Chinese School (Junior)
 permalink: none
 baseurl: ""
