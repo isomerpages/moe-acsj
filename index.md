@@ -12,12 +12,8 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: ""
+          url: /our-school/Announcements/permalink
         - title: USEFUL LINKS
           description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: /privacy/
+          url: /links/permalink
 ---
-
