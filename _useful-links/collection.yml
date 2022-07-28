@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Useful Links/.keep
-      - Useful Links/For Staff.md
       - Useful Links/For Students.md
+      - Useful Links/For Staff.md
       - Useful Links/For Parents.md
