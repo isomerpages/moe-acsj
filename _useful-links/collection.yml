@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - Useful Links/For Staff.md
       - Useful Links/For Students.md
       - Useful Links/.keep
