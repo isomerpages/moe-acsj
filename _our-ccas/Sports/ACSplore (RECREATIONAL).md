@@ -1,6 +1,6 @@
 ---
 title: ACSplore (RECREATIONAL)
-permalink: /our-ccas/Sports/recre/permalink
+permalink: /our-ccas/sports/recre/permalink/
 description: ""
 third_nav_title: Sports
 ---

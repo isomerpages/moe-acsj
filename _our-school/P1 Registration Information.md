@@ -1,6 +1,6 @@
 ---
 title: P1 Registration Information
-permalink: /p1/permalink
+permalink: /p1/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

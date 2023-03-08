@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /departments/CCE/Programmes/permalink
+permalink: /departments/cce/programmes/permalink/
 description: ""
 third_nav_title: CCE
 ---

@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /schoolsong/permalink
+permalink: /schoolsong/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

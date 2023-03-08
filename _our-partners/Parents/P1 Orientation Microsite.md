@@ -1,6 +1,6 @@
 ---
 title: P1 Orientation Microsite
-permalink: /our-partners/Parents/microsite/permalink
+permalink: /our-partners/parents/microsite/permalink/
 description: ""
 third_nav_title: Parents
 ---

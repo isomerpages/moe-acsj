@@ -1,6 +1,6 @@
 ---
 title: The Boys' Brigade
-permalink: /our-ccas/Uniformed-Groups/bb/permalink
+permalink: /our-ccas/uniformed-groups/bb/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---

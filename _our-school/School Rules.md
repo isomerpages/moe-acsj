@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /rules/permalink
+permalink: /rules/permalink/
 description: ""
 ---
 ![](/images/Sub-banner2.jpg)

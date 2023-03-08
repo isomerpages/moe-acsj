@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /our-school/permalink
+permalink: /our-school/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

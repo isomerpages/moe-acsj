@@ -1,6 +1,6 @@
 ---
 title: Academic Staff
-permalink: /AcademicStaff/permalink
+permalink: /academicstaff/permalink/
 description: ""
 ---
 ![](/images/Sub-banner2.jpg)

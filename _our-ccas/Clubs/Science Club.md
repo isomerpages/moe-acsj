@@ -1,6 +1,6 @@
 ---
 title: Science Club
-permalink: /our-ccas/Clubs/science/permalink
+permalink: /our-ccas/clubs/science/permalink/
 description: ""
 third_nav_title: Clubs
 ---

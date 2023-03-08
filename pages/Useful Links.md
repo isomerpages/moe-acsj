@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /links/permalink
+permalink: /links/permalink/
 description: ""
 ---
 For Parents

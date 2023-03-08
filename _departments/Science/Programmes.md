@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /departments/Science/Programmes/permalink
+permalink: /departments/science/programmes/permalink/
 description: ""
 third_nav_title: Science
 ---

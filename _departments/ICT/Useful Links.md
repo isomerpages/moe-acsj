@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/ICT/links/permalink
+permalink: /departments/ict/links/permalink/
 description: ""
 third_nav_title: ICT
 ---

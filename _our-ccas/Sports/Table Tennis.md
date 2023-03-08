@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /our-ccas/Sports/TableTennis/permalink
+permalink: /our-ccas/sports/tabletennis/permalink/
 description: ""
 third_nav_title: Sports
 ---

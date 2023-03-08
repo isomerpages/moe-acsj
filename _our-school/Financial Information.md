@@ -1,6 +1,6 @@
 ---
 title: Financial Information
-permalink: /finance/permalink
+permalink: /finance/permalink/
 description: ""
 ---
 Financial Information

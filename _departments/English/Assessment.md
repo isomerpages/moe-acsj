@@ -1,6 +1,6 @@
 ---
 title: Assessment
-permalink: /departments/English/assessment/permalink
+permalink: /departments/english/assessment/permalink/
 description: ""
 third_nav_title: English
 ---

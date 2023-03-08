@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/Special-Education-Needs/members/permalink
+permalink: /departments/special-education-needs/members/permalink/
 description: ""
 third_nav_title: Special Education Needs (SEN)
 ---

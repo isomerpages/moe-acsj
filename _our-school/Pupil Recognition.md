@@ -1,6 +1,6 @@
 ---
 title: Pupil Recognition
-permalink: /pupilrecognition/permalink
+permalink: /pupilrecognition/permalink/
 description: ""
 ---
 ![](/images/Sub-banner2.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Chinese Club
-permalink: /our-ccas/Clubs/chinese/permalink
+permalink: /our-ccas/clubs/chinese/permalink/
 description: ""
 third_nav_title: Clubs
 ---

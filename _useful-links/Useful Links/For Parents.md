@@ -1,6 +1,6 @@
 ---
 title: For Parents
-permalink: /our-partners/Parents/permalink
+permalink: /our-partners/parents/permalink/
 description: ""
 third_nav_title: Useful Links
 ---

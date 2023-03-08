@@ -1,6 +1,6 @@
 ---
 title: School Motto
-permalink: /motto/permalink
+permalink: /motto/permalink/
 description: ""
 ---
 ![](/images/Sub-banner2.jpg)

@@ -1,6 +1,6 @@
 ---
 title: CCA POLICIES
-permalink: /our-ccas/policies/permalink
+permalink: /our-ccas/policies/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

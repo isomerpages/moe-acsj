@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /departments/English/Programmes/permalink
+permalink: /departments/english/programmes/permalink/
 description: ""
 third_nav_title: English
 ---

@@ -1,6 +1,6 @@
 ---
 title: Assessment
-permalink: /departments/Science/Assessment/permalink
+permalink: /departments/science/assessment/permalink/
 description: ""
 third_nav_title: Science
 ---

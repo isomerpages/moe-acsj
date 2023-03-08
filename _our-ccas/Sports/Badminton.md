@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /our-ccas/Sports/badminton/permalink
+permalink: /our-ccas/sports/badminton/permalink/
 description: ""
 third_nav_title: Sports
 ---

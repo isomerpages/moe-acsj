@@ -1,6 +1,6 @@
 ---
 title: Administrative Staff
-permalink: /AdministrativeStaff/permalink
+permalink: /administrativestaff/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

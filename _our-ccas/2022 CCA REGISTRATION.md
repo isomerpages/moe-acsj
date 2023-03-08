@@ -1,6 +1,6 @@
 ---
 title: 2022 CCA REGISTRATION
-permalink: /our-ccas/permalink
+permalink: /our-ccas/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

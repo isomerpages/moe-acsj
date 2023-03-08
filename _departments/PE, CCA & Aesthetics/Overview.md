@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/PE-CCA-and-Aesthetics/permalink
+permalink: /departments/pe-cca-and-aesthetics/permalink/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rugby
-permalink: /our-ccas/Sports/Rugby/permalink
+permalink: /our-ccas/sports/rugby/permalink/
 description: ""
 third_nav_title: Sports
 ---

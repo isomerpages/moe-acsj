@@ -1,6 +1,6 @@
 ---
 title: FAQs and Useful Links
-permalink: /our-partners/Parents/permalink
+permalink: /our-partners/parents/permalink/
 description: ""
 third_nav_title: Parents
 ---

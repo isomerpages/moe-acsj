@@ -1,6 +1,6 @@
 ---
 title: Christian Fellowship
-permalink: /our-ccas/Clubs/christian/permalink
+permalink: /our-ccas/clubs/christian/permalink/
 description: ""
 third_nav_title: Clubs
 ---

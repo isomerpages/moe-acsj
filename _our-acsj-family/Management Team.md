@@ -1,6 +1,6 @@
 ---
 title: Management Team
-permalink: /management/permalink
+permalink: /management/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

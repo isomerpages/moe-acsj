@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-acsj-staging.netlify.app
-prod: https://moe-acsj-prod.netlify.app
+staging: https://staging.dd21a9rt7zrfv.amplifyapp.com/
+prod: https://master.dd21a9rt7zrfv.amplifyapp.com/
 shareicon: /images/school_crest.png
 is_government: false
 facebook-pixel: ""

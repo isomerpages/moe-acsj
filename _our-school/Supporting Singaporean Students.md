@@ -1,6 +1,6 @@
 ---
 title: Supporting Singaporean Students
-permalink: /supportingstudents/permalink
+permalink: /supportingstudents/permalink/
 description: ""
 ---
 Supporting Singaporean Students

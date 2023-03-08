@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/Innovation/overview/permalink
+permalink: /departments/innovation/overview/permalink/
 description: ""
 third_nav_title: Innovation
 ---

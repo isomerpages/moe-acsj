@@ -1,6 +1,6 @@
 ---
 title: External CCA
-permalink: /our-ccas/external/permalink
+permalink: /our-ccas/external/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

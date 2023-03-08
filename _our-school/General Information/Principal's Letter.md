@@ -1,6 +1,6 @@
 ---
 title: Principal's Letter
-permalink: /our-school/General-Information/permalink
+permalink: /our-school/general-information/permalink/
 description: ""
 third_nav_title: General Information
 ---

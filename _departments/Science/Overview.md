@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/Science/Overview/permalink
+permalink: /departments/science/overview/permalink/
 description: ""
 third_nav_title: Science
 ---

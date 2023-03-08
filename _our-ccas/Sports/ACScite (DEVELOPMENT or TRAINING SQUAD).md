@@ -1,6 +1,6 @@
 ---
 title: ACScite (DEVELOPMENT or TRAINING SQUAD)
-permalink: /our-ccas/Sports/acsite/permalink
+permalink: /our-ccas/sports/acsite/permalink/
 description: ""
 third_nav_title: Sports
 ---

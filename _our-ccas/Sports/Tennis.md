@@ -1,6 +1,6 @@
 ---
 title: Tennis
-permalink: /our-ccas/Sports/Tennis/permalink
+permalink: /our-ccas/sports/tennis/permalink/
 description: ""
 third_nav_title: Sports
 ---

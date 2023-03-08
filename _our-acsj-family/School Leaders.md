@@ -1,6 +1,6 @@
 ---
 title: School Leaders
-permalink: /our-acsj-family/permalink
+permalink: /our-acsj-family/permalink/
 description: ""
 ---
 ![](/images/Sub-banner2.jpg)

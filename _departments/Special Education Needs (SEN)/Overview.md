@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/Special-Education-Needs/overview/permalink
+permalink: /departments/special-education-needs/overview/permalink/
 description: ""
 third_nav_title: Special Education Needs (SEN)
 ---

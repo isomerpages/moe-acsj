@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission & Values
-permalink: /values/permalink
+permalink: /values/permalink/
 description: ""
 ---
 ![](/images/Sub-banner2.jpg)

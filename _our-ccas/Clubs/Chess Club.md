@@ -1,6 +1,6 @@
 ---
 title: Chess Club
-permalink: /our-ccas/Clubs/permalink
+permalink: /our-ccas/clubs/permalink/
 description: ""
 third_nav_title: Clubs
 ---

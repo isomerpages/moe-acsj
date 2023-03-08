@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /departments/ICT/Programmes/permalink
+permalink: /departments/ict/programmes/permalink/
 description: ""
 third_nav_title: ICT
 ---

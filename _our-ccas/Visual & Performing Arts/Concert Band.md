@@ -1,6 +1,6 @@
 ---
 title: Concert Band
-permalink: /our-ccas/Visual-and-Performing-Arts/band/permalink
+permalink: /our-ccas/visual-and-performing-arts/band/permalink/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

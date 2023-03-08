@@ -1,6 +1,6 @@
 ---
 title: The ACS Family
-permalink: /our-partners/acsfamily/permalink
+permalink: /our-partners/acsfamily/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Swimming
-permalink: /our-ccas/Sports/Swimming/permalink
+permalink: /our-ccas/sports/swimming/permalink/
 description: ""
 third_nav_title: Sports
 ---

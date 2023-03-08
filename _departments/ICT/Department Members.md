@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/ICT/members/permalink
+permalink: /departments/ict/members/permalink/
 description: ""
 third_nav_title: ICT
 ---

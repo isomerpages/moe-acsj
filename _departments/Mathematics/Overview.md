@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/Mathematics/Overview/permalink
+permalink: /departments/mathematics/overview/permalink/
 description: ""
 third_nav_title: Mathematics
 ---

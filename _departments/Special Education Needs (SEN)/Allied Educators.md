@@ -1,6 +1,6 @@
 ---
 title: Allied Educators
-permalink: /departments/Special-Education-Needs/AlliedEducators/permalink
+permalink: /departments/special-education-needs/alliededucators/permalink/
 description: ""
 third_nav_title: Special Education Needs (SEN)
 ---

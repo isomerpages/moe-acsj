@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/Innovation/members/permalink
+permalink: /departments/innovation/members/permalink/
 description: ""
 third_nav_title: Innovation
 ---

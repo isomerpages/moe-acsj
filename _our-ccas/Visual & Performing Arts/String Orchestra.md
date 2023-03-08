@@ -1,6 +1,6 @@
 ---
 title: String Orchestra
-permalink: /our-ccas/Visual-and-Performing-Arts/string/permalink
+permalink: /our-ccas/visual-and-performing-arts/string/permalink/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sailing
-permalink: /our-ccas/Sports/Sailing/permalink
+permalink: /our-ccas/sports/sailing/permalink/
 description: ""
 third_nav_title: Sports
 ---

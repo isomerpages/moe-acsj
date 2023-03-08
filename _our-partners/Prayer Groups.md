@@ -1,6 +1,6 @@
 ---
 title: Prayer Groups
-permalink: /our-partners/PrayerGroups/permalink
+permalink: /our-partners/prayergroups/permalink/
 description: ""
 ---
 ![](/images/Sub-banner2.jpg)

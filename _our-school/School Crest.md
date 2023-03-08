@@ -1,6 +1,6 @@
 ---
 title: School Crest
-permalink: /crest/permalink
+permalink: /crest/permalink/
 description: ""
 ---
 ![](/images/Sub-banner1.jpg)

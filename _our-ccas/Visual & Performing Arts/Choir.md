@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /our-ccas/Visual-and-Performing-Arts/choir/permalink
+permalink: /our-ccas/visual-and-performing-arts/choir/permalink/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

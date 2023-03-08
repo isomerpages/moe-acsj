@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /our-school/FAQ/permalink
+permalink: /our-school/faq/permalink/
 description: ""
 third_nav_title: General Information
 ---
