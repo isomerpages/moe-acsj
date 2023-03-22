@@ -2,7 +2,7 @@
 layout: homepage
 title: Anglo-Chinese School (Junior)
 description: Anglo-Chinese School (Junior)
-image: /images/school_crest.png
+image: /images/logonew.png
 permalink: /
 notification: ""
 sections:
@@ -17,3 +17,4 @@ sections:
           description: ""
           url: /links/permalink
 ---
+
