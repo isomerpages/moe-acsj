@@ -44,21 +44,21 @@ links:
       - title: English
         url: /departments/english/permalink
       - title: Mother Tongue
-        url: /permalink
+        url: /departments/mother-tongue/chinese/
       - title: Mathematics
-        url: /permalink
+        url: /departments/mathematics/overview/
       - title: Science
-        url: /permalink
+        url: /departments/science/overview/permalink/
       - title: PE, CCA & Aesthetics
-        url: /permalink
+        url: /departments/pe-cca-and-aesthetics/permalink/
       - title: CCE
-        url: /permalink
+        url: /departments/cce/overview/permalink/
       - title: ICT
-        url: /permalink
+        url: /departments/ict/overview/permalink/
       - title: "Innovation "
-        url: /permalink
+        url: /departments/innovation/overview/permalink/
       - title: Special Education Needs (SEN)
-        url: /permalink
+        url: /departments/special-education-needs/overview/permalink/
   - title: Our CCAs
     url: /our-ccas/permalink
     sublinks:
