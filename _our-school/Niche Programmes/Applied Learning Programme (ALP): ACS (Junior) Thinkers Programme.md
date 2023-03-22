@@ -9,14 +9,9 @@ third_nav_title: Niche Programmes
 Applied Learning Programme (ALP): ACS (Junior) Thinkers Programme
 =================================================================
 
-###   
-
 ### Overview
-
-
-![](/images/ACS%20Thinkers%20Logo.jpg)
+<img src="/images/ACS%20Thinkers%20Logo.jpg" style="width:25%">
   
-
 **ACSJ Thinkers Programme** is a signature ACS programme as it nurtures all learners to think critically and innovatively across disciplines. Through the synergistic collaboration across departments, the ACSian Level Outcomes and school values of _**Love, Excellence, Curiosity, Collaboration, Loyalty**_ is nurtured in ACSians.
 
  The _**Thinkers Programme**_ is conceptualized to enrich and broaden the learning experience of all learners by providing them with opportunities to synthesise knowledge from various areas of learning, and critically and innovatively apply it to real life situations. It deepens and broadens students’ learning experience as they acquire 21st century competencies that prepare them for lifelong learning and to thrive in the future.
