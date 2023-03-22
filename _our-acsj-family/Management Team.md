@@ -12,26 +12,26 @@ Management Team
 
 | Department | Name | Email |
 |---|---|---|
-| English Language | Miss Rachel Gayathri | gayathri_kunnasekaran@moe.edu.sg |
-| Mathematics | Mr Goh Chee Wei  | goh_chee_wei@moe.edu.sg  |
-| Science | Miss Hemalatha Perumal  | hemalatha_n_perumal@moe.edu.sg |
-| Mother Tongue Language | Mdm Kuah Hui Hui  | kuah_hui_hui@moe.edu.sg |
-| Physical Education, CCA & Aesthetics | Mdm Chen Xinhong | chen_xinhong@moe.edu.sg |
-| Special Education Needs | Miss Noelle Selvadurai  | selvadurai_noelle_chitrani@moe.edu.sg |
-| Character & Citizenship Education | Mrs Michelle Tan | lee_shuyun_michelle@moe.edu.sg |
-| Info-Comm Technology | Mdm Norahmah Haron | norahmah_haron@moe.edu.sg |
-| School Staff Developer | Miss Lee May Po | lee_may_po@moe.edu.sg |
-| Student Development | Mr Chen Jieming | chen_jieming@moe.edu.sg |
-| Innovation | Mr Andy Tan | tan_zi_yang_andy@moe.edu.sg |
+| English Language | Miss Rachel Gayathri | [gayathri_kunnasekaran@moe.edu.sg](mailto:gayathri_kunnasekaran@moe.edu.sg) |
+| Mathematics | Mr Goh Chee Wei  | [goh_chee_wei@moe.edu.sg](mailto:goh_chee_wei@moe.edu.sg)  |
+| Science | Miss Hemalatha Perumal  | [hemalatha_n_perumal@moe.edu.sg](mailto:hemalatha_n_perumal@moe.edu.sg) |
+| Mother Tongue Language | Mdm Kuah Hui Hui  | [kuah_hui_hui@moe.edu.sg](mailto:kuah_hui_hui@moe.edu.sg) |
+| Physical Education, CCA & Aesthetics | Mdm Chen Xinhong | [chen_xinhong@moe.edu.sg](mailto:chen_xinhong@moe.edu.sg) |
+| Special Education Needs | Miss Noelle Selvadurai  | [selvadurai_noelle_chitrani@moe.edu.sg](mailto:selvadurai_noelle_chitrani@moe.edu.sg) |
+| Character & Citizenship Education | Mrs Michelle Tan | [lee_shuyun_michelle@moe.edu.sg](mailto:lee_shuyun_michelle@moe.edu.sg) |
+| Info-Comm Technology | Mdm Norahmah Haron | [norahmah_haron@moe.edu.sg](mailto:norahmah_haron@moe.edu.sg) |
+| School Staff Developer | Miss Lee May Po | [lee_may_po@moe.edu.sg](mailto:lee_may_po@moe.edu.sg) |
+| Student Development | Mr Chen Jieming | [chen_jieming@moe.edu.sg](mailto:chen_jieming@moe.edu.sg) |
+| Innovation | Mr Andy Tan | [tan_zi_yang_andy@moe.edu.sg](mailto:tan_zi_yang_andy@moe.edu.sg) |
 |
 
 ### YEAR HEADS
 
 | Department | Name | Email |
 |---|---|---|
-| Lower Primary | Mrs Jerine Heratnor | teh_meijie_jerine@moe.edu.sg |
-| Middle Primary | Ms Adela Chua  | adela_chua@moe.edu.sg  |
-| Upper Primary | Mr Sathis Kumar | kanapa_sathis_kumar@moe.edu.sg |
+| Lower Primary | Mrs Jerine Heratnor | [teh_meijie_jerine@moe.edu.sg](mailto:teh_meijie_jerine@moe.edu.sg) |
+| Middle Primary | Ms Adela Chua  | [adela_chua@moe.edu.sg](mailto:adela_chua@moe.edu.sg)  |
+| Upper Primary | Mr Sathis Kumar | [kanapa_sathis_kumar@moe.edu.sg](mailto:kanapa_sathis_kumar@moe.edu.sg) |
 |
 
 ### ASSISTANT YEAR HEADS
