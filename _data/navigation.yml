@@ -39,10 +39,10 @@ links:
       - title: Administrative Staff
         url: /administrativestaff/
   - title: Departments
-    url: /departments/English/permalink
+    url: /departments/english/permalink
     sublinks:
       - title: English
-        url: /departments/English/permalink
+        url: /departments/english/permalink
       - title: Mother Tongue
         url: /permalink
       - title: Mathematics
