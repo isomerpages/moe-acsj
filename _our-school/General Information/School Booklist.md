@@ -10,15 +10,15 @@ School Booklist
 ===============
 
 <p><a href="webhere">
-<img src="/images/p.jpg" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
 
 <p><a href="webhere">
-<img src="/images/p.jpg" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
 
 <p><a href="webhere">
-<img src="/images/p.jpg" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
 
 <p><a href="webhere">
-<img src="/images/p.jpg" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
