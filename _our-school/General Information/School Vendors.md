@@ -12,18 +12,11 @@ School Vendors
 ### **Epworth Student Care @ACS(J)**
 
 Contact persons: Julie Chu or Carol Aw
-
 Tel: 65922846
-
 Hp: 97270614
-
 Email: [**SCC-ACSJ@epworth.sg**](mailto:SCC-ACSJ@epworth.sg)
-
 Website: [**www.Epworth.sg**](http://www.epworth.sg/)
-
-Request for Admission to Epworth Student Care 2022[Download Form](/files/REQUEST%20FOR%20ADMISSION%20TO%20EPWORTH%20STUDENT%20CARE%202022.pdf)
-
-The completed form can be submitted to [**SCC-ACSJ@epworth.sg**](mailto:SCC-ACSJ@epworth.sg)
+Request for Admission to Epworth Student Care 2023 at [**https://forms.gle/ekQStDGYyjsdKwJKA**](https://forms.gle/ekQStDGYyjsdKwJKA)
 
 ### **School Uniform**
 
@@ -33,20 +26,20 @@ The completed form can be submitted to [**SCC-ACSJ@epworth.sg**](mailto:SCC-ACS
 Add: 545 Orchard Road #02-28 S 238882  
 Tel: 67327022   
 
-Business Hours:  
+<b><u>Business Hours:</b></u><br>
 Mondays to Saturdays : 10.00 am to 7.00 pm  
-Sundays                       : 10.00 am to 6.00 pm   
+Sundays : 10.00 am to 6.00 pm   
    
 **Made-to-Measure Orders @Henderson Factory**   
-Add: Blk 213 Henderson Road #01-12 S(159553)   
+Add: Blk 213 Henderson Road #01-12 S(159553)  
 Tel: 6271 9248  
   
-Business Hours:  
+<b><u>Business Hours:</b></u><br>
 Mondays to Fridays : 9.00 am to 6.00 pm  
-Saturdays                : 9.00 am to 1.00pm  
-Sundays & PH         : Closed  
+Saturdays : 9.00 am to 1.00pm  
+Sundays & PH : Closed  
   
-**Online Purchases:**  
+<b><u>Online Purchases:</b></u><br>
 **School Uniform**  
 [**http://www.schooluniforms.sg/bb-acs-junior**](http://www.schooluniforms.sg/bb-acs-junior)  
 **Name Tags for Primary 1 to 6 (2022)**  
