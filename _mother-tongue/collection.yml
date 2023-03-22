@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Tamil/.keep
       - Higher Mother Tongue/.keep
       - Chinese.md
       - Malay.md
