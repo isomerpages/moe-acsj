@@ -15,11 +15,6 @@ Miss Cheryl Chee
 
 ### VICE PRINCIPAL (Academic)
 
-Mr Richard Chia  
-[Richard\_CHIA@schools.gov.sg](mailto:Richard_CHIA@schools.gov.sg)
-
-### VICE PRINCIPAL (Academic)
-
 Dr Audrey Koh  
 [Audrey\_B\_YEO@schools.gov.sg](mailto:Audrey_B_YEO@schools.gov.sg)
 
