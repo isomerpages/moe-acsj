@@ -6,8 +6,10 @@ third_nav_title: General Information
 ---
 ![](/images/Sub-banner1.jpg)
 
-Operating Hours & Location
+Operating Hours &amp; Location
 ==========================
+
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.777055625158!2d103.839449814754!3d1.3090344990452458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19eb22ea220b%3A0xbf53ae2f0b5dbc28!2sAnglo-Chinese%20School%20(Junior)!5e0!3m2!1sen!2ssg!4v1679466902582!5m2!1sen!2ssg"></iframe>
 
 ### School Hours
 
@@ -35,4 +37,4 @@ Buses plying Bukit Timah Road (near the entrance of Winstedt Road/outside Teck K
 
 Tel: +65 6733 7911  
 Fax: +65 6734 6518  
-Email: [acsj@moe.edu.sg](mailto:acsj@moe.edu.sg)
+Email:&nbsp;[acsj@moe.edu.sg](mailto:acsj@moe.edu.sg)
