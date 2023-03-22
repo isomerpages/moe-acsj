@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dd21a9rt7zrfv.amplifyapp.com/
 prod: https://master.dd21a9rt7zrfv.amplifyapp.com/
-shareicon: /images/school_crest.png
+shareicon: /images/logonew.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
