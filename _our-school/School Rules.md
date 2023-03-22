@@ -140,7 +140,14 @@ GPS Trackers and Fitness Trackers that only have tracking functionalities are al
 <b><u>ACSJ Classification of Offences & Follow-up Action</b></u><br>
 ACS (Junior) groups offences into 3 levels; Level 1 offences are characterized as minor misdemeanours while Level 3 is for very serious offences. The school will take one or more of the following actions when students misbehave.
 
-
+| **Level 1 Offences** | **Level 1 Follow-up Action** |
+|---|---|
+| - Late-coming<br>- Not handing in work<br>- Disruptive behaviour | - Verbal Warning<br>- Detention |
+| **Level 2 Offences** | **Level 2 Follow-up Action** |
+| - Use of vulgar language<br>- Unauthorized use of electronic devices (e.g. playing games on smartphone)<br>- Any Persistent Level 1 Offences | - Verbal Warning<br>- Written Warning<br>- Detention<br>- Confiscation of electronic devices |
+| **Level 3 Offences** | **Level 3 Follow-up Action** |
+| - Truancy / Leaving school without permission<br>- Bullying / Cyber-bullying<br>- Cheating / Forgery<br>- Stealing<br>- Vandalism / Misuse of school property<br>- Possession of dangerous weapons or weapon-like objects<br>- Actions leading to potential danger<br>- Disrespectful / Defiant to teachers/staff<br>- Other serious offences<br>- Any Persistent Level 2 Offences | - Written warning<br>- Corrective Work Order<br>- Detention<br>- Deduction of marks (cheating cases)<br>- Counselling<br>- Downgrade/Removal of School Award<br>- Removal of Leadership position<br>- Internal suspension<br>- Home suspension<br>- Caning |
+|
 
 **_School Transport_**
 
