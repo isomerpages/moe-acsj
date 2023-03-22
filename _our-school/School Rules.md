@@ -223,3 +223,22 @@ Pupils will:
 *  Staff rooms are strictly out-of-bounds to all pupils unless accompanied by a teacher.
 
 **_Play areas_**
+* Table Tennis Tables:
+- respect each other; queue to play
+- be inclusive; allowing others to play
+- play fair; play safe
+- play by the rules
+- Playground
+- No playing when the playground is wet or it is raining
+- Play safe; take turns; no rough play
+
+* The following areas are non-play areas:
+- Around Admin block
+- Corridors around the PAH and Computer Labs
+- Parade square / carpark
+- Around the teaching blocks / along corridors / staircases
+- Slopes at playground & around Block E
+- Soccer field, tennis courts, basketball court, fitness area, MPH
+
+**Conduct Grade**
+
