@@ -82,14 +82,18 @@ The completed form can be submitted via the following options:
 	
 ### **School Dental Service**
 
-**Health Promotion Board**
+**ACS (Junior) Dental Clinic**<br>
+16 Winstedt Road Singapore 227988<br>
+Tel: 87645860
 
-**Opening Hours:**  
+**Alternate Dental Clinic @ Zhang De Primary** <br>
+51 Jalan Membina Singapore 169485<br>
+Tel: 89400375
 
-Mondays to Thursdays: 8.00 am – 5.30 pm
-
-Fridays: 8.00 am – 5.00 pm
-
+**Health Promotion Board**<br>
+<b><u>Opening Hours:</b></u><br>
+Mondays to Thursdays: 8.00 am – 5.30 pm<br>
+Fridays: 8.00 am – 5.00 pm<br>
 Lunch: 1.00 pm – 2.00 pm
 
 **Note:** For urgent or emergency cases during the closing dates, please School Dental Centre at 64353782.
