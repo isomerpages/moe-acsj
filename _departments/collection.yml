@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue/.keep
       - English/.keep
       - English/Overview.md
       - English/Department Members.md
       - English/Programmes.md
       - English/Assessment.md
       - English/Useful Links.md
+      - Mother Tongue/.keep
       - Mathematics/.keep
       - Mathematics/Useful Links.md
       - Mathematics/Assessment.md
