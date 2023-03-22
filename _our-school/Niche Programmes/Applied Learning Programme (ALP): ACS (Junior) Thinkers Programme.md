@@ -16,7 +16,7 @@ Applied Learning Programme (ALP): ACS (Junior) Thinkers Programme
 
  The _**Thinkers Programme**_ is conceptualized to enrich and broaden the learning experience of all learners by providing them with opportunities to synthesise knowledge from various areas of learning, and critically and innovatively apply it to real life situations. It deepens and broadens students’ learning experience as they acquire 21st century competencies that prepare them for lifelong learning and to thrive in the future.
  
- ### **THINKERS Level Programme 2022**
+####  <center><b>THINKERS Level Programme 2022</b></center>
  
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
