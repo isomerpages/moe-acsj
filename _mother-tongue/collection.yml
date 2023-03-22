@@ -4,12 +4,12 @@ collections:
     order:
       - Chinese/Chinese.md
       - Chinese/.keep
+      - Malay/.keep
+      - Malay/Malay.md
       - Malay/Department Members.md
       - Malay/Programmes.md
       - Malay/Assessment.md
       - Malay/Useful Links.md
-      - Malay/Malay.md
-      - Malay/.keep
       - Tamil/.keep
       - Tamil/Tamil.md
       - Tamil/Department Members.md
