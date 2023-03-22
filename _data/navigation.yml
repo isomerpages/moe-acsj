@@ -35,9 +35,9 @@ links:
       - title: Management Team
         url: /management/permalink
       - title: Academic Staff
-        url: /AcademicStaff/permalink
+        url: /academicstaff/
       - title: Administrative Staff
-        url: /AdministrativeStaff/permalink
+        url: /administrativestaff/
   - title: Departments
     url: /departments/English/permalink
     sublinks:
