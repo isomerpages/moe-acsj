@@ -8,7 +8,7 @@ description: ""
 School Crest
 ============
 
-![](/images/school_crest.png)
+<img src="/images/school_crest.png" style="width:25%">
 
 
 The upper part of the crest shows a creature with a lion head, eagle wings and a dragon body with claws, representing the fact that the School was founded when Singapore was a British colony, by the American Methodist Mission, and during the Manchu dynasty in China.
