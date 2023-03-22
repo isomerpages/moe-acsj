@@ -9,7 +9,7 @@ third_nav_title: General Information
 School Booklist
 ===============
 
-<p><a href="/files/p1.pdf">
+<p><a href="https://staging.dd21a9rt7zrfv.amplifyapp.com/our-school/booklist/permalink/files/p1.pdf">
 <img src="/images/p1.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
 
 <p><a href="webhere">
