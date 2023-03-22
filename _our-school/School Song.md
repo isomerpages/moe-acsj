@@ -7,6 +7,9 @@ description: ""
 
 School Song
 ===========
+
+**requires school to upload audio to youtube**
+
 In days of yore from western shores<br>
 Oldham dauntless hero came<br>
 and planted a beacon of Truth and Light<br>
