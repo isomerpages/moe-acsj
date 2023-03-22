@@ -59,7 +59,12 @@ Opening Hours: Mondays to Fridays from 8 am to 4 pm
 **Peck Hay Transport (Pte) Ltd**  <br>
 You may contact our school bus transport directly if you have queries:
 
-
+| S/N | Name | Designation | Contact No |
+|:---:|:---:|:---:|:---:|
+| 1 | Ms Jasmine Ho | Transport Admin | 8030 3717 |
+| 2 | Mr Michael Lim | Operation Manager | 9675 8765 |
+| 3 | Ms Candy Ang | Managing Director | 8771 8117 |
+|
 
 **Address:** 68 Lorong 16 Geylang #05-06 Association Building S (398889)
 
