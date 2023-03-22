@@ -92,9 +92,6 @@ Assessment
 </tbody>
 </table>
 
-**Important Note:**  
-
-1.  Any pupil who is absent for a weighted assessment needs to produce a Medical Certificate to cover him for that day. Marks will be pro-rated accordingly.
-2.  For Semestral Assessment, there is no make-up for Listening Comprehension and main written papers.
-
->
+**Important Note:**<br>
+1\.  Any pupil who is absent for a weighted assessment needs to produce a Medical Certificate to cover him for that day. Marks will be pro-rated accordingly.<br>
+2\.  For Semestral Assessment, there is no make-up for Listening Comprehension and main written papers.
