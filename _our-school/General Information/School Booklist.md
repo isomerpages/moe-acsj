@@ -10,15 +10,29 @@ School Booklist
 ===============
 
 <p><a href="webhere">
-<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p1.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
 
 <p><a href="webhere">
-<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p2.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
 
 <p><a href="webhere">
-<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p3.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
 
 <p><a href="webhere">
-<img src="/images/p.png" style="width:20%;margin-right:15px;" align = "left"></a></p>
+<img src="/images/p4.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
+
+<br clear="left">
+
+<p><a href="webhere">
+<img src="/images/p5.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
+
+<p><a href="webhere">
+<img src="/images/p5a.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
+
+<p><a href="webhere">
+<img src="/images/p6.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
+
+<p><a href="webhere">
+<img src="/images/p6a.png" style="width:24%;margin-right:5px;" align = "left"></a></p>
 
 <br clear="left">
