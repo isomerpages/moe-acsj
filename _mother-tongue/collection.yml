@@ -2,12 +2,12 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese/.keep
+      - Chinese/Chinese.md
       - Chinese/Department Members.md
       - Chinese/Programmes.md
       - Chinese/Assessment.md
       - Chinese/Useful Links.md
-      - Chinese/Chinese.md
-      - Chinese/.keep
       - Malay/.keep
       - Malay/Malay.md
       - Malay/Department Members.md
