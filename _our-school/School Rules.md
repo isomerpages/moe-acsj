@@ -197,7 +197,6 @@ Pupils will:
 *   At the end of each day, chairs must be pushed in and tables arranged in an orderly manner and all litter should be cleared from the tables and floor. 
 
 **_Computer Lab_**
-
 *   Follow instructions of the teachers or instructors at all times
 *   Only visit approved internet sites and only when you have permission to do so
 *   Do not download anything unless told to do so
@@ -205,27 +204,22 @@ Pupils will:
 *   Improper, unlawful, or incorrect use of information technology and communications e.g. computer, mobile phone, all social networking sites (Facebook), etc. will be considered as abuse of technology  
     
 **_Science Lab / Art Room_**
-
 *   No playing in the Science Labs
 *   Do not touch any of the equipment / apparatus until permission is given
 *   Listen to instructions from the teacher carefully 
 
 **_Canteen_**
-
 *   Pupils must queue up in an orderly manner for their food and drinks. They are expected to return the crockery   and cutlery to the receptacles in the canteen after their meal.
 
 **_Library_**
-
 *   Follow instructions of the librarian / parent volunteers at all times
 *   Return borrowed books on time
 *   No playing, eating and drinking in the library
 
 **_Bookstore_**
-
 * Pupils must queue up in an orderly manner to make payment.
 
 **_Staff Rooms_**
-
-• Staff rooms are strictly out-of-bounds to all pupils unless accompanied by a teacher.
+*  Staff rooms are strictly out-of-bounds to all pupils unless accompanied by a teacher.
 
 **_Play areas_**
