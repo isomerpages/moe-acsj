@@ -41,3 +41,27 @@ You may click **[HERE](https://go.gov.sg/moe-sexuality-education)** for more 
 Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.  
 
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+**At ACS (Junior), the following Sexuality Education lessons will be taught in 2023:**
+
+<center><b>Primary 5</b></center>
+
+![](/images/sexedu1.jpg)
+![](/images/sexedu2.jpg)
+
+<center><b>Primary 6</b></center>
+	
+![](/images/sexedu3.jpg)
+![](/images/sexedu4.jpg)
+
+
+**Please note:**<br>
+**\*For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.**
+
+**INFORMATION FOR PARENTS**  
+
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents Gateway.
+
+10\. Parents can contact the school at 67337911 (Attn: Mr Jeremiah Nga) for discussion or to seek clarification about the school’s sexuality education programme.
