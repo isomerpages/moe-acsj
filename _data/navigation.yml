@@ -69,13 +69,13 @@ links:
       - title: External CCA
         url: /our-ccas/external/permalink
       - title: Clubs
-        url: /our-ccas/Clubs/permalink
+        url: /our-ccas/clubs/permalink/
       - title: Uniformed Groups
-        url: /our-ccas/Uniformed-Groups/permalink
+        url: /our-ccas/uniformed-groups/permalink/
       - title: Visual and Performing Arts
-        url: /our-ccas/Visual-and-Performing-Arts/permalink
+        url: /our-ccas/visual-and-performing-arts/permalink/
       - title: ACSplore (RECREATIONAL)
-        url: /our-ccas/Sports/recre/permalink
+        url: /our-ccas/sports/recre/permalink/
   - title: Our Partners
     url: /permalink
     sublinks:
