@@ -77,7 +77,7 @@ pplication Form for Transport After CCA/Supp Class 2023 **[\<Download Form>](/fi
 The completed form can be submitted via the following options:  
 
 *   Hardcopy to the General Office
-*   Email the form to [**ph\_tpl@yahoo.com**](mailto:ph_tpl@yahoo.com)
+*   Email the form to **[ph\_tpl@yahoo.com](mailto:ph_tpl@yahoo.com)**
 
 	
 ### **School Dental Service**
