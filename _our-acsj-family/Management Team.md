@@ -38,17 +38,17 @@ Management Team
 
 | Department | Name | Email |
 |---|---|---|
-| Lower Primary (Internal) | Mr Teow Jing Ho | teow_jing_ho@moe.edu.sg |
-| Middle Primary | Ms Tan Su-Ping | tan_su-ping@moe.edu.sg  |
-| Upper Primary | Mrs Jennifer Chua | ng_pei_fun@moe.edu.sg |
+| Lower Primary (Internal) | Mr Teow Jing Ho | [teow_jing_ho@moe.edu.sg](mailto:teow_jing_ho@moe.edu.sg) |
+| Middle Primary | Ms Tan Su-Ping | [tan_su-ping@moe.edu.sg](mailto:tan_su-ping@moe.edu.sg)  |
+| Upper Primary | Mrs Jennifer Chua | [ng_pei_fun@moe.edu.sg](mailto:ng_pei_fun@moe.edu.sg) |
 |
 
 ### LEVEL HEADS
 
 | Department | Name | Email |
 |---|---|---|
-| Mathematics  | Mr Chee Zhen Yi | chee_zhen_yi@moe.edu.sg   |
-| Science | Mdm Ng Xinyi | ng_xinyi@moe.edu.sg |
+| Mathematics  | Mr Chee Zhen Yi | [chee_zhen_yi@moe.edu.sg](mailto:chee_zhen_yi@moe.edu.sg)   |
+| Science | Mdm Ng Xinyi | [ng_xinyi@moe.edu.sg](mailto:ng_xinyi@moe.edu.sg) |
 | Mother Tongue Language |  |  |
 |
 
@@ -56,9 +56,9 @@ Management Team
 
 | Department | Name | Email |
 |---|---|---|
-| Aesthetics  | Mrs Gloria Chia | loh_lin_li@moe.edu.sg |
-| CCA | Mr Alwyn Tan | tan_chin_keat_alwyn@moe.edu.sg  |
-| Innovation | Mr Glenn Chia | glenn_chia_jia_hao@moe.edu.sg |
-| Student Leadership | Mdm Karen Tham | tham_ceyun_karen@moe.edu.sg |
-| Student Well-Being (Internal) | Miss Chong Bao Yue | chong_bao_yue@moe.edu.sg |
+| Aesthetics  | Mrs Gloria Chia | [loh_lin_li@moe.edu.sg](mailto:loh_lin_li@moe.edu.sg) |
+| CCA | Mr Alwyn Tan | [tan_chin_keat_alwyn@moe.edu.sg](mailto:tan_chin_keat_alwyn@moe.edu.sg)  |
+| Innovation | Mr Glenn Chia | [glenn_chia_jia_hao@moe.edu.sg](mailto:glenn_chia_jia_hao@moe.edu.sg) |
+| Student Leadership | Mdm Karen Tham | [tham_ceyun_karen@moe.edu.sg](mailto:tham_ceyun_karen@moe.edu.sg) |
+| Student Well-Being (Internal) | Miss Chong Bao Yue | [chong_bao_yue@moe.edu.sg](mailto:chong_bao_yue@moe.edu.sg) |
 |
