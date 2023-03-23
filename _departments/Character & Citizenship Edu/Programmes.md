@@ -4,7 +4,6 @@ permalink: /departments/cce/programmes/permalink/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
 ![](/images/Sub-banner1.jpg)
 
 Programmes
@@ -12,8 +11,7 @@ Programmes
 Programmes
 ==========
 
-**Student Development**
-
+**Student Development**<br>
 At ACS Junior, we see each and every boy who passes through our gates as a unique individual, with different talents and strengths. As such, our role is to inculcate values as well as build competencies which are essential in developing each individual. This is done through various school programmes such as:
 
 *   Citizenship Education
@@ -26,8 +24,7 @@ At ACS Junior, we see each and every boy who passes through our gates as a uniqu
 *   Values Education (in the Mother Tongue Languages)
 *   Values-In-Action Programme
 
-**Student Leadership**
-
+**Student Leadership**<br>
 Objectives:
 
 *   To proudly serve the society and school with integrity, respect and compassion
@@ -41,23 +38,17 @@ The conceptual map showing the values of our leaders, their training and the des
 
 ![](/images/CCE_Leadership_Model.jpg)
 
-The three guiding principles:   
-
- Principle 1
-
+The three guiding principles:<br>
+ <u>Principle 1</u><br>
 Values are at the base as they guide and provide the purpose for one’s behaviours. These values are our school core values. Actions without grounding in values would lead to inconsistency in purpose and actions 
 
-Principle 2
-
+<u>Principle 2</u><br>
 All ACSians can be and should be developed as a leader. Student leadership development needs to be intentional thus we provide structured leadership opportunities for students to realise their personal potential through the school CCE programme. 
 
-Principle 3 
-
+<u>Principle 3</u><br>
 During their stint as leaders, our students will be empowered by the teachers-in-charge in serving their peers as leadership is an action, not a position. They will be empowered with the servant leadership attributes.
 
-**Values-In-Action**
-
+**Values-In-Action**<br>
 Objective: Demonstrating empathy and working in collaboration with others to serve the community
 
-![](/images/CCE_VIA_Framework_2020.jpg)
-
+![](/images/ccevia.jpg)
