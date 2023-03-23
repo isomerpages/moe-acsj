@@ -8,8 +8,6 @@ third_nav_title: Character & Citizenship Edu
 
 Programmes
 ==========
-Programmes
-==========
 
 **Student Development**<br>
 At ACS Junior, we see each and every boy who passes through our gates as a unique individual, with different talents and strengths. As such, our role is to inculcate values as well as build competencies which are essential in developing each individual. This is done through various school programmes such as:
