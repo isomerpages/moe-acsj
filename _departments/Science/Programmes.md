@@ -64,3 +64,11 @@ Programmes
   </tr>
 </tbody>
 </table>
+
+<img src="/images/science1.jpg" style="width:18%;margin-right:15px;" align = "left">
+<img src="/images/science2.jpg" style="width:18%;margin-right:15px;" align = "left">
+<img src="/images/science3.jpg" style="width:18%;margin-right:15px;" align = "left">
+<img src="/images/science4.jpg" style="width:18%;margin-right:15px;" align = "left">
+<img src="/images/science5.jpg" style="width:18%;margin-right:15px;" align = "left">
+
+<br clear="left">
