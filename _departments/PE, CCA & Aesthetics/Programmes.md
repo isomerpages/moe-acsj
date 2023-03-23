@@ -94,7 +94,14 @@ Various programmes and music modules are infused into our Music curriculum to pr
 **World Music**<br>
 We believe in the teaching of “World Music”, a phrase for styles of music from different countries, including intercultural and traditional music. “World Music” provides insight into different cultures, rhythms, sounds, instruments and ways of making music. It enables our students to become better informed musicians and citizens of the world. In each module, students are introduced to traditional songs, song games, instruments and dance of the various countries.
 
-## table
+| Level | World Music Module |
+|:---:|:---:|
+| P1 | Mexico |
+| P2 | Philippines |
+| P3 | Korea |
+| P4 | New Zealand |
+| P5 | Ghana |
+|
 
 **Junior Superstars**<br>
 The Junior Superstars (JSS) is annual event which provides a platform for students to showcase their musical talents. It is in general a pop song singing competition with the allowance for students to accompany their singing with background music, live instruments or dance. JSS consists of four categories i.e. P3/4 Solo & Group and P5/6 Solo & Group. 
