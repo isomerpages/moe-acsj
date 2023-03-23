@@ -53,7 +53,17 @@ Inquiry-based learning fuels self-directed learning and encourages students to t
 
 Our curriculum ensures students are equipped with the **visual inquiry skills to discover and explore their surroundings. Our Art programs are designed to expose students to different art mediums** in 6 years of Art Education. The project themes and hands-on activities for the students are designed **based on their profiles and interest.** This build ACSians’ self-confidence in the journey of discovering their strength in Art through the 6 year program. We ensure each child discovers the best outlet to express their voice and ideas through experimentation with art mediums and materials.
 
-## table
+#### <center><b>Highlights of our 6-year programme</b></center>
+
+| Level | Term 1 | Term 2 | Term 3 | Term 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | **World of Colours**<br>(Drawing / Colour/ Digital Art) | **Self-Portrait**<br>(Collage, Drawing and Colour) | **Futuristic Singapore Landscape**<br>(Collage, Drawing and Colour) | **Colours of Singapore**   <br>(Drawing & Art with Recycled Items) |
+| 2 | **Patterns Around Us**<br>(Doodling/ Drawing) | **World of Textures**<br>(Printmaking/ Collage/ Drawing) | **Futuristic Inventions**<br>(Drawing/ Collage/Art with Recycled Items) | **My Unique Sculpture**<br>(Clay/ Art with Recycled Items) |
+| <br>3 | **Life in Singapore**<br>(Drawing and Colouring) | **My Totem Poles**<br>(Drawing/ Paper Sculpture /Art with Recycled Items) | **Batik Program**<br>(Batik/ Painting) | **Self-Portrait**<br> (Digital Art) |
+| 4 | **Cubism Portrait**<br>(Drawing/ Colouring) | **P4 Ceramics Program**<br> (Ceramics)  | **Museum-Based Learning**<br>(Collage/ Drawing) | **Drawing with Scissors**<br>(Collage ) |
+| 5 | **Sketching Program**<br>(Drawing) | **P5 Printmaking Program**<br>(Drawing) | **P5 Design Thinking**<br>(VIA PROJECT) | **P5 Design Thinking**<br>(VIA PROJECT) |
+| 6 | **P6 Design Thinking**<br>(Part 1)<br>(Drawing/ Art with Recycled Items) | **P6 Design Thinking**<br>(Part 2)<br>(Digital Art- Tinkercad) | **Comic Package**<br>(Drawing/ Doodling) | **Surrealism**<br>(Collage/Drawing) |
+|
 
 **Music**<br>
 Our Music curriculum aims to develop a culture of excellence in the Arts by providing opportunities for students to develop skills in appreciating, creating and the expression in music through exposure, experience and excursions. 
