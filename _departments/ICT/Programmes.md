@@ -28,14 +28,14 @@ The table below is a summary of the learning at the various levels.
 
 | Topic | Objectives | P1 | P2 | P3 | P4 | P5 | P6 |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Password Security | - To implement procedures or guidelines for personal safety and security online | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Netiquette | - To observe Internet etiquette in communication | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Intellectual Property Rights<br>namely Copyright | - To recognise and abide by intellectual property rights, particularly copyright regulations | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Handling Inappropriate Content | - To recognise and avoid socially or morally unacceptable content<br>- To respond appropriately when encountering disturbing materials<br>- To report access to illegal or unsuitable material |   |   | ✔ | ✔ | ✔ | ✔ |
-| Dangers with Cyber Contacts | - To recognise potential dangers and take precautions when dealing with cyber contacts |   |   |   | ✔ | ✔ | ✔ |
-| Dangers with Cyber Contacts | - To report unethical and exploitative situations to a trusted adult or authority |   |   |   | ✔ | ✔ | ✔ |
-| Cyberbullying | - To know how to prevent and minimise security risks in different online situations |   |   |   | ✔ | ✔ | ✔ |
-| Game Addiction | - To recognise the impact of games addiction and be aware of strategies to avoid it |   |   |   | ✔ | ✔ | ✔ |
+| **Password Security** | - To implement procedures or guidelines for personal safety and security online | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **Netiquette** | - To observe Internet etiquette in communication | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **Intellectual Property Rights<br>namely Copyright** | - To recognise and abide by intellectual property rights, particularly copyright regulations | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **Handling Inappropriate Content** | - To recognise and avoid socially or morally unacceptable content<br>- To respond appropriately when encountering disturbing materials<br>- To report access to illegal or unsuitable material |   |   | ✔ | ✔ | ✔ | ✔ |
+| **Dangers with Cyber Contacts** | - To recognise potential dangers and take precautions when dealing with cyber contacts |   |   |   | ✔ | ✔ | ✔ |
+| **Dangers with Cyber Contacts** | - To report unethical and exploitative situations to a trusted adult or authority |   |   |   | ✔ | ✔ | ✔ |
+| **Cyberbullying** | - To know how to prevent and minimise security risks in different online situations |   |   |   | ✔ | ✔ | ✔ |
+| **Game Addiction** | - To recognise the impact of games addiction and be aware of strategies to avoid it |   |   |   | ✔ | ✔ | ✔ |
 |
 
 b) Cyber Wellness in School Programmes
