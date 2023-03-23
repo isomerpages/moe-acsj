@@ -48,9 +48,8 @@ All ACSians can be and should be developed as a leader. Student leadership devel
 <u>Principle 3</u><br>
 During their stint as leaders, our students will be empowered by the teachers-in-charge in serving their peers as leadership is an action, not a position. They will be empowered with the servant leadership attributes.
 
-**Values-In-Action**<br>
-Objective: Demonstrating empathy and working in collaboration with others to serve the community
+**Values-In-Action**
 
-<img src="/images/ccevia.jpg" style="width:65%" align=left>
+<img src="/images/ccevia.jpg" style="width:75%" align=left>
 
 <br clear="left">
