@@ -30,7 +30,13 @@ All P2 to P6 pupils undergo 10 to 15 sessions of PE (Tennis). The programme aims
 
 <u>P3 Swimming PE Schedule</u><br>
 
-## table
+| Term | Thursday | Friday |
+|:---:|:---:|:---:|
+| 1 | Orientation Week<br>Pri.3.1: 09/01/2020<br>Pri.3.1: 16/01/2020<br>Pri.3.1: 23/01/2020<br>Pri.3.1: 30/01/2020<br>Pri.3.1: 06/02/2020<br>Pri.3.1: 13/02/2020<br>Pri.3.1: 20/02/2020<br>Pri.3.1: 27/02/2020<br>Pri.3.3: 05/03/2020<br>Pri.3.3: 12/03/2020 | Orientation Week<br>Pri.3.2: 10/01/2020<br>Pri.3.2: 17/01/2020<br>Pri.3.2: CNY<br>Pri.3.2: 31/01/2020<br>Pri.3.2: 07/02/2020<br>Pri.3.2: 14/02/2020<br>Pri.3.2: 21/02/2020<br>Founder’s Day<br>Pri.3.2: 06/03/2020<br>Pri.3.2: 13/03/2020 |
+| 2 | Pri.3.3: 26/03/2020 | Pri.3.4: 27/03/2020 |
+| 3 | Pri.3.5: 02/07/2020 | Pri.3.4: 03/07/2020 |
+| 4 | Pri.3.7: 17/09/2020 | PSLE LC |
+|
 
 <b><u>Aesthetics</b></u><br>
 **The Aesthetics Department believes that learning the Arts:**
