@@ -9,17 +9,17 @@ third_nav_title: Special Education Needs (SEN)
 Useful Links
 ============
 
-<b><u>1\. What are Special Needs</u></b><br>
+1\. <b><u>What are Special Needs</u></b><br>
 **[https://www.moe.gov.sg/special-educational-needs/understand](https://www.moe.gov.sg/special-educational-needs/understand)**
 
-<b><u>2\. Support in Schools</u></b><br>
+2\. <b><u>Support in Schools</u></b><br>
 **[https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools](https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools)** **broken link**
 
-<b><u>3\.  Dyslexia</u></b><br>
+3\.  <b><u>Dyslexia</u></b><br>
 Dyslexia Association of Singapore<br>
 Website:&nbsp;&nbsp;**[http://www.das.org.sg/](http://www.das.org.sg/)**
 
-<b><u>4\.  Autism Spectrum Disorder (ASD)</u></b><br>
+4\.  <b><u>Autism Spectrum Disorder (ASD)</u></b><br>
 <u>Autism Resource Centre (ARC)</u><br>
 Website:&nbsp;&nbsp;**[_http://www.autism.org.sg/_](http://www.autism.org.sg/)**
 
@@ -37,7 +37,7 @@ Autism Services&nbsp;are provided for children and adolescents (between 6-18 yea
 
 iv)For a handout on “Autism”, you can download it from REACH at&nbsp;**[HERE](hhttps://www.imh.com.sg/Documents/publications/service-brochures/for-children-and-adolescents/Brochure_NBC.pdf)**
 
-<b><u>5\. Attention Deficit Hyperactivity Disorder (ADHD)</u></b><br>
+5\. <b><u>Attention Deficit Hyperactivity Disorder (ADHD)</u></b><br>
 For a handout on ADHD, you can download it from REACH at; [**HERE**](https://www.imh.com.sg/uploadedfiles/Publications/Educational_Resources/ADHD.pdf)
 
 <u>i)  Society for the Promotion of ADHD Research and Knowledge (SPARK)</u><br>
@@ -63,7 +63,7 @@ Their activities include:
     
 *   Learning activities and programmes for families with ADHD children, such as parenting workshops for parents with ADHD children  
     
-ii)&nbsp; Response, Early intervention and Assessment in Community mental Health (REACH)
+ii) Response, Early intervention and Assessment in Community mental Health (REACH)
 
 Website:**[_https://www.imh.com.sg/Clinical-Services/Community-based-Services/REACH/Pages/About-REACH.aspx_](https://www.imh.com.sg/Clinical-Services/Community-based-Services/REACH/Pages/About-REACH.aspx)**<br>
 Website: **[_https://www.imh.com.sg/clinical/page.aspx?id=270_](https://www.imh.com.sg/clinical/page.aspx?id=270)**
