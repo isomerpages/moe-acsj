@@ -9,6 +9,5 @@ third_nav_title: Innovation
 Useful Links
 ============
 
-**[Destination Imagination](https://www.destinationimagination.org/)**
-
+**[Destination Imagination](https://www.destinationimagination.org/)**<br>
 **[Young Innovator’s Fair](https://sites.google.com/view/ivp-fair-2021/)**
