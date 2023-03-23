@@ -13,4 +13,4 @@ Useful Links
 **[https://www.moe.gov.sg/special-educational-needs/understand](https://www.moe.gov.sg/special-educational-needs/understand)**
 
 2\. Support in Schools
-[https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools(https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools) **broken link**
+[https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools](https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools) **broken link**
