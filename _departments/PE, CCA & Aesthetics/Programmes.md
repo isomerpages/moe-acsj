@@ -76,7 +76,20 @@ Our music curriculum allows students to:
 
 Various programmes and music modules are infused into our Music curriculum to provide platforms for students to experience different art forms as well as to help them discover their potentials and talents in music.
 
-## table
+| Level | Music Programmes |  |
+|:---:|:---:|:---:|
+| **P1** | **Trumpet** | Students are introduced to the basics of trumpet playing and musical understanding i.e. time signatures, note readings and rhythms. They will learn the notes “C, D and E” and will learn to play simple tunes. Students who possess potential in music will be invited to join our Recruit Band CCA. |
+| **P2** | **Dance** | Students are introduced to the basics of the dance genre “Popping and Locking”. They will learn simple dance steps and also have the opportunity to create their own dance moves. Students who are observed to possess potential in dance will be invited to join our dance CCA i.e. Junior Vibez. |
+|  | **Recorder Karate<br>(Beginner)** | Students are introduced to the basics of recorder playing via Recorder Karate. Students will receive “belts” as they progress up the different levels of playing. At P2, students will learn the correct posture and how to produce a good tone. They will learn the notes “G, A and B”. |
+| **P3** | **STOMP – Rhythm & Percussion** | Students are introduced to STOMP, a form of rhythmic improvisation using percussion instruments as well as objects found in our daily lives. Students will be expose to both simple and complex rhythms in this module. |
+|  | **Recorder Karate<br>(Intermediate)** | Students are introduced to more notes on the recorder allowing them to play more challenging tunes. They will continue to receive “belts” as they progress up the difficulty levels of playing. |
+| **P4** | **Brazilian Samba Drumming** | Students are introduced to Brazilian Samba drumming, a musical form very similar to African drumming music such as polyrhythms and use of Call and Response. |
+|  | **Ukulele** | Students are introduced to the basics of ukulele playing. They will learn the chords “C, G, F and Am” and basic strumming patterns to accompany simple songs. |
+|  | **ICT Music** | Students are introduced to musical composition and harmonization through the use of “Song Maker” from Chrome Music Lab. In this module, students learn the basics of chord progression, melody composition and beat/rhythm improvisation. |
+| **P5** | **Pop Band<br>(Beginner)** | Students are introduced to the instruments found in a pop band and learn ensemble playing skills. They will learn how to play the simple drum beats, ukulele accompaniment and keyboard lines to accompany a pop song. |
+|   | **Kalimba** | Students are introduced to the basics of Kalimba playing. They will learn how to read a Kalimba music score and play simple tunes on the Kalimba. |
+| **P6** | **Pop Band<br>(Intermediate)** | Students will progress on to play more challenging pop songs in an ensemble. Using the pedagogy “Music Futures”, students will learn to play the pop song of their choice through self-exploration. |
+|
 
 **World Music**<br>
 We believe in the teaching of “World Music”, a phrase for styles of music from different countries, including intercultural and traditional music. “World Music” provides insight into different cultures, rhythms, sounds, instruments and ways of making music. It enables our students to become better informed musicians and citizens of the world. In each module, students are introduced to traditional songs, song games, instruments and dance of the various countries.
