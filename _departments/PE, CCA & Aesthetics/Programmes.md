@@ -38,7 +38,7 @@ All P2 to P6 pupils undergo 10 to 15 sessions of PE (Tennis). The programme aims
 | <br><br><br><br>4 | Pri.3.7: 17/09/2020<br>Pri.3.7: 24/09/2020<br>Pri.3.7: 01/10/2020<br>Children’s Day Celebration<br>PSLE Marking<br>EL SA 2<br>Pri.3.7: 05/11/2020<br>Results Processing Day<br>MTP | PSLE LC<br>Pri.3.6: 25/09/2020<br>Pri.3.6: 02/10/2020<br>Children’s Day<br>Pri.3.6: 23/10/2020<br>MA SA2<br>Pri.3.6: 06/11/2020<br>N.A.<br>Honours Day |
 |
 
-<b><u>Aesthetics</b></u><br>
+<b><u>Aesthetics</u></b><br>
 **The Aesthetics Department believes that learning the Arts:**<br>
 1\) fosters students' sense of identity, culture and place in society<br>
 2\) builds students' capacity to critically discern and process visual and audio information<br>
@@ -108,7 +108,7 @@ The Junior Superstars (JSS) is annual event which provides a platform for studen
 
 The finalists of the JSS are selected through an audition process. The JSS finals are presented live at our Performing Arts Hall and the student audience get to vote for their favourite performances. We celebrate the successes of our winners by awarding them with “Finalist” and “Student Choice” trophies for their efforts.
 
-<b><u>Co-Curricular Activities (CCA)</b></u><br>
+<b><u>Co-Curricular Activities (CCA)</u></b><br>
 With a wide array of CCAs, we provide every pupil with an opportunity for a meaningful experience. During the regular CCA sessions, pupils are encouraged to pursue excellence by striving for self-improvement and growth. Other than celebrating improvement in skills and knowledge, we also inculcate the necessary values and attitudes, which are essential in their preparation for future challenges. Please refer to [‘Our CCAs’](https://acsj.moe.edu.sg/our-ccas) for more information.
 
 <img src="/images/pe1.jpg" style="width:30%;margin-right:15px;" align = "left">
