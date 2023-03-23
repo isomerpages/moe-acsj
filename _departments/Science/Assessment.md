@@ -9,56 +9,56 @@ third_nav_title: Science
 Assessment
 ==========
 
-SKILLS AND PROCESSES
+<b><u>SKILLS AND PROCESSES</b></u><br>
 Pupils are provided with opportunities to apply learned concepts and skills, by engaging the surrounding environment and its processes and phenomena, for the purpose of inquiry, awareness and self-development.
 
-Skills
-Observing
+<b><u>Skills</b></u><br>
+<u>Observing</u><br>
 This is the skill of using our senses to gather information about objects or events. This also includes the use of instruments to extend the range of our senses.
 
-Comparing
+<u>Comparing</u><br>
 This is the skill of identifying the similarities and differences between two or more objects, concepts or processes.
 
-Classifying 
+<u>Classifying </u><br>
 This is the skill of grouping objects or events based on common characteristics.
 
-Using apparatus and equipment
+<u>Using apparatus and equipment</u><br>
 This is the skill of knowing the functions and limitations of various apparatus, and developing the ability to select and handle them appropriately for various tasks.
 
-Communicating
+<u>Communicating</u><br>
 This is the skill of transmitting and receiving information presented in various forms - verbal, pictorial, tabular or graphical.
 
-Inferring
+<u>Inferring</u><br>
 This is the skill of interpreting or explaining observations or pieces of data or information.
 
-Predicting
+<u>Predicting</u><br>
 This is the skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out.
 
-Analysing 
+<u>Analysing</u><br>
 This is the skill of identifying the parts of objects, information or processes, and the patterns and relationships between these parts.
 
-Generating possibilities
+<u>Generating possibilities</u><br>
 This is the skill of exploring all the alternatives, possibilities and choices beyond the obvious or preferred one.
 
-Evaluating
+<u>Evaluating</u><br>
 This is the skill of assessing the reasonableness, accuracy and quality of information, processes or ideas. This is also the skill of assessing the quality and feasibility of objects.
 
-Formulating hypothesis
+<u>Formulating hypothesis</u><br>
 This is the skill of making a general explanation for a related set of observations or events. It is an extension of inferring.
 
-Processes
+<b><u>Processes</b></u><br>
 Processes are complex operations which require the use of several skills.
 
-Creative Problem Solving
+<u>Creative Problem Solving</u><br>
 Analysing a problem and choosing an innovative and relevant solution to alter a problem situation.
 
-Decision-Making
+<u>Decision-Making</u><br>
 Establishing and applying criteria to select from among seemingly equal alternatives with consideration to consequences and values.
 
-Investigation
+<u>Investigation</u><br>
 Formulating questions or hypotheses and creating fair methods that are then carried out to verify the stated hypotheses.
 
-Assessment Framework
+<b><u>Assessment Framework</b></u><br>
 
 ![](/images/Assessment%20Information.jpg)
 
