@@ -9,16 +9,16 @@ third_nav_title: ICT
 Programmes
 ==========
 
-<b><u>ICT-Integrated Lessons</b></u><br>
+<b><u>ICT-Integrated Lessons</u></b><br>
 Basic ICT skills are introduced during the ICT-integrated lessons such as parts of a computer, touch-typing, text-editing, Internet-searching, use of multi-media in presentations and coding. These ICT lessons are introduced via a learning theme or topic so that the learning experiences are relevant and authentic.
 
-<b><u>ICT in THINKERS</b></u><br>
+<b><u>ICT in THINKERS</u></b><br>
 As part of our THINKERS programme, our Primary 4 and 5 boys are introduced to basic programming software. In this module, we hope to enhance the boys' simulation and visualisation skills as they undergo lessons that focus on creative and computational thinking and problem-solving through discovery (self-directed) learning.
 
-<b><u>ICT Student Leadership Programme</b></u><br>
+<b><u>ICT Student Leadership Programme</u></b><br>
 Our ICT Student Leaders champion safe and responsible use of computer technology. They are engaged in various learning activities like sharing sessions, workshops and learning trips to develop both their knowledge on cyber wellness as well as technical know-how. They guide their peers in developing the necessary knowledge and skills to be responsible digital citizens.
 
-<b><u>Cyber Wellness @ ACS(J)</b></u><br>
+<b><u>Cyber Wellness @ ACS(J)</u></b><br>
 Our school ICT motto is SAFE ALWAYS. This includes Being Smart Online To Be Safe Offline. To achieve this, a multi-pronged approached is employed to engage various stakeholders, students, parents, staff and educational partners, to develop awareness in the area of cyber wellness. Various activities are conducted throughout the year to help our boys pick up practical tips which they can employ to help themselves or their peers tackle potential issues, particularly those related to social media. The school cyber wellness programmes are designed around the MOE cyber wellness framework.
 
 a) Cyber Wellness In Lessons<br>
