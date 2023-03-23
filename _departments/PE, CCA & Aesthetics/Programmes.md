@@ -4,7 +4,6 @@ permalink: /departments/pe-cca-and-aesthetics/programmes/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
 ---
-
 ![](/images/Sub-banner1.jpg)
 
 Programmes
@@ -40,7 +39,7 @@ All P2 to P6 pupils undergo 10 to 15 sessions of PE (Tennis). The programme aims
 |
 
 <b><u>Aesthetics</b></u><br>
-**The Aesthetics Department believes that learning the Arts:**
+**The Aesthetics Department believes that learning the Arts:**<br>
 1\) fosters students' sense of identity, culture and place in society<br>
 2\) builds students' capacity to critically discern and process visual and audio information<br>
 3\) teaches students to communicate effectively in the 21st century<br>
