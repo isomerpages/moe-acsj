@@ -71,6 +71,6 @@ Website: **[_https://www.imh.com.sg/clinical/page.aspx?id=270_](https://www.imh.
 REACH offers services and resources/information to schools, parents and students.
 
 iii)Child Guidance Clinic (CGC)<br>
-Website: [**_https://www.imh.com.sg/Clinical-Services/Specialised-Services/Neurobehavioural-Clinic-Child/Pages/Attention-Deficit-Hyperactivity-Disorder.aspx_**](https://www.imh.com.sg/Clinical-Services/Specialised-Services/Neurobehavioural-Clinic-Child/Pages/Attention-Deficit-Hyperactivity-Disorder.aspx)
+Website: **[_https://www.imh.com.sg/Clinical-Services/Specialised-Services/Neurobehavioural-Clinic-Child/Pages/Attention-Deficit-Hyperactivity-Disorder.aspx_](https://www.imh.com.sg/Clinical-Services/Specialised-Services/Neurobehavioural-Clinic-Child/Pages/Attention-Deficit-Hyperactivity-Disorder.aspx)**
 
 CGC offers specialised multi-disciplinary assessment and therapy for children and youth with ADHD and mental health co-morbidities. Through parent education and workshops, this team seeks to work collaboratively with parents and caregivers in supporting their children’s needs.
