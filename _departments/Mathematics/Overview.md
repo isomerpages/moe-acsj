@@ -29,4 +29,4 @@ In the area of Mastery in Mathematics, for the primary 5 and 6 pupils, we want t
 <b><u>Mathematics Framework</b></u><br>
 The Mathematics Framework focuses on using Mathematics for problem-solving. The development of problem-solving ability is dependent on five inter-related components, namely, conceptual understanding, skills proficiency, mathematical processes, and attitudes and metacognition.
 
-![](/images/maths5.jpg)
+![](/images/maths_framework.jpg)
