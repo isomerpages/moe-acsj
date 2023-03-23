@@ -51,4 +51,6 @@ During their stint as leaders, our students will be empowered by the teachers-in
 **Values-In-Action**<br>
 Objective: Demonstrating empathy and working in collaboration with others to serve the community
 
-![](/images/ccevia.jpg)
+<img src="/images/ccevia.jpg" style="width:65%" align=left>
+
+<br clear="left">
