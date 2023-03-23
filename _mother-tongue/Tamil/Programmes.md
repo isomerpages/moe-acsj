@@ -7,7 +7,7 @@ third_nav_title: Tamil
 Programmes
 ==========
 
-<b><u>A. Tamil Enrichment</b></u><br>
+<b><u>A. Tamil Enrichment</u></b><br>
 **1) Recess ‘traditional game time’**<br>
 Every recess time after having food, students will meet in the Tamil room to play traditional games.  This helps them to appreciate Indian/Tamil culture.
 
