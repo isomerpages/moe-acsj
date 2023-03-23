@@ -7,7 +7,7 @@ third_nav_title: Higher Mother Tongue
 Current PSLE Scoring System
 ===========================
 
-<b><u>HMT Examination Format:</b></u><br>
+<b><u>HMT Examination Format:</u></b><br>
 Paper 1 : Composition (40%)<br>
 Paper 2 : Cloze Passages and WrittenComprehension (60%)<br>
 Total: 100%
