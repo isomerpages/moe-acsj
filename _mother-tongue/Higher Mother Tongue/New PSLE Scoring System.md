@@ -8,7 +8,7 @@ New PSLE Scoring System
 =======================
 
 <b><u>Higher Mother Tongue Language ( HMT) under the new PSLE Scoring System</u></b><br>
-<b><u><i>(with effect from 2020 Primary 5 cohort)</u></b><br>
+<b><u><i>(with effect from 2020 Primary 5 cohort)</i></u></b><br>
 
 <u>HMT Examination Format:</u><br>
 Paper 1 : Composition (40%)<br>
