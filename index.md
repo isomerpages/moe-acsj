@@ -15,7 +15,7 @@ sections:
           url: /our-school/Announcements/permalink
         - title: USEFUL LINKS
           description: ""
-          url: /links/permalink
+          url: /useful-links/for-staff/
         - title: Calender
           description: ""
           url: /calender/
