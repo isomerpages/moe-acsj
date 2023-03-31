@@ -1,32 +1,32 @@
 logo: /images/logonew.png
 links:
   - title: Our School
-    url: /our-school/permalink
+    url: /our-school/
     sublinks:
       - title: School History
-        url: /our-school/permalink
+        url: /our-school/
       - title: Vision, Mission & Values
-        url: /values/permalink
+        url: /values/
       - title: School Motto
-        url: /motto/permalink
+        url: /motto/
       - title: School Crest
-        url: /crest/permalink
+        url: /crest/
       - title: School Song
-        url: /schoolsong/permalink
+        url: /schoolsong/
       - title: School Rules
-        url: /rules/permalink
+        url: /rules/
       - title: Financial Information
-        url: /finance/permalink
+        url: /finance/
       - title: Niche Programmes
-        url: /our-school/thoburn/permalink
+        url: /our-school/thoburn/
       - title: P1 Registration Information
-        url: /p1/permalink
+        url: /p1/
       - title: General Information
-        url: /our-school/openinghours/permalink
+        url: /our-school/openinghours/
       - title: Supporting Students
-        url: /supportingstudents/permalink
+        url: /supportingstudents/
       - title: Pupil Recognition
-        url: /pupilrecognition/permalink
+        url: /pupilrecognition/
   - title: Our ACSJ Family
     url: /our-acsj-family/permalink
     sublinks:
@@ -39,26 +39,26 @@ links:
       - title: Administrative Staff
         url: /administrativestaff/
   - title: Departments
-    url: /departments/english/permalink
+    url: /departments/english/
     sublinks:
       - title: English
-        url: /departments/english/permalink
+        url: /departments/english/
       - title: Mother Tongue
         url: /departments/mother-tongue/chinese/
       - title: Mathematics
         url: /departments/mathematics/overview/
       - title: Science
-        url: /departments/science/overview/permalink/
+        url: /departments/science/overview/
       - title: PE, CCA & Aesthetics
-        url: /departments/pe-cca-and-aesthetics/permalink/
+        url: /departments/pe-cca-and-aesthetics/
       - title: CCE
-        url: /departments/cce/overview/permalink/
+        url: /departments/cce/overview/
       - title: ICT
-        url: /departments/ict/overview/permalink/
+        url: /departments/ict/overview/
       - title: "Innovation "
-        url: /departments/innovation/overview/permalink/
+        url: /departments/innovation/overview/
       - title: Special Education Needs (SEN)
-        url: /departments/special-education-needs/overview/permalink/
+        url: /departments/special-education-needs/overview/
   - title: Our CCAs
     url: /our-ccas/permalink
     sublinks:
