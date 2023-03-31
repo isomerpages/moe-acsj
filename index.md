@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: /our-school/Announcements/permalink
+          url: /our-school/announcements/
         - title: USEFUL LINKS
           description: ""
           url: /useful-links/for-staff/
