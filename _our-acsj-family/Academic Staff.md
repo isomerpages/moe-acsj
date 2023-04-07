@@ -3,7 +3,6 @@ title: Academic Staff
 permalink: /academicstaff/
 description: ""
 ---
-
 ![](/images/Sub-banner2.jpg)
 
 Academic Staff
@@ -12,119 +11,26 @@ Academic Staff
 
 ### PRIMARY 1 FORM TEACHERS
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-p3qa{background-color:#FFF;color:#21088A;text-align:left;vertical-align:top}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lppf{background-color:#FFF;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lppf"><span style="color:inherit;background-color:transparent">Class</span></th>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Teacher's Name</span></th>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5">P1.1</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Irene Lee</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:lee_kit_cheng@moe.edu.sg"><span style="text-decoration:none;color:#21088A">lee_kit_cheng@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Goh Tiow Hua</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:goh_tiow_hua@moe.edu.sg"><span style="text-decoration:none;color:#21088A">goh_tiow_hua@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.2</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Ng-Tang Pui Fun</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:ng-tang_pui_fun@moe.edu.sg"><span style="text-decoration:none;color:#21088A">ng-tang_pui_fun@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Ho-Lim Woan Jen</span> (FAJT)<br></td>
-    <td class="tg-p3qa"><a href="mailto:lim_woan_jen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">lim_woan_jen@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.3</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Siti Mohamad </span>(ST for National Education/Social Studies)<br></td>
-    <td class="tg-p3qa"><a href="mailto:siti_fauziah_abdul_latiff@moe.edu.sg"><span style="text-decoration:none;color:#21088A">siti_fauziah_abdul_latiff@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Mo Liwen Maurice</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:mo_liwen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">mo_liwen@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.4</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Karmene Yee</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:yee_zhuoying_karmene@moe.edu.sg"><span style="text-decoration:none;color:#21088A">yee_zhuoying_karmene@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Karen Tham </span>(SH for Student Development)<br></td>
-    <td class="tg-p3qa"><a href="mailto:tham_ceyun_karen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">tham_ceyun_karen@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.5</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Lam Ker Sim</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:lam_ker_sim@moe.edu.sg"><span style="text-decoration:none;color:#21088A">lam_ker_sim@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Miss Lim Jie Ning</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:jie_ning_lim@moe.edu.sg"><span style="text-decoration:none;color:#21088A">jie_ning_lim@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.6</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Bonnie Ho</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:lim_lian_hong_bonnie@moe.edu.sg"><span style="text-decoration:none;color:#21088A">lim_lian_hong_bonnie@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Soh Li Mei</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:soh_li_mei@moe.edu.sg"><span style="text-decoration:none;color:#21088A">soh_li_mei@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.7</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Shabnam Phillips</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:shabnam_begum_mohd_shaffi@moe.edu.sg"><span style="text-decoration:none;color:#21088A">shabnam_begum_mohd_shaffi@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Zhang Yu </span>(LH for MT Language)<br></td>
-    <td class="tg-p3qa"><a href="mailto:zhang_yu_b@moe.edu.sg"><span style="text-decoration:none;color:#21088A">zhang_yu_b@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.8</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Miss Zhang Siyuan Nikko</span></td>
-    <td class="tg-p3qa"><a href="mailto:zhang_siyuan@moe.edu.sg"><span style="text-decoration:none;color:#21088A">zhang_siyuan@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Anne Chan</span> (FAJT)<br></td>
-    <td class="tg-p3qa"><a href="mailto:chan_pin_chen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">chan_pin_chen@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">P1.9</td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Norfaiza Zainal</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:norfaiza_zainal@moe.edu.sg"><span style="text-decoration:none;color:#21088A">norfaiza_zainal@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Koh Boon Hock Colin </span>(ST for Physical Education)<br></td>
-    <td class="tg-p3qa"><a href="mailto:koh_boon_hock@moe.edu.sg"><span style="text-decoration:none;color:#21088A">koh_boon_hock@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+| Class | Teacher's Name | Email |
+|---|---|---|
+| P1.1 | Mdm Lum Mei Pheng | [lum\_mei\_pheng@moe.edu.sg](mailto:lum_mei_pheng@moe.edu.sg) |
+|   | Mdm Lin Miao Ting Eunice (CAJT) | [lin\_miao\_ting\_eunice@moe.edu.sg](mailto:lin_miao_ting_eunice@moe.edu.sg) |
+| P1.2 | Mrs Vera Seah | [vera\_vijaya\_balakrishnan@moe.edu.sg](mailto:vera_vijaya_balakrishnan@moe.edu.sg) |
+|   | Mr Teow Jing Ho (Internal AYH for Lower Pri) | [teow\_jing\_ho@moe.edu.sg](mailto:teow_jing_ho@moe.edu.sg) |
+| P1.3 | Mrs Ong Bee Yeng | [koh\_bee\_yeng@moe.edu.sg](mailto:koh_bee_yeng@moe.edu.sg) |
+|   | Mdm Lam Yuk Wing | [lam\_yuk\_wing@moe.edu.sg](mailto:lam_yuk_wing@moe.edu.sg) |
+| P1.4 | Mrs Caroline Tang | [teo\_saw\_boon\_caroline@moe.edu.sg](mailto:teo_saw_boon_caroline@moe.edu.sg) |
+|   | Mdm Lu Liwen | [lu\_liwen@moe.edu.s](mailto:lu_liwen@moe.edu.sg) |
+| P1.5 | Miss Yeo Chiew Hoon Rinda | [yeo\_chiew\_hoon\_rinda@moe.edu.sg](mailto:yeo_chiew_hoon_rinda@moe.edu.sg) |
+|   | Mdm Fauziah Binte Abdullah | [fauziah\_abdullah@moe.edu.sg](mailto:fauziah_abdullah@moe.edu.sg) |
+| P1.6 | Mdm Wong Siew Yin | [wong\_siew\_yin\_a@moe.edu.sg](mailto:wong_siew_yin_a@moe.edu.sg) |
+|   | Miss Lee May Po (HOD for School Staff Development) | [lee\_may\_po@moe.edu.sg](mailto:lee_may_po@moe.edu.sg) |
+| P1.7 | Mrs Tan Iyleng | [low\_iyleng\_irene@moe.edu.sg](mailto:low_iyleng_irene@moe.edu.sg) |
+|   | Mdm Hu Lanying | [hu\_lan\_ying@moe.edu.sg](mailto:hu_lan_ying@moe.edu.sg) |
+| P1.8 | Mrs Chua Mei Ping | [fok\_mei\_ping@moe.edu.sg](mailto:fok_mei_ping@moe.edu.sg) |
+|   | Miss Lou Jiu En Felice | [lou\_jiu\_en\_felice@moe.edu.s](mailto:lou_jiu_en_felice@moe.edu.sg) |
+| P1.9 | Mrs Josephine Chan (CAJT) | [leong\_yoke\_fong\_josephine@moe.edu.sg](mailto:leong_yoke_fong_josephine@moe.edu.sg) |
+|   | Miss Chong Bao Yue (Internal SH for Student Well-Being) | [chong\_bao\_yue@moe.edu.sg](mailto:chong_bao_yue@moe.edu.sg) |
 
 
 ### PRIMARY 2 FORM TEACHERS
@@ -696,7 +602,7 @@ Academic Staff
 </tbody>
 </table>
 
-### AED (LEARNING & BEHAVIOUR SUPPORT FOR LEARNING DIFFERENCES)
+### AED (LEARNING &amp; BEHAVIOUR SUPPORT FOR LEARNING DIFFERENCES)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -736,7 +642,7 @@ Academic Staff
 </tbody>
 </table>
 
-### ADJUNCT & RELIEF TEACHERS
+### ADJUNCT &amp; RELIEF TEACHERS
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -845,4 +751,3 @@ Academic Staff
   </tr>
 </tbody>
 </table>
-
