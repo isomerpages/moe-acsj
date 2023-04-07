@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - School Leaders.md
-      - Management Team.md
       - Academic Staff.md
+      - Management Team.md
       - Administrative Staff.md
