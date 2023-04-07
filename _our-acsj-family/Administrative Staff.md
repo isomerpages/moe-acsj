@@ -3,13 +3,12 @@ title: Administrative Staff
 permalink: /administrativestaff/
 description: ""
 ---
-
 ![](/images/Sub-banner1.jpg)
 
 Administrative Staff
 ====================
 
-### ADMINISTRATION & OPERATION
+### ADMINISTRATION &amp; OPERATION
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -80,7 +79,7 @@ Administrative Staff
 </tbody>
 </table>
 
-### INFORMATION & TECHNOLOGY SUPPORT
+### INFORMATION &amp; TECHNOLOGY SUPPORT
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -124,50 +123,14 @@ Administrative Staff
 
 ### OPERATIONS SUPPORT
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-p3qa{background-color:#FFF;color:#21088A;text-align:left;vertical-align:top}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-5em6{background-color:#FFF;color:#21088A;text-align:left;vertical-align:middle}
-.tg .tg-lppf{background-color:#FFF;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-1bbm{background-color:#FFF;color:#000000;text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Designation</span></th>
-    <th class="tg-lppf"><span style="color:inherit;background-color:transparent">Name</span></th>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Operation Support Officer</span><br></td>
-    <td class="tg-1bbm"><span style="color:inherit;background-color:transparent">Mr Toh Meng Kwang</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:noor_azhar_parnen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">noor_azhar_parnen@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Operation Support Officer</span></td>
-    <td class="tg-1bbm"><span style="color:inherit;background-color:transparent">Mdm Premawathi d/o Kanasan</span></td>
-    <td class="tg-5em6"><span style="color:inherit;background-color:transparent">-</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Operation Support Officer</span><br></td>
-    <td class="tg-1bbm"><span style="color:inherit;background-color:transparent">Mr Chong Tuck Choong</span><br></td>
-    <td class="tg-5em6"><span style="color:inherit;background-color:transparent">-</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Operation Support Officer</span><br></td>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Ho Tin Kui</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-
-
+| Designation | Name |
+| --- | --- |
+| Operation Support Officer  
+ | Mr&nbsp;Toh Meng Kwang  
+ |
+| Operation Support Officer | Mdm Premawathi d/o Kanasan |
+| Operation Support Officer  
+ | Mr&nbsp;Chong Tuck Choong  
+ |
+| Operation Support Officer  
+ | Mr Ho Tin Kui |
