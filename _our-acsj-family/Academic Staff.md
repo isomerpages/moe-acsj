@@ -138,190 +138,52 @@ Academic Staff
 
 ###  NON-FT TEACHERS
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-p3qa{background-color:#FFF;color:#21088A;text-align:left;vertical-align:top}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lppf{background-color:#FFF;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lppf"><span style="color:inherit;background-color:transparent">Name</span></th>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Balasubramaniam</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:balasubramaniam_sarasu@moe.edu.sg"><span style="text-decoration:none;color:#21088A">balasubramaniam_sarasu@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Tan Kuan Bee</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:tan_kuan_bee@moe.edu.sg"><span style="text-decoration:none;color:#21088A">tan_kuan_bee@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Jeremy Teo </span>(UT for PE)<br></td>
-    <td class="tg-p3qa"><a href="mailto:teo_yong_sheng_jeremy@moe.edu.sg"><span style="text-decoration:none;color:#21088A">teo_yong_sheng_jeremy@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Mah Ei Leen</span></td>
-    <td class="tg-p3qa"><a href="mailto:mah_ei_leen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">mah_ei_leen@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+| Name | Email |
+|---|---|
+| Mdm Choo Wen Chyi  | [choo\_wen\_chyi@moe.edu.sg](mailto:choo_wen_chyi@moe.edu.sg) |
+| Ms Grace Wong Jie Er (UT) | [grace\_wong\_jie\_er@moe.edu.sg](mailto:grace_wong_jie_er@moe.edu.sg) |
+| Mr Muhammad Hakim Bin Mustadza (UT) | [muhammad\_hakim\_mustadza@moe.edu.sg](mailto:muhammad_hakim_mustadza@moe.edu.sg) |
 
-### AED (LEARNING &amp; BEHAVIOUR SUPPORT FOR LEARNING DIFFERENCES)
+### SPECIAL EDUCATION NEEDS (SEN)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-p3qa{background-color:#FFF;color:#21088A;text-align:left;vertical-align:top}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lppf{background-color:#FFF;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lppf"><span style="color:inherit;background-color:transparent">Name</span></th>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Ms Lauren Ng Miaw Shan</span></td>
-    <td class="tg-p3qa"><a href="mailto:lauren_ng_miaw_shan@moe.edu.sg"><span style="text-decoration:none;color:#21088A">lauren_ng_miaw_shan@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Ranny Choi Weng Hung</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:ranny_choi_weng_hung@moe.edu.sg"><span style="text-decoration:none;color:#21088A">ranny_choi_weng_hung@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Tan Lian Hui Angela</span> (Senior AED)</td>
-    <td class="tg-p3qa"><a href="mailto:tan_lian_hui@moe.edu.sg"><span style="text-decoration:none;color:#21088A">tan_lian_hui@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Kevin Chua </span>(Senior AED)</td>
-    <td class="tg-p3qa"><a href="mailto:kevin_chua_how_kiat@moe.edu.sg"><span style="text-decoration:none;color:#21088A">kevin_chua_how_kiat@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+| Name | Email |
+|---|---|
+| Mdm Tan Lian Hui Angela (Senior SENO) | [tan\_lian\_hui@moe.edu.sg](mailto:tan_lian_hui@moe.edu.sg) |
+| Mr Kevin Chua How Kiat (Senior SENO) | [kevin\_chua\_how\_kiat@moe.edu.sg](mailto:kevin_chua_how_kiat@moe.edu.sg) |
+| Mr Ranny Choi Weng Hung (SENO) | [ranny\_choi\_weng\_hung@moe.edu.sg](mailto:ranny_choi_weng_hung@moe.edu.sg) |
+| Miss Lauren Ng Miaw Shan (SENO) | [lauren\_ng\_miaw\_shan@moe.edu.sg](mailto:lauren_ng_miaw_shan@moe.edu.sg) |
+| Mr Elton Lim (SENO Trainee) | [lim\_zhan\_kuan\_elton@moe.edu.sg](mailto:lim_zhan_kuan_elton@moe.edu.sg) |
 
-### ADJUNCT &amp; RELIEF TEACHERS
+### ALLIED EDUCATORS (LBS / T&L)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l08d{background-color:#FFF;color:#21088A;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-p3qa{background-color:#FFF;color:#21088A;text-align:left;vertical-align:top}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Name</span></th>
-    <th class="tg-l08d"><span style="color:inherit;background-color:transparent">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Josephine Chan</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:leong_yoke_fong_josephine@moe.edu.sg"><span style="text-decoration:none;color:#21088A">leong_yoke_fong_josephine@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Eunice Lin</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:lin_miao_ting_eunice@moe.edu.sg"><span style="text-decoration:none;color:#21088A">lin_miao_ting_eunice@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Ho-Lim Woan Jen</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:lim_woan_jen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">lim_woan_jen@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Anne Chan</span><br></td>
-    <td class="tg-p3qa"><a href="mailto:chan_pin_chen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">chan_pin_chen@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Aw Meng Hong</span></td>
-    <td class="tg-p3qa"><a href="mailto:aw_meng_hong@moe.edu.sg"><span style="text-decoration:none;color:#21088A">aw_meng_hong@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Ms Pauline Chua</span></td>
-    <td class="tg-p3qa"><a href="mailto:pauline_chua@moe.edu.sg"><span style="text-decoration:none;color:#21088A">pauline_chua@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Tan Siah Wee Francis</span></td>
-    <td class="tg-p3qa"><a href="mailto:tan_siah_wee_francis@moe.edu.sg"><span style="text-decoration:none;color:#21088A">tan_siah_wee_francis@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Wendy Tan</span></td>
-    <td class="tg-p3qa"><a href="mailto:wendy_tan@moe.edu.sg"><span style="text-decoration:none;color:#21088A">wendy_tan@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Kathleen Koh</span></td>
-    <td class="tg-p3qa"><a href="mailto:kathleen_ong_hsiuli@moe.edu.sg"><span style="text-decoration:none;color:#21088A">kathleen_ong_hsiuli@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Yogeeindran</span></td>
-    <td class="tg-p3qa"><a href="mailto:gayathri_unnikrishnan@moe.edu.sg"><span style="text-decoration:none;color:#21088A">gayathri_unnikrishnan@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mr Wong Leong Kiet</span></td>
-    <td class="tg-p3qa"><a href="mailto:wong_leong_kiet@moe.edu.sg"><span style="text-decoration:none;color:#21088A">wong_leong_kiet@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Ms Hasina d/o Mustakim</span></td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mdm Chan Mei Yann</span></td>
-    <td class="tg-p3qa"><a href="mailto:chan_mei_yann@moe.edu.sg"><span style="text-decoration:none;color:#21088A">chan_mei_yann@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Ms Huang Kailin</span></td>
-    <td class="tg-p3qa"><a href="mailto:huang_kailin@moe.edu.sg"><span style="text-decoration:none;color:#21088A">huang_kailin@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+| Name | Email |
+|---|---|
+| Mrs Vidya Suresh (AED T&L) | [vidya\_suresh@moe.edu.sg](mailto:vidya_suresh@moe.edu.sg) |
+| Mdm Taginissa B. A. Pillai (AED LBS Support) | [taginissa@acsjunior.sg](mailto:taginissa@acsjunior.sg) |
 
 
+### ADJUNCT & RELIEF TEACHERS
+
+| Name | Email |
+|---|---|
+| Mrs Josephine Chan | [leong\_yoke\_fong\_josephine@moe.edu.sg](mailto:leong_yoke_fong_josephine@moe.edu.sg) |
+| Mdm Eunice Lin | [lin\_miao\_ting\_eunice@moe.edu.sg](mailto:lin_miao_ting_eunice@moe.edu.sg) |
+| Mdm Irene Lee | [lee\_kit\_cheng@moe.edu.sg](mailto:lee_kit_cheng@moe.edu.sg) |
+| Mrs Ho-Lim Woan Jen | [lim\_woan\_jen@moe.edu.sg](mailto:lim_woan_jen@moe.edu.sg) |
+| Mrs Anne Chan | [chan\_pin\_chen@moe.edu.sg](mailto:chan_pin_chen@moe.edu.sg) |
+| Mr Aw Meng Hong | [aw\_meng\_hong@moe.edu.sg](mailto:aw_meng_hong@moe.edu.sg) |
+| Ms Pauline Chua | [pauline\_chua@moe.edu.sg](mailto:pauline_chua@moe.edu.sg) |
+| Mr Tan Siah Wee Francis | [tan\_siah\_wee\_francis@moe.edu.sg](mailto:tan_siah_wee_francis@moe.edu.sg) |
+| Mrs Wendy Tan | [wendy\_tan@moe.edu.sg](mailto:wendy_tan@moe.edu.sg) |
+| Mrs Kathleen Koh | [kathleen\_ong\_hsiuli@moe.edu.sg](mailto:kathleen_ong_hsiuli@moe.edu.sg) |
+| Mrs Yogeeindran | [gayathri\_unnikrishnan@moe.edu.sg](mailto:gayathri_unnikrishnan@moe.edu.sg) |
+| Mr Wong Leong Kiet | [wong\_leong\_kiet@moe.edu.sg](mailto:wong_leong_kiet@moe.edu.sg) |
+| Ms Hasina d/o Mustakim | [hasina\_mustakim@moe.edu.sg](mailto:hasina_mustakim@moe.edu.sg) |
+| Mdm Rie Lim Yen Tong | [rie\_lim\_yen\_tong@moe.edu.sg](mailto:rie_lim_yen_tong@moe.edu.sg) |
+| Miss Goh Sok Teng | [goh\_sok\_teng@moe.edu.sg](mailto:goh_sok_teng@moe.edu.sg) |
 
 ### SCHOOL COUNSELLOR
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l08d{background-color:#FFF;color:#21088A;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-p3qa{background-color:#FFF;color:#21088A;text-align:left;vertical-align:top}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8rcp"><span style="color:inherit;background-color:transparent">Name</span></th>
-    <th class="tg-l08d"><span style="color:inherit;background-color:transparent">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06"><span style="color:inherit;background-color:transparent">Mrs Maivilli Reshitharan</span></td>
-    <td class="tg-p3qa"><a href="mailto:maivilli_tamalingam@moe.edu.sg"><span style="text-decoration:none;color:#21088A">maivilli_tamalingam@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+
+| Name | Email |
+|---|---|
+| Mrs Maivilli Reshitharan | [maivilli\_tamalingam@moe.edu.sg](mailto:maivilli_tamalingam@moe.edu.sg) |
