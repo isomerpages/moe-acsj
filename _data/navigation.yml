@@ -55,15 +55,13 @@ links:
         url: /departments/cce/overview/
       - title: ICT
         url: /departments/ict/overview/
-      - title: "Innovation "
+      - title: Innovation
         url: /departments/innovation/overview/
       - title: Special Education Needs (SEN)
         url: /departments/special-education-needs/overview/
   - title: Our CCAs
-    url: /our-ccas/
+    url: /our-ccas/policies/
     sublinks:
-      - title: 2022 CCA REGISTRATION
-        url: /our-ccas/
       - title: CCA POLICIES
         url: /our-ccas/policies/
       - title: External CCA
