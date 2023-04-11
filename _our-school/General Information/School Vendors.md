@@ -68,10 +68,10 @@ You may contact our school bus transport directly if you have queries:
 
 **Address:**&nbsp;68 Lorong 16 Geylang #05-06&nbsp;Association Building S (398889)
 
-Application Form for School Bus 2022 **[\](/files/form1.pdf)**<br>
-Application Form for Transport After CCA/Supp Class 2022 **[\](/files/form2.pdf)**<br>
-Application Form for School Bus 2023 **[\](/files/form3.pdf)**<br>
-pplication Form for Transport After CCA/Supp Class 2023 **[\](/files/form4.pdf)**
+Application Form for School Bus 2022 **[Download here](/files/form1.pdf)**<br>
+Application Form for Transport After CCA/Supp Class 2022 **[Download here](/files/form2.pdf)**<br>
+Application Form for School Bus 2023 **[Download here](/files/form3.pdf)**<br>
+Application Form for Transport After CCA/Supp Class 2023 **[Download here](/files/form4.pdf)**
 
 
 The completed form can be submitted via the following options:  
