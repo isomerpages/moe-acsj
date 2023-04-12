@@ -37,3 +37,13 @@ AMOY STREET
 A handbill was posted advertising Rev Oldham's classes.&nbsp;**On the 1st of March 1886, the Anglo-Chinese School opened with 13 sons of these Chinese businessmen.**&nbsp;The school opened its doors in a rented shophouse on 70 Amoy Street.
 
 Among the first pupils to be enrolled were Koh Kim Beng, Ong Soon Tee, Lim Tay Bee, Tan Cheng Tit and Tan Cheng Kee.
+<br clear="right"><br>
+
+<img align="left" style="width:40%" src="/images/episcopal.jpg">
+
+15 NOVEMBER 1886<br>
+COLEMAN STREET
+
+The school&nbsp;**moved to Coleman Street on 15 November 1886**. 28 names made up the first roll at Coleman Street.
+
+The first building was erected at an expense of about $4,000. The new building had two storeys and a "footprint" of approximately 22.6m x 18.3m.
