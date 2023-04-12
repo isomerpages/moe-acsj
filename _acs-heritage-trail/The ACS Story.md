@@ -103,3 +103,12 @@ As enrolment continued to grow steadily, the&nbsp;**premises at Coleman Street w
 As such, the building at Cairnhill was&nbsp;**purchased for approximately $115,000.**&nbsp;This sum was raised through a campaign run by Rev Peach. Some of the principal donors of this sum were the Government, Mr Lim Peng Siang, Mr Tan Chin Tuan and Mr Tan Kah Kee.
 
 The building was designed in a "semi-Chinese style" and was described as "unusual in appearance but very attractive". The new building was&nbsp;**officially opened on 17 November 1928.**
+
+#### 1942 ------- 1945
+
+**JAPANESE OCCUPATION**
+
+After the school moved to Cairnhill, studies were interrupted due to the Japanese occupation.<br>
+**\-LEARN MORE ABOUT THE JAPANESE OCCUPATION IN SINGAPORE**
+
+<p align="left"> <b>1950's</b> </p>
