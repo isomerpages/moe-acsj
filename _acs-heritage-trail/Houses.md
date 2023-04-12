@@ -49,3 +49,23 @@ Working very closely with the Methodist Mission, he helped to acquire the land a
 During his lifetime, Tan Sri Lee's benevolence to ACS was marked by two major donations - the Lee Kuo Chuan Auditorium of Barker Road in memory of his father in 1950 and later on, the building at the Lee Kong Chian block of Barker Road. The Lee Foundation, set up by Dr Lee's father in 1952, served as a platform for further philanthropic work.
 
 Dr Lee Seng Gee made it his legacy to continue this tradition of contributing to the society from which one benefited. The Lee Foundation continues to donate generously to the ACS family of schools.
+
+**SHAW VEE MENG HOUSE**
+
+<img align="left" style="width:49%" src="/images/shaw-vee-meng.jpg">
+
+**Dr Shaw Vee Meng**&nbsp;is the Chairman of the Shaw Foundation. He is the elder son of Sir Run Run Shaw and is an ACSian. He is also the Chairman of The Shaw Organisation Pte Ltd. The Shaw Foundation was set up by Tan Sri Dr Runme Shaw and Sir Run Run Shaw in 1957. The Shaw Foundation is one of the largest philanthropic organizations in the world, distributing generously to various fields of education, welfare, medicine and heritage.
+
+In 1970, Shaw Foundation's financed the new Olympic-sized pool, Shaw Pool, at the ACS at Barker Road, making it the first school in Singapore to own such a sporting facility. In later years, the Shaw Foundation also funded the building of one block of classrooms, named Shaw Block in the old Barker Road Campus and the Shaw Library at ACS (Independent).
+
+To this day, the Shaw Foundation continues to make generous donations to the ACS family of Schools.
+
+<p align="right"><b>TAN CHIN TUAN HOUSE</b></p>
+
+<img align="right" style="width:49%" src="/images/tan-chin-tuan.jpg">
+
+**Tan Sri Tan Chin Tuan**, an ACSian, set up the Tan Foundation in 1976.
+
+In 1950, Tan Sri Tan Chin Tuan played a significant role in the Building Committee and gave generously to the construction of the original Barker Road Campus. Today, his generosity to his alma mater, Anglo-Chinese School, is commemorated in the gift of the Tan Chin Tuan Hall, the Tan Cheng Siong Theatre at Barker Road, the Tan Chin Tuan Auditoriums at ACS (Independent) and at Anglo-Chinese Junior College, and the numerous scholarships awarded to outstanding students at both ACS (Independent) and Anglo-Chinese Junior College and named after ACS pioneers.
+
+A magnanimous philanthropist, an astute businessman and a distinguished civic leader with an impeccable record of public service to Singapore, Tan Sri Tan Chin Tuan was well-known for his integrity and compassion. He had been the benefactor, in many cases anonymously, of a host of charitable and educational institutions. He represents the values of kindness and dedication and has become a powerful symbol of the spirit of Singapore's early pioneers.
