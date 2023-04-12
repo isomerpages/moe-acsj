@@ -93,3 +93,19 @@ People's Action Party's Lee Kuan Yew exchanging greetings with Labour Front Part
 <br clear="left">
 
 #### <center>1950s-1960s<br>THE TURBULENT YEARS</center>
+
+<img align="left" style="width:49%" src="/images/turbulent-years-img1.png">
+
+1950\. Mariah Hertogh riots._Kenneth Chia Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
+<p align="right"> <b>ACS BEYOND THE TEXTBOOK</b> <br>"Of the visual aids used in schools, excursions are probably the most valuable because they deal with things in their natural situations. Every trip supplements the class instruction. We take the classroom to the museum, to the factory, or to a municipal department where the pupils may obtain first-hand contact with the subject under study." - Mr Ang Cheng Kim,&nbsp;_ACS Magazine_&nbsp;circa 1950s</p>
+
+<img align="left" style="width:49%" src="/images/turbulent-years-img2.png">
+
+1955\. Hock Lee bus riots._Kenneth Chia Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
+<p align="right"> <b>1955</b> <br>With the&nbsp;Change of Nomenclature of class levels, Coleman Street held Primary 1 to 5 classes, while Barker Road held Primary 1 to 6 classes. In the following year, both campuses functioned as six-level Primary schools.
+
+A unique experience awaited the boys when the school celebrated Founder's Day with pupils and teachers gathering under the "Old Mango Tree" as the auditorium was being used by the secondary school. This lack of space did not deter those in the school, but instead gave them the opportunity to celebrate in a unique setting.</p>
