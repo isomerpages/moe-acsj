@@ -109,3 +109,14 @@ People's Action Party's Lee Kuan Yew exchanging greetings with Labour Front Part
 <p align="right"> <b>1955</b> <br>With the&nbsp;Change of Nomenclature of class levels, Coleman Street held Primary 1 to 5 classes, while Barker Road held Primary 1 to 6 classes. In the following year, both campuses functioned as six-level Primary schools.
 
 A unique experience awaited the boys when the school celebrated Founder's Day with pupils and teachers gathering under the "Old Mango Tree" as the auditorium was being used by the secondary school. This lack of space did not deter those in the school, but instead gave them the opportunity to celebrate in a unique setting.</p>
+
+<img align="left" style="width:49%" src="/images/turbulent-years-img3.png">
+
+1956\. Chinese Middle School riots._Kenneth Chia Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
+<img align="right" style="width:49%" src="/images/turbulent-years-img7.png">
+
+The clock tower, the sentinel of Barker Road, circa 1955.
+<br clear="right">
+
