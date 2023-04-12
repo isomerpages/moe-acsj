@@ -88,3 +88,18 @@ DUNEARN HOUSE
 In 1925, the Methodist Church purchased Dunearn House from Mdm Tan Teck Neo, the widow of Mr Lee Choon Guan, to house missionaries and students of Anglo-Chinese School.
 
 On 14 December 1926, the Rev and Mrs F. H. Sullivan, together with the Oldham Hall boys,&nbsp;**marched from the "Bellevue" location to their new home at "Dunearn House", at Barker Road.**
+
+<p align="right"> <b>1928</b> </p>
+
+<img align="left" style="width:49%" src="/images/vballatcairn.jpg">
+
+1928-1950<br>
+CAIRNHILL
+
+As enrolment continued to grow steadily, the&nbsp;**premises at Coleman Street were once again congested**. It was initially proposed that a new primary school be built at Oldham Lane. However, soil conditions were not favourable for the construction of a concrete building.
+
+<img align="right" style="width:49%" src="/images/chitemple.jpg">
+
+As such, the building at Cairnhill was&nbsp;**purchased for approximately $115,000.**&nbsp;This sum was raised through a campaign run by Rev Peach. Some of the principal donors of this sum were the Government, Mr Lim Peng Siang, Mr Tan Chin Tuan and Mr Tan Kah Kee.
+
+The building was designed in a "semi-Chinese style" and was described as "unusual in appearance but very attractive". The new building was&nbsp;**officially opened on 17 November 1928.**
