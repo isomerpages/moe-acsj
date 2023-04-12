@@ -2,7 +2,6 @@ collections:
   acs-heritage-trail:
     output: true
     order:
-      - The ACS Heartbeat.md
       - The ACS Story.md
       - Methodist Church Heritage.md
       - Mission, Vision and Values.md
@@ -11,3 +10,4 @@ collections:
       - ACSian Character.md
       - The ACSian Heritage.md
       - Houses.md
+      - The ACS Heartbeat.md
