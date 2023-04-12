@@ -160,3 +160,14 @@ SPORTS COMPLEX<br>
 The new Sports Complex was completed in 1968. This allowed&nbsp;**swimming to become a regular part of the Physical Education curriculum.**
 
 <p align="left"> <b>1980's</b> </p>
+
+<img align="right" style="width:49%" src="/images/cairnhillcampus.jpg">
+
+1984-1985<br>
+MOVE TO CAIRNHILL
+
+Some of the classrooms in Barker Road were demolished to make way for Oldham Hall. To make up for the loss of these classrooms,&nbsp;**some of the boys moved to the new campus on Cairnhill provided by the Ministry of Education (MOE).**
+
+$4.3 million needed to be raised to complete the redevelopment of the Cairnhill campus. This was on top of the $6.7 million grant from the MOE. Shaw Foundation donated $1.5 million. The rest of the money was donated by Parents, Old Boys and through a fund-raising dinner and swimathon.
+
+By early 1984, one section of the redevelopment project was already completed, allowing some of the boys to move to Cairnhill.
