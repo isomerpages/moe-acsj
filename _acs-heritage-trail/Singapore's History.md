@@ -138,3 +138,11 @@ Lee Kuan Yew stands at attention with the newly-elected members of government at
 <br clear="left">
 
 <p align="right"> <b>1958</b> <br>A workshop and elementary science room for Primary 6 was completed. It also served as the teachers’ room so it was no wonder that the teachers were elated especially when the pupils donated towards the cost of installing a water tap in the room. Simple nature study experiments were conducted in the new facility. A science garden was also set up for practical work and to make simple observations on plant life and insects.</p>
+
+#### <center>1963-1965<br>MERGER AND SEPARATION</center>
+
+<img align="left" style="width:49%" src="/images/merger-and-separation-img1.png">
+
+Prime Minister Lee Kuan Yew speaking at the Malaysian Solidarity Convention on the formation of a non-communal “Malaysian Malaysia” held in National Theatre._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
