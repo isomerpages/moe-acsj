@@ -3,7 +3,7 @@ title: The ACS Story
 permalink: /acs-heritage-trail/acs-story/
 description: ""
 ---
-## GRAND ENDEAVOURS
+#### GRAND ENDEAVOURS
 
 <img align="left" style="width:49%" src="/images/grandende.png">
 
@@ -12,6 +12,8 @@ Our school's history is rich and exciting. The following timeline provides you a
 **GROW OLD ALONG WITH ME, THE BEST IS YET TO BE.**
 <br clear="left">
 
+<p align="right"> <b>1885</b> </p>
+
 <img align="left" style="width:49%" src="/images/bishop.jpg">
 
 7 FEBRUARY 1885<br>
@@ -19,3 +21,8 @@ ARRIVAL IN SINGAPORE
 
 Upon arriving in Singapore, Rev Oldham was struck by the sight of the many Chinese boys roaming the streets of Chinatown. One day, while on a stroll along one of the Chinatown streets, he came across a signboard bearing the caption&nbsp;**"The Celestial Reasoning Association"**
 
+#### LECTURE ON ASTRONOMY
+
+Rev Oldham was invited to give a lecture on astronomy to Chinese businessmen at the club dinner. The next morning,&nbsp;**Rev Oldham received a request from a member of the Singapore Legislative Council — Mr Tan, to be his English Tutor.**&nbsp;Rev Oldham accepted the appointment and soon, Mr Tan began to "make finer English speeches than he had been thought capable of."
+
+Word of the success of Rev Oldham's English lessons started to spread. Rev Oldham was asked to be an English Tutor to several of the members who had attended his lecture. However,&nbsp;**Rev Oldham turned them down and offered to teach their sons instead**. The Chinese businessmen accepted this proposal and thus opened the door for Rev Oldham to begin classes for boys from influential Chinese circles.
