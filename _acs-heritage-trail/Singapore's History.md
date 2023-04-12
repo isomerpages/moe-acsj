@@ -157,3 +157,13 @@ Founding members of the Association of Southeast Asian Nations (ASEAN) in Bangko
 
 Portrait of Encik Yusof bin Ishak, the first President of the Republic of Singapore._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
 <br clear="left">
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img3.png">
+
+Singapore Airlines or SIA was the new name given to Singapore's Flagship carrier, previously known as Malaysia-Singapore Airlines or MSA._The Straits Times © Singapore Press Holdings Limited. Reprinted with permission_
+<br clear="left">
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img4.png">
+
+The port of Singapore which has become the third biggest in the world by 1979, is seen teeming with ships from all over the world._The Straits Times © Singapore Press Holdings Limited. Reprinted with permission_
+<br clear="left">
