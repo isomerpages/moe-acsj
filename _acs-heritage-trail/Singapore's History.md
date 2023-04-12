@@ -193,3 +193,18 @@ Swearing-In Ceremony of Prime Minster Lee Hsien Loong, shaking hands with Minist
 <br clear="left">
 
 <p align="right"> <b>1999</b> <br>ACJS was renamed Anglo-Chinese School (Junior), ACPS was renamed Anglo-Chinese School (Primary) and the secondary school was renamed ACS (Barker Road).<br><br>The school witnessed its first-ever one-hour musical - "Ming Lee and the Magic Tree" put together by the Drama Club, Choir and Ensemble. It played to packed audiences for three nights in July at the school's Shaw Auditorium.</p>
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img8.png">
+
+The opening ceremony of Singapore 2010 Youth Olympic Games at TheFloat@Marina Bay._Ministry of Information and the Arts Collection, courtesy of National Archives Singapore_
+<br clear="left">
+
+<img align="right" style="width:49%" src="/images/building-new-nation-img11.png">
+<br clear="right">
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img9.png">
+
+The HSBC rain vortex, a stunning feature at Jewel Changi Airport.&nbsp;_Matteo Morando / CC-BY-SA-3.0_
+<br clear="left">
+
+<p align="right"> <b>2009</b> <br>ACS (Junior) started classes at its present home&nbsp;at Winstedt Road.</p>
