@@ -181,3 +181,15 @@ Testing out the Mass Rapid Transit (MRT) with President Wee Kim Wee and the Firs
 
 President Wee Kim Wee at the Swearing-In of Goh Chok Tong as Prime Minister at City Hall Chamber._Ministry of Information and the Arts Collection, courtesy of National Archives Singapore_
 <br clear="left">
+
+<img align="right" style="width:49%" src="/images/building-new-nation-img10.png">
+
+The&nbsp;100KM Charity Relay Run&nbsp;raised more than $100,000 which was donated to the Community Chest.
+<br clear="right">
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img7.png">
+
+Swearing-In Ceremony of Prime Minster Lee Hsien Loong, shaking hands with Minister Mentor Lee Kuan Yew while President S R Nathan looks on._Ministry of Information and the Arts Collection, courtesy of National Archives Singapore_
+<br clear="left">
+
+<p align="right"> <b>1999</b> <br>ACJS was renamed Anglo-Chinese School (Junior), ACPS was renamed Anglo-Chinese School (Primary) and the secondary school was renamed ACS (Barker Road).<br><br>The school witnessed its first-ever one-hour musical - "Ming Lee and the Magic Tree" put together by the Drama Club, Choir and Ensemble. It played to packed audiences for three nights in July at the school's Shaw Auditorium.</p>
