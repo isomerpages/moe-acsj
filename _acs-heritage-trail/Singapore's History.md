@@ -125,3 +125,16 @@ The clock tower, the sentinel of Barker Road, circa 1955.
 Merdeka Talks - Members of first All-Party mission to London, including PAP's Secretary-General Lee Kuan Yew, at Chief Minister David Marshall's office in Assembly House Singapore._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
 <br clear="left">
 
+<img align="left" style="width:49%" src="/images/turbulent-years-img5.png">
+
+A queue forms to vote at a polling station during the General Elections._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
+<p align="right"> <b>1957</b> <br>Primary 1 to 3 classes were split from ACJS at Coleman Street to form&nbsp;Anglo-Chinese Primary School (ACPS), and both schools operated as different units.</p>
+
+<img align="left" style="width:49%" src="/images/turbulent-years-img6.png">
+
+Lee Kuan Yew stands at attention with the newly-elected members of government at Singapore's first parliament meeting. The meeting was held at Parliament House at Empress Place. Then Minister of Finance and member of Parliament for Kreta Ayer, Dr Goh Keng Swee stands to the left of Lee Kuan Yew._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
+<p align="right"> <b>1958</b> <br>A workshop and elementary science room for Primary 6 was completed. It also served as the teachers’ room so it was no wonder that the teachers were elated especially when the pupils donated towards the cost of installing a water tap in the room. Simple nature study experiments were conducted in the new facility. A science garden was also set up for practical work and to make simple observations on plant life and insects.</p>
