@@ -171,3 +171,10 @@ Some of the classrooms in Barker Road were demolished to make way for Oldham Hal
 $4.3 million needed to be raised to complete the redevelopment of the Cairnhill campus. This was on top of the $6.7 million grant from the MOE. Shaw Foundation donated $1.5 million. The rest of the money was donated by Parents, Old Boys and through a fund-raising dinner and swimathon.
 
 By early 1984, one section of the redevelopment project was already completed, allowing some of the boys to move to Cairnhill.
+
+<img align="left" style="width:49%" src="/images/oldhamhall.jpg">
+
+1985<br>
+OLDHAM HALL
+
+Costing approximately $15 million, the new Oldham Hall was fully funded and when completed in 1985, was managed by the School and Barker Road Methodist Church.
