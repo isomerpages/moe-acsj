@@ -30,4 +30,8 @@ On opening day, 13 sons of Chinese businessmen started school in a rented shopho
 <img align="left" style="width:49%" src="/images/unsung.jpg">
 
 <img align="right" style="width:49%" src="/images/didyouknow3.jpg">
+<br clear="right">
 
+<br><br><br><br><br>
+
+#### <center>1942 - 1947<br>THE JAPANESE OCCUPATION</center>
