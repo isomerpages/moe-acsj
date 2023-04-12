@@ -2,4 +2,5 @@ collections:
   acs-heritage-trail:
     output: true
     order:
+      - Methodist Church Heritage.md
       - The ACS Story.md
