@@ -152,3 +152,11 @@ ANGLO-CHINESE JUNIOR SCHOOL
 The school's name was&nbsp;**officially changed**&nbsp;to Anglo-Chinese Junior School.
 
 <p align="right"> <b>1968</b> </p>
+
+<img align="left" style="width:49%" src="/images/sports-complex.png">
+
+1968<br>
+SPORTS COMPLEX<br>
+The new Sports Complex was completed in 1968. This allowed&nbsp;**swimming to become a regular part of the Physical Education curriculum.**
+
+<p align="left"> <b>1980's</b> </p>
