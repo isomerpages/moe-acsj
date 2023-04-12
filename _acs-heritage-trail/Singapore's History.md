@@ -146,3 +146,4 @@ Lee Kuan Yew stands at attention with the newly-elected members of government at
 Prime Minister Lee Kuan Yew speaking at the Malaysian Solidarity Convention on the formation of a non-communal “Malaysian Malaysia” held in National Theatre._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
 <br clear="left">
 
+#### <center>1965-PRESENT<br>BUILDING A NEW NATION</center>
