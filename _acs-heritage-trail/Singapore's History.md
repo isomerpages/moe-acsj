@@ -147,3 +147,13 @@ Prime Minister Lee Kuan Yew speaking at the Malaysian Solidarity Convention on t
 <br clear="left">
 
 #### <center>1965-PRESENT<br>BUILDING A NEW NATION</center>
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img1.png">
+
+Founding members of the Association of Southeast Asian Nations (ASEAN) in Bangkok, Thailand. From left: Foreign Ministers Thanat Khoman of Thailand, Narciso R Ramos of the Philippines, S Rajaratnam of Singapore, Tun Abdul Razak of Malaysia and Adam Malik of Indonesia._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img2.png">
+
+Portrait of Encik Yusof bin Ishak, the first President of the Republic of Singapore._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
