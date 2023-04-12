@@ -70,9 +70,21 @@ Spectators at the victory celebration at the Padang after the Japanese surrender
 
 #### <center>1948 - 1955<br>ROAD TO INDEPENDENCE<br>TOWARDS SELF-GOVERNMENT</center>
 
-<img align="left" style="width:60%" src="/images/self-govt1.jpg">
+<img align="left" style="width:60%" src="/images/road-to-independence-img1.png">
+<br><br>
+A van educating voters on different aspects of the General Elections._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
 
 #### 1949
 
 Primary and Middle schools at Coleman Street merged to become&nbsp;Anglo-Chinese Junior School.
 
+#### 1951
+
+The Junior School&nbsp;Split into 2 Campuses, with some classes at Coleman Street and 6 standards at Barker Road.
+
+One of the first things the school did upon its move to Barker Road in 1951 was to organise a Combined Concert with the Junior School at Coleman Street. This celebration of the move was followed by a big party to celebrate the Coronation of Queen Elizabeth II in 1952. Festivities included processions, fireworks and parties.
+
+Life for the Barker Road Juniors revolved around studies, examinations, sports, chapel services, and food and fun in the tuckshop.
+
+<img align="left" style="width:49%" src="/images/eng6.jpeg">
