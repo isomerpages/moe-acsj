@@ -47,3 +47,11 @@ COLEMAN STREET
 The school&nbsp;**moved to Coleman Street on 15 November 1886**. 28 names made up the first roll at Coleman Street.
 
 The first building was erected at an expense of about $4,000. The new building had two storeys and a "footprint" of approximately 22.6m x 18.3m.
+
+#### Did you know?
+
+<img align="right" style="width:49%" src="/images/didyouknow.jpg">
+<br><br><br><br>
+Miss Sophia Blackmore also stayed in these quarters in 1887 when she arrived in Singapore.
+<br clear="right">
+
