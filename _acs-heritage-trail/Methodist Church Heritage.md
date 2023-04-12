@@ -9,7 +9,8 @@ Founded in 1885, the Methodist Church in Singapore (MCS) is the largest Protesta
 
 #### CAIRNHILL METHODIST CHURCH
 
-<img align="right" style="width:49%" src="/images/cairnmap">
+<img align="right" style="width:49%" src="/images/cairnmap.jpg">
 
 The seed was sown on 23 January 1994, at the Centennial Thanksgiving Service of Kampong Kapor Methodist Church (KKMC) when KKMC members were challenged to step out of their comfort zones and consider planting a new preaching point.
 
+In 1995, 15 brave KKMC members pursued that vision with great intensity and passion. A year later, on 6 October 1996, the first worship service was held at Cairnhill Chapel, a new preaching point located in Anglo-Chinese School (Junior).
