@@ -2,5 +2,6 @@ collections:
   acs-heritage-trail:
     output: true
     order:
+      - Mission, Vision and Values.md
       - The ACS Story.md
       - Methodist Church Heritage.md
