@@ -31,3 +31,21 @@ It was his personal initiative as an important leader in the Methodist Conferenc
 **Mr Tan Kah Kee**&nbsp;was a folk hero, not only in Singapore but also in the Asean region and in China. A visionary, he was a pioneer industrialist, philanthropist, social reformer and, above all, a patriarch. Mr Tan was keenly interested in education and had given large donations to the Anglo-Chinese School and the then proposed Anglo-Chinese College.
 <br clear="right">
 
+**CHEONG KOON SENG HOUSE**
+
+<img align="left" style="width:49%" src="/images/cheong-koon-seng.jpg">
+
+**Mr Cheong Koon Seng**&nbsp;was for many years the President of ACSOBA. One of the earliest ACSians he joined ACS in 1891. In the 1934 ACS Magazine, Mr Cheong was memorialized as&nbsp;"a genial friend, a sound businessman and a loyal old boy of the school to which he had rendered valuable and ungrudging help."
+
+Working very closely with the Methodist Mission, he helped to acquire the land at Barker Road where the ACS (Barker Road) complex now stands.
+<br clear="left">
+
+<p align="right"><b>LEE SENG GEE HOUSE</b></p>
+
+<img align="right" style="width:49%" src="/images/lee-seng-gee.jpg">
+
+**Dr Lee Seng Gee**&nbsp;was the Chairman of the Lee Foundation. He was the Chairman of Lee Rubber Pte Ltd and the Lee Group of Companies.
+
+During his lifetime, Tan Sri Lee's benevolence to ACS was marked by two major donations - the Lee Kuo Chuan Auditorium of Barker Road in memory of his father in 1950 and later on, the building at the Lee Kong Chian block of Barker Road. The Lee Foundation, set up by Dr Lee's father in 1952, served as a platform for further philanthropic work.
+
+Dr Lee Seng Gee made it his legacy to continue this tradition of contributing to the society from which one benefited. The Lee Foundation continues to donate generously to the ACS family of schools.
