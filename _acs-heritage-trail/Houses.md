@@ -17,3 +17,10 @@ Oldham House was named after&nbsp;**Bishop William F Oldham**&nbsp;who founded A
 Thoburn House was named after&nbsp;**Bishop Dr James Thoburn**. He was responsible for initiating and accompanying the pioneer mission to Singapore. He (and Bishop Oldham) were responsible in the setting up of the Methodist Church as a Mission in Singapore in 1885. Bishop Dr Thoburns vision (and Bishop Oldham) made possible the birth of ACS. Had it not been for him, there might not have been an ACS.
 
 It was his personal initiative as an important leader in the Methodist Conference in India that resulted in the planting of the first Methodist Church in Singapore in 1885.</p>
+
+**GOH HOOD KENG HOUSE**
+
+<img align="left" style="width:49%" src="/images/goh-hood-keng.jpg">
+
+**Rev Goh Hood Keng**&nbsp;was one of the most remarkable ACSians. He taught for about 20 years in ACS and distinguished himself as one of the most esteemed teachers of the school. He was the first Singaporean ordained Methodist Minister. As a minister of the Methodist Church, he pastured the Straits Chinese Methodist Church (Kampong Kapor Methodist Church) for nearly 40 years until he retired in 1952. As a preacher, Bishop Doraisamy considered him a “legend before his time”. Combining his gift of teaching with that of preaching was perhaps why the School named one of the Houses after him.
+
