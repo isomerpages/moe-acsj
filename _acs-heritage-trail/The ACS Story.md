@@ -68,3 +68,23 @@ It was also at Coleman Street that the seeds which later bloomed into Oldham Hal
 <br clear="left"><br><br>
 
 <p align="right"> <b>1887</b> </p>
+
+<img align="left" style="width:60%" src="/images/oldhamhall.jpg">
+
+1 APRIL 1897<br>
+BELLEVUE
+
+Soon, the premises at Coleman Street were overtaxed and $12,000 was raised with the help of&nbsp;**Mr Tan Jiak Kim**&nbsp;for the purchase of Bellevue, an old bungalow situated at the end of Oldham Lane. By 1 April 1897, the new Bellevue premises were completed. Bellevue served as missionary quarters and the boarding department for the next few years.
+
+In 1896, Rev Kelso, the School Principal, decided on the name "Bellevue" for the boys' boarding house.
+
+<p align="left"> <b>1926</b> </p>
+
+<img align="right" style="width:49%" src="/images/dunearnhse.jpg">
+
+14 DECEMBER 1926<br>
+DUNEARN HOUSE
+
+In 1925, the Methodist Church purchased Dunearn House from Mdm Tan Teck Neo, the widow of Mr Lee Choon Guan, to house missionaries and students of Anglo-Chinese School.
+
+On 14 December 1926, the Rev and Mrs F. H. Sullivan, together with the Oldham Hall boys,&nbsp;**marched from the "Bellevue" location to their new home at "Dunearn House", at Barker Road.**
