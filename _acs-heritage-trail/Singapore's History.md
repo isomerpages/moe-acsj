@@ -174,3 +174,10 @@ The port of Singapore which has become the third biggest in the world by 1979, i
 
 Testing out the Mass Rapid Transit (MRT) with President Wee Kim Wee and the First Lady._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
 <br clear="left">
+
+<p align="right"> <b>1986</b> <br>ACS celebrated its Centenary, through a series of events, which united all four schools comprising the Junior College, the Secondary, the Junior and Primary schools.<br><br>Several thousands of ACSians from all units went to East Coast Park to help pick up litter under the event&nbsp;"Operation Clean Beach".</p>
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img6.png">
+
+President Wee Kim Wee at the Swearing-In of Goh Chok Tong as Prime Minister at City Hall Chamber._Ministry of Information and the Arts Collection, courtesy of National Archives Singapore_
+<br clear="left">
