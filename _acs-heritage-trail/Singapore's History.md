@@ -43,3 +43,28 @@ Lieutenant General Percival (right) and other British officers heading to Ford F
 <img align="right" style="width:49%" src="/images/japanese-occupation-img5.png">
 
 A cartoon by Tow Siang Ling which appeared in the last pre-war issue of the School Magazine in 1941._Hearts, Hopes &amp; Aims: The Spirit of the Anglo-Chinese School, 1986_
+
+<img align="left" style="width:49%" src="/images/pplofcourage.jpg">
+<br>
+
+**ACS STORIES DURING WAR TIME**
+
+"The boys at Cairnhill were told to economise… So the boys are resorting to extremely small handwriting in order to save valuable paper. Only the hawkers in the tiffin shed are not cursing the war… They are secretly hoping that it will continue for some time yet because the boys have economised in regard to paper, concerts and bus fares, only to spend more in the tiffin shed." - As told by Cecil Wong in&nbsp;_Hearts, Hopes &amp; Aims_
+
+<img align="right" style="width:49%" src="/images/didyouknow4.jpg">
+<br clear="right">
+
+<img align="left" style="width:49%" src="/images/japanese-occupation-img2.png">
+
+The British at the Surrendering Ceremony on 15 February 1942. The Ceremony was conducted at the Ford Factory Building in Upper Bukit Timah Road. Representing the Japanese was General Tomoyuki Yamashita while Lieutenant General Perceival represented the British._Lim Kheng Chye Collection from Shashin Shuho, courtesy of National Archives of Singapore_
+
+<img align="left" style="width:49%" src="/images/japanese-occupation-img3.png">
+
+An announcement being made at the victory celebration at the Padang after the Japanese surrendered._David Ng collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
+<img align="left" style="width:49%" src="/images/japanese-occupation-img4.png">
+
+Spectators at the victory celebration at the Padang after the Japanese surrender._David Ng collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
