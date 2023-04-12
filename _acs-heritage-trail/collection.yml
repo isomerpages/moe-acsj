@@ -1,4 +1,5 @@
 collections:
   acs-heritage-trail:
     output: true
-    order: []
+    order:
+      - The ACS Story.md
