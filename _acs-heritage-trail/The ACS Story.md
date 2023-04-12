@@ -65,3 +65,6 @@ The building was the&nbsp;**home of the pastor-principal**, and also a&nbsp;**ch
 In July 1893, a new front section was built with a grant of $3,000. This allowed the school to&nbsp;**double its capacity to 400 pupils housed under one roof.**
 
 It was also at Coleman Street that the seeds which later bloomed into Oldham Hall and Nind Home were sown. Here, Rev Oldham took in students whose parents needed help caring for them while they were out of town.
+<br clear="left"><br><br>
+
+<p align="right"> <b>1887</b> </p>
