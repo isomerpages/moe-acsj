@@ -69,3 +69,10 @@ Spectators at the victory celebration at the Padang after the Japanese surrender
 <br clear="left">
 
 #### <center>1948 - 1955<br>ROAD TO INDEPENDENCE<br>TOWARDS SELF-GOVERNMENT</center>
+
+<img align="left" style="width:60%" src="/images/self-govt1.jpg">
+
+#### 1949
+
+Primary and Middle schools at Coleman Street merged to become&nbsp;Anglo-Chinese Junior School.
+
