@@ -130,3 +130,23 @@ The new building boasted 21 spacious classrooms, a 1,200 seater assembly hall an
 <img align="right" style="width:49%" src="/images/acsspirit.jpg">
 
 For the next 50 years, the Barker Road campus served the Secondary School and the Post School Certificate/Pre-University classes. Through the new Post-School Certificate Classes,&nbsp;**girls were admitted for the first time in ACS.**
+
+#### Did you know?
+  
+The land on which Barker Road sits was once owned by Mrs Lee Choon Guan, the daughter of Mr Tan Keong Saik, one of Rev Oldham's earliest supporters.
+
+Mrs Lee and her sisters were tutored at home by a teacher provided by Miss Sophia Blackmore. It was purchased for $85,000.
+
+1951<br>
+PRIMARY SCHOOL ENROLMENT
+
+<img align="right" style="width:49%" src="/images/acps1959.jpg">
+
+During this time, the primary school enrolment at ACS was growing. A group of boys were moved from the Coleman Street campus to Barker Road.&nbsp;**Mr Thio Chan Bee**&nbsp;took charge of the lower school.
+
+Life at school revolved around lessons, games, sports and chapel services at the Oldham Hall building. There was also a small plot of land set aside for a gardening project.
+
+1957<br>
+ANGLO-CHINESE JUNIOR SCHOOL
+
+The school's name was&nbsp;**officially changed**&nbsp;to Anglo-Chinese Junior School.
