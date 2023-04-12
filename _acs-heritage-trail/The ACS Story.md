@@ -121,3 +121,9 @@ BARKER ROAD
 The building of Barker Road was&nbsp;**launched in 1948 by Rev Dr Herbert Peterson**&nbsp;and was&nbsp;**declared open by then Governor of Singapore, Sir Franklin Gimson.**
 
 Since 1950, Barker Road has been known as&nbsp;**The Hill.**
+
+<img align="left" style="width:49%" src="/images/completed1950.jpg">
+
+The new building boasted 21 spacious classrooms, a 1,200 seater assembly hall and up-to-date science laboratories. The property at Barker Road also included some missionary residences made available by the Methodist Mission.
+<br clear="left">
+
