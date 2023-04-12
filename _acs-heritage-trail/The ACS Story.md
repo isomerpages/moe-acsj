@@ -185,3 +185,16 @@ Costing approximately $15 million, the new Oldham Hall was fully funded and when
 PECK HAY ROAD CAMPUS
 
 The campus was officially opened on 22 March 1986 by&nbsp;**Mr Shaw Vee Meng**.
+<br clear="right">
+
+<p align="right"> <b>2000's</b> </p>
+
+<img align="left" style="width:49%" src="/images/winstedt.jpg">
+
+2000<br>
+BURIED TIME-CAPSULE<br>
+In 2000, a time-capsule containing various items was buried during Founder's Day. This time-capsule was&nbsp;**opened 10 years later in 2010.**<br><br>
+
+
+2009<br>
+WINSTEDT ROAD<br>After almost 30 years at the Peck Hay Road campus,&nbsp;**classes began at Winstedt Road, the current campus.**
