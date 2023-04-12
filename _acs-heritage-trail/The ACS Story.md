@@ -127,3 +127,6 @@ Since 1950, Barker Road has been known as&nbsp;**The Hill.**
 The new building boasted 21 spacious classrooms, a 1,200 seater assembly hall and up-to-date science laboratories. The property at Barker Road also included some missionary residences made available by the Methodist Mission.
 <br clear="left">
 
+<img align="right" style="width:49%" src="/images/acsspirit.jpg">
+
+For the next 50 years, the Barker Road campus served the Secondary School and the Post School Certificate/Pre-University classes. Through the new Post-School Certificate Classes,&nbsp;**girls were admitted for the first time in ACS.**
