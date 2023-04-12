@@ -68,3 +68,4 @@ An announcement being made at the victory celebration at the Padang after the Ja
 Spectators at the victory celebration at the Padang after the Japanese surrender._David Ng collection, courtesy of National Archives of Singapore_
 <br clear="left">
 
+#### <center>1948 - 1955<br>ROAD TO INDEPENDENCE<br>TOWARDS SELF-GOVERNMENT</center>
