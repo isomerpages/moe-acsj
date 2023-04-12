@@ -112,3 +112,12 @@ After the school moved to Cairnhill, studies were interrupted due to the Japanes
 **\-LEARN MORE ABOUT THE JAPANESE OCCUPATION IN SINGAPORE**
 
 <p align="left"> <b>1950's</b> </p>
+
+<img align="right" style="width:49%" src="/images/clocktower.jpg">
+
+29 SEPTEMBER 1950<br>
+BARKER ROAD
+
+The building of Barker Road was&nbsp;**launched in 1948 by Rev Dr Herbert Peterson**&nbsp;and was&nbsp;**declared open by then Governor of Singapore, Sir Franklin Gimson.**
+
+Since 1950, Barker Road has been known as&nbsp;**The Hill.**
