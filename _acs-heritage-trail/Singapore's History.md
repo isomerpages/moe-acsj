@@ -167,3 +167,10 @@ Singapore Airlines or SIA was the new name given to Singapore's Flagship carrier
 
 The port of Singapore which has become the third biggest in the world by 1979, is seen teeming with ships from all over the world._The Straits Times © Singapore Press Holdings Limited. Reprinted with permission_
 <br clear="left">
+
+<p align="right"> <b>1984</b> <br>The Coleman Street and Barker Road ACJS Classes were reunited and moved to its own campus at&nbsp;Peck Hay Road.</p>
+
+<img align="left" style="width:49%" src="/images/building-new-nation-img5.png">
+
+Testing out the Mass Rapid Transit (MRT) with President Wee Kim Wee and the First Lady._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
