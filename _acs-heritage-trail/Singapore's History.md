@@ -87,4 +87,7 @@ One of the first things the school did upon its move to Barker Road in 1951 was 
 
 Life for the Barker Road Juniors revolved around studies, examinations, sports, chapel services, and food and fun in the tuckshop.
 
-<img align="left" style="width:49%" src="/images/eng6.jpeg">
+<img align="left" style="width:60%" src="/images/road-to-independence-img2.png">
+
+People's Action Party's Lee Kuan Yew exchanging greetings with Labour Front Party's David Marshall on Polling Day._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
