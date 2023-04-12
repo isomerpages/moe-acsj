@@ -3,6 +3,8 @@ title: Houses
 permalink: /acs-heritage-trail/houses/
 description: ""
 ---
+## OUR HEARTS OUR HOPES OUR AIMS ARE ONE
+
 **OLDHAM HOUSE**
 
 <img align="left" style="width:49%" src="/images/bishop-oldam.jpg">
