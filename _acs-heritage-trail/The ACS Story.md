@@ -150,3 +150,5 @@ Life at school revolved around lessons, games, sports and chapel services at the
 ANGLO-CHINESE JUNIOR SCHOOL
 
 The school's name was&nbsp;**officially changed**&nbsp;to Anglo-Chinese Junior School.
+
+<p align="right"> <b>1968</b> </p>
