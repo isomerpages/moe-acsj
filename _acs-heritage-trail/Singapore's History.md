@@ -91,3 +91,5 @@ Life for the Barker Road Juniors revolved around studies, examinations, sports, 
 
 People's Action Party's Lee Kuan Yew exchanging greetings with Labour Front Party's David Marshall on Polling Day._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
 <br clear="left">
+
+#### <center>1950s-1960s<br>THE TURBULENT YEARS</center>
