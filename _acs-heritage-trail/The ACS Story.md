@@ -178,3 +178,10 @@ By early 1984, one section of the redevelopment project was already completed, a
 OLDHAM HALL
 
 Costing approximately $15 million, the new Oldham Hall was fully funded and when completed in 1985, was managed by the School and Barker Road Methodist Church.
+
+<img align="right" style="width:55%" src="/images/peckhayroad.jpg">
+
+22 MARCH 1986<br>
+PECK HAY ROAD CAMPUS
+
+The campus was officially opened on 22 March 1986 by&nbsp;**Mr Shaw Vee Meng**.
