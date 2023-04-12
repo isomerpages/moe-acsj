@@ -2,10 +2,10 @@ collections:
   acs-heritage-trail:
     output: true
     order:
-      - The ACSian Heritage.md
       - The ACS Story.md
       - Methodist Church Heritage.md
       - Mission, Vision and Values.md
       - Singapore's History.md
       - School Song.md
       - ACSian Character.md
+      - The ACSian Heritage.md
