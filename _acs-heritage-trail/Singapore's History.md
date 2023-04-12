@@ -120,3 +120,8 @@ A unique experience awaited the boys when the school celebrated Founder's Day wi
 The clock tower, the sentinel of Barker Road, circa 1955.
 <br clear="right">
 
+<img align="left" style="width:49%" src="/images/turbulent-years-img4.png">
+
+Merdeka Talks - Members of first All-Party mission to London, including PAP's Secretary-General Lee Kuan Yew, at Chief Minister David Marshall's office in Assembly House Singapore._Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore_
+<br clear="left">
+
