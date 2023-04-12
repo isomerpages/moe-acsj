@@ -55,3 +55,13 @@ The first building was erected at an expense of about $4,000. The new building h
 Miss Sophia Blackmore also stayed in these quarters in 1887 when she arrived in Singapore.
 <br clear="right">
 
+<img align="right" style="width:49%" src="/images/colemanstreet.jpg">
+
+The building was the&nbsp;**home of the pastor-principal**, and also a&nbsp;**chapel**, a&nbsp;**boarding school**&nbsp;and a&nbsp;**day school**. The first staff of teachers consisted of Rev Oldham, Mrs Oldham, Mr Webb and Madden with a few local helpers.
+<br><br><br>
+
+<img align="left" style="width:49%" src="/images/colemanstreet2.jpg">
+
+In July 1893, a new front section was built with a grant of $3,000. This allowed the school to&nbsp;**double its capacity to 400 pupils housed under one roof.**
+
+It was also at Coleman Street that the seeds which later bloomed into Oldham Hall and Nind Home were sown. Here, Rev Oldham took in students whose parents needed help caring for them while they were out of town.
