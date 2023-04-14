@@ -1,5 +1,5 @@
 ---
-title: Operating Hours & Location
+title: Operating Hours &amp; Location
 permalink: /our-school/openinghours/
 description: ""
 third_nav_title: General Information
@@ -10,6 +10,7 @@ Operating Hours &amp; Location
 ==========================
 
 
+<img style="width:80%" src="/images/acsjmap.jpeg">
 
 ### School Hours
 
