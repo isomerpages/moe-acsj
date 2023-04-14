@@ -33,13 +33,8 @@ Administrative Staff
 ### OPERATIONS SUPPORT
 
 | Designation | Name |
-| --- | --- |
-| Operation Support Officer  
- | Mr&nbsp;Toh Meng Kwang  
- |
+|---|---|
+| Operation Support Officer | Mr Toh Meng Kwang |
 | Operation Support Officer | Mdm Premawathi d/o Kanasan |
-| Operation Support Officer  
- | Mr&nbsp;Chong Tuck Choong  
- |
-| Operation Support Officer  
- | Mr Ho Tin Kui |
+| Operation Support Officer | Mr Chong Tuck Choong |
+| Operation Support Officer | Mr Ho Tin Kui |
