@@ -52,7 +52,7 @@ While they learn and improve their skills, we hope to ignite their passion for l
 3\.  External Sports CCA has to be sanctioned by the Singapore School Sports Council at the Primary (e.g. Taekwondo, Gymnastics) or Secondary level (e.g. Fencing, Squash). Please refer to&nbsp;[**https://nsg.moe.edu.sg/sssc**](https://nsg.moe.edu.sg/sssc)&nbsp;for the list of recognized sports. Other sports not offered by SSSC but has a National Sports Association recognized by Singapore Sports Council may also be recognized. If the request is not approved, the Subject Head (CCA) will contact the boys within a week.<br>
 4\.  Sports offered at NSG (Primary) will be recognized as school representation, even if it is not a school CCA e.g. Taekwondo, Track &amp; Field. All other competitions that require school endorsement for participation are to be approved by HOD.<br>
 5\.  Students who specialize in sports not offered at NSG (Primary) will be allowed to represent the school in one official tournament. Approval by HOD is necessary.<br>
-6\.  Please refer to&nbsp;[https://staging.dd21a9rt7zrfv.amplifyapp.com/our-ccas/external/](https://staging.dd21a9rt7zrfv.amplifyapp.com/our-ccas/external/)&nbsp;for more details
+6\.  Please refer to&nbsp;[to this link](/our-ccas/external/)&nbsp;for more details
 
   
 
