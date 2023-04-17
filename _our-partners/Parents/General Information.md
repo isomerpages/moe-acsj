@@ -109,4 +109,4 @@ There is no streaming or banding of Boys at Primary One. Boys will be moved to t
 
 **PRIMARY SIX**
 
-**Click&nbsp;[HERE](/our-partners/Parents/psle/permalink)&nbsp;to find out more about PSLE Matters**
+**Click&nbsp;[HERE](/our-partners/parents/psle/)&nbsp;to find out more about PSLE Matters**
