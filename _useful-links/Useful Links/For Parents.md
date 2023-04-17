@@ -37,7 +37,7 @@ For Parents
     <td class="tg-s1dc"><a href="https://go.gov.sg/acsjp1orientation"><span style="text-decoration:none;color:#21088A">P1 Orientation Microsite</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-p3qa"><a href="https://acsj.moe.edu.sg/our-partners/parents/psle-matters"><span style="text-decoration:none;color:#21088A">PSLE Matters</span></a><br></td>
+    <td class="tg-p3qa"><a href="/our-partners/parents/psle/"><span style="text-decoration:none;color:#21088A">PSLE Matters</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s1dc"><a href="/files/sls%20instructions%20%20faqs.pdf"><span style="text-decoration:none;color:#21088A">SLS Instructions &amp; FAQ</span></a><br><br></td>
@@ -55,7 +55,7 @@ For Parents
     <td class="tg-s1dc"><a href="https://www.moe.gov.sg/education/syllabuses/"><span style="text-decoration:none;color:#21088A">Syllabuses</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-p3qa"><a href="http://acsj.moe.edu.sg/departments/information-n-communications-technology/useful-links"><span style="text-decoration:none;color:#21088A">Tips for Parents on Cyber Wellness</span></a></td>
+    <td class="tg-p3qa"><a href="/departments/ict/links/"><span style="text-decoration:none;color:#21088A">Tips for Parents on Cyber Wellness</span></a></td>
   </tr>
   <tr>
     <td class="tg-s1dc"><a href="http://www.nlb.gov.sg/sure/"><span style="text-decoration:none;color:#21088A">National Library Board (NLB) S.U.R.E Campaign</span></a>           <br><br></td>
