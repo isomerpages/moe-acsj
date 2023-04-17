@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /departments/pe-cca-and-aesthetics/programmes/
 description: ""
-third_nav_title: PE, CCA & Aesthetics
+third_nav_title: PE, CCA &amp; Aesthetics
 ---
 ![](/images/Sub-banner1.jpg)
 
@@ -14,13 +14,13 @@ With a variety of assembly programmes, we encourage pupils to adopt a healthy li
 
 Play@Recess activities are also organized for our pupils, where they are encouraged to participate in interactive games with their classmates, peers and teachers.
 
-Pupils have opportunities to participate in intra-school events such as the Annual Track & Field Championships, Annual Swimming Championships, Pri.1 & Pri.2 Games Day, Junior Olympics and Tennis Open. This provides pupils with the opportunity to experience competition and demonstrate values such as excellence and perseverance.
+Pupils have opportunities to participate in intra-school events such as the Annual Track &amp; Field Championships, Annual Swimming Championships, Pri.1 &amp; Pri.2 Games Day, Junior Olympics and Tennis Open. This provides pupils with the opportunity to experience competition and demonstrate values such as excellence and perseverance.
 
 <u>Programme for Active Learning (PAL)</u><br>
 PAL equips our pupils with the necessary skills and values to thrive in a fast-changing and globalised future. The programme provides exposure to our P1 and P2 pupils in two broad areas carried out on a modular basis within curriculum time:
 
-Sports (P1) and Outdoor Education (P2) <br>
-Visual and Performing Arts (P1 & P2)
+Sports (P1) and Outdoor Education (P2)&nbsp;<br>
+Visual and Performing Arts (P1 &amp; P2)
 
 <u>Physical Education (PE)</u><br>
 We aim to develop our pupils’ physical, cognitive, affective and social domains through a structured and progressive curriculum in line with the 2014 PE Syllabus. By exposing them to different types of physical activities and games, they learn new concepts and hone their skills. Through PE lessons, they are also given an opportunity to practise responsibility, discipline, sportsmanship, fair-play and team-work.
@@ -43,21 +43,21 @@ All P2 to P6 pupils undergo 10 to 15 sessions of PE (Tennis). The programme aims
 1\) fosters students' sense of identity, culture and place in society<br>
 2\) builds students' capacity to critically discern and process visual and audio information<br>
 3\) teaches students to communicate effectively in the 21st century<br>
- 4\) expands imagination and creativity 
+ 4\) expands imagination and creativity&nbsp;
  
 
 **Art**<br>
-Our Art Curriculum is designed to develop students holistically and we believe that the experience and journey of students' learning are far more important than the end product. Our Art Curriculum focuses on meaningful Art Making Processes. These are made possible with learning through **Inquiry-based learning pedagogy, Visible-Thinking Routines and learning with the 3 Art Learning Domains: See, Express and Appreciate.** 
+Our Art Curriculum is designed to develop students holistically and we believe that the experience and journey of students' learning are far more important than the end product. Our Art Curriculum focuses on meaningful Art Making Processes. These are made possible with learning through&nbsp;**Inquiry-based learning pedagogy, Visible-Thinking Routines and learning with the 3 Art Learning Domains: See, Express and Appreciate.**&nbsp;
 
-Inquiry-based learning fuels self-directed learning and encourages students to take ownership of their education or learn from their peers. Our Art tasks are engaging and allow students to **unfold knowledge independently** or through **collaborative learning.** 
+Inquiry-based learning fuels self-directed learning and encourages students to take ownership of their education or learn from their peers. Our Art tasks are engaging and allow students to&nbsp;**unfold knowledge independently**&nbsp;or through&nbsp;**collaborative learning.**&nbsp;
 
-Our curriculum ensures students are equipped with the **visual inquiry skills to discover and explore their surroundings. Our Art programs are designed to expose students to different art mediums** in 6 years of Art Education. The project themes and hands-on activities for the students are designed **based on their profiles and interest.** This build ACSians’ self-confidence in the journey of discovering their strength in Art through the 6 year program. We ensure each child discovers the best outlet to express their voice and ideas through experimentation with art mediums and materials.
+Our curriculum ensures students are equipped with the&nbsp;**visual inquiry skills to discover and explore their surroundings. Our Art programs are designed to expose students to different art mediums**&nbsp;in 6 years of Art Education. The project themes and hands-on activities for the students are designed&nbsp;**based on their profiles and interest.**&nbsp;This build ACSians’ self-confidence in the journey of discovering their strength in Art through the 6 year program. We ensure each child discovers the best outlet to express their voice and ideas through experimentation with art mediums and materials.
 
 #### <center><b>Highlights of our 6-year programme</b></center>
 
 | Level | Term 1 | Term 2 | Term 3 | Term 4 |
 |:---:|:---:|:---:|:---:|:---:|
-| 1 | **World of Colours**<br>(Drawing / Colour/ Digital Art) | **Self-Portrait**<br>(Collage, Drawing and Colour) | **Futuristic Singapore Landscape**<br>(Collage, Drawing and Colour) | **Colours of Singapore**   <br>(Drawing & Art with Recycled Items) |
+| 1 | **World of Colours**<br>(Drawing / Colour/ Digital Art) | **Self-Portrait**<br>(Collage, Drawing and Colour) | **Futuristic Singapore Landscape**<br>(Collage, Drawing and Colour) | **Colours of Singapore**   <br>(Drawing &amp; Art with Recycled Items) |
 | 2 | **Patterns Around Us**<br>(Doodling/ Drawing) | **World of Textures**<br>(Printmaking/ Collage/ Drawing) | **Futuristic Inventions**<br>(Drawing/ Collage/Art with Recycled Items) | **My Unique Sculpture**<br>(Clay/ Art with Recycled Items) |
 | <br>3 | **Life in Singapore**<br>(Drawing and Colouring) | **My Totem Poles**<br>(Drawing/ Paper Sculpture /Art with Recycled Items) | **Batik Program**<br>(Batik/ Painting) | **Self-Portrait**<br> (Digital Art) |
 | 4 | **Cubism Portrait**<br>(Drawing/ Colouring) | **P4 Ceramics Program**<br> (Ceramics)  | **Museum-Based Learning**<br>(Collage/ Drawing) | **Drawing with Scissors**<br>(Collage ) |
@@ -66,7 +66,7 @@ Our curriculum ensures students are equipped with the **visual inquiry skills t
 |
 
 **Music**<br>
-Our Music curriculum aims to develop a culture of excellence in the Arts by providing opportunities for students to develop skills in appreciating, creating and the expression in music through exposure, experience and excursions. 
+Our Music curriculum aims to develop a culture of excellence in the Arts by providing opportunities for students to develop skills in appreciating, creating and the expression in music through exposure, experience and excursions.&nbsp;
 
 Our music curriculum allows students to:
 
@@ -81,7 +81,7 @@ Various programmes and music modules are infused into our Music curriculum to pr
 | **P1** | **Trumpet** | Students are introduced to the basics of trumpet playing and musical understanding i.e. time signatures, note readings and rhythms. They will learn the notes “C, D and E” and will learn to play simple tunes. Students who possess potential in music will be invited to join our Recruit Band CCA. |
 | **P2** | **Dance** | Students are introduced to the basics of the dance genre “Popping and Locking”. They will learn simple dance steps and also have the opportunity to create their own dance moves. Students who are observed to possess potential in dance will be invited to join our dance CCA i.e. Junior Vibez. |
 |  | **Recorder Karate<br>(Beginner)** | Students are introduced to the basics of recorder playing via Recorder Karate. Students will receive “belts” as they progress up the different levels of playing. At P2, students will learn the correct posture and how to produce a good tone. They will learn the notes “G, A and B”. |
-| **P3** | **STOMP – Rhythm & Percussion** | Students are introduced to STOMP, a form of rhythmic improvisation using percussion instruments as well as objects found in our daily lives. Students will be expose to both simple and complex rhythms in this module. |
+| **P3** | **STOMP – Rhythm &amp; Percussion** | Students are introduced to STOMP, a form of rhythmic improvisation using percussion instruments as well as objects found in our daily lives. Students will be expose to both simple and complex rhythms in this module. |
 |  | **Recorder Karate<br>(Intermediate)** | Students are introduced to more notes on the recorder allowing them to play more challenging tunes. They will continue to receive “belts” as they progress up the difficulty levels of playing. |
 | **P4** | **Brazilian Samba Drumming** | Students are introduced to Brazilian Samba drumming, a musical form very similar to African drumming music such as polyrhythms and use of Call and Response. |
 |  | **Ukulele** | Students are introduced to the basics of ukulele playing. They will learn the chords “C, G, F and Am” and basic strumming patterns to accompany simple songs. |
@@ -104,15 +104,15 @@ We believe in the teaching of “World Music”, a phrase for styles of music fr
 |
 
 **Junior Superstars**<br>
-The Junior Superstars (JSS) is annual event which provides a platform for students to showcase their musical talents. It is in general a pop song singing competition with the allowance for students to accompany their singing with background music, live instruments or dance. JSS consists of four categories i.e. P3/4 Solo & Group and P5/6 Solo & Group. 
+The Junior Superstars (JSS) is annual event which provides a platform for students to showcase their musical talents. It is in general a pop song singing competition with the allowance for students to accompany their singing with background music, live instruments or dance. JSS consists of four categories i.e. P3/4 Solo &amp; Group and P5/6 Solo &amp; Group.&nbsp;
 
 The finalists of the JSS are selected through an audition process. The JSS finals are presented live at our Performing Arts Hall and the student audience get to vote for their favourite performances. We celebrate the successes of our winners by awarding them with “Finalist” and “Student Choice” trophies for their efforts.
 
 <b><u>Co-Curricular Activities (CCA)</u></b><br>
-With a wide array of CCAs, we provide every pupil with an opportunity for a meaningful experience. During the regular CCA sessions, pupils are encouraged to pursue excellence by striving for self-improvement and growth. Other than celebrating improvement in skills and knowledge, we also inculcate the necessary values and attitudes, which are essential in their preparation for future challenges. Please refer to [‘Our CCAs’](https://acsj.moe.edu.sg/our-ccas) for more information.
+With a wide array of CCAs, we provide every pupil with an opportunity for a meaningful experience. During the regular CCA sessions, pupils are encouraged to pursue excellence by striving for self-improvement and growth. Other than celebrating improvement in skills and knowledge, we also inculcate the necessary values and attitudes, which are essential in their preparation for future challenges.&nbsp;Please refer to&nbsp;[‘Our CCAs’](/our-ccas/policies/)&nbsp;for more information.
 
-<img src="/images/pe1.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pe2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pe3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/pe1.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/pe2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/pe3.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
