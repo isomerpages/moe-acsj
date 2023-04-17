@@ -4,8 +4,6 @@ permalink: /useful-links/parents/
 description: ""
 third_nav_title: Useful Links
 ---
-
-
 ![](/images/Sub-banner2.jpg)
 
 For Parents
@@ -33,7 +31,7 @@ For Parents
     <td class="tg-s1dc"><a href="https://acsj.moe.edu.sg/others/assessment-info"><span style="text-decoration:none;color:#21088A">Assessment Information</span></a><br><br></td>
   </tr>
   <tr>
-    <td class="tg-p3qa"><a href="https://acsj.moe.edu.sg/qql/slot/u188/docs/General%20Information/Handbook%20for%20P1%20Parents_final.pdf"><span style="text-decoration:none;color:#21088A">Handbook for Parents</span></a><br><br></td>
+    <td class="tg-p3qa"><a href="/files/handbook%20for%20p1%20parents_final.pdf"><span style="text-decoration:none;color:#21088A">Handbook for Parents</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-s1dc"><a href="https://go.gov.sg/acsjp1orientation"><span style="text-decoration:none;color:#21088A">P1 Orientation Microsite</span></a><br></td>
@@ -42,16 +40,16 @@ For Parents
     <td class="tg-p3qa"><a href="https://acsj.moe.edu.sg/our-partners/parents/psle-matters"><span style="text-decoration:none;color:#21088A">PSLE Matters</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s1dc"><a href="https://acsj.moe.edu.sg/qql/slot/u188/docs/Departments/ICT/SLS%20Instructions%20%20FAQs.pdf"><span style="text-decoration:none;color:#21088A">SLS Instructions &amp; FAQ</span></a><br><br></td>
+    <td class="tg-s1dc"><a href="/files/sls%20instructions%20%20faqs.pdf"><span style="text-decoration:none;color:#21088A">SLS Instructions &amp; FAQ</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-p3qa"><a href="https://go.gov.sg/acsjsls" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#21088A">SLS e-Form for Password Reset or Unlock (Account-Related)</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-c8d2"><a href="https://acsj-moe-edu-sg-admin.cwp.sg/qql/slot/u188/docs/HBL/2021HBL/SLS%20Password%20Reset%20Students.pdf"><span style="text-decoration:none;color:#21088A">SLS Password Reset Guide</span></a><br></td>
+    <td class="tg-c8d2"><a href="/files/sls%20password%20reset%20students.pdf"><span style="text-decoration:none;color:#21088A">SLS Password Reset Guide</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-p3qa"><a href="https://acsj-moe-edu-sg-admin.cwp.sg/qql/slot/u188/docs/Announcements%202021/MOE_SBB_ENG_revised%201%20Mar%202018.pdf"><span style="text-decoration:none;color:#21088A">Subject Based Banding</span></a></td>
+    <td class="tg-p3qa"><a href="/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf&quot;"><span style="text-decoration:none;color:#21088A">Subject Based Banding</span></a></td>
   </tr>
   <tr>
     <td class="tg-s1dc"><a href="https://www.moe.gov.sg/education/syllabuses/"><span style="text-decoration:none;color:#21088A">Syllabuses</span></a><br></td>
@@ -77,4 +75,4 @@ For Parents
 Parents Gateway
 ---------------
 
- [FAQ on Parent's Gateway](https://acsj.moe.edu.sg/qql/slot/u376/FAQ%20on%20Parent's%20Gateway.pdf)
+&nbsp;[FAQ on Parent's Gateway](/files/faq%20on%20parent's%20gateway.pdf)
