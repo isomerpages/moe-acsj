@@ -197,4 +197,4 @@ In 2000, a time-capsule containing various items was buried during Founder's Day
 
 
 2009<br>
-WINSTEDT ROAD<br>Afte almost 30 years at the Peck Hay Road campus,&nbsp;**classes began at Winstedt Road, the current campus.**
+WINSTEDT ROAD<br>After almost 30 years at the Peck Hay Road campus,&nbsp;**classes began at Winstedt Road, the current campus.**
