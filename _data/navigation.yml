@@ -1,13 +1,89 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logowhitebg.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our School
+    url: /our-school/
+    sublinks:
+      - title: School History
+        url: /our-school/
+      - title: Vision, Mission & Values
+        url: /values/
+      - title: School Motto
+        url: /motto/
+      - title: School Crest
+        url: /crest/
+      - title: School Song
+        url: /schoolsong/
+      - title: School Rules
+        url: /rules/
+      - title: Financial Information
+        url: /finance/
+      - title: Niche Programmes
+        url: /our-school/thoburn/
+      - title: P1 Registration Information
+        url: /p1/
+      - title: General Information
+        url: /our-school/openinghours/
+      - title: Supporting Students
+        url: /supportingstudents/
+      - title: Pupil Recognition
+        url: /pupilrecognition/
+  - title: Our ACSJ Family
+    url: /our-acsj-family/
+    sublinks:
+      - title: School Leaders
+        url: /our-acsj-family/
+      - title: Management Team
+        url: /management/
+      - title: Academic Staff
+        url: /academicstaff/
+      - title: Administrative Staff
+        url: /administrativestaff/
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/chinese/
+      - title: Mathematics
+        url: /departments/mathematics/overview/
+      - title: Science
+        url: /departments/science/overview/
+      - title: PE, CCA & Aesthetics
+        url: /departments/pe-cca-and-aesthetics/
+      - title: CCE
+        url: /departments/cce/overview/
+      - title: ICT
+        url: /departments/ict/overview/
+      - title: Innovation
+        url: /departments/innovation/overview/
+      - title: Special Education Needs (SEN)
+        url: /departments/special-education-needs/overview/
+  - title: Our CCAs
+    url: /our-ccas/policies/
+    sublinks:
+      - title: CCA POLICIES
+        url: /our-ccas/policies/
+      - title: External CCA
+        url: /our-ccas/external/
+      - title: Clubs
+        url: /our-ccas/clubs/
+      - title: Uniformed Groups
+        url: /our-ccas/uniformed-groups/
+      - title: Visual and Performing Arts
+        url: /our-ccas/visual-and-performing-arts/
+      - title: Sports
+        url: /our-ccas/sports/recre/
+  - title: Our Partners
+    url: /our-partners/parents/generalinfo/
+    sublinks:
+      - title: Parents
+        url: /our-partners/parents/generalinfo/
+      - title: The ACS Family
+        url: /our-partners/acsfamily/
+      - title: ACS(J) PSG
+        url: /our-partners/psg/
+      - title: Prayer Groups
+        url: /our-partners/prayergroups/
+  - title: ACS Heritage Trail
+    collection: acs-heritage-trail

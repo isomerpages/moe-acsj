@@ -1,0 +1,8 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - Useful Links/.keep
+      - Useful Links/For Staff.md
+      - Useful Links/For Pupils.md
+      - Useful Links/For Parents.md

@@ -1,0 +1,26 @@
+collections:
+  mother-tongue:
+    output: true
+    order:
+      - Chinese/.keep
+      - Chinese/Chinese.md
+      - Chinese/Department Members.md
+      - Chinese/Programmes.md
+      - Chinese/Assessment.md
+      - Chinese/Useful Links.md
+      - Malay/.keep
+      - Malay/Malay.md
+      - Malay/Department Members.md
+      - Malay/Programmes.md
+      - Malay/Assessment.md
+      - Malay/Useful Links.md
+      - Tamil/.keep
+      - Tamil/Tamil.md
+      - Tamil/Department Members.md
+      - Tamil/Programmes.md
+      - Tamil/Assessment.md
+      - Tamil/Useful Links.md
+      - Higher Mother Tongue/.keep
+      - Higher Mother Tongue/Higher Mother Tongue.md
+      - Higher Mother Tongue/Current PSLE Scoring System.md
+      - Higher Mother Tongue/New PSLE Scoring System.md

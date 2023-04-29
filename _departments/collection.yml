@@ -1,0 +1,46 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English/.keep
+      - English/Overview.md
+      - English/Department Members.md
+      - English/Programmes.md
+      - English/Assessment.md
+      - English/Useful Links.md
+      - Mother Tongue/.keep
+      - Mathematics/.keep
+      - Mathematics/Overview.md
+      - Mathematics/Department Members.md
+      - Mathematics/Programmes.md
+      - Mathematics/Assessment.md
+      - Mathematics/Useful Links.md
+      - Science/.keep
+      - Science/Overview.md
+      - Science/Department Members.md
+      - Science/Programmes.md
+      - Science/Assessment.md
+      - Science/Useful Links.md
+      - PE, CCA & Aesthetics/.keep
+      - PE, CCA & Aesthetics/Department Members.md
+      - PE, CCA & Aesthetics/Programmes.md
+      - PE, CCA & Aesthetics/Overview.md
+      - PE, CCA & Aesthetics/Useful Links.md
+      - Character & Citizenship Edu/.keep
+      - Character & Citizenship Edu/Overview.md
+      - Character & Citizenship Edu/Department Members.md
+      - Character & Citizenship Edu/Programmes.md
+      - ICT/.keep
+      - ICT/Overview.md
+      - ICT/Department Members.md
+      - ICT/Programmes.md
+      - ICT/Useful Links.md
+      - Innovation/.keep
+      - Innovation/Overview.md
+      - Innovation/Department Members.md
+      - Innovation/Useful Links.md
+      - Special Education Needs (SEN)/.keep
+      - Special Education Needs (SEN)/Overview.md
+      - Special Education Needs (SEN)/Department Members.md
+      - Special Education Needs (SEN)/Special Educational Needs Officers.md
+      - Special Education Needs (SEN)/Useful Links.md

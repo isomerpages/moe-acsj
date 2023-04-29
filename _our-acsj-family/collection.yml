@@ -1,0 +1,8 @@
+collections:
+  our-acsj-family:
+    output: true
+    order:
+      - School Leaders.md
+      - Management Team.md
+      - Academic Staff.md
+      - Administrative Staff.md

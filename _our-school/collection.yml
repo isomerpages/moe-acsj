@@ -1,0 +1,33 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - School History.md
+      - Vision, Mission & Values.md
+      - School Motto.md
+      - School Crest.md
+      - School Song.md
+      - School Rules.md
+      - Financial Information.md
+      - Niche Programmes/.keep
+      - Niche Programmes/THOBURN Programme.md
+      - "Niche Programmes/Applied Learning Programme (ALP): ACS (Junior)
+        Thinkers Programme.md"
+      - Niche Programmes/Learning For Life Programme (LLP).md
+      - P1 Registration Information.md
+      - General Information/.keep
+      - General Information/Operating Hours & Location.md
+      - General Information/Announcements.md
+      - General Information/Principal's Letter.md
+      - General Information/FAQs.md
+      - General Information/Financial Assistance Scheme Policy.md
+      - General Information/Forms.md
+      - General Information/School Vendors.md
+      - General Information/School Booklist.md
+      - General Information/Calender.md
+      - General Information/Assessments.md
+      - General Information/Meet the Parents Sessions.md
+      - General Information/Road Safety of Students.md
+      - General Information/Sexuality Education.md
+      - Supporting Singaporean Students.md
+      - Pupil Recognition.md
