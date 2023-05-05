@@ -35,54 +35,55 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
   <tr>
     <th class="tg-rsx2"></th>
     <th class="tg-rsx2">Programme</th>
-    <th class="tg-rsx2">Description</th>
+    <th class="tg-rsx2">PSG Coordinators</th>
     <th class="tg-rsx2">Tentative Date/Day/Time</th>
     <th class="tg-rsx2">School Contact Person</th>
-    <th class="tg-rsx2">Email Address</th>
+    <th class="tg-rsx2">Description</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-rlhx">1</td>
-    <td class="tg-rlhx">Adventure Club</td>
-    <td class="tg-rlhx">Organise termly activities that promote opportunities for parent child bonding. (Only for parents who are signing up for the camps.)</td>
-    <td class="tg-rlhx"></td>
-    <td class="tg-rlhx">Mr Chen Jieming<br></td>
-    <td class="tg-b6rm"><a href="mailto:chen_jieming@moe.edu.sg">chen_jieming@moe.edu.sg</a><br></td>
+    <td class="tg-rlhx">Fathers for Life@ACSJ</td>
+    <td class="tg-rlhx">Morgan Zhou<br></td>
+    <td class="tg-rlhx">Once a term/semester (During School Holidays)<br></td>
+    <td class="tg-rlhx">Mr Chen Jieming <br><a href="mailto:chen_jieming@moe.edu.sg">Email</a></td>
+    <td class="tg-rlhx">Organise activities that promotes opportunities for father-son bonding. (Only for fathers who are signing up for the activities)</td>
   </tr>
   <tr>
     <td class="tg-rlhx">2</td>
     <td class="tg-rlhx">Creative Science Investigation (CSI)</td>
-    <td class="tg-rlhx">Provide assistance during the CSI programme by planning and setting up Science experiments for P3-6 boys. <br>Schedule will be provided.<br></td>
-    <td class="tg-rlhx">Tuesdays <br> (3 to 4 times a month)<br><br>8.30 – 11.30 am<br></td>
-    <td class="tg-rlhx">Ms Shazielah<br></td>
-    <td class="tg-b6rm"><a href="mailto:nur_shazielah_abdul_rahim@moe.edu.sg"><span style="text-decoration:none;color:#21088A">nur_shazielah_abdul_rahim@moe.edu.sg</span></a></td>
+    <td class="tg-rlhx">Rhea Tan<br></td>
+    <td class="tg-rlhx">Once to twice per term<br>Online project<br></td>
+    <td class="tg-rlhx">Ms Syafinah<br><a href="mailto:syafinah_ibrahim@moe.edu.sg">Email</a><br><br>Mdm Shazielah<br><a href="mailto:nur_shazielah_abdul_rahim@moe.edu.sg">Email</a></td>
+     <td class="tg-rlhx">Provide support for the CSI programme by creating videos on specific Science experiments to be shared with P1-6 boys. <br>Schedule will be provided.<br></td>
   </tr>
   <tr>
     <td class="tg-rlhx">3</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Oral Programme</span><br></td>
-    <td class="tg-rlhx">Practise reading and conversation topics with P4-P6 boys<br>Practise reading and picture discussion with P2-P3 boys<br>Training session will be conducted for parent volunteers.<br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Every Wednesday from February to October</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Mdm Kuah Hui Hui</span></td>
-    <td class="tg-b6rm"><a href="mailto:kuah_hui_hui@moe.edu.sg">kuah_hui_hui@moe.edu.sg</a><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">PSG Craft</span><br></td>
+    <td class="tg-rlhx">Andrea Friedman<br>Kimberly Wee<br>Pauline Lim</td>
+    <td class="tg-rlhx"><span style="color:#232323">During recesses close to event dates</span><br></td>
+    <td class="tg-rlhx"><span style="color:#232323">Miss Amirah Jumat<br><a href="nur_amirah_jumat@moe.edu.sg">Email</a></span></td>
+    <td class="tg-rlhx">Prepare and conduct craft activities in line with themes suited to yearly special days/events such as cultural days, Easter, NE Events, Children, Teachers’ etc.<br></td>
   </tr>
   <tr>
     <td class="tg-rlhx">4</td>
-    <td class="tg-rlhx"><span style="color:#232323">English Oral Programme</span></td>
-    <td class="tg-rlhx">Practise reading and conversation topics with P3-P6 boys<br><br>Training session will be conducted for parent volunteers</td>
-    <td class="tg-rlhx"><span style="color:#232323">Every Tuesday from February to October</span></td>
-    <td class="tg-rlhx"><span style="color:#232323">Mr Kelvin Lim </span><br><span style="color:#232323">(P5 &amp; P6)</span><br><br><br><span style="color:#232323">Mrs Joanne Ho </span><br><span style="color:#232323">(P3 &amp; P4)</span><br></td>
-    <td class="tg-b6rm"><a href="mailto:kelvin_lim_lye_lee@moe.edu.sg"><span style="text-decoration:none;color:#21088A">kelvin_lim_lye_lee@moe.edu.sg</span></a><br><br><br><br><br><a href="mailto:li_minjing_joanne@moe.edu.sg"><span style="text-decoration:none;color:#21088A">li_minjing_joanne@moe.edu.sg</span></a><br></td>
+    <td class="tg-rlhx"><span style="color:#232323">Language Week
+(English/Mother Tongue)</span></td>
+    <td class="tg-rlhx">Andrea Friedman (EL)<br>Tang Huiling<br>Tan Kailing</td>
+    <td class="tg-rlhx"><span style="color:#232323">July</span></td>
+    <td class="tg-rlhx">Ms Raveena K (EL)<br><a href="mailto:k_raveena@moe.edu.sg">Email</a><br><br>Mrs Siti Mohammed (EL)<br><a href="mailto:siti_fauziah_abdul_latiff@moe.edu.sg">Email</a><br><br>Mr Eric Huang (CL)<br><a href="mailto:huang_wenshan_eric@moe.edu.sg">Email</a><br><br>Mdm Leelavathy (TL)<br><a href="mailto:leelavathy_gopal_r@moe.edu.sg">Email</a><br><br>Mdm Nurulhuda (ML)<br><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg">Email</a></td>
+    <td class="tg-rlhx">Support the English and Mother Tongue (Chinese, Malay and Tamil) Language week programmes through conducting games during recess.</td>
   </tr>
   <tr>
     <td class="tg-rlhx">5</td>
-    <td class="tg-rlhx"><span style="color:#232323">Crafts @ Library</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Prepare info-boards and thematic book display and/or craft in line with themes suited to yearly special days/events such as cultural days (CNY, Deepavali, Hari Raya), Founder’s Day, NE Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day), Children, Teachers’, Mothers’ and Fathers’ Days etc</span><br><br></td>
-    <td class="tg-rlhx">On the week or the week before the special event / day<br>(usually during Wednesday school recesses)</td>
-    <td class="tg-rlhx">Mrs Gloria Chia <br><br>Ms Desiree Chang<br></td>
-    <td class="tg-b6rm"><a href="mailto:loh_lin_li@moe.edu.sg"><span style="text-decoration:none;color:#21088A">loh_lin_li@moe.edu.sg</span></a><br><br><br><br><a href="mailto:chang_ke_xin_desiree@moe.edu.sg"><span style="text-decoration:none;color:#21088A">chang_ke_xin_desiree@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
+    <td class="tg-rlhx"><span style="color:#232323">English and MT Reading Programme</span></td>
+    <td class="tg-rlhx">Andrea Friedman<br>Kimberly Wee<br>Pauline Lim</td>
+    <td class="tg-rlhx"><span style="color:#232323">Every Tuesday and Thursday
+7 to 7.30am (EL)<br><br>CL  (Term 3)</span><br></td>
+    <td class="tg-rlhx"><span style="color:#232323">Mrs Siti Mohammed (EL)<br><a href="siti_fauziah_abdul_latiff@moe.edu.sg">Email<br><br><span style="color:#232323">Ms Tan Su Ping (EL)<br></span></a><a href="tan_su-ping@moe.edu.sg">Email<br><br><span style="color:#232323">Mr Eric Huang (CL)<br></span></a><a href="huang_wenshan_eric@moe.edu.sg">Email<br><br><span style="color:#232323">Mr Teow Jing Ho<br></span></a><a href="teow_jing_ho@moe.edu.sg">Email</a></span></td>
+    <td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
+  </tr><tr>
     <td class="tg-rlhx">6</td>
     <td class="tg-rlhx"><span style="color:#232323">Language Week</span></td>
     <td class="tg-rlhx"><span style="color:#232323">Support the English and Mother Tongue Language week programmes through conducting games during recess.</span><br><br></td>
