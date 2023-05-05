@@ -10,14 +10,9 @@ ACS(J) PSG
 
 ### **LIST OF PROGRAMMES**&nbsp;
 
-  
-
 Note: ACS PSGs are only for parents whose sons are already enrolled in the School.
-
-
-
   
-&nbsp;**PARENTS SUPPORT GROUPS 2020**
+&nbsp;**PARENTS SUPPORT GROUPS 2023**
  
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
