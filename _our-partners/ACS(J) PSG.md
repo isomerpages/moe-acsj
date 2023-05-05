@@ -90,61 +90,7 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
 7 to 7.30am (EL)<br><br>CL  (Term 3)</span><br></td>
     <td class="tg-rlhx"><span style="color:#232323">Mrs Siti Mohammed (EL)<br><a href="siti_fauziah_abdul_latiff@moe.edu.sg">Email<br><br><span style="color:#232323">Ms Tan Su Ping (EL)<br></span></a><a href="tan_su-ping@moe.edu.sg">Email<br><br><span style="color:#232323">Mr Eric Huang (CL)<br></span></a><a href="huang_wenshan_eric@moe.edu.sg">Email<br><br><span style="color:#232323">Mr Teow Jing Ho (CL)<br></span></a><a href="teow_jing_ho@moe.edu.sg">Email</a></span></td>
     <td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
-  </tr><tr>
-    <td class="tg-rlhx">6</td>
-    <td class="tg-rlhx"><span style="color:#232323">P6 English Oral </span></td>
-    <td class="tg-rlhx"><span style="color:#232323">Pauline Lim<br>Petrina Yong</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Term 2 and 3<br>P6 recess time</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Mr Kelvin Lim</span><br><a href="mailto:kelvin_lim_lye_lee@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email</span></a></td><td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
   </tr>
-  <tr>
-    <td class="tg-rlhx">7</td>
-   <td class="tg-rlhx"><span style="color:#232323">P6 Chinese Oral</span></td>
-    <td class="tg-rlhx"><span style="color:#232323">Tang Huiling<br>Tan Kailing</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Term 2 and 3<br>P6 recess time</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Mdm Lu Liwen</span><br><a href="mailto:lu_liwen@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email<br><br><span style="color:#232323">Mdm Tan Kuan Bee<br></span></span></a><a href="tan_kuan_bee@moe.edu.sg">Email<br><span>
-    </span></a></td><td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx"><span style="color:#232323">8</span></td>
-   <td class="tg-rlhx"><span style="color:#232323">Parents’ Prayer Group</span></td>
-    <td class="tg-rlhx"><span style="color:#232323">Joyner Wong</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Every Wednesday<br>7.30am</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Miss Noelle Selvadurai</span><br><a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email</span></a></td><td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">9</td>
-    <td class="tg-rlhx">Fathers’ Prayer Group</td>
-        <td class="tg-rlhx"><span style="color:#232323">Edward Eu<br>Aaron Goh</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Last Saturday of each month<br>7am to 9am</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Mr Jeremiah Nga</span><br><a href="mailto:nga_bing_chang_jeremiah@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email</span></a></td><td class="tg-rlhx">Meets monthly to pray for staff, students and the school<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">10</td>
-    <td class="tg-rlhx">Chapel Worship</td>
-        <td class="tg-rlhx"><span style="color:#232323">Ms Tan Wey Yean</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Chapel time</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Miss Noelle Selvadurai</span><br><a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email</span></a></td><td class="tg-rlhx">Supporting Chapel as worship leaders during weekly chapel sessions<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">11</td>
-    <td class="tg-rlhx">P6 Parent Support</td>
-    <td class="tg-rlhx">NA</td>
-    <td class="tg-rlhx">Semester 2<br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Mrs Gloria Chia</span><br><a href="mailto:loh_lin_li@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email</span></a></td><td class="tg-rlhx">Support and blessing the graduating cohort through facilitating P6 encouragement gift, PSLE exam snacks for the boys, post-PSLE Carnival / Games Day<br></td>
-  </tr>
-			<tr>
-    <td class="tg-rlhx">10</td>
-    <td class="tg-rlhx">Chapel Worship</td>
-        <td class="tg-rlhx"><span style="color:#232323">Ms Tan Wey Yean</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Chapel time</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Miss Noelle Selvadurai</span><br><a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email</span></a></td><td class="tg-rlhx">Supporting Chapel as worship leaders during weekly chapel sessions<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">12</td>
-    <td class="tg-rlhx">CCE Parent Support</td>
-    <td class="tg-rlhx">NA</td>
-    <td class="tg-rlhx">During event periods<br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Ms Michelle Tan</span><br><a href="mailto:lee_shuyun_michelle@moe.edu.sg"><span style="text-decoration:none;color:#21088A">Email</span></a></td><td class="tg-rlhx">Support and blessing the events through facilitating the CCE programme activities i.e. International Friendship Day, Racial Harmony Day, Total Defence Day, National Day etc<br></td>
+	<tr>
 </tr></tbody>
 </table>
