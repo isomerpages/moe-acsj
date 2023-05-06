@@ -3,16 +3,11 @@ title: ACS(J) PSG
 permalink: /our-partners/psg/
 description: ""
 ---
-![](/images/Sub-banner2.jpg)
-
-ACS(J) PSG
-==========
-
 ### **LIST OF PROGRAMMES**&nbsp;
 
 Note: ACS PSGs are only for parents whose sons are already enrolled in the School.
   
-&nbsp;**PARENTS SUPPORT GROUPS 2023**
+&nbsp;**PARENTS SUPPORT GROUPS 2020**
  
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -43,49 +38,4 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <th class="tg-rsx2">Description</th>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-rlhx">1</td>
-    <td class="tg-rlhx">Fathers for Life@ACSJ</td>
-    <td class="tg-rlhx">Morgan Zhou<br></td>
-    <td class="tg-rlhx">Once a term/semester (During School Holidays)<br></td>
-    <td class="tg-rlhx">Mr Chen Jieming <br><a href="mailto:chen_jieming@moe.edu.sg">Email</a></td>
-    <td class="tg-rlhx">Organise activities that promotes opportunities for father-son bonding. (Only for fathers who are signing up for the activities)</td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">2</td>
-    <td class="tg-rlhx">Creative Science Investigation (CSI)</td>
-    <td class="tg-rlhx">Rhea Tan<br></td>
-    <td class="tg-rlhx">Once to twice per term<br>Online project<br></td>
-    <td class="tg-rlhx">Ms Syafinah<br><a href="mailto:syafinah_ibrahim@moe.edu.sg">Email</a><br><br>Mdm Shazielah<br><a href="mailto:nur_shazielah_abdul_rahim@moe.edu.sg">Email</a></td>
-     <td class="tg-rlhx">Provide support for the CSI programme by creating videos on specific Science experiments to be shared with P1-6 boys. <br>Schedule will be provided.<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">3</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">PSG Craft</span><br></td>
-    <td class="tg-rlhx">Andrea Friedman<br>Kimberly Wee<br>Pauline Lim</td>
-    <td class="tg-rlhx"><span style="color:#232323">During recesses close to event dates</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Miss Amirah Jumat<br><a href="nur_amirah_jumat@moe.edu.sg">Email</a></span></td>
-    <td class="tg-rlhx">Prepare and conduct craft activities in line with themes suited to yearly special days/events such as cultural days, Easter, NE Events, Children, Teachers’ etc.<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">4</td>
-    <td class="tg-rlhx"><span style="color:#232323">Language Week
-(English/Mother Tongue)</span></td>
-    <td class="tg-rlhx">Andrea Friedman (EL)<br>Tang Huiling<br>Tan Kailing</td>
-    <td class="tg-rlhx"><span style="color:#232323">July</span></td>
-    <td class="tg-rlhx">Ms Raveena K (EL)<br><a href="mailto:k_raveena@moe.edu.sg">Email</a><br><br>Mrs Siti Mohammed (EL)<br><a href="mailto:siti_fauziah_abdul_latiff@moe.edu.sg">Email</a><br><br>Mr Eric Huang (CL)<br><a href="mailto:huang_wenshan_eric@moe.edu.sg">Email</a><br><br>Mdm Leelavathy (TL)<br><a href="mailto:leelavathy_gopal_r@moe.edu.sg">Email</a><br><br>Mdm Nurulhuda (ML)<br><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg">Email</a></td>
-    <td class="tg-rlhx">Support the English and Mother Tongue (Chinese, Malay and Tamil) Language week programmes through conducting games during recess.</td>
-  </tr>
-  <tr>
-    <td class="tg-rlhx">5</td>
-    <td class="tg-rlhx"><span style="color:#232323">English and MT Reading Programme</span></td>
-    <td class="tg-rlhx">Pauline Lim (EL)<br>Petrina Yong (EL)<br><br>Tang Huiling (MT)<br>Tan Kailing (MT)</td>
-    <td class="tg-rlhx"><span style="color:#232323">Every Tuesday and Thursday
-7 to 7.30am (EL)<br><br>CL  (Term 3)</span><br></td>
-    <td class="tg-rlhx"><span style="color:#232323">Mrs Siti Mohammed (EL)<br><a href="siti_fauziah_abdul_latiff@moe.edu.sg">Email<br><br><span style="color:#232323">Ms Tan Su Ping (EL)<br></span></a><a href="tan_su-ping@moe.edu.sg">Email<br><br><span style="color:#232323">Mr Eric Huang (CL)<br></span></a><a href="huang_wenshan_eric@moe.edu.sg">Email<br><br><span style="color:#232323">Mr Teow Jing Ho (CL)<br></span></a><a href="teow_jing_ho@moe.edu.sg">Email</a></span></td>
-    <td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
-  </tr>
-	<tr>
-</tr></tbody>
-</table>
+<tbody></tbody></table>
