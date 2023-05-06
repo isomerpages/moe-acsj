@@ -48,5 +48,12 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <td class="tg-rlhx">Mr Chen Jieming <br><a href="mailto:chen_jieming@moe.edu.sg">Email</a></td>
     <td class="tg-rlhx">Organise activities that promotes opportunities for father-son bonding. (Only for fathers who are signing up for the activities)</td>
   </tr>
-
+<tr>
+    <td class="tg-rlhx">2</td>
+    <td class="tg-rlhx">Creative Science Investigation (CSI)</td>
+    <td class="tg-rlhx">Rhea Tan<br></td>
+    <td class="tg-rlhx">Once to twice per term<br>Online project<br></td>
+    <td class="tg-rlhx">Ms Syafinah<br><a href="mailto:syafinah_ibrahim@moe.edu.sg">Email</a><br><br>Mdm Shazielah<br><a href="mailto:nur_shazielah_abdul_rahim@moe.edu.sg">Email</a></td>
+    <td class="tg-rlhx">Provide support for the CSI programme by creating videos on specific Science experiments to be shared with P1-6 boys. Schedule will be provided.<br></td>
+  </tr>
 </tbody><tbody></tbody></table>
