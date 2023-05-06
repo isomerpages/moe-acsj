@@ -23,12 +23,6 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <br><span>
-    </span><br><span>
-    </span><br><span>
-    </span><br><span>
-    </span><br><span>
-    </span><br><span>
-    </span><br><span>
     </span><table class="tg">
 <thead>
   <tr>
@@ -63,5 +57,13 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <td class="tg-rlhx">During recesses close to event dates<br></td>
     <td class="tg-rlhx">Miss Amirah Jumat<br><a href="nur_amirah_jumat@moe.edu.sg">Email</a></td>
     <td class="tg-rlhx">Prepare and conduct craft activities in line with themes suited to yearly special days/events such as cultural days, Easter, NE Events, Children, Teachers’ etc.<br></td>
+</tr>
+			<tr>
+    <td class="tg-rlhx">3</td>
+    <td class="tg-rlhx">Language Week (English/Mother Tongue)</td>
+    <td class="tg-rlhx">Andrea Friedman (EL)<br>Tang Huiling<br>Tan Kailing</td>
+    <td class="tg-rlhx">July<br></td>
+    <td class="tg-rlhx">Ms Raveena K (EL)<br><a href="mailto:k_raveena@moe.edu.sg">Email</a><br><br>Mrs Siti Mohammed (EL)<br><a href="mailto:siti_fauziah_abdul_latiff@moe.edu.sg">Email</a><br><br>Mr Eric Huang (CL)<br><a href="mailto:huang_wenshan_eric@moe.edu.sg">Email</a><br><br>Mdm Leelavathy (TL)<br><a href="mailto:leelavathy_gopal_r@moe.edu.sg">Email</a><br><br>Mdm Nurulhuda (ML)<br><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg">Email</a></td>
+    <td class="tg-rlhx">Support the English and Mother Tongue (Chinese, Malay and Tamil) Language week programmes through conducting games during recess.<br></td>
   </tr>
 </tbody><tbody></tbody></table>
