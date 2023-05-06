@@ -51,7 +51,7 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <td class="tg-rlhx">Provide support for the CSI programme by creating videos on specific Science experiments to be shared with P1-6 boys. Schedule will be provided.<br></td>
 </tr>
   <tr>
-    <td class="tg-rlhx">2</td>
+    <td class="tg-rlhx">3</td>
     <td class="tg-rlhx">PSG Craft</td>
     <td class="tg-rlhx">Andrea Friedman<br>Kimberly Wee<br>Pauline Lim<br></td>
     <td class="tg-rlhx">During recesses close to event dates<br></td>
@@ -59,11 +59,19 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <td class="tg-rlhx">Prepare and conduct craft activities in line with themes suited to yearly special days/events such as cultural days, Easter, NE Events, Children, Teachers’ etc.<br></td>
 </tr>
 			<tr>
-    <td class="tg-rlhx">3</td>
+    <td class="tg-rlhx">4</td>
     <td class="tg-rlhx">Language Week (English/Mother Tongue)</td>
     <td class="tg-rlhx">Andrea Friedman (EL)<br>Tang Huiling<br>Tan Kailing</td>
     <td class="tg-rlhx">July<br></td>
     <td class="tg-rlhx">Ms Raveena K (EL)<br><a href="mailto:k_raveena@moe.edu.sg">Email</a><br><br>Mrs Siti Mohammed (EL)<br><a href="mailto:siti_fauziah_abdul_latiff@moe.edu.sg">Email</a><br><br>Mr Eric Huang (CL)<br><a href="mailto:huang_wenshan_eric@moe.edu.sg">Email</a><br><br>Mdm Leelavathy (TL)<br><a href="mailto:leelavathy_gopal_r@moe.edu.sg">Email</a><br><br>Mdm Nurulhuda (ML)<br><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg">Email</a></td>
     <td class="tg-rlhx">Support the English and Mother Tongue (Chinese, Malay and Tamil) Language week programmes through conducting games during recess.<br></td>
-  </tr>
+</tr>
+<tr>
+    <td class="tg-rlhx">5</td>
+    <td class="tg-rlhx">English and MT Reading Programme</td>
+    <td class="tg-rlhx">Pauline Lim (EL)<br>Petrina Yong (EL)<br><br>Tang Huiling (MT)<br>Tan Kailing (MT)<br></td>
+    <td class="tg-rlhx">Every Tuesday and Thursday 7 to 7.30am (EL)<br><br>CL  (Term 3)<br></td>
+    <td class="tg-rlhx">Mrs Siti Mohammed (EL)<br><a href="siti_fauziah_abdul_latiff@moe.edu.sg">Email</a><br><br>Ms Tan Su Ping (EL)<br><a href="tan_su-ping@moe.edu.sg">Email</a><br><br>Mr Eric Huang (CL)<br><a href="huang_wenshan_eric@moe.edu.sg">Email</a><br><br>Mr Teow Jing Ho (CL)<br><a href="teow_jing_ho@moe.edu.sg">Email<br><br></a></td>
+    <td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
+  </tr>			
 </tbody><tbody></tbody></table>
