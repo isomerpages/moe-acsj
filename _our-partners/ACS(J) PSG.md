@@ -55,5 +55,13 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <td class="tg-rlhx">Once to twice per term<br>Online project<br></td>
     <td class="tg-rlhx">Ms Syafinah<br><a href="mailto:syafinah_ibrahim@moe.edu.sg">Email</a><br><br>Mdm Shazielah<br><a href="mailto:nur_shazielah_abdul_rahim@moe.edu.sg">Email</a></td>
     <td class="tg-rlhx">Provide support for the CSI programme by creating videos on specific Science experiments to be shared with P1-6 boys. Schedule will be provided.<br></td>
+</tr>
+  <tr>
+    <td class="tg-rlhx">2</td>
+    <td class="tg-rlhx">PSG Craft</td>
+    <td class="tg-rlhx">Andrea Friedman<br>Kimberly Wee<br>Pauline Lim<br></td>
+    <td class="tg-rlhx">During recesses close to event dates<br></td>
+    <td class="tg-rlhx">Miss Amirah Jumat<br><a href="nur_amirah_jumat@moe.edu.sg">Email</a></td>
+    <td class="tg-rlhx">Prepare and conduct craft activities in line with themes suited to yearly special days/events such as cultural days, Easter, NE Events, Children, Teachers’ etc.<br></td>
   </tr>
 </tbody><tbody></tbody></table>
