@@ -40,4 +40,13 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <th class="tg-rsx2">Description</th>
   </tr>
 </thead>
-<tbody></tbody></table>
+	  <tbody><tr>
+    <td class="tg-rlhx">1</td>
+    <td class="tg-rlhx">Fathers for Life@ACSJ</td>
+    <td class="tg-rlhx">Morgan Zhou<br></td>
+    <td class="tg-rlhx">Once a term/semester (During School Holidays)<br></td>
+    <td class="tg-rlhx">Mr Chen Jieming <br><a href="mailto:chen_jieming@moe.edu.sg">Email</a></td>
+    <td class="tg-rlhx">Organise activities that promotes opportunities for father-son bonding. (Only for fathers who are signing up for the activities)</td>
+  </tr>
+
+</tbody><tbody></tbody></table>
