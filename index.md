@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/newbanner2.gif
+      background: /images/webpagbannernewwstudents02.png
       url: /contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS
