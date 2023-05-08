@@ -10,8 +10,6 @@ description: ""
 Note: ACS PSGs are only for parents whose sons are already enrolled in the School.
   
 **PARENTS SUPPORT GROUPS 2020**
-
-<br>
  
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
