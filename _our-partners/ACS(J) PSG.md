@@ -8,6 +8,8 @@ description: ""
 ### **LIST OF PROGRAMMES**
 
 Note: ACS PSGs are only for parents whose sons are already enrolled in the School.
+
+Our PSG Leaders: Ms Andrea Friedman, Ms Kimberly Wee &amp; Ms Pauline Lim.
   
 **PARENTS SUPPORT GROUPS 2020**
  
@@ -127,8 +129,8 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <tr>
       <td class="tg-rlhx">6</td>
       <td class="tg-rlhx">P6 English Oral</td>
-      <td class="tg-rlhx">Tang Huiling<br>
-      Tan Kailing<br></td>
+      <td class="tg-rlhx">Pauline Lim<br>
+      Petrina Yong<br></td>
       <td class="tg-rlhx">Term 2 and 3<br>
       P6 recess time</td>
       <td class="tg-rlhx">
@@ -181,8 +183,7 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
     <tr>
       <td class="tg-rlhx">10</td>
       <td class="tg-rlhx">Chapel Worship</td>
-      <td class="tg-rlhx">Tang Huiling<br>
-      Tan Kailing<br></td>
+      <td class="tg-rlhx">Ms Tan Wey Yean<br></td>
       <td class="tg-rlhx">Chapel time<br></td>
       <td class="tg-rlhx">
         Miss Noelle Selvadurai<br>
