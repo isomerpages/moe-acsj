@@ -11,7 +11,7 @@ Note: ACS PSGs are only for parents whose sons are already enrolled in the Schoo
 
 Our PSG Leaders: Ms Andrea Friedman, Ms Kimberly Wee &amp; Ms Pauline Lim.
   
-**PARENTS SUPPORT GROUPS 2020**
+**PARENTS SUPPORT GROUPS 2023**
  
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
