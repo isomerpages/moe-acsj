@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/acsjbanner.gif
+      background: /images/herobanner.gif
       url: /contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS

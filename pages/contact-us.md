@@ -13,8 +13,8 @@ locations:
     title: Anglo-Chinese School (Junior)
 contacts:
   - content:
-      - phone: +65 6567 3379
+      - phone: +65 6733 7911
       - email: acsj@moe.edu.sg
-      - other: "Fax: (+65) 6734 6518"
+      - other: ""
     title: General Enquiries
 ---
