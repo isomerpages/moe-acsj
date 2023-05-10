@@ -71,7 +71,7 @@ Academic Staff
 | P3.5 | Mrs Annabella Kwan | [chee\_kheng\_hwa\_annabella@moe.edu.sg](mailto:chee_kheng_hwa_annabella@moe.edu.sg) |
 |   | Ms Adela Chua (YH for Middle Pri) | [adela\_chua@moe.edu.sg](mailto:adela_chua@moe.edu.sg) |
 | P3.6 | Miss Charine Koh | [koh\_hsiao\_lan@moe.edu.sg](mailto:koh_hsiao_lan@moe.edu.sg) |
-|   | Miss Goh Shu Hui | [goh\_shu\_hui\_a@moe.edu.sg](mailto:goh_shu_hui_a@moe.edu.sg) |
+|   | Mdm Goh Shu Hui | [goh\_shu\_hui\_a@moe.edu.sg](mailto:goh_shu_hui_a@moe.edu.sg) |
 | P3.7 | Mrs Hidayah Ronny | [nur\_hidayah\_abdul\_aziz@moe.edu.sg](mailto:nur_hidayah_abdul_aziz@moe.edu.sg) |
 |   | Mr See Cheun Wah | [see\_cheun\_wah@moe.edu.sg](mailto:see_cheun_wah@moe.edu.sg) |
 
