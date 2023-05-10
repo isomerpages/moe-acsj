@@ -1,5 +1,5 @@
 ---
-title: Operating Hours &amp; Location
+title: Operating Hours & Location
 permalink: /our-school/openinghours/
 description: ""
 third_nav_title: General Information
@@ -37,5 +37,4 @@ Buses plying Bukit Timah Road (near the entrance of Winstedt Road/outside Teck K
 16 Winstedt Road Singapore 227988
 
 Tel: +65 6733 7911  
-Fax: +65 6734 6518  
 Email:&nbsp;[acsj@moe.edu.sg](mailto:acsj@moe.edu.sg)
