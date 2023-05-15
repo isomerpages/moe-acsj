@@ -40,10 +40,10 @@ For all External CCA matters, kindly contact Mr. Alwyn Tan, SH CCA, at [**tan\_
 
 **USEFUL DOCUMENTS:**
 
-[External CCA Attendance for Term 1](/files/ACSJ_TERM_1_EXTERNAL_CCA_ATTENDANCE_SHEET_2022.pdf)
+[External CCA Attendance for Term 1](/files/acsj_term_1_external_cca_attendance_sheet_2023)
 
-[External CCA Attendance for Term 2](/files/ACSJ_TERM_2_EXTERNAL_CCA_ATTENDANCE_SHEET_2022.pdf)
+[External CCA Attendance for Term 2](/files/acsj_term_2_external_cca_attendance_sheet_2023)
 
-[External CCA Attendance for Term 3](/files/ACSJ_TERM_3_EXTERNAL_CCA_ATTENDANCE_SHEET_2022.pdf)
+[External CCA Attendance for Term 3](/files/acsj_term_3_external_cca_attendance_sheet_2023)
 
-[External CCA Attendance for Term 4](/files/ACSJ_TERM_4_EXTERNAL_CCA_ATTENDANCE_SHEET_2022.pdf)
+[External CCA Attendance for Term 4](/files/acsj_term_4_external_cca_attendance_sheet_2023)

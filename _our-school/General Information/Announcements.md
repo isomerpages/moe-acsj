@@ -9,6 +9,8 @@ third_nav_title: General Information
 Announcements
 =============
 
-* [2nd Principal's Letter](/files/announcement3.pdf)
-* [1st Principal's Letter](/files/announcement2.pdf)
-* [CCA Registration 2023](/files/announcement1.pdf)
+* [4th Principal's Letter](/files/announcement4.pdf)
+* [3rd Principal's Letter](/files/announcement3.pdf)
+* [2nd Principal's Letter](/files/announcement2.pdf)
+* [1st Principal's Letter](/files/announcement1.pdf)
+* [CCA Registration 2023](/files/announcementcca.pdf)
