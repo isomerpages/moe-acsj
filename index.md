@@ -16,9 +16,9 @@ sections:
         - title: USEFUL LINKS
           description: ""
           url: /useful-links/for-staff/
-        - title: Calender
+        - title: Calendar
           description: ""
-          url: /calender/
+          url: /calendar/
   - infobar:
       title: ACS Heritage Trail
       subtitle: Anglo Chinese School (Junior)
