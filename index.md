@@ -16,7 +16,7 @@ sections:
         - title: USEFUL LINKS
           description: ""
           url: /useful-links/for-staff/
-        - title: Calendar
+        - title: CALENDAR
           description: ""
           url: /calendar/
   - infobar:
