@@ -9,7 +9,7 @@ third_nav_title: General Information
 Assessment
 ==========
 
-<b><u>2022 Assessment Information and Weighting from Primary 1 to Primary 6</u></b>
+<b><u>2023 Assessment Information and Weighting from Primary 1 to Primary 6</u></b>
 	
 **Primary 1 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
 **Primary 2 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
