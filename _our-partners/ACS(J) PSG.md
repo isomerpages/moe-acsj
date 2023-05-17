@@ -137,7 +137,7 @@ Our PSG Leaders: Ms Andrea Friedman, Ms Kimberly Wee &amp; Ms Pauline Lim.
         Mr Kelvin Lim<br>
         <a href="mailto:kelvin_lim_lye_lee@moe.edu.sg">Email</a>
       </td>
-      <td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
+      <td class="tg-rlhx">Support P6 English Oral practice<br></td>
     </tr>
     <tr>
       <td class="tg-rlhx">7</td>
@@ -153,7 +153,7 @@ Our PSG Leaders: Ms Andrea Friedman, Ms Kimberly Wee &amp; Ms Pauline Lim.
         Mdm Tan Kuan Bee<br>
         <a href="tan_kuan_bee@moe.edu.sg">Email</a>
       </td>
-      <td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
+      <td class="tg-rlhx">Support P6 Chinese Oral practice<br></td>
     </tr>
     <tr>
       <td class="tg-rlhx">8</td>
@@ -165,7 +165,7 @@ Our PSG Leaders: Ms Andrea Friedman, Ms Kimberly Wee &amp; Ms Pauline Lim.
         Miss Noelle Selvadurai<br>
         <a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg">Email</a>
       </td>
-      <td class="tg-rlhx">Support reading for lower primary boys in the morning<br></td>
+      <td class="tg-rlhx">Meets weekly to pray for staff, students and the school<br></td>
     </tr>
     <tr>
       <td class="tg-rlhx">9</td>

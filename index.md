@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/herobanner.gif
+      background: /images/webpagbannernewwstudents02.png
       url: /contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS
@@ -16,9 +16,9 @@ sections:
         - title: USEFUL LINKS
           description: ""
           url: /useful-links/for-staff/
-        - title: Calender
+        - title: CALENDAR
           description: ""
-          url: /calender/
+          url: /calendar/
   - infobar:
       title: ACS Heritage Trail
       subtitle: Anglo Chinese School (Junior)
