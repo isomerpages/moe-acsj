@@ -24,8 +24,6 @@ Thursday from 2pm to 3pm
 *   Although HMT results do not count towards the PSLE Score, if students&nbsp;with the same PSLE Score are applying for limited places in the same&nbsp;SAP school, those with better HMT grades will be allocated a place ahead&nbsp;of other students. This applies before the tie-breakers for Secondary 1&nbsp;posting.
 *   Let’s look at an example. There are 6 students competing for the last 2&nbsp;places in a SAP school. They have been arranged in descending order of&nbsp;posting priority. The student who has a PSLE Score of 7 will gain&nbsp;admission to the SAP school. Then, out of the students with a PSLE Score&nbsp;of 8, the student with a distinction for HCL (Higher Chinese) will be&nbsp;admitted into the SAP school next, ahead of the other students who also&nbsp;scored 8 but had weaker or no HCL score. The advantage that HCL&nbsp;students will obtain under the new system is similar to that under the&nbsp;current system.
 
-**need help migrating this figure**
-
 *   SAP schools are Anglican High, Catholic High, CHIJ St Nicholas Girls’,&nbsp;Chung Cheng High (Main), Dunman High, Maris Stella High, Nanyang&nbsp;Girls’ High, River Valley High and The Chinese High and Nan Chiau High
 *   ACS (I) is not a SAP school.
 
