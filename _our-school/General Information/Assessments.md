@@ -11,12 +11,12 @@ Assessment
 
 <b><u>2023 Assessment Information and Weighting from Primary 1 to Primary 6</u></b>
 	
-**Primary 1 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
-**Primary 2 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
-**Primary 3 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
-**Primary 4 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
-**Primary 5 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
-**Primary 6 Assessment Handbook ( [pdf](/files/handbookp.pdf) )**<br>
+**Primary 1 Assessment Handbook ( [pdf](/files/2023ahp1.pdf) )**<br>
+**Primary 2 Assessment Handbook ( [pdf](/files/2023ahp2.pdf) )**<br>
+**Primary 3 Assessment Handbook ( [pdf](/files/2023ahp3.pdf) )**<br>
+**Primary 4 Assessment Handbook ( [pdf](/files/2023ahp4.pdf) )**<br>
+**Primary 5 Assessment Handbook ( [pdf](/files/2023ahp5.pdf) )**<br>
+**Primary 6 Assessment Handbook ( [pdf](/files/2023ahp6.pdf) )**<br>
 
 
 	
