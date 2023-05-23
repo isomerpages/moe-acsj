@@ -30,8 +30,11 @@ description: ""
 * Contact Person: Mdm Sarah Heng (Admin Manager)  
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: Newton MRT (NS21 & DT11 line) – 10 minutes walking distance
+* Buses plying Scotts Road (in front of Newton MRT station) 
+5, 54, 124, 143, 162, 162M, 167, 167e, 518, 518A and 972A
+* Buses plying Bukit Timah Road (near the entrance of Winstedt Road/outside Teck Kee Pau on the opposite side) 48, 66, 67, 170, 170A, 960 and 960e
+
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
