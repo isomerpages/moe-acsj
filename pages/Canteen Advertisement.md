@@ -22,7 +22,7 @@ description: ""
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email **OR** to the School's General Office.
 
 * Address: 16 Winstedt Road Singapore 227988
 * Contact No: +65 6733 7911
