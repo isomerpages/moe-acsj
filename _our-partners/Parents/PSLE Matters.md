@@ -8,7 +8,7 @@ third_nav_title: Parents
 
 PSLE Matters
 ============
-PSLE 2023 - ACS(J) Parent Engagement (24 May 2023) Slides
+[PSLE 2023 - ACS(J) Parent Engagement (24 May 2023) Slides](/files/psle2023_pengmntacsj_24may2023.pdf)
 
 **FAQS on PSLE**
 
