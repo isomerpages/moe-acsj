@@ -11,6 +11,8 @@ PSLE Matters
 
 **FAQS on PSLE**
 
+PSLE 2023 - ACS(J) Parent Engagement (24 May 2023) Slides
+
 &nbsp;Q1.&nbsp;&nbsp;&nbsp;When do I choose the secondary school of my choice?
  
 The selection of secondary school can be made after the release of the Primary School Leaving Examination (PSLE) Results. The S1 Internet System (S1-IS) opens for 24-hour online submission at 11am on the day of the PSLE results release. Parents and students can submit their 6 preferred school choices within the next 7 calendar days.
