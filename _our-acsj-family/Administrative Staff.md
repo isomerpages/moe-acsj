@@ -31,7 +31,7 @@ Administrative Staff
 
 ### OPERATIONS SUPPORT
 
-| Designation | Name |Email
+| Designation | Name | Email
 |---|---|---|
 | Operations Manager | Mr Kelvin Lim Fong Twong | [lim\_fong\_twong@moe.edu.sg](mailto:lim_fong_twong@moe.edu.sg) |
 | Operation Support Officer | Mr Toh Meng Kwang | - |
