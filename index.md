@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/webpagbannernewwstudents02.png
+      background: /images/acsj-285a 5mb for banner 4mb.png
       url: /contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS
