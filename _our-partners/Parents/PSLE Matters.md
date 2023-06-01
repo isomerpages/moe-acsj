@@ -8,10 +8,10 @@ third_nav_title: Parents
 
 PSLE Matters
 ============
+PSLE 2023 - ACS(J) Parent Engagement (24 May 2023) Slides
 
 **FAQS on PSLE**
 
-PSLE 2023 - ACS(J) Parent Engagement (24 May 2023) Slides
 
 &nbsp;Q1.&nbsp;&nbsp;&nbsp;When do I choose the secondary school of my choice?
  
