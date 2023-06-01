@@ -214,11 +214,3 @@ a)&nbsp; &nbsp;From T-Score to ALs
 b)&nbsp; &nbsp;Scoring for Foundation level subjects  
 c)&nbsp; &nbsp;Calculating PSLE Score and course placement  
 d)&nbsp; &nbsp;Subject-Based Banding eligibility in secondary school
-
-2021 PSLE Results
------------------
-
-  
-Click the link below to view the 2021 PSLE Results
-
-[2021 PSLE Results](/files/2021%20PSLE%20Results%20P%20website.pdf)
