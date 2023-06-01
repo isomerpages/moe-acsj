@@ -49,8 +49,7 @@ Management Team
 |---|---|---|
 | Mathematics  | Mr Chee Zhen Yi | [chee_zhen_yi@moe.edu.sg](mailto:chee_zhen_yi@moe.edu.sg)   |
 | Science | Mdm Ng Xinyi | [ng_xinyi@moe.edu.sg](mailto:ng_xinyi@moe.edu.sg) |
-| Mother Tongue Language |  |  |
-|
+| 
 
 ### SUBJECT HEADS
 
