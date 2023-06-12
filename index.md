@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/acsj285banner12june23.png
+      background: /images/acsj285banner12june23a.png
       url: /contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS
