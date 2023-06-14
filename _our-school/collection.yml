@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Canteen Advertisement.md
       - School History.md
       - Vision, Mission & Values.md
       - School Motto.md
@@ -31,3 +30,4 @@ collections:
       - General Information/Sexuality Education.md
       - Supporting Singaporean Students.md
       - Pupil Recognition.md
+      - Canteen Advertisement.md
