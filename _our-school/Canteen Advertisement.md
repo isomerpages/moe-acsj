@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Economic Food Stall | 31 Aug 2023     | Mixed rice is acceptable.|
+| Chinese Economic Food Stall | 31 Aug 2023 | Mixed rice is acceptable.|
 | Halal Rice Food Stall | 31 Aug 2023 | Mixed rice is acceptable.|
 
 **Application Procedure**
