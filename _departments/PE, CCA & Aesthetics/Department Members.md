@@ -2,7 +2,7 @@
 title: Department Members
 permalink: /departments/pe-cca-and-aesthetics/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 ![](/images/Sub-banner2.jpg)
 
@@ -40,7 +40,7 @@ Department Members
   </tr>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members (Aesthetics)</span></td>
-    <td class="tg-fexn"><span style="background-color:transparent">Mr Alfred Angeleri</span><br><span style="background-color:transparent">Ms Desiree Chang</span><br><span style="background-color:transparent">Ms Nur 'Amirah Binte Jumat</span></td>
+    <td class="tg-fexn"><span style="background-color:transparent">Mdm Goh Shu Hui</span><br><span style="background-color:transparent">Ms Desiree Chang</span><br><span style="background-color:transparent">Miss Nur 'Amirah Binte Jumat</span></td>
   </tr>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Subject Head (CCA)</span><br></td>
@@ -52,7 +52,7 @@ Department Members
   </tr>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members (PE/CCA)</span></td>
-    <td class="tg-fexn">Mr Andy Tan Zi Yang (HOD Innovation)<br>Miss Lee May Po (HOD SSD)<br>Mr Nga Bing Chang Jeremiah (ST ES)<br><span style="background-color:transparent">Miss Lim Jie Ning</span><br><span style="background-color:transparent">Mr Matthew Yap</span><br><span style="background-color:transparent">Mr Jeremy Teo</span></td>
+    <td class="tg-fexn">Mr Andy Tan Zi Yang (HOD Innovation)<br>Miss Lee May Po (HOD SSD)<br>Mr Nga Bing Chang Jeremiah (ST ES)<br><span style="background-color:transparent">Miss Lim Jie Ning</span><br><span style="background-color:transparent">Mr Muhammad Hakim</span><br><span style="background-color:transparent">Miss Grace Wong</span></td>
   </tr>
 </tbody>
 </table>

@@ -1,5 +1,5 @@
 ---
-title: CCA POLICIES
+title: CCA Policies
 permalink: /our-ccas/policies/
 description: ""
 ---

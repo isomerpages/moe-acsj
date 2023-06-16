@@ -68,7 +68,7 @@ Academic Staff
 |   | Mdm Wong Shiow Jiuan | [wong\_shiow\_jiuan@moe.edu.sg](mailto:wong_shiow_jiuan@moe.edu.sg) |
 | P3.4 | Miss Rubinder Kaur | [rubinder\_kaur@moe.edu.sg](mailto:rubinder_kaur@moe.edu.sg) |
 |   | Miss Desiree Chang | [chang\_ke\_xin\_desiree@moe.edu.sg](mailto:chang_ke_xin_desiree@moe.edu.sg) |
-| P3.5 | Mrs Annabella Kwan | [chee\_kheng\_hwa\_annabella@moe.edu.sg](mailto:chee_kheng_hwa_annabella@moe.edu.sg) |
+| P3.5 | Mr Muhammad Hakim Mustadza | [muhammad\_hakim\_mustadza@moe.edu.sg](mailto:muhammad_hakim_mustadza@moe.edu.sg) |
 |   | Ms Adela Chua (YH for Middle Pri) | [adela\_chua@moe.edu.sg](mailto:adela_chua@moe.edu.sg) |
 | P3.6 | Miss Charine Koh | [koh\_hsiao\_lan@moe.edu.sg](mailto:koh_hsiao_lan@moe.edu.sg) |
 |   | Mdm Goh Shu Hui | [goh\_shu\_hui\_a@moe.edu.sg](mailto:goh_shu_hui_a@moe.edu.sg) |
@@ -142,7 +142,7 @@ Academic Staff
 |---|---|
 | Mdm Choo Wen Chyi  | [choo\_wen\_chyi@moe.edu.sg](mailto:choo_wen_chyi@moe.edu.sg) |
 | Ms Grace Wong Jie Er | [grace\_wong\_jie\_er@moe.edu.sg](mailto:grace_wong_jie_er@moe.edu.sg) |
-| Mr Muhammad Hakim Bin Mustadza | [muhammad\_hakim\_mustadza@moe.edu.sg](mailto:muhammad_hakim_mustadza@moe.edu.sg) |
+
 
 ### SPECIAL EDUCATION NEEDS (SEN)
 
@@ -162,7 +162,7 @@ Academic Staff
 | Mdm Taginissa B. A. Pillai (AED LBS Support) | [taginissa@acsjunior.sg](mailto:taginissa@acsjunior.sg) |
 
 
-### ADJUNCT & RELIEF TEACHERS
+### CONTRACT & FLEXI ADJUNCT TEACHERS
 
 | Name | Email |
 |---|---|

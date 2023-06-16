@@ -36,11 +36,11 @@ Department Members
   </tr>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Senior Teacher</span></td>
-    <td class="tg-fexn"><span style="color:#000;background-color:transparent">Mr Mohammed Ashraff (Covering)</span><br></td>
+    <td class="tg-fexn"><span style="color:#000;background-color:transparent"></span><br></td>
   </tr>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members </span></td>
-    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mrs Annabella Kwan</span><br><span style="color:#000;background-color:transparent">Mr Glenn Chia (SH Innovation)</span><br><span style="color:#000;background-color:transparent">Mrs Jennifer Chua (AYH Upper Pri)</span><br><span style="color:#000;background-color:transparent">Mdm Norahmah Haron (HOD ICT)</span><br><span style="color:#000;background-color:transparent">Mdm Nur Shazielah Abdul Rahim </span><br><span style="color:#000;background-color:transparent">Mr Royston Siah Kim Tian </span><br><span style="color:#000;background-color:transparent">Mrs Goh Siew Yan, Sherry</span><br><span style="color:#000;background-color:transparent">Ms Syafinah Ibrahim</span><br><span style="color:#000;background-color:transparent">Ms Teong Wen Jia, Ivy</span><br><span style="color:#000;background-color:transparent">Mdm Tuty Sulastri Subri </span></td>
+    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mr Mohammed Ashraff</span><br><span style="color:#000;background-color:transparent">Mr Glenn Chia (SH Innovation)</span><br><span style="color:#000;background-color:transparent">Mrs Jennifer Chua (AYH Upper Pri)</span><br><span style="color:#000;background-color:transparent">Mdm Norahmah Haron (HOD ICT)</span><br><span style="color:#000;background-color:transparent">Mdm Nur Shazielah Abdul Rahim </span><br><span style="color:#000;background-color:transparent">Mr Royston Siah Kim Tian </span><br><span style="color:#000;background-color:transparent">Mrs Goh Siew Yan, Sherry</span><br><span style="color:#000;background-color:transparent">Ms Syafinah Ibrahim</span><br><span style="color:#000;background-color:transparent">Ms Teong Wen Jia, Ivy</span><br><span style="color:#000;background-color:transparent">Mdm Tuty Sulastri Subri </span></td>
   </tr>
 </tbody>
 </table>
