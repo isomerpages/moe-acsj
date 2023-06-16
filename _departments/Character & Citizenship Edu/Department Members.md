@@ -2,7 +2,7 @@
 title: Department Members
 permalink: /departments/cce/members/
 description: ""
-third_nav_title: Character &amp; Citizenship Edu
+third_nav_title: Character & Citizenship Edu
 ---
 ![](/images/Sub-banner2.jpg)
 
@@ -26,17 +26,17 @@ Department Members
 <thead>
   <tr>
     <th class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Head of Department</span></th>
-    <th class="tg-bk3i"><span style="color:#000;background-color:transparent">Mr Chen Jieming (Student Development)</span><br><span style="color:#232323;background-color:initial">Ms Noelle Selvadurai (CCE)</span></th>
+    <th class="tg-bk3i"><span style="color:#000;background-color:transparent">Mr Chen Jieming (Student Development)</span><br><span style="color:#232323;background-color:initial">Mrs Michelle Lee (CCE)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Subject Head</span></td>
-    <td class="tg-bk3i"><span style="color:#000;background-color:transparent">Ms Karen Tham (Student Leadership)</span><span style="color:#232323;background-color:transparent">Mrs Michelle Lee (CCE)</span></td>
+    <td class="tg-bk3i"><span style="color:#000;background-color:transparent">Ms Karen Tham (Student Leadership)</span></td>
   </tr>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Senior Teacher</span></td>
-    <td class="tg-bk3i"><span style="color:#000;background-color:transparent">Ms Kim Quek (Special Needs)  </span><span style="color:#232323;background-color:initial">Mrs Siti Mohamed (Social Studies)</span><br><span style="color:#232323;background-color:initial">Ms Rubinder Kaur (English) </span></td>
+    <td class="tg-bk3i"><span style="color:#000;background-color:transparent">Ms Kim Quek (Special Needs)  </span><br><span style="color:#232323;background-color:initial">Mrs Siti Mohamed (Social Studies)</span></td>
   </tr>
   <tr>
     <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Educational Career Guidance</span><br><br><br><br></td>
@@ -44,7 +44,7 @@ Department Members
   </tr>
   <tr>
     <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Everyday Responsibilities</span><br></td>
-    <td class="tg-inqa">Mrs Balasubramaniam<br>Ms Choo Wen Chyi<br>Ms Felice Lou<br>Ms Lam Ker Sim<br>Mrs Ng-Tang Pui Fun<br>Mdm Tuty Sulastri Subri<br>Mdm Wong Shiow Jiuan</td>
+    <td class="tg-inqa">Mrs Balasubramaniam<br>Ms Rubinder Kaur<br>Ms Felice Lou<br>Ms Lam Ker Sim<br>Mrs Ng-Tang Pui Fun<br>Mdm Tuty Sulastri Subri<br>Mdm Wong Shiow Jiuan</td>
   </tr>
   <tr>
     <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Form Teacher Guidance Period</span></td>
