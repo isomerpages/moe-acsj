@@ -162,7 +162,7 @@ Academic Staff
 | Mdm Taginissa B. A. Pillai (AED LBS Support) | [taginissa@acsjunior.sg](mailto:taginissa@acsjunior.sg) |
 
 
-### ADJUNCT & RELIEF TEACHERS
+### CONTRACT & FLEXI ADJUNCT TEACHERS
 
 | Name | Email |
 |---|---|
