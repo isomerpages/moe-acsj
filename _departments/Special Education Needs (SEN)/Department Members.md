@@ -22,14 +22,20 @@ Department Members
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Senior Teacher</span></th>
-    <th class="tg-inqa"><span style="color:#000;background-color:transparent">Ms Kim Quek</span></th>
-  </tr>
+    <th class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">HOD</span></th>
+    <th class="tg-inqa"><span style="color:#000;background-color:transparent">Miss Noelle Selvadurai</span></th>
+   </tr>
 </thead>
 <tbody>
   <tr>
+    <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Senior Teacher </span></td>
+    <td class="tg-inqa"><span style="background-color:transparent">Ms Kim Quek</span>
+	</td></tr>
+
+</tbody><tbody>
+  <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members </span></td>
-    <td class="tg-inqa"><span style="background-color:transparent">Ms Angela Tan (Senior AED/LBS)</span><br><span style="background-color:transparent">Mr Kevin Chua (Senior AED/LBS)</span><br><span style="background-color:transparent">Mrs Caroline Tang </span><br><span style="background-color:transparent">Mrs Ong Bee Yeng </span><br><span style="background-color:transparent">Ms Lauren Ng (AED/LBS) </span><br><span style="background-color:transparent">Mr Ranny Choi (AED/LBS) </span><br><span style="background-color:transparent">Mdm Shabnam Phillips </span></td>
+    <td class="tg-inqa"><span style="background-color:transparent">Ms Angela Tan (Senior AED/LBS)</span><br><span style="background-color:transparent">Mr Kevin Chua (Senior AED/LBS)</span><br><span style="background-color:transparent"> </span>Ms Lauren Ng (AED/LBS)<br><span style="background-color:transparent">Mr Ranny Choi (AED/LBS) </span><br><span style="background-color:transparent">Mrs Caroline Tang </span><br><span style="background-color:transparent">Mrs Ong Bee Yeng </span><br><span style="background-color:transparent">Mdm Shabnam Phillips </span></td>
   </tr>
 </tbody>
 </table>
