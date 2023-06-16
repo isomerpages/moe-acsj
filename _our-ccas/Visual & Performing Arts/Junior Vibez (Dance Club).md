@@ -2,7 +2,7 @@
 title: Junior Vibez (Dance Club)
 permalink: /our-ccas/visual-and-performing-arts/dance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ![](/images/Sub-banner2.jpg)
 
@@ -10,7 +10,7 @@ third_nav_title: Visual &amp; Performing Arts
 
 #### Overview
 
-Junior Vibez is open to Pri.3 to Pri.5 new pupils who are interested and have a love and passion for dance. It is a platform for nurturing the aesthetic sensibilities of our pupils, which is in line with Singapore's vision of becoming a cultural hub.
+Junior Vibez is open to P3 to P5 new pupils who are interested and have a love and passion for dance. It is a platform for nurturing the aesthetic sensibilities of our pupils, which is in line with Singapore's vision of becoming a cultural hub.
 
   
 
