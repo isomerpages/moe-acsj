@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /departments/cce/programmes/
 description: ""
-third_nav_title: Character &amp; Citizenship Edu
+third_nav_title: Character & Citizenship Edu
 ---
 ![](/images/Sub-banner1.jpg)
 
