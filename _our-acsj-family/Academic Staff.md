@@ -142,7 +142,7 @@ Academic Staff
 |---|---|
 | Mdm Choo Wen Chyi  | [choo\_wen\_chyi@moe.edu.sg](mailto:choo_wen_chyi@moe.edu.sg) |
 | Ms Grace Wong Jie Er | [grace\_wong\_jie\_er@moe.edu.sg](mailto:grace_wong_jie_er@moe.edu.sg) |
-| Mr Muhammad Hakim Bin Mustadza | [muhammad\_hakim\_mustadza@moe.edu.sg](mailto:muhammad_hakim_mustadza@moe.edu.sg) |
+
 
 ### SPECIAL EDUCATION NEEDS (SEN)
 
