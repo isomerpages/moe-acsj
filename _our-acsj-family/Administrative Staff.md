@@ -5,10 +5,10 @@ description: ""
 ---
 ![](/images/Sub-banner1.jpg)
 
-Administrative Staff
+Executive & Administrative Staff
 ====================
 
-### ADMINISTRATION SUPPORT
+### ADMINISTRATION
 
 | Designation | Name | Email |
 |---|---|---|
@@ -21,15 +21,15 @@ Administrative Staff
 | Corporate Support Officer | Miss K. Sujjitra  | [k\_sujjitra\_kashinathan@moe.edu.sg](mailto:k_sujjitra_kashinathan@moe.edu.sg) |
 | School Librarian | Ms Kelly Teo Chwee Lee | [ChweeLee.Teo@staff.spydus.com.sg](mailto:ChweeLee.Teo@staff.spydus.com.sg) |
 
-### INFORMATION &amp; TECHNOLOGY SUPPORT
+### INFORMATION & TECHNOLOGY
 
 | Designation | Name | Email |
 |---|---|---|
 | ICT Manager | Mr Noor Azhar Parnen | [noor\_azhar\_parnen@moe.edu.sg](mailto:noor_azhar_parnen@moe.edu.sg) |
-| Desktop Engineer | Mr Mohd Zuhaili Che Zakaria | - |
-| Desktop Engineer | Mr John Ong Choon Hui | - |
+| Desktop Engineer | Mr Mohd Zuhaili Bin Che Zakaria | [zack\@acsjunior.sg](mailto:zack@acsjunior.sg) |
+| Desktop Engineer | Mr John Ong Choon Hui | [john\@acsjunior.sg](mailto:john@acsjunior.sg) |
 
-### OPERATIONS SUPPORT
+### OPERATIONS
 
 | Designation | Name | Email
 |---|---|---|
