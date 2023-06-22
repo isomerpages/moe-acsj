@@ -180,7 +180,6 @@ Academic Staff
 | Ms Pauline Chua | [pauline\_chua@moe.edu.sg](mailto:pauline_chua@moe.edu.sg) |
 | Mr Tan Siah Wee Francis | [tan\_siah\_wee\_francis@moe.edu.sg](mailto:tan_siah_wee_francis@moe.edu.sg) |
 | Mrs Wendy Tan | [wendy\_tan@moe.edu.sg](mailto:wendy_tan@moe.edu.sg) |
-| Mrs Kathleen Koh | [kathleen\_ong\_hsiuli@moe.edu.sg](mailto:kathleen_ong_hsiuli@moe.edu.sg) |
 | Mrs Yogeeindran | [gayathri\_unnikrishnan@moe.edu.sg](mailto:gayathri_unnikrishnan@moe.edu.sg) |
 | Mr Wong Leong Kiet | [wong\_leong\_kiet@moe.edu.sg](mailto:wong_leong_kiet@moe.edu.sg) |
 | Mdm Hasina d/o Mustakim | [hasina\_mustakim@moe.edu.sg](mailto:hasina_mustakim@moe.edu.sg) |
