@@ -47,12 +47,11 @@ Sundays &amp; PH : Closed
 
 ### **School Bookshop**
 
-**Popular Book Co (Pte) Ltd**<br>
-Tel: 68387008<br>
-Email:&nbsp;[acj@popularworld.com](mailto:acj@popularworld.com)<br>
+**Casco Publication Pte Ltd**<br>
+Tel: 6322 4330<br>
+Email:&nbsp;[info@cascoedusupply.com.sg](mailto:info@cascoedusupply.com.sg)<br>
 Opening Hours: Mondays to Fridays from 8 am to 4 pm
 
-**Note: Parents are allowed to purchase/exchange school books from 6-28 January 2022 (Mon-Fri), from 2-3.30pm only.**
 
 ### **School Bus**
 
