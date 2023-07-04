@@ -9,6 +9,7 @@ third_nav_title: General Information
 Announcements
 =============
 
+* [5th Principal's Letter](/files/announcement5.pdf)
 * [Green Photography Submission Form](https://tinyurl.com/greenphoto2023)
 * [4th Principal's Letter](/files/announcement4.pdf)
 * [3rd Principal's Letter](/files/announcement3.pdf)
