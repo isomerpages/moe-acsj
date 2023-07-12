@@ -30,7 +30,8 @@ Academic Staff
 | P1.8 | Mrs Chua Mei Ping | [fok\_mei\_ping@moe.edu.sg](mailto:fok_mei_ping@moe.edu.sg) |
 |   | Miss Lou Jiu En Felice | [lou\_jiu\_en\_felice@moe.edu.s](mailto:lou_jiu_en_felice@moe.edu.sg) |
 | P1.9 | Mrs Josephine Chan (CAJT) | [leong\_yoke\_fong\_josephine@moe.edu.sg](mailto:leong_yoke_fong_josephine@moe.edu.sg) |
-|   | Miss Chong Bao Yue (Internal SH for Student Well-Being) | [chong\_bao\_yue@moe.edu.sg](mailto:chong_bao_yue@moe.edu.sg) |
+|   | Miss Chong Bao Yue | [chong\_bao\_yue@moe.edu.sg](mailto:chong_bao_yue@moe.edu.sg) |
+ |
 
 
 ### PRIMARY 2 FORM TEACHERS
@@ -55,6 +56,7 @@ Academic Staff
 |   | Mrs Rachel Heng (ST for Music) | [tan\_hui\_fen\_rachel@moe.edu.sg](mailto:tan_hui_fen_rachel@moe.edu.sg) |
 | P2.9 | Mdm Norfaiza Binte Zainal | [norfaiza\_zainal@moe.edu.sg](mailto:norfaiza_zainal@moe.edu.sg) |
 |   | Mr Koh Boon Hock Colin (ST for Physical  Education) | [koh\_boon\_hock@moe.edu.sg](mailto:koh_boon_hock@moe.edu.sg) |
+ |
 
 ### PRIMARY 3 FORM TEACHERS
 
@@ -75,6 +77,7 @@ Academic Staff
 |   | Mdm Goh Shu Hui | [goh\_shu\_hui\_a@moe.edu.sg](mailto:goh_shu_hui_a@moe.edu.sg) |
 | P3.7 | Mrs Ronny | [nur\_hidayah\_abdul\_aziz@moe.edu.sg](mailto:nur_hidayah_abdul_aziz@moe.edu.sg) |
 |   | Mr See Cheun Wah | [see\_cheun\_wah@moe.edu.sg](mailto:see_cheun_wah@moe.edu.sg) |
+ |
 
 ### PRIMARY 4 FORM TEACHERS
 
@@ -95,6 +98,7 @@ Academic Staff
 | P4.7 | Mdm Syafinah Binte Ibrahim | [syafinah\_ibrahim@moe.edu.sg](mailto:syafinah_ibrahim@moe.edu.sg) |
 |   | Mdm Chen Xuelei | [chen\_xue\_lei@moe.edu.sg](mailto:chen_xue_lei@moe.edu.sg) |
 |   | Miss Grace Wong Jie Er | [grace\_wong\_jie\_er@moe.edu.sg](mailto:grace_wong_jie_er@moe.edu.sg) |
+ |
 
 ### PRIMARY 5 FORM TEACHERS
 
@@ -114,8 +118,9 @@ Academic Staff
 |   | Mrs Michelle Tan (HOD for CCE) | [lee\_shuyun\_michelle@moe.edu.sg](mailto:lee_shuyun_michelle@moe.edu.sg) |
 | P5.7 | Mrs Balasubramaniam Sarasu | [balasubramaniam\_sarasu@moe.edu.sg](mailto:balasubramaniam_sarasu@moe.edu.sg) |
 |   | Miss Selvadurai Noelle Chitrani (HOD for SEN) | [selvadurai\_noelle\_chitrani@moe.edu.sg](mailto:selvadurai_noelle_chitrani@moe.edu.sg) |
-| P5.8 | Mr Mo Liwen | [mo\_liwen@moe.edu.sg](mailto:mo_liwen@moe.edu.sg) |
+| P5.8 | Mr Mo Liwen Maurice | [mo\_liwen@moe.edu.sg](mailto:mo_liwen@moe.edu.sg) |
 |   | Mrs Jennifer Chua (AYH for Upper Pri) | [ng\_pei\_fun@moe.edu.sg](mailto:ng_pei_fun@moe.edu.sg) |
+ |
 
 ### PRIMARY 6 FORM TEACHERS
 
@@ -137,18 +142,21 @@ Academic Staff
 |   | Mr Tan Zi Yang Andy (HOD for Innovation) |[tan\_zi\_yang\_andy@moe.edu.sg](mailto:tan_zi_yang_andy@moe.edu.sg) |
 | P6.8 | Mr Kelvin Lim Lye lee | [kelvin\_lim\_lye\_lee@moe.edu.sg](mailto:kelvin_lim_lye_lee@moe.edu.sg) |
 |   | Mdm Yang Hsin-Wen | [yang\_hsin-wen@moe.edu.sg](mailto:yang_hsin-wen@moe.edu.sg) |
+ |
 
 ###  NON-FT TEACHERS
 
 | Name | Email |
 |---|---|
 | Mdm Choo Wen Chyi  | [choo\_wen\_chyi@moe.edu.sg](mailto:choo_wen_chyi@moe.edu.sg) |
+ |
 
 ### SCHOOL COUNSELLOR
 
 | Name | Email |
 |---|---|
 | Mrs Maivilli Reshitharan | [maivilli\_tamalingam@moe.edu.sg](mailto:maivilli_tamalingam@moe.edu.sg) |
+ |
 
 ### SPECIAL EDUCATION NEEDS (SEN)
 
@@ -159,13 +167,14 @@ Academic Staff
 | Mr Ranny Choi Weng Hung (SENO) | [ranny\_choi\_weng\_hung@moe.edu.sg](mailto:ranny_choi_weng_hung@moe.edu.sg) |
 | Miss Lauren Ng Miaw Shan (SENO) | [lauren\_ng\_miaw\_shan@moe.edu.sg](mailto:lauren_ng_miaw_shan@moe.edu.sg) |
 | Mr Elton Lim (SENO Trainee) | [lim\_zhan\_kuan\_elton@moe.edu.sg](mailto:lim_zhan_kuan_elton@moe.edu.sg) |
-| Mdm Taginissa B. A. Pillai (SEN Support) | [taginissa@acsjunior.sg](mailto:taginissa@acsjunior.sg) |
+| 
 
 ### ALLIED EDUCATORS (T&L)
 
 | Name | Email |
 |---|---|
 | Mrs Vidya Suresh (AED T&L) | [vidya\_suresh@moe.edu.sg](mailto:vidya_suresh@moe.edu.sg) |
+ |
 
 ### CONTRACT & FLEXI ADJUNCT TEACHERS
 
@@ -185,4 +194,5 @@ Academic Staff
 | Mdm Hasina d/o Mustakim | [hasina\_mustakim@moe.edu.sg](mailto:hasina_mustakim@moe.edu.sg) |
 | Mdm Lim Yen Tong Rie | [rie\_lim\_yen\_tong@moe.edu.sg](mailto:rie_lim_yen_tong@moe.edu.sg) |
 | Miss Goh Sok Teng | [goh\_sok\_teng@moe.edu.sg](mailto:goh_sok_teng@moe.edu.sg) |
-| Mrs Jayadevi Koh | [jayadevi\_ramakrishnan@moe.edu.sg](mailto:jayadevi_ramakrishnan@moe.edu.sg) |
+| Mrs Jayadevi Koh | [jayadevi\_ramakrishnan@moe.edu.sg](mailto:jayadevi_ramakrishnan@moe.edu.sg) | 
+ |
