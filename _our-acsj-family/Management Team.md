@@ -58,5 +58,4 @@ Management Team
 | CCA | Mr Alwyn Tan | [tan_chin_keat_alwyn@moe.edu.sg](mailto:tan_chin_keat_alwyn@moe.edu.sg)  |
 | Innovation | Mr Glenn Chia | [glenn_chia_jia_hao@moe.edu.sg](mailto:glenn_chia_jia_hao@moe.edu.sg) |
 | Student Leadership | Mdm Karen Tham | [tham_ceyun_karen@moe.edu.sg](mailto:tham_ceyun_karen@moe.edu.sg) |
-| Student Well-Being (Internal) | Miss Chong Bao Yue | [chong_bao_yue@moe.edu.sg](mailto:chong_bao_yue@moe.edu.sg) |
 |
