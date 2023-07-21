@@ -17,7 +17,7 @@ Hp: 97270614<br>
 Email:&nbsp;[**SCC-ACSJ@epworth.sg**](mailto:SCC-ACSJ@epworth.sg)<br>
 Website:&nbsp;[**www.Epworth.sg**](http://www.epworth.sg/)
 
-Request for Admission to Epworth Student Care 2024 NEW! at&nbsp;[**https://forms.gle/cckVKpQSe2YE95ZQ9**](https://forms.gle/cckVKpQSe2YE95ZQ9)
+Request for Admission to Epworth Student Care 2024<br>&nbsp;[**https://forms.gle/cckVKpQSe2YE95ZQ9**](https://forms.gle/cckVKpQSe2YE95ZQ9)
 
 ### **School Uniform**
 
