@@ -42,8 +42,8 @@ Sundays &amp; PH : Closed
 <b><u>Online Purchases:</u></b><br>
 **School Uniform<br>
 [http://www.schooluniforms.sg/bb-acs-junior](http://www.schooluniforms.sg/bb-acs-junior)**<br>
-**Name Tags for Primary 1 to 6 (2022-2023) <br>
-[http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag**](http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag)**
+**Name Tags for Primary 1 to 6 (2023-2024) NEW!<br>
+[http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag](http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag)**
 
 ### **School Bookshop**
 
