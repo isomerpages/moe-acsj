@@ -19,6 +19,7 @@ Executive & Administrative Staff
 | Corporate Support Officer | Ms Law Siew Kim Chris | [law\_siew\_kim@schools.gov.sg](mailto:law_siew_kim@schools.gov.sg) |
 | Corporate Support Officer | Mdm Sara-U Cumarasamy | [sara-u\_cumarasamy@moe.edu.sg](mailto:sara-u_cumarasamy@moe.edu.sg) |
 | Corporate Support Officer | Miss K. Sujjitra  | [k\_sujjitra\_kashinathan@moe.edu.sg](mailto:k_sujjitra_kashinathan@moe.edu.sg) |
+| Receptionist | Ms Lillian Tan  | [lillian\_tan@acsjunior.sg](mailto:lillian_tan@acsjunior.sg) |
 | School Librarian | Ms Kelly Teo Chwee Lee | [ChweeLee.Teo@staff.spydus.com.sg](mailto:ChweeLee.Teo@staff.spydus.com.sg) |
  |
 
