@@ -42,7 +42,7 @@ Academic Staff
 |  | Mr Goh Tiow Hua | [goh\_tiow\_hua@moe.edu.sg](mailto:goh_tiow_hua@moe.edu.sg) |
 | P2.2 | Mrs Ng-Tang Pui Fun | [ng-tang\_pui\_fun@moe.edu.sg](mailto:ng-tang_pui_fun@moe.edu.sg) |
 |   | Miss Lim Jie Ning | [jie\_ning\_lim@moe.edu.sg](mailto:jie_ning_lim@moe.edu.sg) |
-| P2.3 | Mrs Mohamad (ST for National Education/Social Studies) | [siti\_fauziah\_abdul\_latiff@moe.edu.sg](mailto:siti_fauziah_abdul_latiff@moe.edu.sg) |
+| P2.3 | Mrs Mohamad (ST for Social Studies) | [siti\_fauziah\_abdul\_latiff@moe.edu.sg](mailto:siti_fauziah_abdul_latiff@moe.edu.sg) |
 |   | Mrs Lai Li Lian |[kok\_li\_lian@moe.edu.sg](mailto:kok_li_lian@moe.edu.sg) |
 | P2.4 | Mrs Karmene Wong | [yee\_zhuoying\_karmene@moe.edu.sg](mailto:yee_zhuoying_karmene@moe.edu.sg) |
 |   | Mdm Karen Tham (SH for Student Development) | [tham\_ceyun\_karen@moe.edu.sg](mailto:tham_ceyun_karen@moe.edu.sg) |
