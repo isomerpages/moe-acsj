@@ -26,7 +26,7 @@ Department Members
 <thead>
   <tr>
     <th class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Head of Department</span></th>
-    <th class="tg-bk3i"><span style="color:#000;background-color:transparent">Mr Chen Jieming (Student Development)</span><br><span style="color:#232323;background-color:initial">Mrs Michelle Lee (CCE)</span></th>
+    <th class="tg-bk3i"><span style="color:#000;background-color:transparent">Mr Chen Jieming (Student Management)</span><br><span style="color:#232323;background-color:initial">Mrs Michelle Lee (CCE)</span></th>
   </tr>
 </thead>
 <tbody>
