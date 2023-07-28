@@ -20,7 +20,7 @@ Management Team
 | Character & Citizenship Education | Mrs Michelle Tan | [lee_shuyun_michelle@moe.edu.sg](mailto:lee_shuyun_michelle@moe.edu.sg) |
 | Info-Comm Technology | Mdm Norahmah Haron | [norahmah_haron@moe.edu.sg](mailto:norahmah_haron@moe.edu.sg) |
 | School Staff Developer | Miss Lee May Po | [lee_may_po@moe.edu.sg](mailto:lee_may_po@moe.edu.sg) |
-| Student Development | Mr Chen Jieming | [chen_jieming@moe.edu.sg](mailto:chen_jieming@moe.edu.sg) |
+| Student Management | Mr Chen Jieming | [chen_jieming@moe.edu.sg](mailto:chen_jieming@moe.edu.sg) |
 | Innovation | Mr Andy Tan | [tan_zi_yang_andy@moe.edu.sg](mailto:tan_zi_yang_andy@moe.edu.sg) |
 |
 
