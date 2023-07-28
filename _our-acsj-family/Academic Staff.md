@@ -137,7 +137,7 @@ Academic Staff
 | P6.5 | Mdm Nur Shazielah Binte Abdul Rahim | [nur\_shazielah\_abdul\_rahim@moe.edu.sg](mailto:nur_shazielah_abdul_rahim@moe.edu.sg) |
 |   | Mrs Gloria Chia (SH for Aesthetics) | [loh\_lin\_li@moe.edu.sg](mailto:loh_lin_li@moe.edu.sg) |
 | P6.6 | Mdm Tan Lee San | [tan\_lee\_san\_a@moe.edu.sg](mailto:tan_lee_san_a@moe.edu.sg) |
-|   | Mr Chen Jieming (HOD for Student Development) | [chen\_jieming@moe.edu.sg](mailto:chen_jieming@moe.edu.sg) |
+|   | Mr Chen Jieming (HOD for Student Management) | [chen\_jieming@moe.edu.sg](mailto:chen_jieming@moe.edu.sg) |
 | P6.7 | Mdm Nurulhuda Binte Abdul Hamid | [nurulhuda\_ab\_hamid@moe.edu.sg](mailto:nurulhuda_ab_hamid@moe.edu.sg) |
 |   | Mr Tan Zi Yang Andy (HOD for Innovation) |[tan\_zi\_yang\_andy@moe.edu.sg](mailto:tan_zi_yang_andy@moe.edu.sg) |
 | P6.8 | Mr Kelvin Lim Lye lee | [kelvin\_lim\_lye\_lee@moe.edu.sg](mailto:kelvin_lim_lye_lee@moe.edu.sg) |
