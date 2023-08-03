@@ -6,7 +6,7 @@ third_nav_title: Useful Links
 ---
 ![](/images/Sub-banner2.jpg)
 
-For Pupils
+For Students
 ==========
 
 <style type="text/css">
