@@ -4,9 +4,6 @@ permalink: /useful-links/for-pupils/
 description: ""
 third_nav_title: Useful Links
 ---
-
-
-
 ![](/images/Sub-banner2.jpg)
 
 For Pupils
@@ -38,7 +35,7 @@ For Pupils
 </tbody>
 </table>
 
-###  **Cyber Wellness**
+### &nbsp;**Cyber Wellness**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -103,7 +100,7 @@ For Pupils
 </tbody>
 </table>
 
-### **QR Code For SLS Account Locked & Reset**
+### **QR Code For SLS Account Locked &amp; Reset**
 
 ![](/images/SLS%20Account%20Reset%20Link.jpg)
 
@@ -114,18 +111,5 @@ For Pupils
 ### **ACS Echo**
 
 ![](/images/Digital%20Echo%20Icon.jpg)
-
-
-
-
-
-<div>
-	
-<div style="float: left">
-<a href="[https://acsecho.com/)">
-<img src="![](/images/Digital%20Echo%20Icon.jpg)" style="width:50%">
-</a>
-</div>
-<div>
-</div>
-</div>
+<a href="https://acsecho.com"><span style="text-decoration:none;color:#21088A">Link to ACS Digital ECHO Magazine
+</span></a>
