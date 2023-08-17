@@ -166,7 +166,6 @@ Academic Staff
 | Mr Kevin Chua How Kiat (Senior SENO) | [kevin\_chua\_how\_kiat@moe.edu.sg](mailto:kevin_chua_how_kiat@moe.edu.sg) |
 | Mr Ranny Choi Weng Hung (SENO) | [ranny\_choi\_weng\_hung@moe.edu.sg](mailto:ranny_choi_weng_hung@moe.edu.sg) |
 | Miss Lauren Ng Miaw Shan (SENO) | [lauren\_ng\_miaw\_shan@moe.edu.sg](mailto:lauren_ng_miaw_shan@moe.edu.sg) |
-| Mr Elton Lim (SENO Trainee) | [lim\_zhan\_kuan\_elton@moe.edu.sg](mailto:lim_zhan_kuan_elton@moe.edu.sg) |
 | 
 
 ### ALLIED EDUCATORS (T&L)
