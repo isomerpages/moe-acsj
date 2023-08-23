@@ -5,9 +5,14 @@ description: ""
 ---
 #### **Important Information**
 
-1. For **technical issues** pertaining to the use of the SLS such as unlocking accounts and resetting password, please refer to the **SLS Self-Help Guide in the school website under FHBL**.
+1. For **technical issues** pertaining to the use of the SLS such as unlocking accounts and resetting password, please refer to the **SLS Self-Help Guide in the school website under HBL**.
 
-2. Alternatively, for **technical issues on HBL**, you may call **MOE SLS Helpdesk** (6702 6513 Mondays to Fridays: 9 a.m. to 9 p.m.; Saturdays: 9 a.m. to 3 p.m. Email: [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com))
+2. Alternatively, for **technical issues on SLS**, you may call **MOE SLS Helpdesk** 
+
+* Contact Number: **6702 6513**
+* Mondays to Fridays: **9 a.m. to 9 p.m.**
+* Saturdays: **9 a.m. to 3 p.m.**
+* Email: ***[helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com)***
 
 3. For **subject-specific enquiries**, please email **subject teachers**.
 
