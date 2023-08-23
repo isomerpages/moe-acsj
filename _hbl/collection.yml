@@ -2,4 +2,4 @@ collections:
   hbl:
     output: true
     order:
-      - Homebased Learning.md
+      - HBL Important Info.md
