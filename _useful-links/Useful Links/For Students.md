@@ -101,15 +101,17 @@ For Students
 </table>
 
 ### **QR Code For SLS Account Locked &amp; Reset**
+eForm Link: ***[Click  Here](https://go.gov.sg/acsjsls)***
 
-![](/images/SLS%20Account%20Reset%20Link.jpg)
+<img src="/images/slsreset.jpg" style="width:45%">
 
 ### **QR Code For Student iCON Password Reset**
+eForm Link: ***[Click  Here](https://go.gov.sg/acsjstudiconreset)***
 
-![](/images/Stud%20iCON%20Account%20Reset%20Link.jpg)
+<img src="/images/studicon.jpg" style="width:45%">
 
 ### **ACS Echo**
 
 ![](/images/Digital%20Echo%20Icon.jpg)
-<a href="https://acsecho.com"><span style="text-decoration:none;color:#21088A">Link to ACS Digital ECHO Magazine
+<a href="https://acsecho.com"><span style="text-decoration:none;color:#21088A">***Link to ACS Digital ECHO Magazine***
 </span></a>
