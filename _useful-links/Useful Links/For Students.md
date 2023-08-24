@@ -102,7 +102,9 @@ For Students
 
 ### **QR Code For SLS Account Locked &amp; Reset**
 
-![](/images/SLS%20Account%20Reset%20Link.jpg)
+eForm Link: ***[Click  Here](https://go.gov.sg/acsjsls)***
+
+<img src="/images/slsreset.jpg" style="width:45%">
 
 ### **QR Code For Student iCON Password Reset**
 
