@@ -113,5 +113,5 @@ eForm Link: ***[Click  Here](https://go.gov.sg/acsjstudiconreset)***
 ### **ACS Echo**
 
 ![](/images/Digital%20Echo%20Icon.jpg)
-<a href="https://acsecho.com"><span style="text-decoration:none;color:#21088A">Link to ACS Digital ECHO Magazine
+<a href="https://acsecho.com"><span style="text-decoration:none;color:#21088A">***Link to ACS Digital ECHO Magazine***
 </span></a>
