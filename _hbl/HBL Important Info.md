@@ -18,7 +18,7 @@ description: ""
 
 4. For **general enquiries about HBL**, you may call the **school HBL Helpline 8346 8322**, from **7.30 a.m. to 10.30 a.m.**
 
-#### **QR Code For SLS Account Locked &amp; Reset**
+#### **QR Code For SLS Account Locked & Reset**
 eForm Link: ***[Click  Here](https://go.gov.sg/acsjsls)***
 
 ![](/images/SLS%20Account%20Reset%20Link.jpg)
