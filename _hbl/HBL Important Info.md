@@ -14,7 +14,7 @@ description: ""
 	* Saturdays: **9 a.m. to 3 p.m.**
 	* Email: ***[helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com)***
 
-3. For **subject-specific enquiries**, please email **subject teachers**.
+For **subject-specific enquiries**, please email **subject teachers**.
 
 #### **QR Code For SLS Account Locked &amp; Reset**
 eForm Link: ***[Click  Here](https://go.gov.sg/acsjsls)***
