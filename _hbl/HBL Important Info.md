@@ -9,12 +9,12 @@ description: ""
 
 2. Alternatively, for **technical issues on SLS**, you may call **MOE SLS Helpdesk** 
 
-* Contact Number: **6702 6513**
-* Mondays to Fridays: **9 a.m. to 9 p.m.**
-* Saturdays: **9 a.m. to 3 p.m.**
-* Email: ***[helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com)***
+	* Contact Number: **6702 6513**
+	* Mondays to Fridays: **9 a.m. to 9 p.m.**
+	* Saturdays: **9 a.m. to 3 p.m.**
+	* Email: ***[helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com)***
 
-3. For **subject-specific enquiries**, please email **subject teachers**.
+For **subject-specific enquiries**, please email **subject teachers**.
 
 #### **QR Code For SLS Account Locked &amp; Reset**
 eForm Link: ***[Click  Here](https://go.gov.sg/acsjsls)***
