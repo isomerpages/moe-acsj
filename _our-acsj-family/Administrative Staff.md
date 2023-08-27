@@ -20,7 +20,7 @@ Executive & Administrative Staff
 | Corporate Support Officer | Mdm Sara-U Cumarasamy | [sara-u\_cumarasamy@moe.edu.sg](mailto:sara-u_cumarasamy@moe.edu.sg) |
 | Corporate Support Officer | Miss K. Sujjitra  | [k\_sujjitra\_kashinathan@moe.edu.sg](mailto:k_sujjitra_kashinathan@moe.edu.sg) |
 | Receptionist | Ms Lillian Tan  | [lillian\_tan@acsjunior.sg](mailto:lillian_tan@acsjunior.sg) |
-| School Librarian | Ms Kelly Teo Chwee Lee | [ChweeLee.Teo@staff.spydus.com.sg](mailto:ChweeLee.Teo@staff.spydus.com.sg) |
+| School Librarian | Ms Fatin Nurulain Mohamed Ali | [Nurul.Ali@staff.spydus.com.sg](mailto:Nurul.Ali@staff.spydus.com.sg) |
  |
 
 ### INFORMATION & TECHNOLOGY
@@ -28,7 +28,7 @@ Executive & Administrative Staff
 | Designation | Name | Email |
 |---|---|---|
 | ICT Manager | Mr Noor Azhar Parnen | [noor\_azhar\_parnen@moe.edu.sg](mailto:noor_azhar_parnen@moe.edu.sg) |
-| Desktop Engineer | Mr Mohd Zuhaili Bin Che Zakaria | [zack@acsjunior.sg](mailto:zack@acsjunior.sg) |
+| Desktop Engineer | Mr Mohd Zuhaili Che Zakaria | [zack@acsjunior.sg](mailto:zack@acsjunior.sg) |
 | Desktop Engineer | Mr John Ong Choon Hui | [john@acsjunior.sg](mailto:john@acsjunior.sg) |
  |
 
@@ -40,4 +40,5 @@ Executive & Administrative Staff
 | Operation Support Officer | Mr Toh Meng Kwang | - |
 | Operation Support Officer | Mdm Premawathi d/o Kanasan | - |
 | Operation Support Officer | Mr Ho Tin Kui | - |
+| Operation Support Officer | Mdm Mya Win  | - |
  |
