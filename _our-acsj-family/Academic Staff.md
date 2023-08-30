@@ -156,6 +156,7 @@ Academic Staff
 | Name | Email |
 |---|---|
 | Mrs Maivilli Reshitharan | [maivilli\_tamalingam@moe.edu.sg](mailto:maivilli_tamalingam@moe.edu.sg) |
+| Ms Khairunissa (USC)| [khairunissa\_abu\_bakar@moe.edu.sg](mailto:maivilli_tamalingam@moe.edu.sg) |
  |
 
 ### SPECIAL EDUCATION NEEDS (SEN)
