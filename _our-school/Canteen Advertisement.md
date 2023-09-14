@@ -7,8 +7,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Economic Food Stall | 31 Aug 2023 | Mixed rice is acceptable.|
-| Halal Rice Food Stall | 31 Aug 2023 | Mixed rice is acceptable.|
+| Chinese Economic Food Stall | 31 Jan 2024 | Mixed rice is acceptable.|
+| Halal Rice Food Stall | 31 Jan 2024 | Mixed rice is acceptable.|
 
 **Application Procedure**
 
@@ -24,8 +24,8 @@ description: ""
 
 * Address: 16 Winstedt Road Singapore 227988
 * Contact No: +65 6733 7911
-* Email: sarah_heng@schools.gov.sg or filza_sarip_udin@schools.gov.sg
-* Contact Person: Mdm Sarah Heng or Mdm Filza Sarip Udin (Admin Managers)  
+* Email: k_sujjitra_kashinathan@moe.edu.sg or filza_sarip_udin@schools.gov.sg
+* Contact Person: Miss K. Sujjitra or Mdm Filza Sarip Udin 
 
 **How to get there?**
 * Nearest MRT: Newton MRT (NS21 & DT11 line) – 10 minutes walking distance
