@@ -20,3 +20,5 @@ Principal's Letter
 * [5th Principal's Letter](/files/announcement5.pdf)
 
 * [6th Principal's Letter](/files/announcement6.pdf)
+
+* [7th Principal's Letter](/files/announcement7.pdf)
