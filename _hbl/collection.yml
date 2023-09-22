@@ -2,4 +2,5 @@ collections:
   hbl:
     output: true
     order:
+      - Thought of the Day.md
       - HBL Important Info.md
