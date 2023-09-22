@@ -3,7 +3,7 @@ title: Thought for the Day
 permalink: /hbl/permalink/
 description: ""
 ---
-![](/images/totd2023.jpg)
+<img src="/images/totd2023.jpg" style="width:80%">
 
 **Thought for the Day**
 
