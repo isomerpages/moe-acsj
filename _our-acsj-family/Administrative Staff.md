@@ -37,6 +37,7 @@ Executive & Administrative Staff
 | Designation | Name | Email
 |---|---|---|
 | Operations Manager | Mr Kelvin Lim Fong Twong | [lim\_fong\_twong@moe.edu.sg](mailto:lim_fong_twong@moe.edu.sg) |
+| Operations Manager (Adjt)| Mr Adrian Goh | [goh\_zhiwei\_adrian@moe.edu.sg](mailto:goh\_zhiwei\_adrian@moe.edu.sg)|
 | Operation Support Officer | Mr Toh Meng Kwang | - |
 | Operation Support Officer | Mdm Premawathi d/o Kanasan | - |
 | Operation Support Officer | Mr Ho Tin Kui | - |
