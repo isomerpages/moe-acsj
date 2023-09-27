@@ -18,3 +18,12 @@ description: ""
 
 28 Sep. Speaker: Mdm Lee Pei Yee
 [ [PDF](/files/tftd_sep%2028_py.pdf) , [AUDIO LINK](https://youtu.be/H1N5rMM4a7g)]
+
+29 Sep. Speaker: Mrs Julia Chua
+[ [PDF](/files/tftd_sep%2028_py.pdf) , [AUDIO LINK](https://youtu.be/RCy4OSiANHg)]
+
+2 Oct. Speaker: Mrs Julia Chua
+[ [PDF](/files/tftd_sep%2028_py.pdf) , [AUDIO LINK](https://youtu.be/H1N5rMM4a7g)]
+
+3 Oct. Speaker: Mdm Lee Pei Yee
+[ [PDF](/files/tftd_sep%2028_py.pdf) , [AUDIO LINK](https://youtu.be/H1N5rMM4a7g)]
