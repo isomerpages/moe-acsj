@@ -17,4 +17,4 @@ description: ""
 [ [PDF](/files/tftd_psle%20study%20break%203_py.pdf) , [AUDIO LINK](https://youtu.be/3RnieHwxBXU)]
 
 28 Sep. Speaker: Mdm Lee Pei Yee
-[ [PDF](/files/tftd_psle%20study%20break%203_py.pdf) , [AUDIO LINK](https://youtu.be/H1N5rMM4a7g)]
+[ [PDF](/files/tftd_sep%2028_py.pdf) , [AUDIO LINK](https://youtu.be/H1N5rMM4a7g)]
