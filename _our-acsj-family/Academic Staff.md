@@ -192,7 +192,5 @@ Academic Staff
 | Mrs Yogeeindran | [gayathri\_unnikrishnan@moe.edu.sg](mailto:gayathri_unnikrishnan@moe.edu.sg) |
 | Mr Wong Leong Kiet | [wong\_leong\_kiet@moe.edu.sg](mailto:wong_leong_kiet@moe.edu.sg) |
 | Mdm Hasina d/o Mustakim | [hasina\_mustakim@moe.edu.sg](mailto:hasina_mustakim@moe.edu.sg) |
-| Mdm Lim Yen Tong Rie | [rie\_lim\_yen\_tong@moe.edu.sg](mailto:rie_lim_yen_tong@moe.edu.sg) |
 | Miss Goh Sok Teng | [goh\_sok\_teng@moe.edu.sg](mailto:goh_sok_teng@moe.edu.sg) |
-| Mrs Jayadevi Koh | [jayadevi\_ramakrishnan@moe.edu.sg](mailto:jayadevi_ramakrishnan@moe.edu.sg) | 
- |
+|
