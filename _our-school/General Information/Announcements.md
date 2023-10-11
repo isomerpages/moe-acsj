@@ -9,6 +9,8 @@ third_nav_title: General Information
 Announcements
 =============
 
+* ![Outstanding Youth in Education Award 2024](/images/oyea2024.jpg) 
+*  ![President's Award for Teachers 2024](/images/pat2024.gif)
 * [7th Principal's Letter](/files/announcement7.pdf)
 * [6th Principal's Letter](/files/announcement6.pdf)
 * [5th Principal's Letter](/files/announcement5.pdf)
