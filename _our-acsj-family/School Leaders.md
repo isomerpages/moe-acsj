@@ -18,6 +18,11 @@ Miss Cheryl Chee
 Dr Audrey Koh  
 [Audrey\_B\_YEO@schools.gov.sg](mailto:Audrey_B_YEO@schools.gov.sg)
 
+### VICE PRINCIPAL (Academic)
+
+Mrs Jessie Heng  
+[ang\_chai\_ting@schools.gov.sg](mailto:ang_chai_ting@schools.gov.sg)
+
 ### VICE PRINCIPAL (Administration)
 
 Mr Tony Tan Sek Liang  
