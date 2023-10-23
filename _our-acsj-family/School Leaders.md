@@ -21,7 +21,7 @@ Dr Audrey Koh
 ### VICE PRINCIPAL (Academic)
 
 Mrs Jessie Heng  
-[ang\_chai\_ting@schools.gov.sg](mailto:ang_chai_ting@schools.gov.sg)
+[ANG\_Chai\_Ting@schools.gov.sg](mailto:ANG_Chai_Ting@schools.gov.sg)
 
 ### VICE PRINCIPAL (Administration)
 
