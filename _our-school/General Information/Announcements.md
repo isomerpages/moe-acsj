@@ -9,6 +9,7 @@ third_nav_title: General Information
 Announcements
 =============
 
+* [CCA@ACSJ 2024](/files/ccaacsj2024.pdf)
 * ![Outstanding Youth in Education Award 2024](/images/oyea2024.jpg) 
 *  ![President's Award for Teachers 2024](/images/pat2024.gif)
 * [7th Principal's Letter](/files/announcement7.pdf)
