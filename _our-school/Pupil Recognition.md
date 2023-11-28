@@ -2,10 +2,11 @@
 title: Pupil Recognition
 permalink: /pupilrecognition/
 description: ""
+variant: markdown
 ---
 ![](/images/Sub-banner2.jpg)
 
-Pupil Recognition
+Student Recognition
 =================
 
 **A) School Awards**
