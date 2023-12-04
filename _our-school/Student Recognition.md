@@ -1,11 +1,12 @@
 ---
-title: Pupil Recognition
+title: Student Recognition
 permalink: /pupilrecognition/
 description: ""
+variant: markdown
 ---
 ![](/images/Sub-banner2.jpg)
 
-Pupil Recognition
+Student Recognition
 =================
 
 **A) School Awards**
@@ -22,17 +23,17 @@ These awards include
 **Formal Awards**  
 
 <b><u>Founder’s Day Awards</u></b><br>
-The ACS(J) Founder’s Day Awards give recognition to our pupils who have demonstrated excellence academically.
+The ACS(J) Founder’s Day Awards give recognition to our students who have demonstrated excellence academically.
 
-<b><u>**Founder’s Day Major Awards**</u></b><br>
-\*&nbsp;**Tan Sri Tan Chin Tuan Character Award**<br>
-The Tan Sri Tan Chin Tuan Character Award seeks to recognise the Primary 5 Pupil who is truly outstanding in his thoughts and attitudes towards his peers, teachers and the community.
+<b><u>**Founder’s Day Special Awards**</u></b><br>
+\*&nbsp;**The Lee Hah Ing Scholarship and ACS OBA Meritorious Award**<br>
+The Lee Hah Ing Scholarship and ACS OBA Meritorious Award are awarded to the high performing PSLE student of good character who pursues his secondary education in ACS.
 
-\*&nbsp;**The Oldham Award**<br>
-The Oldham award is an award that seeks to recognize the graduating Boys who are truly all-rounded in their achievements – true ACSian gentlemen who are outstanding in terms academic, CCA, and service to school and community.
+\*&nbsp;**The Integrity Award**<br>
+ The Integrity Award is given to recognise the student who is outstanding in his thoughts and attitudes towards his peers, teachers and the community.
 
-\*&nbsp;**The Lee Hah Ing Scholarship &amp; The ACS OBA Meritorious Award**<br>
-The Lee Hah Ing Scholarship and the ACS OBA Meritorious Award are awarded to the high performing PSLE Boy of excellent character who pursues his secondary education in ACS.
+\*&nbsp;**The Oldham Award\***<br>**With JOY-full Memory of Rev &amp; Mrs T C Nga**<br>
+The Oldham Award is given to recognise boys who are truly all-rounded in their achievements – boys of excellent character who are outstanding in academic performance, CCA and service to the school and community.
 
 <b><u>**Honours Day Awards**</u></b><br>
 The ACS(J) Honours Day Awards give recognition to our pupils who have demonstrated excellence in non-academic areas (school and/or MOE-recognised competitions), leadership and service. Pupils' character, demonstration of school values and good conduct are a significant component in the selection criteria.
