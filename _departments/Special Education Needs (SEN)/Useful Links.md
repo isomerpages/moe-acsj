@@ -14,7 +14,7 @@ Useful Links
 **[https://www.moe.gov.sg/special-educational-needs/understand](https://www.moe.gov.sg/special-educational-needs/understand)**
 
 2\. <b><u>Support in Schools</u></b><br>
-**[https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools](https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools)** **broken link**
+**[https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools](https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools)**
 
 3\.  <b><u>Dyslexia</u></b><br>
 Dyslexia Association of Singapore<br>
