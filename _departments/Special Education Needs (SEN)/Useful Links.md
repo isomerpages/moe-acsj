@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /departments/special-education-needs/usefullinks/
 description: ""
 third_nav_title: Special Education Needs (SEN)
+variant: markdown
 ---
 ![](/images/Sub-banner1.jpg)
 
@@ -13,11 +14,11 @@ Useful Links
 **[https://www.moe.gov.sg/special-educational-needs/understand](https://www.moe.gov.sg/special-educational-needs/understand)**
 
 2\. <b><u>Support in Schools</u></b><br>
-**[https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools](https://www.moe.edu.sg/special-educational-needs/school-support/primary-schools)** **broken link**
+**[https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools](https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools)** **broken link**
 
 3\.  <b><u>Dyslexia</u></b><br>
 Dyslexia Association of Singapore<br>
-Website:&nbsp;&nbsp;**[http://www.das.org.sg/](http://www.das.org.sg/)**
+Website:&nbsp;&nbsp;**[http://www.das.org.sg/](http://www.das.org.sg/)**<br>Deslexia Association of Singapore provides a range of services catered for individuals with dyslexia and other specific learning differences.
 
 4\.  <b><u>Autism Spectrum Disorder (ASD)</u></b><br>
 <u>Autism Resource Centre (ARC)</u><br>
