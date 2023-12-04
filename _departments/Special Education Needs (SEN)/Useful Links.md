@@ -22,10 +22,13 @@ Website:&nbsp;&nbsp;**[http://www.das.org.sg/](http://www.das.org.sg/)**<br>Desl
 
 4\.  <b><u>Autism Spectrum Disorder (ASD)</u></b>
 
+<u>i)Autism Resource Centre</u><br>
+	Website: **[_https://www.autism.org.sg/?utm_source=aas-website&amp;utm_medium=topmenu&amp;utm_campaign=onsite&amp;utm_content=menulink_](https://www.autism.org.sg/?utm_source=aas-website&amp;utm_medium=topmenu&amp;utm_campaign=onsite&amp;utm_content=menulink)**<br>
+	
 **Autism Resource Centre (Singapore)** or ARC(S) is a not-for-profit charity based in Singapore. It was started by professional and parent volunteers dedicated to serving children and adults with Autism Spectrum Disorder (ASD) to help these individuals lead meaningful and independent lives in society.
 
 <u>ii)  Autism Association (Singapore)</u><br>
-Website:**[_http://www.autismlinks.org.sg/_](http://www.autismlinks.org.sg/)**<br>
+Website: **[_http://www.autismlinks.org.sg/_](http://www.autismlinks.org.sg/)**<br>
 
 **Autism Association (Singapore)**&nbsp;is one of the Voluntary Welfare Organisations in Singapore, dedicated to supporting individuals with autism and helping them lead meaningful and quality lives in society.
 
@@ -69,4 +72,4 @@ Website: **[_https://www.imh.com.sg/Clinical-Services/Specialised-Services/Neuro
 
 CGC offers specialised multi-disciplinary assessment and therapy for children and youth with ADHD and mental health co-morbidities. Through parent education and workshops, this team seeks to work collaboratively with parents and caregivers in supporting their children’s needs.
 
-iv) For a handout on parenting ADHD, you can download it &nbsp;**[HERE](https://www.imh.com.sg/Documents/publications/educational-brochures/for-children-and-adolescents/ADHD_Booklet.pdf)**
+iv) For a handout on parenting children with ADHD, you can download it &nbsp;**[HERE](https://www.imh.com.sg/Documents/publications/educational-brochures/for-children-and-adolescents/ADHD_Booklet.pdf)**
