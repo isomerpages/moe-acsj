@@ -3,6 +3,7 @@ title: Department Members
 permalink: /departments/special-education-needs/members/
 description: ""
 third_nav_title: Special Education Needs (SEN)
+variant: markdown
 ---
 ![](/images/Sub-banner1.jpg)
 
@@ -29,13 +30,14 @@ Department Members
 <tbody>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Senior Teacher </span></td>
-    <td class="tg-inqa"><span style="background-color:transparent">Ms Kim Quek</span>
+    <td class="tg-inqa"><span style="background-color:transparent">Mr Jeremiaj Nga (Educational Support)</span><br><span style="background-color:transparent">Mrs Lilian Lai (Lower Primary Learners)</span><br><span style="background-color:transparent">Ms Quek Soo Kim (Special Needs)</span><br>
 	</td></tr>
+	
 
 </tbody><tbody>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members </span></td>
-    <td class="tg-inqa"><span style="background-color:transparent">Ms Angela Tan (Senior AED/LBS)</span><br><span style="background-color:transparent">Mr Kevin Chua (Senior AED/LBS)</span><br><span style="background-color:transparent"> </span>Ms Lauren Ng (AED/LBS)<br><span style="background-color:transparent">Mr Ranny Choi (AED/LBS) </span><br><span style="background-color:transparent">Mrs Caroline Tang </span><br><span style="background-color:transparent">Mrs Ong Bee Yeng </span><br><span style="background-color:transparent">Mdm Shabnam Phillips </span></td>
+    <td class="tg-inqa"><span style="background-color:transparent">Ms Angela Tan (Senior AED/LBS)</span><br><span style="background-color:transparent">Mr Kevin Chua (Senior AED/LBS)</span><br><span style="background-color:transparent"> </span>Ms Lauren Ng (AED/LBS)<br><span style="background-color:transparent">Mr Ranny Choi (AED/LBS) </span><br><span style="background-color:transparent">Mrs Maivilli Reshitharan (Senior SC) </span><br><span style="background-color:transparent">Ms Khairunnisah (UT SC) </span><br><span style="background-color:transparent">Mrs Caroline Tang </span><br><span style="background-color:transparent">Mrs Regina Tan </span><br><span style="background-color:transparent">Mdm Shabnam Phillips </span></td>
   </tr>
 </tbody>
 </table>
