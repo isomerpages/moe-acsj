@@ -34,11 +34,7 @@ Website:&nbsp;&nbsp;**[_https://www.imh.com.sg/Clinical-Services/Specialised-Ser
 
 Autism Services&nbsp;are provided for children and adolescents (between 6-18 years old) with autism. Cases may be referred to them from other hospitals, polyclinics, general practitioners, or schools or they may be self-referred.
 
-iv)For a handout on “Autism”, you can download it from REACH at&nbsp;**[HERE](https://www.imh.com.sg/Documents/publications/service-brochures/for-children-and-adolescents/Brochure_NBC.pdf)**
-
 5\. <b><u>Attention Deficit Hyperactivity Disorder (ADHD)</u></b><br>
-For a handout on ADHD, you can download it from REACH at&nbsp;**[HERE](https://www.imh.com.sg/Documents/publications/educational-brochures/for-children-and-adolescents/ADHD_Booklet.pdf)**
-
 <u>i)  Society for the Promotion of ADHD Research and Knowledge (SPARK)</u><br>
 Website:&nbsp;&nbsp;**[_http://www.spark.org.sg/_](http://www.spark.org.sg/)**
 
@@ -65,7 +61,6 @@ Their activities include:
 ii) Response, Early intervention and Assessment in Community mental Health (REACH)
 
 Website:**[_https://www.imh.com.sg/Clinical-Services/Community-based-Services/REACH/Pages/About-REACH.aspx_](https://www.imh.com.sg/Clinical-Services/Community-based-Services/REACH/Pages/About-REACH.aspx)**<br>
-Website: **[_https://www.imh.com.sg/clinical/page.aspx?id=270_](https://www.imh.com.sg/clinical/page.aspx?id=270)**
 
 REACH offers services and resources/information to schools, parents and students.
 
@@ -73,3 +68,5 @@ iii)Child Guidance Clinic (CGC)<br>
 Website: **[_https://www.imh.com.sg/Clinical-Services/Specialised-Services/Neurobehavioural-Clinic-Child/Pages/Attention-Deficit-Hyperactivity-Disorder.aspx_](https://www.imh.com.sg/Clinical-Services/Specialised-Services/Neurobehavioural-Clinic-Child/Pages/Attention-Deficit-Hyperactivity-Disorder.aspx)**
 
 CGC offers specialised multi-disciplinary assessment and therapy for children and youth with ADHD and mental health co-morbidities. Through parent education and workshops, this team seeks to work collaboratively with parents and caregivers in supporting their children’s needs.
+
+iv) For a handout on parenting ADHD, you can download it &nbsp;**[HERE](https://www.imh.com.sg/Documents/publications/educational-brochures/for-children-and-adolescents/ADHD_Booklet.pdf)**
