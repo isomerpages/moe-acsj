@@ -20,9 +20,7 @@ Useful Links
 Dyslexia Association of Singapore<br>
 Website:&nbsp;&nbsp;**[http://www.das.org.sg/](http://www.das.org.sg/)**<br>Deslexia Association of Singapore provides a range of services catered for individuals with dyslexia and other specific learning differences.
 
-4\.  <b><u>Autism Spectrum Disorder (ASD)</u></b><br>
-<u>Autism Resource Centre (ARC)</u><br>
-Website:&nbsp;&nbsp;**[_http://www.autism.org.sg/_](http://www.autism.org.sg/)**
+4\.  <b><u>Autism Spectrum Disorder (ASD)</u></b>
 
 **Autism Resource Centre (Singapore)** or ARC(S) is a not-for-profit charity based in Singapore. It was started by professional and parent volunteers dedicated to serving children and adults with Autism Spectrum Disorder (ASD) to help these individuals lead meaningful and independent lives in society.
 
@@ -39,7 +37,7 @@ Autism Services&nbsp;are provided for children and adolescents (between 6-18 yea
 iv)For a handout on “Autism”, you can download it from REACH at&nbsp;**[HERE](hhttps://www.imh.com.sg/Documents/publications/service-brochures/for-children-and-adolescents/Brochure_NBC.pdf)**
 
 5\. <b><u>Attention Deficit Hyperactivity Disorder (ADHD)</u></b><br>
-For a handout on ADHD, you can download it from REACH at; [**HERE**](https://www.imh.com.sg/uploadedfiles/Publications/Educational_Resources/ADHD.pdf)
+For a handout on ADHD, you can download it from REACH at&nbsp;**[HERE](https://www.imh.com.sg/uploadedfiles/Publications/Educational_Resources/ADHD.pdf)**
 
 <u>i)  Society for the Promotion of ADHD Research and Knowledge (SPARK)</u><br>
 Website:&nbsp;&nbsp;**[_http://www.spark.org.sg/_](http://www.spark.org.sg/)**
