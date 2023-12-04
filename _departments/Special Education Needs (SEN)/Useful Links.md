@@ -34,10 +34,10 @@ Website:&nbsp;&nbsp;**[_https://www.imh.com.sg/Clinical-Services/Specialised-Ser
 
 Autism Services&nbsp;are provided for children and adolescents (between 6-18 years old) with autism. Cases may be referred to them from other hospitals, polyclinics, general practitioners, or schools or they may be self-referred.
 
-iv)For a handout on “Autism”, you can download it from REACH at&nbsp;**[HERE](hhttps://www.imh.com.sg/Documents/publications/service-brochures/for-children-and-adolescents/Brochure_NBC.pdf)**
+iv)For a handout on “Autism”, you can download it from REACH at&nbsp;**[HERE](https://www.imh.com.sg/Documents/publications/service-brochures/for-children-and-adolescents/Brochure_NBC.pdf)**
 
 5\. <b><u>Attention Deficit Hyperactivity Disorder (ADHD)</u></b><br>
-For a handout on ADHD, you can download it from REACH at&nbsp;**[HERE](https://www.imh.com.sg/uploadedfiles/Publications/Educational_Resources/ADHD.pdf)**
+For a handout on ADHD, you can download it from REACH at&nbsp;**[HERE](https://www.imh.com.sg/Documents/publications/educational-brochures/for-children-and-adolescents/ADHD_Booklet.pdf)**
 
 <u>i)  Society for the Promotion of ADHD Research and Knowledge (SPARK)</u><br>
 Website:&nbsp;&nbsp;**[_http://www.spark.org.sg/_](http://www.spark.org.sg/)**
