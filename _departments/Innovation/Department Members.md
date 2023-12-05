@@ -3,6 +3,7 @@ title: Department Members
 permalink: /departments/innovation/members/
 description: ""
 third_nav_title: Innovation
+variant: markdown
 ---
 ![](/images/Sub-banner2.jpg)
 
@@ -35,11 +36,11 @@ Department Members
   </tr>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Senior Teachers</span></td>
-    <td class="tg-fexn"><span style="color:#000;background-color:transparent">Ms Arlette Teo (High Ability Learners)</span><br><span style="color:#000;background-color:transparent">Mrs Rachel Heng (Music)</span></td>
+    <td class="tg-fexn"><span style="color:#000;background-color:transparent">Ms Arlette Teo (High Ability Learners)</span></td>
   </tr>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members </span></td>
-    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mrs Bonnie Ho</span><br><span style="color:#000;background-color:transparent">Mrs Chua-Fok Mei Ping</span><br><span style="color:#000;background-color:transparent">Mdm Karmene Yee</span><br><span style="color:#000;background-color:transparent">Mrs Hidayah Ronny</span><br><span style="color:#000;background-color:transparent">Mr Jonathan Koh</span><br><span style="color:#000;background-color:transparent">Ms Charine Koh</span><br><span style="color:#000;background-color:transparent">Mr Kelvin Lim</span><br><span style="color:#000;background-color:transparent">Ms Lam Ker Sim</span><br><span style="color:#000;background-color:transparent">Mdm Tan Kuan Bee</span><br><span style="color:#000;background-color:transparent">Mdm Tuty Sulastri Subri</span><br><span style="color:#000;background-color:transparent">Mdm Lam Yuk Wing</span><br><span style="color:#000;background-color:transparent">Ms Jeanette Yee</span></td>
+    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mrs Bonnie Ho</span><br><span style="color:#000;background-color:transparent">Mrs Chua-Fok Mei Ping</span><br><span style="color:#000;background-color:transparent">Mdm Teong Wen Jia Ivy</span><br><span style="color:#000;background-color:transparent">MrMohammed Ashraff Karim</span><br><span style="color:#000;background-color:transparent">Mr Jonathan Koh Boon Kit</span><br><span style="color:#000;background-color:transparent">Ms Koh Hsio Lan Charine</span><br><span style="color:#000;background-color:transparent">Ms Lam Ker Sim</span><br><span style="color:#000;background-color:transparent">Mdm Tan Kuan Bee</span><br><span style="color:#000;background-color:transparent">Mdm Tuty Sulastri Subri</span><br><span style="color:#000;background-color:transparent">Mdm Lam Yuk Wing</span></td>
   </tr>
 </tbody>
 </table>

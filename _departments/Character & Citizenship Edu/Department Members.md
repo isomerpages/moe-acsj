@@ -3,6 +3,7 @@ title: Department Members
 permalink: /departments/cce/members/
 description: ""
 third_nav_title: Character & Citizenship Edu
+variant: markdown
 ---
 ![](/images/Sub-banner2.jpg)
 
@@ -26,41 +27,20 @@ Department Members
 <thead>
   <tr>
     <th class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Head of Department</span></th>
-    <th class="tg-bk3i"><span style="color:#000;background-color:transparent">Mr Chen Jieming (Student Management)</span><br><span style="color:#232323;background-color:initial">Mrs Michelle Lee (CCE)</span></th>
+    <th class="tg-bk3i"><span style="color:#000;background-color:transparent">Mrs Michelle Lee (CCE)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Subject Head</span></td>
-    <td class="tg-bk3i"><span style="color:#000;background-color:transparent">Ms Karen Tham (Student Leadership)</span></td>
+    <td class="tg-bk3i"><span style="color:#000;background-color:transparent"></span></td>
   </tr>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Senior Teacher</span></td>
-    <td class="tg-bk3i"><span style="color:#000;background-color:transparent">Ms Kim Quek (Special Needs)  </span><br><span style="color:#232323;background-color:initial">Mrs Siti Mohamed (Social Studies)</span></td>
+    <td class="tg-bk3i"><span style="color:#000;background-color:transparent">Mrs Siti Mohamed (Social Studies)</span><br><span style="color:#232323;background-color:initial">Ms April Liang (Arts) </span><br><span style="color:#232323;background-color:initial">Mrs Rachel Heng (Music)</span></td>
   </tr>
   <tr>
-    <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Educational Career Guidance</span><br><br><br><br></td>
-    <td class="tg-inqa"><span style="background-color:transparent">Mdm Chen Xue Lei</span><br><span style="background-color:transparent">Mr Eric Huang</span><br><span style="background-color:transparent">Ms Jeanette Yee</span><br><span style="background-color:transparent">Mdm Lam Yuk Wing</span><br>Mr Royston Siah</td>
-  </tr>
-  <tr>
-    <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Everyday Responsibilities</span><br></td>
-    <td class="tg-inqa">Mrs Balasubramaniam<br>Ms Rubinder Kaur<br>Ms Felice Lou<br>Ms Lam Ker Sim<br>Mrs Ng-Tang Pui Fun<br>Mdm Tuty Sulastri Subri<br>Mdm Wong Shiow Jiuan</td>
-  </tr>
-  <tr>
-    <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Form Teacher Guidance Period</span></td>
-    <td class="tg-cake"><span style="color:#000">Mdm Irene Lee</span><br><span style="color:#000">Mdm Norfaiza Zainal</span><br><span style="color:#000">Mrs Rachel Heng</span><br><span style="color:#000">Mr See Cheun Wah</span><br><span style="color:#000">Mdm Syafinah Ibrahim</span><br><span style="color:#000">Mrs Tan Iyleng </span></td>
-  </tr>
-  <tr>
-    <td class="tg-4mqj"><br><br><br><br><span style="color:#FFF;background-color:#1D1756">21st Century Skills</span></td>
-    <td class="tg-cake"><span style="color:#000">Mrs Bonnie Ho</span><br><span style="color:#000">Mrs Chua-Fok Mei Ping</span><br><span style="color:#000">Ms Charine Koh</span><br><span style="color:#000">Ms Desiree Chang</span><br><span style="color:#000">Mr Glenn Chia</span><br><span style="color:#000">Mrs Hidayah Ronny</span><br><span style="color:#000">Mr Jonathan Koh</span><br><span style="color:#000">Ms Karmene Yee</span><br><span style="color:#000">Mr Kelvin Lim</span><br><span style="color:#000">Mdm Tan Kuan Bee</span><br><span style="color:#000">Mrs Vidya Suresh  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Social Studies</span></td>
-    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mrs Raveena Dinesh</span><br><span style="color:#000;background-color:transparent">Mrs Shabnam Phillips</span><br><span style="color:#000;background-color:transparent">Mrs Vera Seah</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">CCE (Special Needs)</span></td>
-    <td class="tg-cake"><span style="color:#000">Mr Alfred Alan Angeleri</span><br><span style="color:#000">Mrs Caroline Tang</span><br><span style="color:#000">Ms Chan Soo Keng</span><br><span style="color:#000">Mrs Lai Li Lian</span></td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-4mqj"><br><span style="color:#FFF;background-color:#1D1756">Members</span><br></td>
+    <td class="tg-inqa"><span style="background-color:transparent">Mrs Balasubramaniam Sarasu</span><br><span style="background-color:transparent">Mdm Fauziah Abdullah</span><br><span style="background-color:transparent">Miss Lou Jiu En Felice</span><br><span style="background-color:transparent">Ms Grace Wong Jie Er</span><br>Mdm Hu Lan Ying<br>Mrs Ong Bee Yeng<br>Mdm Lee Kit Cheng Irene<br>Mdm Leelavathy Gopal<br>Miss Lim Jie Ning<br>Mrs Tan Iyleng<br>Mdm Lu Liwen<br>Mrs Ng-Tang Pui Fun<br>Mr Siah Kim Tian Royston<br>Mr See Cheun Wah<br>Mrs Vera Balakrishnan<br>Mdm Wong Shiow Jiuan<br>Mdm Wong Siew Yin<br>Mdm Zhang Siyuan Nikko</td>
+  
+</tr></tbody></table>

@@ -3,6 +3,7 @@ title: Department Members
 permalink: /departments/mathematics/members/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
 ![](/images/Sub-banner1.jpg)
 
@@ -34,7 +35,8 @@ Department Members
   </tr>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members </span></td>
-    <td class="tg-fexn"><span style="background-color:transparent">Mr Aw Meng Hong</span><br><br><span style="background-color:transparent">Ms Charine Koh</span><br><span style="background-color:transparent">Mrs Chua-Fok Mei Ping</span><br><span style="background-color:transparent">Mdm Adela Chua (YH Middle Pri)</span><br><span style="background-color:transparent">Mr Goh Eng Tat</span><br><br>Mrs Hidayah Ronny<br><span style="background-color:transparent">Ms Jeanette Yee Yu Wen</span><br><span style="background-color:transparent">Mr Jonathan Koh</span><br><span style="background-color:transparent">Mr Lim Siow Way</span><br><span style="background-color:transparent">Mrs Lim-Ho Woan Jen</span><br><span style="background-color:transparent">Mdm Lee Kit Cheng Irene</span><br><span style="background-color:transparent">Mdm Lum Mei Pheng</span><br><span style="background-color:transparent">Ms Norfaiza Zainal</span><br><span style="background-color:transparent">Mrs Ong Bee Yeng</span><br><br><span style="background-color:transparent">Ms Pauline Chua</span><br><span style="background-color:transparent">Ms Regina Tan Yew Lin</span><br><span style="background-color:transparent">Ms Rinda Yeo</span><br>Mdm Tan Lee San<br>Mdm Nur Izzati Atika</td>
+    <td class="tg-fexn"><span style="background-color:transparent">Mrs Chua-Fok Mei Ping</span><br><span style="background-color:transparent">Mrs Ong Bee Yeng</span><br><span style="background-color:transparent">Miss Koh Hsiao Lan Charine</span><br><span style="background-color:transparent">Mdm Lum Mei Pheng</span><br><span style="background-color:transparent">Mdm Mah Ei Leen</span><br>Mdm Norfaiza Zainal<br><span style="background-color:transparent">Mdm Nur Shazielah Abdul Rahim</span><br><span style="background-color:transparent">Miss Tan Yew Lin Regina</span><br><span style="background-color:transparent">Miss Yeo Chiew Hoon Rinda</span><br><span style="background-color:transparent">Mrs Siah Kim Tian Royston</span><br><span style="background-color:transparent">Mdm Tan lee San</span><br><span style="background-color:transparent">Mrs Ho-Lim Woan Jen (FAJT)</span><br><span style="background-color:transparent">Mr Aw Meng Hong (FAJT)</span><br><span style="background-color:transparent">Mr Raymond Poon (FAJT)
+			</span><br><span style="background-color:transparent">Ms Ng Mui Keng Elisabeth (FAJT)</span><br><span style="background-color:transparent">Ms Ang Kar Hwi Susan (FAJT)</span></td>
   </tr>
 </tbody>
 </table>
