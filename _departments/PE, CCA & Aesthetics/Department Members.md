@@ -3,6 +3,7 @@ title: Department Members
 permalink: /departments/pe-cca-and-aesthetics/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 ![](/images/Sub-banner2.jpg)
 
@@ -26,7 +27,7 @@ Department Members
 <thead>
   <tr>
     <th class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Head of Department</span></th>
-    <th class="tg-lwkn"><span style="color:#000;background-color:transparent">Ms Chen Xinhong</span></th>
+    <th class="tg-lwkn"><span style="color:#000;background-color:transparent">Ms Goh Qiumei</span></th>
   </tr>
 </thead>
 <tbody>
@@ -40,7 +41,7 @@ Department Members
   </tr>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members (Aesthetics)</span></td>
-    <td class="tg-fexn"><span style="background-color:transparent">Mdm Goh Shu Hui</span><br><span style="background-color:transparent">Ms Desiree Chang</span><br><span style="background-color:transparent">Miss Nur 'Amirah Binte Jumat</span></td>
+    <td class="tg-fexn"><span style="background-color:transparent">Mdm Goh Shu Hui</span><br><span style="background-color:transparent">Ms Desiree Chang</span><br><span style="background-color:transparent">Miss Nur 'Amirah Jumat</span><br><span style="background-color:transparent">Ms Gan Ping Bing Saige</span></td>
   </tr>
   <tr>
     <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Subject Head (CCA)</span><br></td>
@@ -52,7 +53,7 @@ Department Members
   </tr>
   <tr>
     <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members (PE/CCA)</span></td>
-    <td class="tg-fexn">Mr Andy Tan Zi Yang (HOD Innovation)<br>Miss Lee May Po (HOD SSD)<br>Mr Nga Bing Chang Jeremiah (ST ES)<br><span style="background-color:transparent">Miss Lim Jie Ning</span><br><span style="background-color:transparent">Mr Muhammad Hakim</span><br><span style="background-color:transparent">Miss Grace Wong</span></td>
+    <td class="tg-fexn">Miss Lim Jie Ning<br><span style="background-color:transparent">Mr Teo Zhihao</span><br><span style="background-color:transparent">Mr Muhammad Hakim Mustadza</span><br><span style="background-color:transparent">Ms Grace Wong Jie Er</span><br><span style="background-color:transparent">Mr Wong Leong Kiet (FAJT)</span></td>
   </tr>
 </tbody>
 </table>
