@@ -32,7 +32,7 @@ Management Team
 |---|---|---|
 | Lower Primary | Mrs Heratnor | [teh_meijie_jerine@moe.edu.sg](mailto:teh_meijie_jerine@moe.edu.sg) |
 | Middle Primary | Ms Adela Chua  | [adela_chua@moe.edu.sg](mailto:adela_chua@moe.edu.sg)  |
-| Upper Primary | Mr Sathis Kumar | [kanapa_sathis_kumar@moe.edu.sg](mailto:kanapa_sathis_kumar@moe.edu.sg) |
+| Upper Primary |  | [](mailto:) |
 |
 
 ### ASSISTANT YEAR HEADS
