@@ -3,57 +3,6 @@ title: Department Members
 permalink: /departments/pe-cca-and-aesthetics/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
-variant: markdown
+variant: tiptap
 ---
-![](/images/Sub-banner2.jpg)
-
-Department Members
-==================
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hkt7{background-color:#1D1756;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lwkn{background-color:#FEF8EC;border-color:inherit;color:#232323;text-align:left;vertical-align:top}
-.tg .tg-k5k0{background-color:#1D1756;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-tn17{background-color:#FEF8EC;text-align:left;vertical-align:middle}
-.tg .tg-4mqj{background-color:#1D1756;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fexn{background-color:#FEF8EC;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Head of Department</span></th>
-    <th class="tg-lwkn"><span style="color:#000;background-color:transparent">Ms Goh Qiumei</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Subject Head (Aesthetics)</span></td>
-    <td class="tg-lwkn"><span style="color:#000;background-color:transparent">Mrs Gloria Chia</span></td>
-  </tr>
-  <tr>
-    <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Senior Teacher (Aesthetics)</span></td>
-    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mdm Tan Hui Fen Rachel (Music)</span><br><span style="color:#000;background-color:transparent">Ms April Ella Liang (Arts)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members (Aesthetics)</span></td>
-    <td class="tg-fexn"><span style="background-color:transparent">Mdm Goh Shu Hui</span><br><span style="background-color:transparent">Ms Desiree Chang</span><br><span style="background-color:transparent">Miss Nur 'Amirah Jumat</span><br><span style="background-color:transparent">Ms Gan Ping Bing Saige</span></td>
-  </tr>
-  <tr>
-    <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Subject Head (CCA)</span><br></td>
-    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mr Tan Chin Keat Alwyn</span></td>
-  </tr>
-  <tr>
-    <td class="tg-hkt7"><span style="color:#FFF;background-color:#1D1756">Senior Teacher (PE)</span></td>
-    <td class="tg-tn17"><span style="color:#000;background-color:transparent">Mr Colin Koh</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4mqj"><span style="color:#FFF;background-color:#1D1756">Members (PE/CCA)</span></td>
-    <td class="tg-fexn">Miss Lim Jie Ning<br><span style="background-color:transparent">Mr Teo Zhihao</span><br><span style="background-color:transparent">Mr Muhammad Hakim Mustadza</span><br><span style="background-color:transparent">Ms Grace Wong Jie Er</span><br><span style="background-color:transparent">Mr Wong Leong Kiet (FAJT)</span></td>
-  </tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg"></div><h1>Department Members</h1><table><tbody><tr><th rowspan="1" colspan="1"><p>Head of Department</p></th><th rowspan="1" colspan="1"><p>Ms Goh Qiumei</p></th></tr><tr><td rowspan="1" colspan="1"><p>Subject Head (Aesthetics)</p></td><td rowspan="1" colspan="1"><p>Mrs Gloria Chia</p></td></tr><tr><td rowspan="1" colspan="1"><p>Senior Teacher (Aesthetics)</p></td><td rowspan="1" colspan="1"><p>Mdm Tan Hui Fen Rachel (Music)<br>Ms April Ella Liang (Arts)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Members (Aesthetics)</p></td><td rowspan="1" colspan="1"><p>Mdm Goh Shu Hui<br>Ms Desiree Chang<br>Miss Nur 'Amirah Jumat<br>Ms Gan Ping Bing Saige</p></td></tr><tr><td rowspan="1" colspan="1"><p>Subject Head (CCA)<br></p></td><td rowspan="1" colspan="1"><p>Mr Tan Chin Keat Alwyn</p></td></tr><tr><td rowspan="1" colspan="1"><p>Senior Teacher (PE)</p></td><td rowspan="1" colspan="1"><p>Mr Colin Koh</p></td></tr><tr><td rowspan="1" colspan="1"><p>Members (PE/CCA)</p></td><td rowspan="1" colspan="1"><p>Miss Lim Jie Ning<br>Mr Teo Zhihao<br>Mr Muhammad Hakim Mustadza<br>Ms Grace Wong Jie Er<br>Mr Wong Leong Kiet (FAJT)</p></td></tr></tbody></table><p></p>
