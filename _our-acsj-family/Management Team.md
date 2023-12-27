@@ -2,6 +2,7 @@
 title: Management Team
 permalink: /management/
 description: ""
+variant: markdown
 ---
 ![](/images/Sub-banner1.jpg)
 
@@ -15,6 +16,7 @@ Management Team
 | English Language | Ms Rachel Gayathri | [gayathri_kunnasekaran@moe.edu.sg](mailto:gayathri_kunnasekaran@moe.edu.sg) |
 | Mathematics | Mr Goh Chee Wei  | [goh_chee_wei@moe.edu.sg](mailto:goh_chee_wei@moe.edu.sg)  |
 | Science | Miss Hemalatha Perumal  | [hemalatha_n_perumal@moe.edu.sg](mailto:hemalatha_n_perumal@moe.edu.sg) |
+| PE, CCA & Aesthetics | Ms Goh Qiumei  | [goh_qiumei@moe.edu.sg](mailto:goh_qiumei@moe.edu.sg) |
 | Mother Tongue Language | Mdm Kuah Hui Hui  | [kuah_hui_hui@moe.edu.sg](mailto:kuah_hui_hui@moe.edu.sg) |
 | Special Education Needs | Miss Noelle Selvadurai  | [selvadurai_noelle_chitrani@moe.edu.sg](mailto:selvadurai_noelle_chitrani@moe.edu.sg) |
 | Character & Citizenship Education | Mrs Michelle Tan | [lee_shuyun_michelle@moe.edu.sg](mailto:lee_shuyun_michelle@moe.edu.sg) |
