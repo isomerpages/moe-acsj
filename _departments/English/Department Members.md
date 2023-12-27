@@ -31,7 +31,7 @@ Department Members
 </thead>
 <tbody>
   <tr>
-    <td class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Level Teacher</span>
+    <td class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Lead Teacher</span>
     </td><th class="tg-t09o"><span style="color:#000;background-color:transparent">Mr Alvin Soh</span></th>
   </tr>
 
