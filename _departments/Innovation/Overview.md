@@ -3,36 +3,6 @@ title: Overview
 permalink: /departments/innovation/overview/
 description: ""
 third_nav_title: Innovation
+variant: tiptap
 ---
-![](/images/Sub-banner2.jpg)
-
-Overview
-========
-
-Innovation is _something different_ _that creates value_. The vagueness of the word _something_ is a reminder that innovation is not the job of the few but the responsibility of the many. The focus on creating value reminds us that innovation isn’t an academic activity; it is an active one! _Creating value_ distinguishes innovation from its precursors, such as creativity and invention.
-
-At Anglo-Chinese School (Junior), we strive to shift learners from:
-
-*   Consumers of knowledge to Creators of knowledge (K)
-*   Communicators to Connectors (C)
-*   Concerned Citizens to Active Contributors (A)
-*   Results-driven to Process-focused (P)
-
-To meet the overarching objective of **_A_**_dapting ideas, **C**reating solutions, **S**erving needs_, a whole-school approach to the thinking protocol based on “Understand, Plan, Act, Reflect” is adopted for a more pervasive implementation and to serve as a common language across departments.
-
-![](/images/Thinkers%20Problem%20Solving.jpg)
-
-Every teacher is an innovator in ACSJ!
-
-_Can we teach innovation?_  
-Yes – we can teach innovation; innovation is a way of thinking!  
-
-Essentially, the **_Thinkers Programme@ACS(Junior) seeks to develop and nurture ACSians to be Aspiring, Contributing and Selfless thinkers._**
-
-![](/images/Prog1.jpg)
-
-**_Overview:_**
-
-![](/images/Prog2.jpg)
-
-Click **[here](/our-school/alp/permalink)** to learn more of our ACS (Junior) Thinkers Programme.
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg"></div><h1>Overview</h1><p>Innovation is&nbsp;<em>something different</em>&nbsp;<em>that creates value</em>. The vagueness of the word&nbsp;<em>something</em>&nbsp;is a reminder that innovation is not the job of the few but the responsibility of the many. <em>Creating value</em>&nbsp;distinguishes innovation from its precursors, such as creativity and invention.</p><p><em>Overview of ALP / IPW:</em></p><ul data-tight="true" class="tight"><li><p>P1 Creative Problem Solving</p></li><li><p>P2 Mix-and-match Matrix</p></li><li><p>P3 (IPW): Plastic Pollution</p></li><li><p>P4 (IPW): Food Sustainability</p></li><li><p>P5 Creative Thinkers Board Games</p></li><li><p>P6 Learn for Life Learning Journey, Future Skills Game</p></li></ul><p>To meet the overarching objective of&nbsp;<strong><em>A</em></strong><em>dapting ideas,&nbsp;</em><strong><em>C</em></strong><em>reating solutions,&nbsp;</em><strong><em>S</em></strong><em>erving needs</em>, a whole-school approach to the thinking protocol based on “Understand, Plan, Act, Reflect” is adopted for a more pervasive implementation and to serve as a common language across departments.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thinkers%20Problem%20Solving.jpg"></div><p>Every teacher is an innovator in ACSJ!</p><p><em>Can we teach innovation?</em><br>Yes – we can teach innovation; innovation is a way of thinking!</p><p>Essentially, the&nbsp;<strong><em>Thinkers Programme@ACS(Junior) seeks to develop and nurture ACSians to be Aspiring, Contributing and Selfless thinkers.</em></strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog1.jpg"></div><p><strong><em>Overview:</em></strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog2.jpg"></div><p></p>
