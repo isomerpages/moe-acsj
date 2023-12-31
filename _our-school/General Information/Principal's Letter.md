@@ -3,17 +3,6 @@ title: Principal's Letter
 permalink: /our-school/general-information/
 description: ""
 third_nav_title: General Information
+variant: tiptap
 ---
-![](/images/Sub-banner1.jpg)
-
-Principal's Letter
-==================
-
-* [1st Principal's Letter](/files/announcement1.pdf)
-* [2nd Principal's Letter](/files/announcement2.pdf)
-* [3rd Principal's Letter](/files/announcement3.pdf)
-* [4th Principal's Letter](/files/announcement4.pdf)
-* [5th Principal's Letter](/files/announcement5.pdf)
-* [6th Principal's Letter](/files/announcement6.pdf)
-* [7th Principal's Letter](/files/announcement7.pdf)
-* [8th Principal's Letter](/files/announcement8.pdf)
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg"></div><h1>Principal's Letter</h1><ul data-tight="true" class="tight"><li><p><a href="/files/announcement1.pdf" rel="noopener noreferrer nofollow" target="_blank">1st Principa</a><a href="/files/PL01_30122023.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/announcement1.pdf" rel="noopener noreferrer nofollow" target="_blank">l's Letter</a></p><p></p></li></ul><p></p>
