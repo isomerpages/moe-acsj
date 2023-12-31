@@ -2,44 +2,6 @@
 title: Administrative Staff
 permalink: /administrativestaff/
 description: ""
+variant: tiptap
 ---
-![](/images/Sub-banner1.jpg)
-
-Executive & Administrative Staff
-====================
-
-### ADMINISTRATION
-
-| Designation | Name | Email |
-|---|---|---|
-| Admin Manager (Finance & Procurement) | Ms Filza Sarip Udin | [filza\_sarip\_udin@schools.gov.sg](mailto:filza_sarip_udin@schools.gov.sg) |
-| Admin Manager (HR & Pupil Matters) | Mdm Sarah Heng | [sarah\_heng@schools.gov.sg](mailto:sarah_heng@schools.gov.sg) |
-| Admin Executive | Ms Esther M Govindasamy | [esther\_mg@schools.gov.sg](mailto:esther_mg@schools.gov.sg) |
-| Corporate Support Officer | Mrs Jenny Goh | [ong\_ah\_lian@schools.gov.sg](mailto:ong_ah_lian@schools.gov.sg) |
-| Corporate Support Officer | Ms Law Siew Kim Chris | [law\_siew\_kim@schools.gov.sg](mailto:law_siew_kim@schools.gov.sg) |
-| Corporate Support Officer | Mdm Sara-U Cumarasamy | [sara-u\_cumarasamy@moe.edu.sg](mailto:sara-u_cumarasamy@moe.edu.sg) |
-| Corporate Support Officer | Miss K. Sujjitra  | [k\_sujjitra\_kashinathan@schools.gov.sg](mailto:k_sujjitra_kashinathan@schools.gov.sg) |
-| Receptionist | Ms Lillian Tan  | [lillian\_tan@acsjunior.sg](mailto:lillian_tan@acsjunior.sg) |
-| School Librarian | Ms Fatin Nurulain Mohamed Ali | [Nurul.Ali@staff.spydus.com.sg](mailto:Nurul.Ali@staff.spydus.com.sg) |
- |
-
-### INFORMATION & TECHNOLOGY
-
-| Designation | Name | Email |
-|---|---|---|
-| ICT Manager | Mr Noor Azhar Parnen | [noor\_azhar\_parnen@moe.edu.sg](mailto:noor_azhar_parnen@moe.edu.sg) |
-| Desktop Engineer | Mr Mohd Zuhaili Che Zakaria | [zack@acsjunior.sg](mailto:zack@acsjunior.sg) |
-| Desktop Engineer | Mr John Ong Choon Hui | [john@acsjunior.sg](mailto:john@acsjunior.sg) |
- |
-
-### OPERATIONS
-
-| Designation | Name | Email
-|---|---|---|
-| Operations Manager | Mr Kelvin Lim Fong Twong | [lim\_fong\_twong@moe.edu.sg](mailto:lim_fong_twong@moe.edu.sg) |
-| Operations Manager (Adjt)| Mr Adrian Goh | [goh\_zhiwei\_adrian@moe.edu.sg](mailto:goh\_zhiwei\_adrian@moe.edu.sg)|
-| Operation Support Officer | Mr Toh Meng Kwang | - |
-| Operation Support Officer | Mdm Premawathi d/o Kanasan | - |
-| Operation Support Officer | Mr Ho Tin Kui | - |
-| Operation Support Officer | Mdm Mya Win  | - |
- |
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg"></div><h1>Executive &amp; Administrative Staff</h1><h3>ADMINISTRATION</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Admin Manager (Finance &amp; Procurement)</p></td><td rowspan="1" colspan="1"><p>Ms Filza Binte Sarip Udin</p></td><td rowspan="1" colspan="1"><p><a href="mailto:filza_sarip_udin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">filza_sarip_udin@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Admin Manager (HR &amp; Pupil Matters)</p></td><td rowspan="1" colspan="1"><p>Mdm Sarah Heng</p></td><td rowspan="1" colspan="1"><p><a href="mailto:sarah_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_heng@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Admin Executive</p></td><td rowspan="1" colspan="1"><p>Ms Esther M Govindasamy</p></td><td rowspan="1" colspan="1"><p><a href="mailto:esther_mg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">esther_mg@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Mrs Jenny Goh</p></td><td rowspan="1" colspan="1"><p><a href="mailto:ong_ah_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ah_lian@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Sara-U Cumarasamy</p></td><td rowspan="1" colspan="1"><p><a href="mailto:sara-u_cumarasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sara-u_cumarasamy@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Miss K. Sujjitra</p></td><td rowspan="1" colspan="1"><p><a href="mailto:k_sujjitra_kashinathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">k_sujjitra_kashinathan@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Receptionist</p></td><td rowspan="1" colspan="1"><p>Ms Lillian Tan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:lillian_tan@acsjunior.sg" rel="noopener noreferrer nofollow" target="_blank">lillian_tan@acsjunior.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>School Librarian</p></td><td rowspan="1" colspan="1"><p>Ms Fatin Nurulain Binte Mohamed Ali</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Nurul.Ali@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul.Ali@staff.spydus.com.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3>INFORMATION &amp; TECHNOLOGY</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>ICT Manager</p></td><td rowspan="1" colspan="1"><p>Mr Noor Azhar Bin Parnen</p></td><td rowspan="1" colspan="1"><p><a href="mailto:noor_azhar_parnen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_azhar_parnen@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td><td rowspan="1" colspan="1"><p>Mr Mohd Zuhaili Bin Che Zakaria</p></td><td rowspan="1" colspan="1"><p><a href="mailto:zack@acsjunior.sg" rel="noopener noreferrer nofollow" target="_blank">zack@acsjunior.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td><td rowspan="1" colspan="1"><p>Mr John Ong Choon Hui</p></td><td rowspan="1" colspan="1"><p><a href="mailto:john@acsjunior.sg" rel="noopener noreferrer nofollow" target="_blank">john@acsjunior.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3>OPERATIONS</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>Mr Kelvin Lim Fong Twong</p></td><td rowspan="1" colspan="1"><p><a href="mailto:lim_fong_twong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_fong_twong@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager (Adjt)</p></td><td rowspan="1" colspan="1"><p>Mr Goh Zhiwei, Adrian</p></td><td rowspan="1" colspan="1"><p><a href="mailto:goh_zhiwei_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhiwei_adrian@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr Toh Meng Kwang</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Premawathi d/o Kanasan</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr Ho Tin Kui</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Mya Win</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
