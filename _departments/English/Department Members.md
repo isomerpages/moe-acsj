@@ -31,7 +31,10 @@ Department Members
 </thead>
 <tbody>
   <tr>
-    <td class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Lead Teacher</span>
+        <td class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Level Head (Internal)</span>
+    </td><th class="tg-t09o"><span style="color:#000;background-color:transparent">Miss Rubinder Kaur</span></th>
+  </tr>
+		<tr><td class="tg-k5k0"><span style="color:#FFF;background-color:#1D1756">Lead Teacher</span>
     </td><th class="tg-t09o"><span style="color:#000;background-color:transparent">Mr Alvin Soh</span></th>
   </tr>
 
@@ -42,7 +45,7 @@ Department Members
 
   <tr>
     <td class="tg-fhxc"><span style="color:#FFF;background-color:#1D1756">Members </span></td>
-    <td class="tg-lwkn"><span style="color:#232323;background-color:initial">Mrs Bonnie Ho</span><br><span style="color:#232323;background-color:initial">Mrs Caroline Tang</span><br><span style="color:#232323;background-color:initial">Mr Goh Eng Tat</span><br><span style="color:#232323;background-color:initial">Mr Francis Tan</span><br><span style="color:#232323;background-color:initial">Mrs Josephine Chan</span><br><span style="color:#232323;background-color:initial">Mrs Raveena Dinesh</span><br><span style="color:#232323;background-color:initial">Mr Kelvin Lim Lye Lee</span><br>Mdm Lee Kit Cheng Irene<br>Mdm Low Iyleng<br>Miss Rubinder Kaur<br><span style="background-color:transparent">Mrs Shabnam Philips</span><br><span style="color:#232323;background-color:initial">Mrs Vera Balakrishnan</span><br><span style="color:#232323;background-color:initial">Mr Wong Soong Hung</span><br><span style="color:#232323;background-color:initial">Mdm Hanisa d/o Mustakim (FAJT)</span><br><span style="color:#232323;background-color:initial">Mrs Wendy Tan (FAJT)</span><br><span style="color:#232323;background-color:initial">Mrs Gayathri Unnikrishnan (FAJT)</span><br><span style="color:#232323;background-color:initial">Mrs Tan Siah Wee Francis (FAJT)</span><br><span style="background-color:transparent">Ms Lim Wee Hwa Sonia (FAJT)</span></td>
+    <td class="tg-lwkn"><span style="color:#232323;background-color:initial">Mrs Bonnie Ho</span><br><span style="color:#232323;background-color:initial">Mrs Caroline Tang</span><br><span style="color:#232323;background-color:initial">Mr Goh Eng Tat</span><br><span style="color:#232323;background-color:initial">Mr Francis Tan</span><br><span style="color:#232323;background-color:initial">Mrs Josephine Chan</span><br><span style="color:#232323;background-color:initial">Mrs Raveena Dinesh</span><br><span style="color:#232323;background-color:initial">Mr Kelvin Lim Lye Lee</span><br>Mdm Lee Kit Cheng Irene<br>Mdm Low Iyleng<br><span style="background-color:transparent">Mrs Shabnam Philips</span><br><span style="color:#232323;background-color:initial">Mrs Vera Balakrishnan</span><br><span style="color:#232323;background-color:initial">Mr Wong Soong Hung</span><br><span style="color:#232323;background-color:initial">Mdm Hanisa d/o Mustakim (FAJT)</span><br><span style="color:#232323;background-color:initial">Mrs Wendy Tan (FAJT)</span><br><span style="color:#232323;background-color:initial">Mrs Gayathri Unnikrishnan (FAJT)</span><br><span style="color:#232323;background-color:initial">Mrs Tan Siah Wee Francis (FAJT)</span><br><span style="background-color:transparent">Ms Lim Wee Hwa Sonia (FAJT)</span></td>
   </tr>
 </tbody>
 </table>
