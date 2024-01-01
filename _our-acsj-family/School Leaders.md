@@ -2,28 +2,6 @@
 title: School Leaders
 permalink: /our-acsj-family/
 description: ""
+variant: tiptap
 ---
-![](/images/Sub-banner2.jpg)
-
-School Leaders
-==============
-
-### PRINCIPAL
-
-Miss Cheryl Chee  
-[Cheryl\_CHEE@schools.gov.sg](mailto:Cheryl_CHEE@schools.gov.sg)
-
-### VICE PRINCIPAL (Academic)
-
-Dr Audrey Koh  
-[Audrey\_B\_YEO@schools.gov.sg](mailto:Audrey_B_YEO@schools.gov.sg)
-
-### VICE PRINCIPAL (Academic)
-
-Mrs Jessie Heng  
-[ANG\_Chai\_Ting@schools.gov.sg](mailto:ANG_Chai_Ting@schools.gov.sg)
-
-### VICE PRINCIPAL (Administration)
-
-Mr Tony Tan Sek Liang  
-[Tony\_TAN@schools.gov.sg](mailto:Tony_TAN@schools.gov.sg)
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg"></div><h1>School Leaders</h1><h3>PRINCIPAL</h3><p>Miss Cheryl Chee<br><a href="mailto:Cheryl_CHEE@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cheryl_CHEE@schools.gov.sg</a></p><h3>VICE PRINCIPAL (Academic)</h3><p>Mrs Heng-Ang Chai Ting, Jessie<br><a href="mailto:ANG_Chai_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ANG_Chai_Ting@schools.gov.sg</a></p><h3>VICE PRINCIPAL (Administration)</h3><p>Mr Tony Tan Sek Liang<br><a href="mailto:Tony_TAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tony_TAN@schools.gov.sg</a></p>
