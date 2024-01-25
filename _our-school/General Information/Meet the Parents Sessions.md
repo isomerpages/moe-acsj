@@ -3,14 +3,6 @@ title: Meet the Parents Sessions
 permalink: /our-school/mtp/
 description: ""
 third_nav_title: General Information
+variant: tiptap
 ---
-![](/images/Sub-banner1.jpg)
-
-Meet the Parents Sessions
-=========================
-<u>January 2023</u><br>
-* P2 MTP 2023 Slides ([P's PPT](/files/p21.pdf) / [YH's PPT](/files/p22.pdf))
-* P3 MTP 2023 Slides ([P's PPT](/files/p31.pdf) / [YH's PPT](/files/p32.pdf) / [Science PPT](/files/p33.pdf) / [CCA PPT](/files/p34.pdf)) 
-* P4 MTP 2023 Slides ([P's PPT](/files/p41.pdf) / [VP's PPT](/files/p42.pdf) / [AYH's PPT](/files/p43.pdf))
-* P5 MTP 2023 Slides ([P's PPT](/files/p51.pdf) / [VP's PPT](/files/p52.pdf) / [YH's PPT](/files/p53.pdf))
-* P6 MTP 2023 Slides ([P's PPT](/files/p61.pdf) / [VP's PPT](/files/p62.pdf) / [AYH's PPT](/files/p63.pdf))
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg"></div><h1>Meet the Parents Sessions</h1><p><u>January 2023</u><br></p><ul data-tight="true" class="tight"><li><p>P2 MTP 2023 Slides (<a href="/files/p21.pdf" rel="noopener noreferrer nofollow" target="_blank">P's PPT</a> / <a href="/files/p22.pdf" rel="noopener noreferrer nofollow" target="_blank">YH's PPT</a>)</p></li><li><p>P3 MTP 2023 Slides (<a href="/files/p31.pdf" rel="noopener noreferrer nofollow" target="_blank">P's PPT</a> / <a href="/files/p32.pdf" rel="noopener noreferrer nofollow" target="_blank">YH's PPT</a> / <a href="/files/p33.pdf" rel="noopener noreferrer nofollow" target="_blank">Science PPT</a> / <a href="/files/p34.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA PPT</a>)</p></li><li><p>P4 MTP 2023 Slides (<a href="/files/p41.pdf" rel="noopener noreferrer nofollow" target="_blank">P's PPT</a> / <a href="/files/p42.pdf" rel="noopener noreferrer nofollow" target="_blank">VP's PPT</a> / <a href="/files/p43.pdf" rel="noopener noreferrer nofollow" target="_blank">AYH's PPT</a>)</p></li><li><p>P5 MTP 2023 Slides (<a href="/files/p51.pdf" rel="noopener noreferrer nofollow" target="_blank">P's PPT</a> / <a href="/files/p52.pdf" rel="noopener noreferrer nofollow" target="_blank">VP's PPT</a> / <a href="/files/p53.pdf" rel="noopener noreferrer nofollow" target="_blank">YH's PPT</a>)</p></li><li><p>P6 MTP 2023 Slides (<a href="/files/p61.pdf" rel="noopener noreferrer nofollow" target="_blank">P's PPT</a> / <a href="/files/p62.pdf" rel="noopener noreferrer nofollow" target="_blank">VP's PPT</a> / <a href="/files/p63.pdf" rel="noopener noreferrer nofollow" target="_blank">AYH's PPT</a>)</p></li></ul><p></p>
