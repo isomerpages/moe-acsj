@@ -2,40 +2,6 @@
 title: School Song
 permalink: /schoolsong/
 description: ""
+variant: tiptap
 ---
-![](/images/Sub-banner1.jpg)
-
-School Song
-===========
-
-**requires school to upload audio to youtube**
-
-In days of yore from western shores<br>
-Oldham dauntless hero came<br>
-and planted a beacon of Truth and Light<br>
-in this island of the Main.<br>
-Here may it stand from year to year<br>
-emblem of grand endeavour<br>
-The regions round echo the sound<br>
-of A.C.S. forever.
-
-(Chorus)<br>
-Sing A.C.S. forever more,<br>
-our A.C.S. forever.<br>
-God save our land and heaven bless<br>
-our A.C.S. forever.
-
-Our students hail from China's plains<br>
-and the Land of Rising Sun.<br>
-We have many sons from India's Strand<br>
-and the Islands of the Main.<br>
-Our hearts our hopes our aims are one.<br>
-No discord e'er will sever.<br>
-We'll stand together for the cause<br>
-of A.C.S. forever.
-
-(Chorus)<br>
-Sing A.C.S. forever more,<br>
-our A.C.S. forever.<br>
-God save our land and heaven bless<br>
-our A.C.S. forever.
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg"></div><h1>School Song</h1><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/glAbYvERduw?si=lemY47rZz8xF1M_W"></iframe></div><p>In days of yore from western shores<br>Oldham dauntless hero came<br>and planted a beacon of Truth and Light<br>in this island of the Main.<br>Here may it stand from year to year<br>emblem of grand endeavour<br>The regions round echo the sound<br>of A.C.S. forever.</p><p>(Chorus)<br>Sing A.C.S. forever more,<br>our A.C.S. forever.<br>God save our land and heaven bless<br>our A.C.S. forever.</p><p>Our students hail from China's plains<br>and the Land of Rising Sun.<br>We have many sons from India's Strand<br>and the Islands of the Main.<br>Our hearts our hopes our aims are one.<br>No discord e'er will sever.<br>We'll stand together for the cause<br>of A.C.S. forever.</p><p>(Chorus)<br>Sing A.C.S. forever more,<br>our A.C.S. forever.<br>God save our land and heaven bless<br>our A.C.S. forever.</p>
