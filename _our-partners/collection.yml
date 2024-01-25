@@ -1,0 +1,13 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Parents/General Information.md
+      - Parents/PSLE Matters.md
+      - Parents/Meet The Parents Session.md
+      - Parents/FAQs and Useful Links.md
+      - Parents/P1 Orientation Microsite.md
+      - Parents/.keep
+      - The ACS Family.md
+      - ACS(J) PSG.md
+      - Prayer Groups.md

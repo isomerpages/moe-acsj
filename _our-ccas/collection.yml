@@ -1,0 +1,33 @@
+collections:
+  our-ccas:
+    output: true
+    order:
+      - CCA Policies.md
+      - External CCA.md
+      - Clubs/.keep
+      - Clubs/Chess Club.md
+      - Clubs/Chinese Club.md
+      - Clubs/Christian Fellowship.md
+      - Clubs/Science Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Cadet Scouts.md
+      - Uniformed Groups/The Boys' Brigade.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art Club.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/Junior Vibez (Dance Club).md
+      - Visual & Performing Arts/String Orchestra.md
+      - Sports/.keep
+      - Sports/ACSplore (RECREATIONAL).md
+      - Sports/ACScite (DEVELOPMENT or TRAINING SQUAD).md
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Bowling.md
+      - Sports/Football.md
+      - Sports/Hockey.md
+      - Sports/Rugby.md
+      - Sports/Sailing.md
+      - Sports/Swimming.md
+      - Sports/Table Tennis.md
+      - Sports/Tennis.md

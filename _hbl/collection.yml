@@ -1,0 +1,6 @@
+collections:
+  hbl:
+    output: true
+    order:
+      - HBL Important Info.md
+      - Thought for the Day.md
