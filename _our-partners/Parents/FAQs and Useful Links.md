@@ -31,7 +31,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www.moe.gov.sg/admissions" rel="noopener noreferrer nofollow" target="_blank">Admissions into Singapore School</a>
+                <p><a href="https://www.moe.gov.sg/admissions" rel="noopener noreferrer nofollow" target="_blank">Admissions to Singapore School</a>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
