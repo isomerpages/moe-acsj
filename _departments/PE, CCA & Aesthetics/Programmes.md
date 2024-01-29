@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
 <h1>Programmes</h1>
-<p><u>Programme for Active Learning (PAL)</u>
+<p><u>Programme for Active Learning (PAL)</u> 
 <br>PAL is an integral part of the curriculum for Primary 1 and 2 pupils.
 The objective of&nbsp;PAL&nbsp;is to provide students with broad exposure
 and experiences through age-appropriate, fun-filled activities in the 5
@@ -56,12 +56,12 @@ Competencies for them to thrive in the complex world of today.</p>
 <p></p>
 <p><u>Learning for Life Programme (LLP)</u>
 </p>
-<p><strong><em>LLP Tennis</em></strong>
+<p><strong><em>LLP Tennis</em></strong> 
 <br>All P3 to P6 pupils undergo LLP Tennis during PE lessons. The programme
 aims to give every pupil the opportunity to experience tennis as a sport
 which builds discipline, concentration and mental strength, as well as
 inculcate in them our school values such as integrity, excellence and collaboration.</p>
-<p><strong>&nbsp;<em>LLP Rugby</em></strong>
+<p><strong>&nbsp;<em>LLP Rugby</em></strong> 
 <br>All P2 and P3 pupils undergo LLP Tennis during PAL and PE lessons. The
 programme aims to give every pupil the opportunity to experience tennis
 as a sport which builds discipline, concentration and mental strength,
