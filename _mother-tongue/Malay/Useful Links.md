@@ -18,8 +18,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/edictmalay.pdf" rel="noopener noreferrer nofollow" target="_blank">E-Dictionary</a> 
-<a href="/files/approved_mtl_dictionaries_2024_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/edictmalay.pdf" rel="noopener noreferrer nofollow" target="_blank"> List</a>
+<p><a href="/files/approved_mtl_dictionaries_2024_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">E-Dictionary List</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
