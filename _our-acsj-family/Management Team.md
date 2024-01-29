@@ -21,36 +21,30 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English Language</strong>
-</p>
-<p>Ms Rachel Gayathri</p>
+<strong>English Language</strong>
+<br>Ms Rachel Gayathri
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:gayathri_kunnasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathri_kunnasekaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
-</p>
-<p>Mr Goh Chee Wei</p>
+<strong>Mathematics</strong>
+<br>Mr Goh Chee Wei
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:goh_chee_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chee_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Science</strong>
-</p>
-<p>Miss Hemalatha Perumal</p>
+<strong>Science</strong>
+<br>Miss Hemalatha Perumal
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:hemalatha_n_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hemalatha_n_perumal@moe.edu.sg</a>
 </p>
 </td>
