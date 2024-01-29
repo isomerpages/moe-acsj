@@ -51,96 +51,80 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PE, CCA &amp; Aesthetics</strong>
-</p>
-<p>Mrs Fan-Goh Qiumei</p>
+<strong>PE, CCA &amp; Aesthetics</strong>
+<br>Mrs Fan-Goh Qiumei
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:goh_qiumei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_qiumei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother Tongue Language</strong>
-</p>
-<p>Mdm Kuah Hui Hui</p>
+<strong>Mother Tongue Language</strong>
+<br>Mdm Kuah Hui Hu
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:kuah_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_hui_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Special Education Needs</strong>
-</p>
-<p>Miss Noelle Selvadurai</p>
+<strong>Special Education Needs</strong>
+<br>Miss Noelle Selvadurai
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selvadurai_noelle_chitrani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education</strong>
-</p>
-<p>Mrs Michelle Tan</p>
+<strong>Character &amp; Citizenship Education</strong>
+<br>Mrs Michelle Tan
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:lee_shuyun_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shuyun_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Info-Comm Technology</strong>
-</p>
-<p>Mdm Norahmah Haron</p>
+<strong>Info-Comm Technology</strong>
+<br>Mdm Norahmah Haron
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:norahmah_haron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norahmah_haron@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
-</p>
-<p>Mdm Ng Xinyi</p>
+<strong>School Staff Developer</strong>
+<br>Mdm Ng Xinyi
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:ng_xinyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xinyi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Management</strong>
-</p>
-<p>Mr Chen Jieming</p>
+<strong>Student Management</strong>
+<br>Mr Chen Jieming
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:chen_jieming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jieming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Innovation</strong>
-</p>
-<p>Mr Andy Tan</p>
+<strong>Innovation</strong>
+<br>Mr Andy Tan
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:tan_zi_yang_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zi_yang_andy@moe.edu.sg</a>
 </p>
 </td>
