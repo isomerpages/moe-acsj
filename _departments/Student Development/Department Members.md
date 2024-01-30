@@ -98,46 +98,42 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p>Mrs Jerine Heratnor (YH/Lower Primary)<br>
         Ms Adela Chua (YH/Middle Primary)<br>
-        Miss Lee May Po (YH/Upper Primary)
-      </p></td>
+        Miss Lee May Po (YH/Upper Primary)</p>
+      </td>
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
         <p>Assistant Year Heads</p>
       </td>
-      <td rowspan="1" colspan="1">
-Ms Tan Su-Ping (AYH/Middle Primary)<br>
-Mrs Jennifer Chua (AYH/Upper Primary
-      </td>
+      <td rowspan="1" colspan="1">Ms Tan Su-Ping (AYH/Middle Primary)<br>
+      Mrs Jennifer Chua (AYH/Upper Primary</td>
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
         <p>Members</p>
       </td>
-      <td rowspan="1" colspan="1">
-Ms Cai Yiwei<br>
-Mdm Chen Xue Lei<br>
-Mr Colin Koh (ST/Physical Education)<br>
-Miss Desiree Chang<br>
-Mdm Fang Siew Fong<br>
-Mr Goh Eng Tat<br>
-Mr Goh Tiow Hua<br>
-Mdm Goh Shu Hui<br>
-Mrs Josephine Chan<br>
-Mr Kelvin Lim<br>
-Mdm Lum Mei Pheng<br>
-Mr Muhammad Hakim Bin Mustadza<br>
-Mdm Norfaiza Zainal<br>
-Mdm Nur Shazielah Binte Abdul Rahim<br>
-Mrs Raveena Dinesh<br>
-Miss Rubinder Kaur<br>
-Ms Saige Gan<br>
-Mdm Soh Li Mei<br>
-Mr Lim Siow Way<br>
-Mdm Tan Kuan Bee<br>
-Mr Teow Jing Ho<br>
-Mdm Yang Hsin Wen<br>
-      </td>
+      <td rowspan="1" colspan="1">Ms Cai Yiwei<br>
+      Mdm Chen Xue Lei<br>
+      Mr Colin Koh (ST/Physical Education)<br>
+      Miss Desiree Chang<br>
+      Mdm Fang Siew Fong<br>
+      Mr Goh Eng Tat<br>
+      Mr Goh Tiow Hua<br>
+      Mdm Goh Shu Hui<br>
+      Mrs Josephine Chan<br>
+      Mr Kelvin Lim<br>
+      Mdm Lum Mei Pheng<br>
+      Mr Muhammad Hakim Bin Mustadza<br>
+      Mdm Norfaiza Zainal<br>
+      Mdm Nur Shazielah Binte Abdul Rahim<br>
+      Mrs Raveena Dinesh<br>
+      Miss Rubinder Kaur<br>
+      Ms Saige Gan<br>
+      Mdm Soh Li Mei<br>
+      Mr Lim Siow Way<br>
+      Mdm Tan Kuan Bee<br>
+      Mr Teow Jing Ho<br>
+      Mdm Yang Hsin Wen<br></td>
     </tr>
   </tbody>
 </table>
