@@ -106,8 +106,8 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p>Assistant Year Heads</p>
       </td>
-      <td rowspan="1" colspan="1">Ms Tan Su-Ping (AYH/Middle Primary)<br>
-      Mrs Jennifer Chua (AYH/Upper Primary</td>
+      <td rowspan="1" colspan="1"><p>Ms Tan Su-Ping (AYH/Middle Primary)<br>
+				Mrs Jennifer Chua (AYH/Upper Primary</p></td>
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
