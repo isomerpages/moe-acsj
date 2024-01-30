@@ -6,6 +6,7 @@ third_nav_title: Student Development
 variant: markdown
 ---
 <div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sub-banner2" src="/images/Sub-banner2.jpg"></div>
+
 <h1>Department Members</h1>
 <p><strong><u>Character and Citizenship Education Department Members</u></strong></p>
 <table>
@@ -112,7 +113,8 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p>Members</p>
       </td>
-      <td rowspan="1" colspan="1">Ms Cai Yiwei<br>
+      <td rowspan="1" colspan="1">
+			<p>Ms Cai Yiwei
       Mdm Chen Xue Lei<br>
       Mr Colin Koh (ST/Physical Education)<br>
       Miss Desiree Chang<br>
@@ -133,7 +135,8 @@ variant: markdown
       Mr Lim Siow Way<br>
       Mdm Tan Kuan Bee<br>
       Mr Teow Jing Ho<br>
-      Mdm Yang Hsin Wen<br></td>
+				Mdm Yang Hsin Wen</p>
+			</td>
     </tr>
   </tbody>
 </table>
