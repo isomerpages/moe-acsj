@@ -2,7 +2,7 @@
 title: Useful Links
 permalink: /departments/pe-cca-and-aesthetics/useful-links/
 description: ""
-third_nav_title: PE, CCA & Aesthetics
+third_nav_title: PE & Aesthetics
 ---
 ![](/images/Sub-banner1.jpg)
 

@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /departments/pe-cca-and-aesthetics/programmes/
 description: ""
-third_nav_title: PE, CCA & Aesthetics
+third_nav_title: PE & Aesthetics
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
