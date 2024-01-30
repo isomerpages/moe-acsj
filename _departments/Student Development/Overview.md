@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
 <h1>Overview</h1>
-<p><strong>Student Development</strong>
+<p><strong>Student Development</strong> 
 <br>At ACS (Junior), we view the young gentlemen who pass through our gates
 as unique individuals, with different talents and strengths. We believe
 that each of them has the potential to flourish and live a fulfilling life
@@ -50,7 +50,7 @@ developing their character and citizenship competencies and dispositions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_2024_VIA.png">
 </div>
 <p></p>
-<p><strong>Student Leadership</strong>
+<p><strong>Student Leadership</strong> 
 <br>Objectives:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,16 +82,16 @@ the desired outcome:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Leadership_Model.jpg">
 </div>
 <p>The three guiding principles:
-<br>&nbsp;<strong><u>Principle 1</u></strong>
+<br>&nbsp;<strong><u>Principle 1</u></strong> 
 <br>Values are at the base as they guide and provide the purpose for one’s
 behaviours. These values are our school core values. Actions without grounding
 in values would lead to inconsistency in purpose and actions&nbsp;</p>
-<p><strong><u>Principle 2</u></strong>
+<p><strong><u>Principle 2</u></strong> 
 <br>All ACSians can be and should be developed as a leader. Student leadership
 development needs to be intentional thus we provide structured leadership
 opportunities for students to realise their personal potential through
 the school CCE programme.&nbsp;</p>
-<p><strong><u>Principle 3</u></strong>
+<p><strong><u>Principle 3</u></strong> 
 <br>During their stint as leaders, our students will be empowered by the teachers-in-charge
 in serving their peers as leadership is an action, not a position. They
 will be empowered with the servant leadership attributes.</p>
