@@ -14,7 +14,7 @@ variant: tiptap
 <p><strong>Primary 1 Assessment Handbook ( </strong><a href="/files/2024_P1_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
 <br><strong>Primary 2 Assessment Handbook ( </strong><a href="/files/2024_P2_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
 <br><strong>Primary 3 Assessment Handbook ( </strong><a href="/files/2024_P3_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
-<br><strong>Primary 4 Assessment Handbook ( </strong><a href="/files/2024_P4_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
+<br><strong>Primary 4 Assessment Handbook ( </strong><a href="/files/2024_P4_Assessment_Handbook_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
 <br><strong>Primary 5 Assessment Handbook ( </strong><a href="/files/2024_P5_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
 <br><strong>Primary 6 Assessment Handbook ( </strong><a href="/files/2024_P6_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong>
 </p>
