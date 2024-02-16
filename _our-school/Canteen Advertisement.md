@@ -87,10 +87,11 @@ email <strong>OR</strong> to the School's General Office.</p>
 <p>Contact No: +65 6733 7911</p>
 </li>
 <li>
-<p>Email: filza_sarip_udin@schools.gov.sg</p>
+<p>Email: <a href="goh_zhiwei_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhiwei_adrian@moe.edu.sg</a>
+</p>
 </li>
 <li>
-<p>Contact Person: Mdm Filza Sarip Udin</p>
+<p>Contact Person: Mr Goh Zhiwei, Adrian</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
