@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <h1>School Vendors</h1>
 <h3><strong>Epworth Student Care @ACS(J)</strong></h3>
-<p>Contact persons: Julie Chu or Carol Aw
+<p>Contact persons: Julie Chu
 <br>Tel: 65922846
 <br>Hp: 97270614
 <br>Email:&nbsp;<strong><a href="mailto:SCC-ACSJ@epworth.sg" rel="noopener noreferrer nofollow" target="_blank">SCC-ACSJ@epworth.sg</a></strong> 
