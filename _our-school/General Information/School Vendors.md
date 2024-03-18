@@ -92,20 +92,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Candy Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Managing Director</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8771 8117</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,9 +107,7 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Address:</strong>&nbsp;68 Lorong 16 Geylang #05-06&nbsp;Association
-Building S (398889)</p>
-<p>Application Form for School Bus 2023 <strong><a href="/files/form3.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a></strong> 
-<br>Application Form for Transport After CCA/Supp Class 2023 <strong><a href="/files/form4.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a></strong> 
+Building S (398889)
 <br>
 <br>Application Form for School Bus 2024 <strong><a href="/files/busform1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a></strong> 
 <br>Application Form for Transport After CCA/Supp Class 2024 <strong><a href="/files/busform2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a></strong>
