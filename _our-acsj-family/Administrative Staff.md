@@ -75,10 +75,10 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lillian Tan</p>
+<p>Mdm Priscilla Lum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lillian_tan@acsjunior.sg" rel="noopener noreferrer nofollow" target="_blank">lillian_tan@acsjunior.sg</a>
+<p><a href="lum_yoke_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_yoke_yin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
