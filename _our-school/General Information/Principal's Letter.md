@@ -11,6 +11,10 @@ variant: tiptap
 <h1>Principal's Letter</h1>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/3rd_Principal_Letter__21_Mar_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">3rd Principal's Letter</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2nd_Principals_Letter_3_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2nd Principal's Letter</a>
 </p>
 </li>
