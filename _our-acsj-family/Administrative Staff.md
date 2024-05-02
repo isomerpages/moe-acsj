@@ -72,13 +72,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Receptionist</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Priscilla Lum</p>
+<p>Mdm Tan Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lum_yoke_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_yoke_yin_a@moe.edu.sg</a>
+<p><a href="tan_hui_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ling_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
