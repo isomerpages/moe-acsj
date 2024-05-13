@@ -9,7 +9,12 @@ variant: tiptap
 </div>
 <h1>Executive &amp; Administrative Staff</h1>
 <h3>ADMINISTRATION</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -75,10 +80,10 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hui Ling</p>
+<p>Mdm Lin Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_hui_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ling_b@schools.gov.sg</a>
+<p><a href="lin_hui_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_hui_ling_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -108,7 +113,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>INFORMATION &amp; TECHNOLOGY</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -171,7 +181,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>OPERATIONS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
