@@ -19,4 +19,12 @@ sections:
         - title: CALENDAR
           description: ""
           url: /calendar/
+  - infopic:
+      title: HBL
+      subtitle: Home-Based Learning
+      id: infopic
+      button: Click here for more info
+      url: https://www.acsj.moe.edu.sg/hbl/
+      image: /images/TFTD.jpg
+      alt: Image alt text
 ---
