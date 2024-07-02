@@ -9,7 +9,12 @@ variant: tiptap
 </div>
 <h1>Academic Staff</h1>
 <h3>PRIMARY 1 FORM TEACHERS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -252,7 +257,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>PRIMARY 2 FORM TEACHERS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -495,7 +505,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>PRIMARY 3 FORM TEACHERS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -691,7 +706,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>PRIMARY 4 FORM TEACHERS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -886,7 +906,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>PRIMARY 5 FORM TEACHERS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1107,7 +1132,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>PRIMARY 6 FORM TEACHERS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1334,7 +1364,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>TEACHER LEADERS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1470,7 +1505,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>NON-FT TEACHERS</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1563,7 +1602,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SCHOOL COUNSELLOR</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1602,7 +1645,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SPECIAL EDUCATION NEEDS (SEN)</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1614,10 +1661,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Lian Hui Angela (Senior SENO)</p>
+<p>Miss Lauren Ng Miaw Shan (Senior SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lian_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lian_hui@moe.edu.sg</a>
+<p><a href="mailto:lauren_ng_miaw_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lauren_ng_miaw_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1641,15 +1688,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lauren Ng Miaw Shan (SENO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lauren_ng_miaw_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lauren_ng_miaw_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Karen Wee Mun Hoon (SENO AJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1662,7 +1700,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>s</p>
+<p></p>
 </td>
 </tr>
 </tbody>
