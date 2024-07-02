@@ -1584,10 +1584,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Mei Yann</p>
+<p>Mrs Jayadevi Ramakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chan_mei_yann_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_mei_yann_a@moe.edu.sg</a>
+<p><a href="jayadevi_ramakrishnan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayadevi_ramakrishnan_b@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vaishnavi Srinivasan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="vaishnavi_srinivasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="zhang_li_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_li_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
