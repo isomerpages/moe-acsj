@@ -11,7 +11,7 @@ variant: tiptap
 <h1>Forms</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/admin/form/6652aac1df26e09375a8abc2" rel="noopener noreferrer nofollow" target="_blank">ACSJ Waitlist Application 2025</a>
+<p><a href="https://go.gov.sg/acsjwaitlist2025" rel="noopener noreferrer nofollow" target="_blank">ACSJ Waitlist Application 2025</a>
 </p>
 </li>
 <li>
