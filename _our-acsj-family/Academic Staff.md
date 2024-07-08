@@ -203,7 +203,7 @@ variant: tiptap
 <p>Miss Lim Jie Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jie_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jie_ning@moe.edu.sg</a>
+<p><a href="jie_ning_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jie_ning_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
