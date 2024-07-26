@@ -43,6 +43,9 @@ Procedure below.</p>
 <p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">acsj@moe.edu.sg</a>
 </p>
 </li>
+<li>
+<p>Contact Person: Mdm. Filza Sarip Udin</p>
+</li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
