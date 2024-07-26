@@ -9,14 +9,16 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Call for Proposal Link</p>
+<p>Call for Proposal <strong><em><a href="/files/Call_for_Proposals__For_Single_Bus_Service__ACSJ.pdf" rel="noopener noreferrer nofollow" target="_blank">Link</a></em></strong>
+</p>
 </li>
 <li>
-<p>Terms and Conditions for School Bus Operator to Provide School Bus Services
-Link</p>
+<p>Terms and Conditions for School Bus Operator to Provide School Bus Services <strong><em><a href="/files/TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service__ACSJ.pdf" rel="noopener noreferrer nofollow" target="_blank">Link</a></em></strong>
+</p>
 </li>
 <li>
-<p>Request for School Bus Services Link</p>
+<p>Request for School Bus Services <strong><em><a href="/files/Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service__ACSJ.pdf" rel="noopener noreferrer nofollow" target="_blank">Link</a></em></strong>
+</p>
 </li>
 </ol>
 <h4><strong>Application Procedure</strong></h4>
