@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Bus Advertisment.md
       - School History.md
       - Vision, Mission & Values.md
       - School Motto.md
@@ -29,3 +28,4 @@ collections:
       - Supporting Singaporean Students.md
       - Student Recognition.md
       - Canteen Advertisement.md
+      - School Bus Advertisment.md
