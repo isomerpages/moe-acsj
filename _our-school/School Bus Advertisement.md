@@ -27,7 +27,7 @@ Procedure below.</p>
 <p>Complete the Call for Proposal - Annex A (Information Required from Vendor)</p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal – Annex A by closing date 5 July
+<p>Submit the completed Call for Proposal – Annex A by closing date 5 August
 2024, to the School’s General Office.</p>
 </li>
 </ol>
