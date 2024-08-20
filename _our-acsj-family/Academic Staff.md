@@ -816,7 +816,7 @@ variant: tiptap
 <p>Miss Desiree Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_ker_xin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ker_xin_desiree@moe.edu.sg</a>
+<p><a href="chang_ke_xin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ke_xin_desiree@moe.edu.sg</a>
 </p>
 </td>
 </tr>
