@@ -319,7 +319,7 @@ variant: tiptap
 <p>Mr Teow Jing Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jie_ning_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
+<p><a href="mailto:teow_jing_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
 </p>
 </td>
 </tr>
