@@ -1089,7 +1089,7 @@ variant: tiptap
 <p>Mr Alwyn Tan (SH CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chin_keat_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chin_keat_alwyn</u></a> 
+<p><a href="mailto:tan_chin_keat_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chin_keat_alwyn</u></a>
 <a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
