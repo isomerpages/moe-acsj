@@ -22,13 +22,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://acsj.moe.edu.sg/qql/slot/u188/videos/Care-provider-administered%20Antigen%20Rapid%20Test%20ART%20for%20children%20aged%207%20years%20and%20below_.mp4" rel="noopener noreferrer" target="_blank">Video on Self-Swab Antigen Rapid Test (ART) For Children Below 7 Years Old</a> 
+<p><a href="https://acsj.moe.edu.sg/qql/slot/u188/videos/Care-provider-administered%20Antigen%20Rapid%20Test%20ART%20for%20children%20aged%207%20years%20and%20below_.mp4" rel="noopener noreferrer" target="_blank">Video on Self-Swab Antigen Rapid Test (ART) For Children Below 7 Years Old</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://acsj.moe.edu.sg/qql/slot/u188/videos/Self-swab%20Antigen%20Rapid%20Test%20ART%20for%20children%20above%207%20years%20old.mp4" rel="noopener noreferrer" target="_blank">Video on Self-Swab Antigen Rapid Test (ART) For Children Above 7 Years Old</a> 
+<p><a href="https://acsj.moe.edu.sg/qql/slot/u188/videos/Self-swab%20Antigen%20Rapid%20Test%20ART%20for%20children%20above%207%20years%20old.mp4" rel="noopener noreferrer" target="_blank">Video on Self-Swab Antigen Rapid Test (ART) For Children Above 7 Years Old</a>
 </p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.nlb.gov.sg/sure/" rel="noopener noreferrer nofollow" target="_blank">National Library Board (NLB) S.U.R.E Campaign</a> 
+<p><a href="http://www.nlb.gov.sg/sure/" rel="noopener noreferrer nofollow" target="_blank">National Library Board (NLB) S.U.R.E Campaign</a>
 </p>
 </td>
 </tr>
