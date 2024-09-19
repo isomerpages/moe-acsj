@@ -20,18 +20,6 @@ variant: tiptap
 </p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://acsj.moe.edu.sg/qql/slot/u188/videos/Care-provider-administered%20Antigen%20Rapid%20Test%20ART%20for%20children%20aged%207%20years%20and%20below_.mp4" rel="noopener noreferrer" target="_blank">Video on Self-Swab Antigen Rapid Test (ART) For Children Below 7 Years Old</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://acsj.moe.edu.sg/qql/slot/u188/videos/Self-swab%20Antigen%20Rapid%20Test%20ART%20for%20children%20above%207%20years%20old.mp4" rel="noopener noreferrer" target="_blank">Video on Self-Swab Antigen Rapid Test (ART) For Children Above 7 Years Old</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>&nbsp;<strong>Cyber Wellness</strong></h3>
@@ -42,69 +30,9 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101/about-the-cyber-world" rel="noopener noreferrer nofollow" target="_blank">About the Cyber World</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Practising Cyber Wellness</a>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101/evaluating-online-information" rel="noopener noreferrer nofollow" target="_blank">Evaluating Online Information</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101/balanced-use-of-ict" rel="noopener noreferrer nofollow" target="_blank">Balanced Use of ICT</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101/cyber-bullying" rel="noopener noreferrer nofollow" target="_blank">Cyber Bullying</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101/cyber-contacts" rel="noopener noreferrer nofollow" target="_blank">Cyber Contacts</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101/handling-inappropriate-content" rel="noopener noreferrer nofollow" target="_blank">Handling Inappropriate Content</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101/online-identity-and-expression" rel="noopener noreferrer nofollow" target="_blank">Online Identity and Expression</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students/resources/comic-books-pri-n-sec" rel="noopener noreferrer nofollow" target="_blank"><u>Comic Books (Pri &amp; Sec)</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students/resources/online-learning-package-pri-n-sec" rel="noopener noreferrer nofollow" target="_blank">Online Learning Package (Pri &amp; Sec)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students/resources/c-quest-game-app" rel="noopener noreferrer nofollow" target="_blank">C-Quest Game App</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students/resources/collins-world-online-peer-support-game" rel="noopener noreferrer nofollow" target="_blank">"Collin's World" Online Peer Support Game</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
