@@ -36,10 +36,11 @@ Assistance</p>
 </ul>
 </li>
 <li>
-<p></p>
+<p><a href="https://go.gov.sg/acsjwaitlist2025" rel="noopener noreferrer nofollow" target="_blank">ACSJ Waitlist Application 2025</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Security_Pass_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Security Pass Application Form</a>
+<p><a href="/files/Security_Pass_2025.pdf" rel="noopener nofollow" target="_blank">2025 Security Pass Application Form</a>
 </p>
 </li>
 </ul>
