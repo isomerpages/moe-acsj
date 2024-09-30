@@ -15,9 +15,16 @@ variant: tiptap
 <p>Parents may refer to xxx for more information. They can submit via the
 follows:</p>
 <p>a) MOE FAS Application Form</p>
+<p></p>
 <p>b) MOE e-FAS</p>
+<p> <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+</p>
+<ol data-tight="true" class="tight">
+<li>
 <p>c) Parents Gateway App</p>
 <p>Services -&gt; Financial Assistance</p>
+</li>
+</ol>
 </li>
 <li>
 <p>Waitlist Application</p>
@@ -61,4 +68,5 @@ Assistance</p>
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
