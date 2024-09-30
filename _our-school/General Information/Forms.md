@@ -9,6 +9,23 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
 <h1>Forms</h1>
+<ol data-tight="true" class="tight">
+<li>
+<p>MOE Financial Assistance Scheme 2025</p>
+<p>Parents may refer to xxx for more information. They can submit via the
+follows:</p>
+<p>a) MOE FAS Application Form</p>
+<p>b) MOE e-FAS</p>
+<p>c) Parents Gateway App</p>
+<p>Services -&gt; Financial Assistance</p>
+</li>
+<li>
+<p>Waitlist Application</p>
+</li>
+<li>
+<p>Security Pass Application</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">Application for MOE Finance Assistance Scheme (MOE FAS)</a>
