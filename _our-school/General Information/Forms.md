@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
-<h1>Forms</h1>
+<h1>Administration Forms</h1>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>MOE Financial Assistance Scheme 2025</u></strong>
