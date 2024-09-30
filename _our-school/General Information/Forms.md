@@ -11,7 +11,7 @@ variant: tiptap
 <h1>Forms</h1>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>MOE Financial Assistance Scheme 2025</strong>
+<p><strong><u>MOE Financial Assistance Scheme 2025</u></strong>
 </p>
 <p>Parents may refer to <a href="/files/MOE_FAS_Pamphlet_2025.pdf" rel="noopener nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) 2025 Pamphlets</a> for
 more information. They can submit via the follows:</p>
@@ -26,14 +26,14 @@ more information. They can submit via the follows:</p>
 <p></p>
 </li>
 <li>
-<p><strong>Waitlist Application</strong>
+<p><strong><u>Waitlist Application</u></strong>
 </p>
 <p><a href="https://go.gov.sg/acsjwaitlist2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/acsjwaitlist2025</a>
 </p>
 <p></p>
 </li>
 <li>
-<p><strong>Security Pass Application</strong>
+<p><strong><u>Security Pass Application</u></strong>
 </p>
 <p><a href="/files/Security_Pass_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Form</a>
 </p>
