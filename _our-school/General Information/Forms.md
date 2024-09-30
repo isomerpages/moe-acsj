@@ -16,10 +16,10 @@ variant: tiptap
 <p>Parents may refer to <a href="/files/MOE_FAS_Pamphlet_2025.pdf" rel="noopener nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) 2025 Pamphlets</a> for
 more information. They can submit via the follows:</p>
 <p>a) MOE FAS Application Form</p>
-<p> <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Form</a>
+<p><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Form</a>
 </p>
 <p>b) MOE e-FAS</p>
-<p> <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <p>c) Parents Gateway App</p>
 <p>Services -&gt; Financial Assistance</p>
