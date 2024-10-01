@@ -1,5 +1,5 @@
 ---
-title: Forms
+title: Administration Forms
 permalink: /our-school/forms/
 description: ""
 third_nav_title: General Information

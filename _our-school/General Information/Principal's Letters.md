@@ -1,5 +1,5 @@
 ---
-title: Principal's Letter
+title: Principal's Letters
 permalink: /our-school/general-information/
 description: ""
 third_nav_title: General Information
