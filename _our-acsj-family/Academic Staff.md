@@ -1076,7 +1076,7 @@ variant: tiptap
 <p>Ms Cai Yiwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cai_yiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cai_yiwei</u></a> 
+<p><a href="mailto:cai_yiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cai_yiwei</u></a>
 <a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
@@ -1089,8 +1089,7 @@ variant: tiptap
 <p>Mr Alwyn Tan (SH CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chin_keat_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chin_keat_alwyn</u></a>
-<a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:tan_chin_keat_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chin_keat_alwyn</u>@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1182,8 +1181,7 @@ variant: tiptap
 <p>Mr Jeremiah Nga (ST ES)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nga_bing_chang_jeremiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nga_bing_chang_jeremiah</u></a>
-<a href="mailto:teo_zhihao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:nga_bing_chang_jeremiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nga_bing_chang_jeremiah</u>@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1307,7 +1305,7 @@ variant: tiptap
 <p>Mrs Balasubramaniam Sarasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:balasubramaniam_sarasu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>balasubramaniam_sarasu</u></a> 
+<p><a href="mailto:balasubramaniam_sarasu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>balasubramaniam_sarasu</u></a>
 <a href="mailto:nurulhuda_ab_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
