@@ -53,7 +53,6 @@ variant: tiptap
 <br>Mr Ranny Choi (SENO)
 <br>Ms Karen Wee (SENO)
 <br>Mrs Maivilli Reshitharan (Senior SC)
-<br>Ms Khairunnisah (UT SC)
 <br>Mrs Caroline Tang
 <br>Miss Regina Tan
 <br>Mdm Shabnam Phillips</p>
