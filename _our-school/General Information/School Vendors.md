@@ -46,7 +46,12 @@ variant: tiptap
 <h3><strong>School Bus</strong></h3>
 <p><strong>Peck Hay Transport (Pte) Ltd</strong> 
 <br>You may contact our school bus transport directly if you have queries:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -54,9 +59,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact No</p>
@@ -70,9 +72,6 @@ variant: tiptap
 <p>Ms Jasmine Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Transport Admin</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>8030 3717</p>
 </td>
 </tr>
@@ -81,27 +80,21 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Lim</p>
+<p>Ms Katherine Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9675 8765</p>
+<p>transwaytpt@outlook.com</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Michael Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>9675 8765</p>
 </td>
 </tr>
 </tbody>
@@ -109,8 +102,8 @@ variant: tiptap
 <p><strong>Address:</strong>&nbsp;68 Lorong 16 Geylang #05-06&nbsp;Association
 Building S (398889)
 <br>
-<br>Application Form for School Bus 2024 <strong><a href="/files/busform1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a></strong> 
-<br>Application Form for Transport After CCA/Supp Class 2024 <strong><a href="/files/busform2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a></strong>
+<br>Application Form for School Bus 2025 <strong><a href="/files/Application_Form_For_School_Bus_2025.pdf" rel="noopener nofollow" target="_blank">Download Here</a></strong> 
+<br>Application Form for Transport After CCA/Supp Class 2025 <strong><a href="/files/Application_Form_for_Transport_After_CCA_or_Supp_Class_2025.pdf" rel="noopener nofollow" target="_blank">Download Here</a></strong>
 </p>
 <p>The completed form can be submitted via the following options:</p>
 <ul data-tight="true" class="tight">
@@ -118,7 +111,7 @@ Building S (398889)
 <p>Hardcopy to the General Office</p>
 </li>
 <li>
-<p>Email the form to&nbsp;<strong><a href="mailto:ph_tpl@yahoo.com" rel="noopener noreferrer nofollow" target="_blank">ph_tpl@yahoo.com</a></strong>
+<p>Email the form to&nbsp;<a href="transwaytpt@outlook.com" rel="noopener nofollow" target="_blank">transwaytpt@outlook.com</a>
 </p>
 </li>
 </ul>
