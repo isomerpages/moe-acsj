@@ -44,7 +44,7 @@ variant: tiptap
 <br>Email:&nbsp;<a href="mailto:info@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@cascoedusupply.com.sg</a> 
 <br>Opening Hours: Mondays to Fridays from 8 am to 4 pm</p>
 <h3><strong>School Bus</strong></h3>
-<p><strong>Peck Hay Transport (Pte) Ltd</strong> 
+<p><strong>Transway Transport Pte Ltd</strong> 
 <br>You may contact our school bus transport directly if you have queries:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -99,8 +99,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Address:</strong>&nbsp;17 Tiong Bahru Road Singapore 163017</p>
-<p>
+<p><strong>Address:</strong>&nbsp;17 Tiong Bahru Road Singapore 163017
 <br>Application Form for School Bus 2025 <strong><a href="/files/Application_Form_For_School_Bus_2025.pdf" rel="noopener nofollow" target="_blank">Download Here</a></strong> 
 <br>Application Form for Transport After CCA/Supp Class 2025 <strong><a href="/files/Application_Form_for_Transport_After_CCA_or_Supp_Class_2025.pdf" rel="noopener nofollow" target="_blank">Download Here</a></strong>
 </p>
