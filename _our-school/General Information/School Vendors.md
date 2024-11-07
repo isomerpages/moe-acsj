@@ -99,9 +99,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Address:</strong>&nbsp;68 Lorong 16 Geylang #05-06&nbsp;Association
-Building S (398889)
-<br>
+<p><strong>Address:</strong>&nbsp;17 Tiong Bahru Road Singapore 163017</p>
+<p>
 <br>Application Form for School Bus 2025 <strong><a href="/files/Application_Form_For_School_Bus_2025.pdf" rel="noopener nofollow" target="_blank">Download Here</a></strong> 
 <br>Application Form for Transport After CCA/Supp Class 2025 <strong><a href="/files/Application_Form_for_Transport_After_CCA_or_Supp_Class_2025.pdf" rel="noopener nofollow" target="_blank">Download Here</a></strong>
 </p>
