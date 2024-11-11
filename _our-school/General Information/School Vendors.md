@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 <p>Contact person: Shikin / Herman</p>
 <p>Tel: 87689011</p>
-<p>Email: <strong><a href="mailto:acsjscc@nable2.com" rel="noopener noreferrer nofollow" target="_blank">acsjscc@nable2.com</a></strong> 
+<p>Email: <strong><a href="mailto:acsjscc@nable2.com" rel="noopener noreferrer nofollow" target="_blank">acsjscc@nable2.com</a></strong>
 </p>
 <p>Request for Admission:</p>
 <p><strong><a href="https://forms.gle/ZR4pGLi5mCSH6o2j9" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/ZR4pGLi5mCSH6o2j9</a></strong>
@@ -47,10 +47,10 @@ variant: tiptap
 <p><strong><a href="http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag</u></a></strong>
 </p>
 <h3><strong>School Bookshop</strong></h3>
-<p><strong>Casco Publication Pte Ltd</strong> 
+<p><strong>Casco Publication Pte Ltd</strong>
 </p>
 <p>Tel: 6322 4330</p>
-<p>Email: <strong><a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a></strong> 
+<p>Email: <strong><a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a></strong>
 </p>
 <p>Opening Hours: Mondays to Fridays from 8 am to 3.30 pm
 <br>Tel: 6322 4330</p>
@@ -143,7 +143,7 @@ stated below:</p>
 </p>
 <p>Add: 2 Farrer Park Road Singapore 217567</p>
 <p>Tel No: 83394227</p>
-<p><strong>St Joseph’s Institution Junior </strong>
+<p><strong>St Joseph’s Institution Junior</strong>
 </p>
 <p>Add: 3 Essex Road Singapore 309331</p>
 <p>Tel No: 89097946</p>
