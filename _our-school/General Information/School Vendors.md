@@ -158,12 +158,8 @@ stated below:</p>
 </p>
 <p><strong>Opening Hours:</strong>
 </p>
-<p>Mondays to Thursdays: <strong>8.00 am – 5.30 pm</strong>
-</p>
-<p>Fridays: <strong>8.00 am – 5.00 pm</strong>
-</p>
-<p>Lunch: <strong>1.00 pm – 2.00 pm</strong>
-</p>
-<p>
+<p>Mondays to Thursdays: 8.00 am – 5.30 pm
 <br>Fridays: 8.00 am – 5.00 pm
 <br>Lunch: 1.00 pm – 2.00 pm</p>
+<p></p>
+<p></p>
