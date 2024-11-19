@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acsjavitrequest" class="" rel="noopener noreferrer nofollow" target="_blank">ACSJ AV-IT Request Form</a>
+<p><a href="https://go.gov.sg/acsjavit" class="" rel="noopener noreferrer nofollow" target="_blank">ACSJ AV-IT Request Form</a>
 </p>
 <p>For ACSJ Staff to submit AV or IT requests for resources and services.</p>
 </td>
