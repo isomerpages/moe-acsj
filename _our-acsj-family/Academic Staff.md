@@ -1528,28 +1528,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Kar Hwi Susan</p>
+<p>Mdm Heng Soon Inn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_kar_hwi_susan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kar_hwi_susan@moe.edu.sg</a>
+<p><a href="mailto:heng_soo_inn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_soo_inn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wendy Tan</p>
+<p>Mdm Rahilah Bte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wendy_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wendy_tan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Leong Kiet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_leong_kiet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_leong_kiet@moe.edu.sg</a>
+<p><a href="mailto:rahilah_rahmat_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahilah_rahmat_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
