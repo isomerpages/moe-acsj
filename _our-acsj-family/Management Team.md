@@ -404,6 +404,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Info-Comm Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Hui San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_hui_san_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_hui_san_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Junie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ong_junie@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_junie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
