@@ -76,7 +76,6 @@ variant: tiptap
 <br>Mrs Vera Balakrishnan
 <br>Mr Wong Soong Hung
 <br>Mdm Hanisa d/o Mustakim (FAJT)
-<br>Mrs Wendy Tan (FAJT)
 <br>Mrs Gayathri Unnikrishnan (FAJT)
 <br>Mrs Tan Siah Wee Francis (FAJT)</p>
 </td>
