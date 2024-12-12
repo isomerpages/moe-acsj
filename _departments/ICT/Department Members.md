@@ -68,7 +68,7 @@ variant: tiptap
 <p>AV Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Maurice Mo Liwen</p>
+<p>Mr Mo Liwen Maurice</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lin Miaoting Eunice</p>
-<p>Mdm Mah Ei Leen</p>
+<p>Mdm Tan Ei Leen</p>
 <p>Miss Nur 'Amirah Jumat</p>
 <p>Mdm Nurulhuda Abdul Hamid</p>
 <p>Mr Teo Zhihao</p>
