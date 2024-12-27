@@ -63,9 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (CCA)
-<br>
-</p>
+<p>Subject Head (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Chin Keat Alwyn</p>
