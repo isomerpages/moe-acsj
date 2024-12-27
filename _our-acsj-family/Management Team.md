@@ -232,6 +232,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teow Jing Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teow_jing_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,18 +263,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_pei_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_fun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teow Jing Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teow_jing_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -300,18 +300,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chee Zhen Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chee_zhen_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_zhen_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,6 +307,42 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="rubinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rubinder_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Glenn Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="glenn_chia_jia_hao@moe.edu.sg" rel="noopener nofollow" target="_blank">glenn_chia_jia_hao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teong Wen Jia Ivy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="teong_wen_jia_ivy@moe.edu.sg" rel="noopener nofollow" target="_blank">teong_wen_jia_ivy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lam Yuk Wing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lam_yuk_wing@moe.edu.sg" rel="noopener nofollow" target="_blank">lam_yuk_wing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -375,18 +399,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chin_keat_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_keat_alwyn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Glenn Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:glenn_chia_jia_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">glenn_chia_jia_hao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
