@@ -36,7 +36,7 @@ variant: tiptap
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chee Zhen Yi</p>
+<p>Mr Glenn Chia</p>
 </td>
 </tr>
 <tr>
