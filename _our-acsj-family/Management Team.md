@@ -232,6 +232,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teow Jing Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teow_jing_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,18 +263,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_pei_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_fun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teow Jing Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teow_jing_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -327,7 +327,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teong Wen Jia Ivy</p>
+<p>Mdm Teong Wen Jia Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="teong_wen_jia_ivy@moe.edu.sg" rel="noopener nofollow" target="_blank">teong_wen_jia_ivy@moe.edu.sg</a>
@@ -339,7 +339,7 @@ variant: tiptap
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lam Yuk Wing</p>
+<p>Mdm Lam Yuk Wing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lam_yuk_wing@moe.edu.sg" rel="noopener nofollow" target="_blank">lam_yuk_wing@moe.edu.sg</a>
