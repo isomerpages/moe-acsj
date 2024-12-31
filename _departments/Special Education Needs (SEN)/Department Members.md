@@ -38,9 +38,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Jeremiah Nga (Educational Support)
 <br>Mrs Lilian Lai (Lower Primary Learners)
-<br>Ms Quek Soo Kim (Special Needs)
-<br>
-</p>
+<br>Ms Quek Soo Kim (Special Needs)</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +49,9 @@ variant: tiptap
 <p>Mr Kevin Chua (Senior SENO)
 <br>Ms Lauren Ng (Senior SENO)
 <br>Mr Ranny Choi (SENO)
-<br>Ms Karen Wee (SENO)
 <br>Mrs Maivilli Reshitharan (Senior SC)
 <br>Mrs Caroline Tang
-<br>Miss Regina Tan
+<br>Miss Tan Yew Lin Regina
 <br>Mdm Shabnam Phillips</p>
 </td>
 </tr>
