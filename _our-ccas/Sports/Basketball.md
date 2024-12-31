@@ -37,7 +37,7 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Teachers
 <br>
 <br>
@@ -48,7 +48,7 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Mr Jeremiah Nga</p>
+<p>1. Mr Jeremiah Nga (OIC - S1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nga_bing_chang_jeremiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nga_bing_chang_jeremiah@moe.edu.sg</a>
@@ -84,22 +84,11 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4. Mrs Ng-Tang Pui Fun</p>
+<p>4. Mrs Ng-Tang Pui Fun (OIC - S2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng-tang_pui_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng-tang_pui_fun@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
