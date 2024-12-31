@@ -71,7 +71,7 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Mr Hakim</p>
+<p>2. Mr Muhammad Hakim Mustadza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hakim_mustadza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hakim_mustadza@moe.edu.sg</a>
@@ -80,7 +80,7 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. Mdm Norfaiza</p>
+<p>3. Mdm Norfaiza Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="norfaiza_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norfaiza_zainal@moe.edu.sg</a>
