@@ -232,19 +232,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teow Jing Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teow_jing_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Middle Primary</p>
+<p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Su-Ping</p>
@@ -256,13 +244,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Primary</p>
+<p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jennifer Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_pei_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_fun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teow Jing Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teow_jing_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
 </p>
 </td>
 </tr>
