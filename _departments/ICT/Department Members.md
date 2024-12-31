@@ -52,7 +52,7 @@ variant: tiptap
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Soh</p>
+<p>Mr Alvin Soh (English Language)</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhang Min</p>
+<p>Miss Zhang Min (Mother Tongue)</p>
 </td>
 </tr>
 <tr>
@@ -85,14 +85,15 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Yeo Chiew Hoon Rinda</p>
+<p>Mr Wong Soong Hung</p>
 <p>Mdm Lin Miaoting Eunice</p>
 <p>Mdm Tan Ei Leen</p>
 <p>Miss Nur 'Amirah Jumat</p>
 <p>Mdm Nurulhuda Abdul Hamid</p>
 <p>Mr Teo Zhihao</p>
-<p>Mr Wong Soong Hung</p>
 <p>Mdm Yee Zhuoying Karmene</p>
-<p>Miss Yeo Chiew Hoon Rinda</p>
+<p></p>
 </td>
 </tr>
 </tbody>

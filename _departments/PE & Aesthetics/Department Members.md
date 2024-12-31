@@ -38,7 +38,8 @@ variant: tiptap
 <p>Subject Head (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gloria Chia</p>
+<p>Mrs Gloria Chia (Music &amp; Arts)
+<br>Mdm Ong Junie (e21CC)</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +58,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Shu Hui
 <br>Miss Desiree Chang
-<br>Miss Nur 'Amirah Jumat
+<br>Miss Nur 'Amirah Jumat (Art Coordinator)
 <br>Ms Gan Ping Bing Saige</p>
 </td>
 </tr>

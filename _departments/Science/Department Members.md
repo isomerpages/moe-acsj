@@ -44,12 +44,11 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Koh Boon Kit
-<br>Mr Lim Siow Way
-<br>Mr Mohammed Ashraff Karim
-<br>Mdm Nur 'Izzati Suhaiemi
-<br>Mdm Tuty Sulastri Subri</p>
-<p>Mrs Vidya Suresh (AED T&amp;L)</p>
+<p>Mr Mohammed Ashraff Karim</p>
+<p>Mr Lim Siow Way
+<br>Mdm Tuty Sulastri Subri
+<br>Mr Jonathan Koh Boon Kit
+<br>Mdm Nur 'Izzati Suhaiemi</p>
 </td>
 </tr>
 </tbody>

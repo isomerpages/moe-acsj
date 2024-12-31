@@ -36,7 +36,9 @@ variant: tiptap
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Junie</p>
+<p>Mdm Ong Junie (e21CC)</p>
+<p>Mdm Teong Wen Jia Ivy (Science)</p>
+<p>Lam Yuk Wing (Mother Tongue)</p>
 </td>
 </tr>
 <tr>
@@ -52,13 +54,13 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bonnie Ho
+<p>Mrs Bonnie Ho</p>
+<p>Mdm Tan Lee San
 <br>Mrs Chua-Fok Mei Ping
 <br>MrMohammed Ashraff Karim
 <br>Mr Jonathan Koh Boon Kit
 <br>Ms Koh Hsio Lan Charine
 <br>Ms Lam Ker Sim
-<br>Mdm Tan Kuan Bee
 <br>Mdm Tuty Sulastri Subri</p>
 </td>
 </tr>
