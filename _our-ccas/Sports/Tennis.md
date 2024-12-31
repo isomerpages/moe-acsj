@@ -3,16 +3,153 @@ title: Tennis
 permalink: /our-ccas/sports/tennis/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-![](/images/Sub-banner2.jpg)
-
-### Tennis
-
-#### Overview
-
-In the Tennis CCA at ACS Junior, we believe in excellence in achievement and character through Tennis. Our mission and goal is to equip all members with desirable social attitudes as well as the skills and fortitude to meet present and future challenges, whilst providing for healthy recreation.
-
-While all ACSians go through LLP (Tennis) during PE lessons from P3 onwards, Tennis CCA is available from Primary 3 onwards as a module in ACSplore and Primary 5 onwards as a recreational CCA. The selection of School players is based on the skill level of the pupils. Pupils are taught according to their skill level, from Beginner to Intermediate, and then Advanced.
-
-<table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td rowspan="5">Teachers<br><br><br><br><br><br></td><td>1. Mr Colin Koh (OIC)</td><td><a href="mailto:koh_boon_hock@moe.edu.sg">koh_boon_hock@moe.edu.sg</a></td></tr><tr><td>2. Mdm Karmene Yee   </td><td><a href="mailto:yee_zhuoying_karmene@moe.edu.sg">yee_zhuoying_karmene@moe.edu.sg</a></td></tr><tr><td>3. Mdm Lam Yuk Wing </td><td><a href="mailto:lam_yuk_wing@moe.edu.sg">lum_yuk_wing@moe.edu.sg</a></td></tr><tr><td>4. Mdm Chen Xuelei</td><td><a href="mailto:chen_xue_lei@moe.edu.sg">chen_xue_lei@moe.edu.sg</a></td></tr><tr><td>5. Mdm Hu Lan Ying</td><td><a href="mailto:hu_lan_ying@moe.edu.sg">hu_lan_ying@moe.edu.sg</a></td></tr><tr><td>CCA Sub-Group /<br>Day / Time<br><br><br><br> </td><td colspan="2">Mon 2.15pm-3.45pm (ACSplore)<br>Mon 3.45pm-5.15pm (Development Team)<br>Wed 2.15pm-3.45pm (ACSplore)<br>Wed 3.45pm-5.45pm (Training Team)<br>Fri 2.15pm-4.15pm (Training Team)</td></tr><tr><td>Venue</td><td colspan="2">School Tennis Courts</td></tr><tr><td>Quota<br><br></td><td colspan="2">ACSplore: 30-40 each session<br>P6 Recreational: 10-20<br>Training Squad and School Team: Selected pupils</td></tr><tr><td>Attire / Training Kit (once accepted as a member)<br><br><br></td><td colspan="2">• Face mask<br>• Tennis racket<br>• Water bottle<br>• Towel<br>• Cap<br>• Sunblock<br>• CCA attire/ PE tank top<br>• Inhaler or Epi-pen (boys with respiratory problems or severe allergy) </td></tr></tbody></table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
+</div>
+<h3>Tennis</h3>
+<h4>Overview</h4>
+<p>In the Tennis CCA at ACS Junior, we believe in excellence in achievement
+and character through Tennis. Our mission and goal is to equip all members
+with desirable social attitudes as well as the skills and fortitude to
+meet present and future challenges, whilst providing for healthy recreation.</p>
+<p>While all ACSians go through LLP (Tennis) during PE lessons from P3 onwards,
+Tennis CCA is available from Primary 3 onwards as a module in ACSplore
+and Primary 5 onwards as a recreational CCA. The selection of School players
+is based on the skill level of the pupils. Pupils are taught according
+to their skill level, from Beginner to Intermediate, and then Advanced.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Teachers
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Mr Colin Koh (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_boon_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_boon_hock@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2. Mdm Karmene Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yee_zhuoying_karmene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_zhuoying_karmene@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3. Mdm Siti Mohammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_fauziah_abdul_latiff@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_fauziah_abdul_latiff@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4. Mdm Chen Xuelei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_xue_lei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xue_lei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5. Mdm Hu Lan Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hu_lan_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_lan_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Sub-Group /
+<br>Day / Time
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mon 2.15pm-3.45pm (ACSplore)
+<br>Mon 3.45pm-5.15pm (Development Team)
+<br>Wed 2.15pm-3.45pm (ACSplore)
+<br>Wed 3.45pm-5.45pm (Training Team)
+<br>Fri 2.15pm-4.15pm (Training Team)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>School Tennis Courts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quota
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>ACSplore: 30-40 each session
+<br>P6 Recreational: 10-20
+<br>Training Squad and School Team: Selected pupils</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire / Training Kit (once accepted as a member)
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>• Face mask
+<br>• Tennis racket
+<br>• Water bottle
+<br>• Towel
+<br>• Cap
+<br>• Sunblock
+<br>• CCA attire/ PE tank top
+<br>• Inhaler or Epi-pen (boys with respiratory problems or severe allergy)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
