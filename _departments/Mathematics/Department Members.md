@@ -44,19 +44,20 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Norfaiza Zainal</p>
+<p>Mdm Lum Mei Pheng</p>
+<p>Miss Yeo Chiew Hoon Rinda</p>
+<p>Mrs Ong Bee Yeng</p>
 <p>Mrs Chua-Fok Mei Ping
-<br>Mrs Ong Bee Yeng
 <br>Miss Koh Hsiao Lan Charine
-<br>Mdm Lum Mei Pheng
-<br>Mdm Tan Ei Leen
-<br>Mdm Norfaiza Zainal
-<br>Mdm Nur Shazielah Abdul Rahim
 <br>Miss Tan Yew Lin Regina
-<br>Miss Yeo Chiew Hoon Rinda
+<br>Mdm Tan Lee San
+<br>Mdm Nur Shazielah Abdul Rahim
+<br>Mdm Tan Ei Leen
 <br>Mrs Siah Kim Tian Royston
-<br>Mdm Tan lee San
 <br>Mrs Ho-Lim Woan Jen (FAJT)
-<br>Mr Aw Meng Hong (FAJT)
+<br>Mr Aw Meng Hong (FAJT)</p>
+<p>Mdm Rahilah Rahmat (FAJT)
 <br>Ms Ng Mui Keng Elisabeth (FAJT)</p>
 </td>
 </tr>
