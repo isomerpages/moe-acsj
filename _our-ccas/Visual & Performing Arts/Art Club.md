@@ -64,7 +64,7 @@ exposure as they will visit exhibitions and view galleries.</p>
 <p>Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Ms April Ella Liang (I/C)</p>
+<p>1. Ms April Ella Liang (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:april_ella_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">april_ella_liang@moe.edu.sg</a>
