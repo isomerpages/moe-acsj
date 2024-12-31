@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (Internal)</p>
+<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Rubinder Kaur</p>
@@ -66,9 +66,7 @@ variant: tiptap
 <p>Mrs Bonnie Ho
 <br>Mrs Caroline Tang
 <br>Mr Goh Eng Tat
-<br>Mr Francis Tan
 <br>Mrs Josephine Chan
-<br>Mrs Raveena Dinesh
 <br>Mr Kelvin Lim Lye Lee
 <br>Mdm Lee Kit Cheng Irene
 <br>Mdm Low Iyleng
@@ -78,6 +76,8 @@ variant: tiptap
 <br>Mdm Hanisa d/o Mustakim (FAJT)
 <br>Mrs Gayathri Unnikrishnan (FAJT)
 <br>Mrs Tan Siah Wee Francis (FAJT)</p>
+<p>Mdm Heng Soo Inn (FAJT)</p>
+<p>Mdm Tang Keen Yeen (FAJT)</p>
 </td>
 </tr>
 </tbody>
