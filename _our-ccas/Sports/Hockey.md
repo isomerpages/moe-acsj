@@ -1,16 +1,102 @@
 ---
 title: Hockey
 permalink: /our-ccas/sports/hockey/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Sports
 ---
-![](/images/Sub-banner2.jpg)
-
-### Hockey
-
-#### Overview
-
-Our Hockey CCA focuses on character building and aims to cultivate a sense of appreciation and love for Hockey. Our training aims to enhance student’s confidence, hockey skills, self-esteem, teamwork and bring forth opportunities to bring out the best of all our members.
-
-<table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td rowspan="2">Teachers<br><br><br><br><br><br></td><td>1. Mdm Nurulhuda Binte Abdul Hamid</td><td><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg">nurulhuda_ab_hamid@moe.edu.sg</a></td></tr><tr><td>2. Mdm Fauziah Binte Abdullah</td><td><a href="mailto:fauziah_abdullah@moe.edu.sg">fauziah_abdullah@moe.edu.sg</a></td></tr><tr><td>CCA Sub-Group /<br>Day / Time<br><br><br><br> </td><td colspan="2">Mon 2.15pm-3.45pm (ACSplore)</td></tr><tr><td>Venue</td><td colspan="2">School Field</td></tr><tr><td>Members<br><br></td><td colspan="2">P3 to P6<br></td></tr><tr><td>Attire / Training Kit (once accepted as a member)<br><br><br></td><td colspan="2">• School PE attire <br></td></tr><tr><td>Note<br><br><br></td><td colspan="2">• If a student is absent, an email or letter of excuse or a medical certificate is required.<br>• There will be no make-up or refund if a student is absent.</td></tr></tbody></table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
+</div>
+<h3>Hockey</h3>
+<h4>Overview</h4>
+<p>Our Hockey CCA focuses on character building and aims to cultivate a sense
+of appreciation and love for Hockey. Our training aims to enhance student’s
+confidence, hockey skills, self-esteem, teamwork and bring forth opportunities
+to bring out the best of all our members.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Mdm Nurulhuda Binte Abdul Hamid (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulhuda_ab_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Sub-Group /
+<br>Day / Time</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mon 2.15pm-3.45pm (ACSplore)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>School Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>P3 to P6
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire / Training Kit (once accepted as a member)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>• School PE attire
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Note
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>• If a student is absent, an email or letter of excuse or a medical certificate
+is required.
+<br>• There will be no make-up or refund if a student is absent.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
