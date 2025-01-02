@@ -674,7 +674,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Meng Hua Adela</p>
+<p>Ms Adela Chu (YH Middle Pri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="adela_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">adela_chua@moe.edu.sg</a>
