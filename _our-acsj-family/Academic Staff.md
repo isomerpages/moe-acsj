@@ -674,7 +674,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adela Chu (YH Middle Pri</p>
+<p>Ms Adela Chu (YH Middle Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="adela_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">adela_chua@moe.edu.sg</a>
@@ -815,7 +815,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Tham Ceyun Karen (SH Student Leadership)</p>
+<p>Mdm&nbsp;Karen Tham (SH Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tham_ceyun_karen@moe.edu.sg" rel="noopener nofollow" target="_blank">tham_ceyun_karen@moe.edu.sg</a>
@@ -1193,7 +1193,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Gayathri Kunnasekaran (HOD EL)</p>
+<p>Ms Rachel Gayathri (HOD EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="gayathri_kunnasekaran@schools.gov.sg" rel="noopener nofollow" target="_blank">gayathri_kunnasekaran@schools.gov.sg</a>
