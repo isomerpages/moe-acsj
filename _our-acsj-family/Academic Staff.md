@@ -329,7 +329,7 @@ variant: tiptap
 <p>P2.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lian Hong Bonnie (Mrs Ho)</p>
+<p>Mrs Bonnie Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_lian_hong_bonnie@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_lian_hong_bonnie@moe.edu.sg</a>
@@ -353,7 +353,7 @@ variant: tiptap
 <p>P2.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp; Siti Fauziah A.L (Mrs Mohamad)</p>
+<p>Mrs Mohamad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="siti_fauziah_abdul_latiff@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_fauziah_abdul_latiff@moe.edu.sg</a>
@@ -377,7 +377,7 @@ variant: tiptap
 <p>P2.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shabnam Begum M.S (Mrs Phillips)</p>
+<p>Mrs Shabnam Phillips</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="shabnam_begum_mohd_shaffi@moe.edu.sg" rel="noopener nofollow" target="_blank">shabnam_begum_mohd_shaffi@moe.edu.sg</a>
@@ -473,7 +473,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teh Meijie Jerine (Mrs Heratnor)</p>
+<p>Mrs Heratnor (YH Lower Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="teh_meijie_jerine@moe.edu.sg" rel="noopener nofollow" target="_blank">teh_meijie_jerine@moe.edu.sg</a>
