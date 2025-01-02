@@ -1193,7 +1193,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Gayathri Kunnasekaran (HOD EL)</p>
+<p>Ms Rachel Gayathri (HOD EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="gayathri_kunnasekaran@schools.gov.sg" rel="noopener nofollow" target="_blank">gayathri_kunnasekaran@schools.gov.sg</a>
