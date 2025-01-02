@@ -815,7 +815,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Tham Ceyun Karen (SH Student Leadership)</p>
+<p>Mdm&nbsp;Karen Tham (SH Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tham_ceyun_karen@moe.edu.sg" rel="noopener nofollow" target="_blank">tham_ceyun_karen@moe.edu.sg</a>
