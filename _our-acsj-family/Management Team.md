@@ -336,7 +336,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lam Yuk Wing</p>

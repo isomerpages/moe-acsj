@@ -353,7 +353,7 @@ variant: tiptap
 <p>P2.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mohamad</p>
+<p>Mrs Mohamad (ST Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="siti_fauziah_abdul_latiff@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_fauziah_abdul_latiff@moe.edu.sg</a>
@@ -365,7 +365,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Puay Boon Arlette</p>
+<p>Mdm Teo Puay Boon Arlette (ST HAL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="teo_puay_boon@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_puay_boon@moe.edu.sg</a>
@@ -542,7 +542,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Rubinder Kaur</p>
+<p>Miss Rubinder Kaur (SH English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="rubinder_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">rubinder_kaur@moe.edu.sg</a>
@@ -698,7 +698,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jennifer Chua</p>
+<p>Mrs Jennifer Chua (AYH P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ng_pei_fun@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_pei_fun@moe.edu.sg</a>
@@ -803,7 +803,7 @@ variant: tiptap
 <p>P4.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhang Min (ST MT)</p>
+<p>Miss Zhang Min (ST Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="zhang_min_a@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_min_a@moe.edu.sg</a>
@@ -944,7 +944,7 @@ variant: tiptap
 <p>P5.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Heng Hui Fen Rachel</p>
+<p>Mrs Heng Hui Fen Rachel (ST Music)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_hui_fen_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_hui_fen_rachel@moe.edu.sg</a>
@@ -980,7 +980,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lam Yuk Wing (SH MT)</p>
+<p>Mdm Lam Yuk Wing (SH Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lam_yuk_wing@moe.edu.sg" rel="noopener nofollow" target="_blank">lam_yuk_wing@moe.edu.sg</a>
@@ -1289,7 +1289,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chin Keat Alwyn</p>
+<p>Mr Tan Chin Keat Alwyn (SH CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_chin_keat_alwyn@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_chin_keat_alwyn@moe.edu.sg&nbsp;</a>
@@ -1406,7 +1406,7 @@ variant: tiptap
 <p>Miss Zhang Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST for Mother Tongue</p>
+<p>ST for Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_min_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhang_min_a@moe.edu.sg</u></a>
