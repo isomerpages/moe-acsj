@@ -112,8 +112,8 @@ P2 to P6.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Recruits (P2s)
-<br>Mondays
-<br>2.00pm to 4.00pm</p>
+<br>Wednesdays
+<br>2.00pm to 5.00pm</p>
 </td>
 </tr>
 <tr>
