@@ -29,15 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acsj-ictresources" rel="noopener noreferrer nofollow" target="_blank">ACSJ ICT Resources Repository Microsite</a> 
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Portal</a>&nbsp;&nbsp;
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Portal</a>&nbsp;&nbsp;
 &nbsp;&nbsp; &nbsp;&nbsp;</p>
 </td>
 </tr>
@@ -51,9 +43,7 @@ portal that streamlines processes and integrates all HR and Payroll systems
 across all Ministries, organs of state and 11 Statboards. It covers the
 end to end lifecycle of an employee from recruitment to exit and re-employment.
 HRP is an integrated HR and Payroll system developed to replace HRMS and
-PaC@Gov.<strong><em><br></em></strong>
-</p>
-<p></p>
+PaC@Gov.</p>
 </td>
 </tr>
 <tr>
@@ -62,27 +52,23 @@ PaC@Gov.<strong><em><br></em></strong>
 </p>
 <p>HR Online is a MOE-wide HR portal containing a wealth of useful HR information
 for MOE employees.&nbsp;&nbsp; &nbsp;</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a> 
-<br>
+<p><a href="https://ictconnection.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a> 
-<br>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mesrc.net/" class="" rel="noopener noreferrer nofollow" target="">MOE Sports and Recreation Club (MERSC<u>)</u></a> 
-<br>
+<p><a href="https://www.mesrc.net/" class="" rel="noopener noreferrer nofollow" target="">MOE Sports and Recreation Club (MERSC<u>)</u></a>
 </p>
 </td>
 </tr>
@@ -91,53 +77,42 @@ for MOE employees.&nbsp;&nbsp; &nbsp;</p>
 <p><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" class="" rel="noopener noreferrer nofollow" target="">iEXAMS2</a>
 </p>
 <p>Integrated Examinations Management System - This is the system used by
-the schools in the administration management of all the national examinations.
-<br>
-</p>
-<p></p>
+the schools in the administration management of all the national examinations.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://idm.opal2.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">One Portal All Learners (OPAL 2.0)</a> 
-<br>
-</p>
-<p>OPAL2.0 is a digital learning platform for all MOE officers designed for
+<br>OPAL2.0 is a digital learning platform for all MOE officers designed for
 personalised and collaborative learning using a mobile-first strategy.
 It is a one-stop user-centric learning platform, focusing on new capabilities
 to facilitate professional development planning and management, online
 collaboration, operational efficiency in course administration and learning
 records management. ​</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" class="" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a> 
-<br>
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" class="" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://adfs.schools.moe.edu.sg/adfs/ls/?SAMLRequest=jVJLT8JAEP4rzd7pC6i4oSQVYiTx0Qh68DbtTmGT7W7d2aL%2Be0vBiAeI19nvNfPtlKBWccOz1m31M763SM77rJUmfnhJWWs1N0CSuIYaibuSr7KHex77IW%2BscaY0inkZEVonjZ4bTW2NdoV2J0t8eb5P2da5hngQEBmM%2Fdqgj6L1aRNo2DWwQV8Y5i06a6lhr%2FHLAFGRT%2BXWGEWnxP08UBQw79bYEvv4KatAETJvuUjZ6nGeJJNCQBiJJLkORzCaAEBxPbmCIhoOw2LYASkHIrnDXypRi0tNDrRLWRzG0SCKB8NoHYY8HvMw8cfR1Rvz8uPiN1ILqTeXr1QcQMTv1ut8kD%2Bt1r3ATgq0jx36nwd6RUv9cTpNNpv2%2FfA%2BsD2t7HIW%2BOmJzc6ZToNT6aNRw%2FdJl4vcKFl%2BeZlS5mNuEVyX3tkW%2ByJqcOfdIz%2FqJ1IMqh7KW00NlrKSKFgwO9r%2B%2FYuzbw%3D%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="">SSOE2 Portal</a> 
-<br>
+<p><a href="https://adfs.schools.moe.edu.sg/adfs/ls/?SAMLRequest=jVJLT8JAEP4rzd7pC6i4oSQVYiTx0Qh68DbtTmGT7W7d2aL%2Be0vBiAeI19nvNfPtlKBWccOz1m31M763SM77rJUmfnhJWWs1N0CSuIYaibuSr7KHex77IW%2BscaY0inkZEVonjZ4bTW2NdoV2J0t8eb5P2da5hngQEBmM%2Fdqgj6L1aRNo2DWwQV8Y5i06a6lhr%2FHLAFGRT%2BXWGEWnxP08UBQw79bYEvv4KatAETJvuUjZ6nGeJJNCQBiJJLkORzCaAEBxPbmCIhoOw2LYASkHIrnDXypRi0tNDrRLWRzG0SCKB8NoHYY8HvMw8cfR1Rvz8uPiN1ILqTeXr1QcQMTv1ut8kD%2Bt1r3ATgq0jx36nwd6RUv9cTpNNpv2%2FfA%2BsD2t7HIW%2BOmJzc6ZToNT6aNRw%2FdJl4vcKFl%2BeZlS5mNuEVyX3tkW%2ByJqcOfdIz%2FqJ1IMqh7KW00NlrKSKFgwO9r%2B%2FYuzbw%3D%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="">SSOE2 Portal</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.sg/content/student/en/primary.html" class="" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a> 
-<br>
+<p><a href="https://www.myskillsfuture.sg/content/student/en/primary.html" class="" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>&nbsp;<strong><em>- Use MIMS account to log in</em></strong>&nbsp;
-<br>
-</p>
-<p>​This is a system that provides schools and MOE HQ with comprehensive
+<br>​This is a system that provides schools and MOE HQ with comprehensive
 information on students and schools and possesses business analytics functions
 to support strategic planning and decision making.</p>
 </td>
@@ -160,9 +135,6 @@ travel plans by parents) as well as create individual groups of students,
 each group customised according to activities. At the same time, parents
 can access all posts from their children’s school via the app, even if
 their children are in different schools.</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -170,8 +142,7 @@ their children are in different schools.</p>
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>&nbsp;-&nbsp;<strong><em>Use MIMS account to log in</em></strong>
 </p>
 <p>Resource Booking System (RBS) allows staff to book resources, such as
-meeting rooms, training rooms, function rooms, and halls.<strong><em><br></em></strong>
-</p>
+meeting rooms, training rooms, function rooms, and halls.</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +152,6 @@ meeting rooms, training rooms, function rooms, and halls.<strong><em><br></em></
 <p>The Registration and Engagement Management System (REMS 2.0) supports
 the administrative management of all MOE casual employment schemes (Flexi-AJT/FAJ(LBS)/FAJ(SC)/FAJ(MKE)/SRE/READ/FRS)
 in schools and MOE HQ.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -192,9 +162,7 @@ in schools and MOE HQ.</p>
 curriculum-aligned resources. In line with the development of 21st Century
 Competencies (21CC), the SLS encourages learners to be self-directed and
 allows them to personalise their learning according to their needs and
-interests.
-<br>
-</p>
+interests.</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +178,6 @@ interests.
 </p>
 <p>&nbsp;self-service form builder for public officers to create online forms
 that capture classified data, with the goal of replacing paper forms.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -229,6 +196,13 @@ Allocation Exercises.&nbsp;</p>
 <p>Schools can use All Ears to collect data for a variety of school processes
 such as updating of particulars, committee selection, event data collection,
 surveys, lessons and many more!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a>
+</p>
+<p>ChatGPT for the Singapore Government</p>
 </td>
 </tr>
 </tbody>
