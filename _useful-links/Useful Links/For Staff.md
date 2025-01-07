@@ -56,19 +56,19 @@ for MOE employees.&nbsp;&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a> 
+<p><a href="https://ictconnection.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a> 
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mesrc.net/" class="" rel="noopener noreferrer nofollow" target="">MOE Sports and Recreation Club (MERSC<u>)</u></a> 
+<p><a href="https://www.mesrc.net/" class="" rel="noopener noreferrer nofollow" target="">MOE Sports and Recreation Club (MERSC<u>)</u></a>
 </p>
 </td>
 </tr>
@@ -93,19 +93,19 @@ records management. ​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" class="" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a> 
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" class="" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://adfs.schools.moe.edu.sg/adfs/ls/?SAMLRequest=jVJLT8JAEP4rzd7pC6i4oSQVYiTx0Qh68DbtTmGT7W7d2aL%2Be0vBiAeI19nvNfPtlKBWccOz1m31M763SM77rJUmfnhJWWs1N0CSuIYaibuSr7KHex77IW%2BscaY0inkZEVonjZ4bTW2NdoV2J0t8eb5P2da5hngQEBmM%2Fdqgj6L1aRNo2DWwQV8Y5i06a6lhr%2FHLAFGRT%2BXWGEWnxP08UBQw79bYEvv4KatAETJvuUjZ6nGeJJNCQBiJJLkORzCaAEBxPbmCIhoOw2LYASkHIrnDXypRi0tNDrRLWRzG0SCKB8NoHYY8HvMw8cfR1Rvz8uPiN1ILqTeXr1QcQMTv1ut8kD%2Bt1r3ATgq0jx36nwd6RUv9cTpNNpv2%2FfA%2BsD2t7HIW%2BOmJzc6ZToNT6aNRw%2FdJl4vcKFl%2BeZlS5mNuEVyX3tkW%2ByJqcOfdIz%2FqJ1IMqh7KW00NlrKSKFgwO9r%2B%2FYuzbw%3D%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="">SSOE2 Portal</a> 
+<p><a href="https://adfs.schools.moe.edu.sg/adfs/ls/?SAMLRequest=jVJLT8JAEP4rzd7pC6i4oSQVYiTx0Qh68DbtTmGT7W7d2aL%2Be0vBiAeI19nvNfPtlKBWccOz1m31M763SM77rJUmfnhJWWs1N0CSuIYaibuSr7KHex77IW%2BscaY0inkZEVonjZ4bTW2NdoV2J0t8eb5P2da5hngQEBmM%2Fdqgj6L1aRNo2DWwQV8Y5i06a6lhr%2FHLAFGRT%2BXWGEWnxP08UBQw79bYEvv4KatAETJvuUjZ6nGeJJNCQBiJJLkORzCaAEBxPbmCIhoOw2LYASkHIrnDXypRi0tNDrRLWRzG0SCKB8NoHYY8HvMw8cfR1Rvz8uPiN1ILqTeXr1QcQMTv1ut8kD%2Bt1r3ATgq0jx36nwd6RUv9cTpNNpv2%2FfA%2BsD2t7HIW%2BOmJzc6ZToNT6aNRw%2FdJl4vcKFl%2BeZlS5mNuEVyX3tkW%2ByJqcOfdIz%2FqJ1IMqh7KW00NlrKSKFgwO9r%2B%2FYuzbw%3D%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="">SSOE2 Portal</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.sg/content/student/en/primary.html" class="" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a> 
+<p><a href="https://www.myskillsfuture.sg/content/student/en/primary.html" class="" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
 </p>
 </td>
 </tr>
@@ -152,7 +152,6 @@ meeting rooms, training rooms, function rooms, and halls.</p>
 <p>The Registration and Engagement Management System (REMS 2.0) supports
 the administrative management of all MOE casual employment schemes (Flexi-AJT/FAJ(LBS)/FAJ(SC)/FAJ(MKE)/SRE/READ/FRS)
 in schools and MOE HQ.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -197,6 +196,13 @@ Allocation Exercises.&nbsp;</p>
 <p>Schools can use All Ears to collect data for a variety of school processes
 such as updating of particulars, committee selection, event data collection,
 surveys, lessons and many more!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a>
+</p>
+<p>ChatGPT for the Singapore Government</p>
 </td>
 </tr>
 </tbody>
