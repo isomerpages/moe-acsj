@@ -430,6 +430,74 @@ to and from the swimming venue.</p>
 <p>N/A</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAPFA Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Support teachers in conducting NAPFA assessment.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Colin Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track &amp;amp; Field NSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monitor safety of students and</p>
+<p>assist in admin matters such as</p>
+<p>form submissions, pinning number</p>
+<p>tags, students’ warm-up, etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April/May</p>
+<p>Morning: 8am to 11.30am</p>
+<p>Afternoon: 2pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alwyn Tan</p>
+<p>Miss Grace Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Orientation Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Support teachers and students in</p>
+<p>ICT orientation i.e. help students to</p>
+<p>log into their accounts.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1: Weeks 1 to 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norah Haron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
