@@ -411,8 +411,10 @@ recycled materials and managing the eco-garden.</p>
 <p>Fortnightly during school hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Glenn Chia</p>
-<p><a href="glenn_chia_jia_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p>Eco-Garden: Mdm Tuty Subri</p>
+<p>Recycling Corner: Mdm&nbsp; Lam Ker Sim</p>
+<p>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -431,15 +433,14 @@ recycled materials and managing the eco-garden.</p>
 to and from the swimming venue.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semester 1</p>
-<p>(Feb to April)</p>
-<p>Semester 2</p>
-<p>(July to September)</p>
+<p>Semester 1: February to April</p>
+<p>Semester 2: July to September</p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alwyn Tan</p>
-<p><a href="tan_chin_keat_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Miss Grace Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N/A</p>
