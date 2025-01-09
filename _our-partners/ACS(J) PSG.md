@@ -374,9 +374,7 @@ journeys.</p>
 <p>Post Exam Activity (Term 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Glenn Chia</p>
-<p><a href="glenn_chia_jia_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Mr Jonathan Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N/A</p>
