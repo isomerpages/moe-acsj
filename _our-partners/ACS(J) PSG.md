@@ -12,7 +12,7 @@ variant: tiptap
 enrolled in the School.</p>
 <p><strong>Our PSG Leaders:</strong> Ms Andrea Friedman, Ms Kimberly Wee &amp;
 Ms Pauline Lim.</p>
-<p><strong>PARENTS SUPPORT GROUPS 2024</strong>
+<p><strong>PARENTS SUPPORT GROUPS 2025</strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -49,23 +49,22 @@ Ms Pauline Lim.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fathers for Life@ACSJ</p>
+<p>ACSJ Dads for Life Adventure Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Organise activities that promotes opportunities for father-son bonding.
-(Only for fathers who are signing up for the activities)
+<p>Organise activities that promote opportunities for father-son bonding.
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Once a term/semester (During School Holidays)
+<p>Once a term</p>
+<p>(first Saturday/weekend of school holidays)</p>
+<p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Jieming
-<br><a href="mailto:chen_jieming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Mr Chen Jieming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Joel Chng</p>
@@ -80,7 +79,7 @@ Ms Pauline Lim.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provide support for the CSI programme by creating videos on specific Science
-experiments to be shared with P1-6 boys. Schedule will be provided.</p>
+experiments to be shared with P1-P6 boys. Schedule will be provided.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Once to twice per term
@@ -89,12 +88,18 @@ experiments to be shared with P1-6 boys. Schedule will be provided.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Teong
-<br><a href="mailto:teong_wen_jia_ivy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Mdm Izzati Atikah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evelyn Teo</p>
+<p>Evelyn Teo (until Feb)</p>
+<p>Carissa Leong</p>
+<p>Jennis Neo</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,8 +111,8 @@ experiments to be shared with P1-6 boys. Schedule will be provided.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prepare and conduct craft activities in line with themes suited to yearly
-special days/events such as cultural days, Easter, NE Events, Children,
-Teachers’ etc.</p>
+special days/events such as cultural days, Easter, NE Events, Children’s
+Day, Teachers’ Day, etc.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>During recesses close to event dates
@@ -115,14 +120,16 @@ Teachers’ etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Amirah Jumat
-<br><a href="nur_amirah_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Miss Amirah Jumat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Andrea Friedman</p>
 <p>Kimberly Wee</p>
 <p>Pauline Lim</p>
+<p>Calista Lim</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,28 +144,23 @@ Teachers’ etc.</p>
 week programmes through conducting games during recess.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April (EL)</p>
-<p>July (MT)
+<p>April: English</p>
+<p>July: Mother Tongue
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Raveena K (EL)
-<br><a href="mailto:k_raveena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-<br>
-<br>Mrs Siti Mohammed (EL)
-<br><a href="mailto:siti_fauziah_abdul_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-<br>
-<br>Mdm Leelavathy (TL)
-<br><a href="mailto:leelavathy_gopal_r@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-<br>
-<br>Mdm Nurulhuda (ML)
-<br><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Mrs Shabnam Phillips (EL)</p>
+<p>Mr Goh Tiow Hua (MT)</p>
+<p>Mr See Cheun Wah (MT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Andrea Friedman (EL)</p>
 <p>Tan Kailing (MT)</p>
+<p>Eve Ong (MT)</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -172,18 +174,20 @@ week programmes through conducting games during recess.</p>
 <p>Support reading for lower primary boys in the morning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Tuesday and Thursday 7 to 7.30am (EL)
+<p>7am to 7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Siti Mohamad (EL)</p>
+<p>Mdm Lam Ker Sim (MT)</p>
+<p>Miss Felice Lou (MT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Petrina Yong (EL)</p>
+<p>Tan Kailing (MT)</p>
+<p>Eve Ong (MT)</p>
+<p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Siti Mohammed (EL)
-<br><a href="siti_fauziah_abdul_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pauline Lim
-<br>Petrina Yong</p>
 </td>
 </tr>
 <tr>
@@ -201,14 +205,10 @@ week programmes through conducting games during recess.</p>
 <br>P6 recess time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Lim
-<br><a href="mailto:kelvin_lim_lye_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-<p></p>
+<p>Mr Kelvin Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pauline Lim
-<br>Petrina Yong</p>
+<p>N.A.</p>
 </td>
 </tr>
 <tr>
@@ -223,17 +223,10 @@ week programmes through conducting games during recess.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 and 3
-<br>P6 recess time
-<br>
-</p>
+<br>P6 recess time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lu Liwen
-<br><a href="mailto:lu_liwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-<br>
-<br>Mdm Tan Kuan Bee
-<br><a href="tan_kuan_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Mdm Tan Kuan Bee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Kailing</p>
@@ -257,12 +250,11 @@ week programmes through conducting games during recess.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Noelle Selvadurai
-<br><a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Miss Noelle Chitrani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Joyner Wong</p>
+<p>Faith Goh</p>
 </td>
 </tr>
 <tr>
@@ -282,9 +274,7 @@ week programmes through conducting games during recess.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremiah Nga
-<br><a href="mailto:nga_bing_chang_jeremiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Mr Jeremiah Nga</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Edward Eu
@@ -299,9 +289,7 @@ week programmes through conducting games during recess.</p>
 <p>Chapel Worship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supporting Chapel as worship leaders during weekly chapel sessions
-<br>
-</p>
+<p>Supporting Chapel as worship leaders during weekly chapel sessions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chapel time
@@ -309,12 +297,14 @@ week programmes through conducting games during recess.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Noelle Selvadurai
-<br><a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Miss Noelle Chitrani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wey Yean</p>
+<p>Tan Wey Yean</p>
+<p>Rachel Tan</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -325,8 +315,8 @@ week programmes through conducting games during recess.</p>
 <p>P6 Parent Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Support and blessing the graduating cohort through facilitating P6 encouragement
-gift, PSLE exam snacks for the boys, post-PSLE Carnival / Games Day</p>
+<p>Support and bless the graduating cohort through facilitating P6 encouragement
+gift, PSLE exam snacks for the boys, post-PSLE Carnival Games Day.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Semester 2
@@ -334,9 +324,7 @@ gift, PSLE exam snacks for the boys, post-PSLE Carnival / Games Day</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gloria Chia
-<br><a href="mailto:loh_lin_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Mrs Gloria Chia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N/A
@@ -364,12 +352,10 @@ Defence Day, National Day etc
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Tan
-<br><a href="mailto:lee_shuyun_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p>Ms Michelle Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N/A</p>
+<p>Petrina Yong</p>
 </td>
 </tr>
 <tr>
