@@ -232,7 +232,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 2</p>
+<p>Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Su-Ping</p>
@@ -244,7 +244,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jennifer Chua</p>
@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 6</p>
+<p>Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teow Jing Ho</p>

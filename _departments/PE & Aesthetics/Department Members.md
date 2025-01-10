@@ -75,7 +75,7 @@ variant: tiptap
 <p>Senior Teacher (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Colin Koh</p>
+<p></p>
 </td>
 </tr>
 <tr>
