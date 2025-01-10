@@ -767,7 +767,7 @@ variant: tiptap
 <p>P4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Su-Ping (AYH P2)</p>
+<p>Ms Tan Su-Ping (AYH Lower Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_su-ping@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_su-ping@moe.edu.sg</a>
@@ -875,7 +875,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Teow Jing Ho (AYH P6)</p>
+<p>Mr&nbsp;Teow Jing Ho (AYH Upper Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="teow_jing_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
