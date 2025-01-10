@@ -626,18 +626,6 @@ variant: tiptap
 <p>P3.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chang Ke Xin Desiree</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chang_ke_xin_desiree@moe.edu.sg" rel="noopener nofollow" target="_blank">chang_ke_xin_desiree@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Nga Bing Chang Jeremiah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -698,7 +686,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jennifer Chua (AYH P4)</p>
+<p>Mrs Jennifer Chua (AYH Middle Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ng_pei_fun@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_pei_fun@moe.edu.sg</a>
