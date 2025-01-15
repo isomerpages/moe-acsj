@@ -48,18 +48,15 @@ Schools tournament.</p>
 <p>Programme /
 <br>Activities</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>• Friendly games with local schools and clubs (for school teams).</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Teachers</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mr Teo Zhihao (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,6 +66,9 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p>2. Mrs Balasubramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,6 +78,9 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p>3. Ms Quek Soo Kim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,6 +90,9 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p>4. Mdm Soh Li Mei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,6 +102,9 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p>5. Mdm Leelavathy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +114,10 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6. Mdm Siti Nurashikin Ajmain</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>6. Ms Siti Nurashikin Ajmain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="siti_nurashikin_ajmain@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nurashikin_ajmain@moe.edu.sg</a>
@@ -119,31 +131,23 @@ Schools tournament.</p>
 <br>
 <br>
 <br>
-<br>
-<br>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Mon 2.15pm to 3.45pm ACSplore P3
-<br>Mon 3.30pm to 5.15pm Training Squad
-<br>Wed 2.15pm to 3.45pm ACSplore P4
-<br>Wed 3.30pm to 5.15pm Training Squad
-<br>Fri 2.15pm to 3.45pm ACSplore P5/P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p>Mon 2.15pm to 3.45pm ACSplore P3</p>
+<p>Mon 3.30pm to 5.30pm Training Squad</p>
+<p>Wed 2.15pm to 3.45pm ACSplore P4/P5/P6</p>
+<p>Wed 3.30pm to 5pm Development Squad</p>
+<p>Wed 3.30pm to 5.30pm Training Squad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Attire / Training Kit (once accepted as a member)</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>ACS(J) Football shirt, shorts and socks.
-<br>Shinguards, football boots and football (size 4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>Shin guards, football boots and football (size 4)</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +158,7 @@ Schools tournament.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>• All confirmed members will receive an official email with information
 about the training schedule from the CCA teachers 1 week after CCA allocation
 results are announced.
@@ -163,9 +167,6 @@ week of June and December holidays.
 <br>• If a pupil is absent, an email/ letter of excuse or a medical certificate
 is required.
 <br>• There will be no make-up or refund if a pupil is absent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
