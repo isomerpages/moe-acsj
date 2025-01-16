@@ -62,10 +62,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. Mdm Tan Lee San</p>
+<p>3. Mr See Cheun Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_lee_san_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lee_san_a@moe.edu.sg</a>
+<p><a href="see_cheun_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">see_cheun_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -81,16 +81,11 @@ members.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CCA Sub-Group /
-<br>Day / Time
-<br>
-<br>
-</p>
+<br>Day / Time</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon 2.15 pm to 3.45 pm - P3 &amp; P5 ACSplore
-<br>Mon 3.45 pm to 5.45 pm - Training Squad
-<br>Wed 2.15pm to 3.45pm - P4 &amp; P5 ACSplore
-<br>Wed 3.45 pm to 5.45pm - Training Squad</p>
+<p>Mon and Wed 2-3.30pm ACSPlore
+<br>Mon and Wed 3.30-530pm Training Squad</p>
 </td>
 </tr>
 <tr>
