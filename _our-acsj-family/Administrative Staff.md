@@ -139,7 +139,7 @@ variant: tiptap
 <p>Mr Noor Azhar Bin Parnen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_azhar_parnen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_azhar_parnen@moe.edu.sg</a>
+<p><a href="noor_azhar_parnen@schools.gov.sg" rel="noopener nofollow" target="_blank">noor_azhar_parnen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
