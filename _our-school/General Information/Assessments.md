@@ -11,19 +11,30 @@ variant: tiptap
 <h1>Assessment</h1>
 <p><strong><u>2024 Assessment Information and Weighting from Primary 1 to Primary 6</u></strong>
 </p>
-<p><strong>Primary 1 Assessment Handbook ( </strong><a href="/files/2024_P1_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
-<br><strong>Primary 2 Assessment Handbook ( </strong><a href="/files/2024_P2_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
-<br><strong>Primary 3 Assessment Handbook ( </strong><a href="/files/2024_P3_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
-<br><strong>Primary 4 Assessment Handbook ( </strong><a href="/files/2024_P4_Assessment_Handbook_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
-<br><strong>Primary 5 Assessment Handbook ( </strong><a href="/files/2024_P5_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong> 
-<br><strong>Primary 6 Assessment Handbook ( </strong><a href="/files/2024_P6_Assessment_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a><strong> )</strong>
+<p><strong>Primary 1 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P1.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
+<br><strong>Primary 2 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P2.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
+<br><strong>Primary 3 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P3.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
+<br><strong>Primary 4 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P4.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
+<br><strong>Primary 5 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P5.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
+<br><strong>Primary 6 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P6.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Assessment.jpg">
 </div>
 <p><strong>Important Note:</strong> 
-<br>1. Any pupil who is absent for a weighted assessment needs to produce
-a Medical Certificate to cover him for that day. Marks will be pro-rated
-accordingly.
-<br>2. For Semestral Assessment, there is no make-up for Listening Comprehension
-and main written papers.</p>
+<br>1. Students absent for a weighted assessment must produce a Medical Certificate
+for that day. Marks will be pro-rated accordingly.</p>
+<p>2. Students representing the school in competitions, such as the National
+School Games (NSG), during a weighted assessment will have their marks
+pro-rated.</p>
+<p>3. There is no make-up for Listening Comprehension and main written papers
+during the End-of-Year Examination.</p>
+<p>4. Students absent for main written papers will not qualify for academic
+awards.</p>
+<p>5. Weighted assessments will be conducted during respective subject periods
+on the scheduled day. For Science, if there is no Science period that day,
+the assessment will take place during another lesson.
+<br>
+<br>
+</p>
+<p></p>
