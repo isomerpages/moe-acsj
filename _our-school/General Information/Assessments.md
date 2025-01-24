@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
 <h1>Assessment</h1>
-<p><strong><u>2024 Assessment Information and Weighting from Primary 1 to Primary 6</u></strong>
+<p><strong><u>2025 Assessment Information and Weighting from Primary 1 to Primary 6</u></strong>
 </p>
 <p><strong>Primary 1 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P1.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
 <br><strong>Primary 2 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P2.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
