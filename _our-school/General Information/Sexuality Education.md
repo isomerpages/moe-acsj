@@ -97,7 +97,7 @@ themselves safe from sexuality-related risks.</p>
 <p><strong>Primary 5</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sex_Ed_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE_2025_P5.jpg">
 </div>
 <p><strong>Primary 6</strong>
 </p>
