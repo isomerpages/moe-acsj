@@ -15,7 +15,7 @@ variant: tiptap
 <br><strong>Primary 2 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P2.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
 <br><strong>Primary 3 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P3.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
 <br><strong>Primary 4 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P4.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
-<br><strong>Primary 5 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P5.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong> 
+<br><strong>Primary 5 Assessment Handbook ( <a href="/files/2025updatedAssessment_Handbook_P5.pdf" rel="noopener nofollow" target="_blank">Download </a>)</strong> 
 <br><strong>Primary 6 Assessment Handbook ( <a href="/files/2025Assessment_Handbook_P6.pdf" rel="noopener nofollow" target="_blank">Download</a> )</strong>
 </p>
 <div class="isomer-image-wrapper">
