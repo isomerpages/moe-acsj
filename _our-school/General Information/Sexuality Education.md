@@ -113,6 +113,6 @@ providers.</p>
 lessons need to complete an opt-out form. This form will be communicated&nbsp;
 to parents at the start of the year. The completed opt-out form is to be
 submitted by 26/04/2024.</p>
-<p>10. Parents can contact Mrs Michelle Tan at <a rel="noopener noreferrer nofollow" target="_blank">lee_shuyun_michelle@schools.gov.sg</a> &nbsp;for
+<p>10. Parents can contact Mr Roystan Siah at <a href="siah_kim_tian_royston@schools.gov.sg" rel="noopener nofollow" target="_blank">siah_kim_tian_royston@schools.gov.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
