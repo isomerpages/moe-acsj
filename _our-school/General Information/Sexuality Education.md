@@ -97,12 +97,12 @@ themselves safe from sexuality-related risks.</p>
 <p><strong>Primary 5</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE_2025_P5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE2025P5.jpg">
 </div>
 <p><strong>Primary 6</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Sex_Ed_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE2025P6.jpg">
 </div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
@@ -112,6 +112,6 @@ providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated&nbsp;
 to parents at the start of the year. The completed opt-out form is to be <strong>submitted by 11/04/2025</strong>.</p>
-<p>10. Parents can contact Mr Roystan Siah at <a href="siah_kim_tian_royston@schools.gov.sg" rel="noopener nofollow" target="_blank">siah_kim_tian_royston@schools.gov.sg</a>&nbsp;for
+<p>10. Parents can contact Mr Royston Siah at <a href="siah_kim_tian_royston@schools.gov.sg" rel="noopener nofollow" target="_blank">siah_kim_tian_royston@schools.gov.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
