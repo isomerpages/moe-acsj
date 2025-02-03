@@ -112,6 +112,6 @@ providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated&nbsp;
 to parents at the start of the year. The completed opt-out form is to be <strong>submitted by 11/04/2025</strong>.</p>
-<p>10. Parents can contact Mr Roystan Siah at <a href="siah_kim_tian_royston@schools.gov.sg" rel="noopener nofollow" target="_blank">siah_kim_tian_royston@schools.gov.sg</a>&nbsp;for
+<p>10. Parents can contact Mr Royston Siah at <a href="siah_kim_tian_royston@schools.gov.sg" rel="noopener nofollow" target="_blank">siah_kim_tian_royston@schools.gov.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
