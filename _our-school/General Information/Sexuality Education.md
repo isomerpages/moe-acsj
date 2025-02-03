@@ -96,13 +96,11 @@ themselves safe from sexuality-related risks.</p>
 </p>
 <p><strong>Primary 5</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE2025P5.jpg">
 </div>
 <p><strong>Primary 6</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE2025P6.jpg">
 </div>
