@@ -96,14 +96,10 @@ themselves safe from sexuality-related risks.</p>
 </p>
 <p><strong>Primary 5</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE_2025_P5.jpg">
-</div>
+<p></p>
 <p><strong>Primary 6</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Sex_Ed_2024.jpg">
-</div>
+<p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
