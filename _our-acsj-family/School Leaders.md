@@ -20,3 +20,8 @@ variant: tiptap
 <p>Mr Goh Sheow En
 <br><a href="mailto:Goh_SHEOW_EN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_SHEOW_EN@schools.gov.sg</a>
 </p>
+<h3>VICE PRINCIPAL (Administration)</h3>
+<p>Mr Aaron Chua
+<br><a href="Aaron_CHUA_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Aaron_CHUA_A@schools.gov.sg</a>
+</p>
+<p></p>
