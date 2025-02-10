@@ -14,5 +14,9 @@ variant: tiptap
 <p><a href="/files/1st_Principal_s_Letter__31_Dec_2024_.pdf" rel="noopener nofollow" target="_blank">1st Principal's Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2nd_Principal_s_Letter__5_Feb_2025_.pdf" rel="noopener nofollow" target="_blank">2nd Principal's Letter</a>
+</p>
+</li>
 </ul>
 <p></p>
