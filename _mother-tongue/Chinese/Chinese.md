@@ -28,3 +28,16 @@ what they learn in their daily lives. With carefully designed scaffolding,
 students are supported to progressively develop and master skills in speaking,
 reading, and writing. This approach ensures a holistic and practical learning
 experience for every student.</p>
+<p><strong>Curriculum Differentiation to Meet Students' Learning Needs</strong>
+</p>
+<p>To meet the diverse learning needs of our students, we offer curriculum
+differentiation through a range of programmes. For students who require
+additional support and guidance, we offer the Mother Tongue Support Programme
+(MTSP) and pull-out programmes. The MOE-led MTSP is a tailor-made initiative
+designed to help students learn Chinese through interactive games and activities.
+With smaller class sizes, teachers are able to provide more individualised
+feedback to address each student's unique learning needs. For students
+who excel at learning Chinese, we offer enrichment programmes to further
+develop their skills. Students who meet the required criteria are given
+the opportunity to refine and develop their Chinese language skills, empowering
+them to reach their full potential.</p>
