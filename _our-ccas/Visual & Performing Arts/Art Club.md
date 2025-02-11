@@ -41,8 +41,7 @@ exposure as they will visit exhibitions and view galleries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities
+<p><strong>Programme / <br>Activities </strong>
 <br>
 <br>
 <br>
@@ -61,7 +60,8 @@ exposure as they will visit exhibitions and view galleries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers</p>
+<p><strong>Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Ms April Ella Liang (OIC)</p>
@@ -85,19 +85,20 @@ exposure as they will visit exhibitions and view galleries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day / Time
+<p><strong>Day / Time </strong>
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Wednesdays
-<br>2.15 pm to 4.00pm</p>
+<br>2.15 pm to 4.15pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Art and Crafts Room</p>
@@ -105,7 +106,8 @@ exposure as they will visit exhibitions and view galleries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -113,7 +115,8 @@ exposure as they will visit exhibitions and view galleries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>School uniform or white corporate shirt and an old t-shirt (for painting)</p>
@@ -121,7 +124,7 @@ exposure as they will visit exhibitions and view galleries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note </strong>
 <br>
 </p>
 </td>
