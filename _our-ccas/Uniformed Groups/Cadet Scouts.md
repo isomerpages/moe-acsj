@@ -50,8 +50,7 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities
+<p><strong>Programme / <br>Activities </strong>
 <br>
 <br>
 </p>
@@ -69,7 +68,7 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Teachers
+<p><strong>Teachers </strong>
 <br>
 <br>
 <br>
@@ -104,16 +103,18 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day / Time</p>
+<p><strong>Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Fridays
-<br>2.15pm to 4.00pm</p>
+<br>2.15pm to 4.15pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>To Be Confirmed
@@ -123,7 +124,8 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 &amp; P4 (new recruits)
@@ -132,7 +134,8 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Scouts uniform</p>
@@ -140,7 +143,7 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note </strong>
 <br>
 </p>
 </td>
