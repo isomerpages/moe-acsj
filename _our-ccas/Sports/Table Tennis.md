@@ -23,7 +23,7 @@ and National Primary Schools tournaments.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Teachers
 <br>
 <br>
@@ -40,10 +40,10 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Mdm Tan Kuan Bee</p>
+<p>2. Mdm Fauziah Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_kuan_bee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kuan_bee@moe.edu.sg</a>
+<p><a href="fauziah_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">fauziah_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -59,12 +59,9 @@ and National Primary Schools tournaments.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CCA Sub-Group /
-<br>Day / Time
-<br>
-<br>
-</p>
+<br>Day / Time</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Wed 2.15pm to 4.15pm Training Squad
 <br>Fri 2.15pm to 4.15pm Training Squad
 <br>Fri 2.15pm to 3.45pm (ACSplore)</p>
