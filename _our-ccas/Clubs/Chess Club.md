@@ -94,7 +94,7 @@ tactics and
 </td>
 <td rowspan="1" colspan="2">
 <p>Fridays
-<br>2.15 pm to 3.45 pm</p>
+<br>2.15 pm to 4.15 pm</p>
 </td>
 </tr>
 <tr>
