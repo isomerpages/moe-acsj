@@ -49,7 +49,7 @@ Schools tournament.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Friendly games with local schools and clubs (for school teams).</p>
+<p>Friendly games with local schools and clubs (for school teams)</p>
 </td>
 </tr>
 <tr>
