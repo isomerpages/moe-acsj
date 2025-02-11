@@ -156,7 +156,7 @@ BBHQ sometime towards the end of the school year
 </td>
 <td rowspan="1" colspan="2">
 <p>Fridays
-<br>2.15pm to 4.00 pm</p>
+<br>2.15pm to 4.15 pm</p>
 </td>
 </tr>
 <tr>
