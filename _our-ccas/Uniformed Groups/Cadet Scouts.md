@@ -58,10 +58,10 @@ sportsmanship, book reader, young naturalist etc.)</p>
 <td rowspan="1" colspan="2">
 <p>• Cadet Scouts Camp
 <br>• Venue: ACSJ
-<br>The objectives are to allow the boys:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;○ To experience an overnight camp and a hike
-<br>&nbsp;&nbsp;&nbsp;&nbsp;○ To foster bonds among members
-<br>&nbsp;&nbsp;&nbsp;&nbsp;○ To learn Scouting skills/crafts
+<br>The objectives are to allow the boys to:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- Experience an overnight camp and a hike
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- Foster bonds among members
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- Learn Scouting skills/crafts
 <br>
 </p>
 </td>
