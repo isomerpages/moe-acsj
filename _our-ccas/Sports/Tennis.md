@@ -88,15 +88,14 @@ to their skill level, from Beginner to Intermediate, and then Advanced.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Sub-Group / <br>Day / Time <br><br><br></strong>
+<p><strong>CCA Sub-Group / <br>Day / Time <br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon 2.15pm-3.45pm (ACSplore)
-<br>Mon 3.45pm-5.15pm (Development Team)
-<br>Wed 2.15pm-3.45pm (ACSplore)
-<br>Wed 3.45pm-5.45pm (Training Team)
-<br>Fri 2.15pm-4.15pm (Training Team)</p>
+<p>Mon 2.15 pm-3.45 pm (ACSplore)
+<br>Mon 3.45 pm-5.45 pm (Development Team)
+<br>Wed 2.15 pm-3.45 pm (ACSplore)
+<br>Wed 3.45 pm-5.45 pm (Training Team)</p>
 </td>
 </tr>
 <tr>
