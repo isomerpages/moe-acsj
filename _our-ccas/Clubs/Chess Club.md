@@ -98,22 +98,16 @@ tactics and
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Venue</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p>2023 P5.4 Classroom – Beginner / Novice Players</p>
+<td rowspan="2" colspan="2">
+<p>P5.4 Classroom – Beginner / Novice Players</p>
+<p>P5.5 Classroom – Intermediate / Advanced Players</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>2023 P5.5 Classroom – Intermediate / Advanced Players</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Members</strong>
