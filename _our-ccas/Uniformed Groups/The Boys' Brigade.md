@@ -51,8 +51,7 @@ obedience. In practice, the Object means:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities
+<p><strong>Programme / <br>Activities </strong>
 <br>
 <br>
 <br>
@@ -68,7 +67,7 @@ obedience. In practice, the Object means:</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>The Gold Award is the highest award a Junior BB Boy can aspire to. Boys
 have to complete all six colour badges (white, green, purple, blue, red
 and silver), have an attendance of at least 80% for two years, completed
@@ -115,13 +114,10 @@ BBHQ sometime towards the end of the school year
 <br>
 <br>This is our annual camp which will be held in March.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Teachers
+<p><strong>Teachers </strong>
 <br>
 <br>
 </p>
@@ -154,7 +150,7 @@ BBHQ sometime towards the end of the school year
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day / Time
+<p><strong>Day / Time</strong> 
 <br>
 </p>
 </td>
@@ -165,7 +161,8 @@ BBHQ sometime towards the end of the school year
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>To Be Confirmed</p>
@@ -173,7 +170,8 @@ BBHQ sometime towards the end of the school year
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -181,9 +179,7 @@ BBHQ sometime towards the end of the school year
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)
-<br>
-<br>
+<p><strong>Attire / Training Kit (once accepted as a member) <br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -201,7 +197,7 @@ items they may need (as and when the need requires).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note </strong>
 <br>
 <br>
 </p>
