@@ -62,10 +62,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. Mr See Cheun Wah</p>
+<p>3. Mdm Tan Lee San</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="see_cheun_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">see_cheun_wah@moe.edu.sg</a>
+<p><a href="tan_lee_san_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lee_san_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
