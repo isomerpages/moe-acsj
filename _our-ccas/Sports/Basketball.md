@@ -119,7 +119,7 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Members </strong>
+<p><strong>Members</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
@@ -128,7 +128,7 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Attire / Training Kit (once accepted as a member) </strong>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
