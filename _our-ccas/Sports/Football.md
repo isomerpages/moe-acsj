@@ -45,16 +45,17 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities</p>
+<p><strong>Programme / <br>Activities</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>• Friendly games with local schools and clubs (for school teams).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Teachers</p>
+<td rowspan="6" colspan="1">
+<p><strong>Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>1. Mr Teo Zhihao (OIC)</p>
@@ -65,9 +66,6 @@ Schools tournament.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>2. Mrs Balasubramaniam</p>
 </td>
@@ -77,9 +75,6 @@ Schools tournament.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>3. Ms Quek Soo Kim</p>
 </td>
@@ -89,9 +84,6 @@ Schools tournament.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>4. Mdm Soh Li Mei</p>
 </td>
@@ -101,9 +93,6 @@ Schools tournament.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>5. Mdm Leelavathy</p>
 </td>
@@ -113,9 +102,6 @@ Schools tournament.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>6. Ms Siti Nurashikin Ajmain</p>
 </td>
@@ -126,7 +112,7 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Schedule
+<p><strong>Schedule </strong>
 <br>
 <br>
 <br>
@@ -134,16 +120,17 @@ Schools tournament.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Mon 2.15pm to 3.45pm ACSplore P3</p>
-<p>Mon 3.30pm to 5.30pm Training Squad</p>
-<p>Wed 2.15pm to 3.45pm ACSplore P4/P5/P6</p>
-<p>Wed 3.30pm to 5pm Development Squad</p>
-<p>Wed 3.30pm to 5.30pm Training Squad</p>
+<p>Mon 2.00 pm to 3.30 pm ACSplore P3</p>
+<p>Mon 3.30 pm to 5.30 pm Training Squad</p>
+<p>Wed 2.00 pm to 3.15 pm ACSplore P4/P5/P6</p>
+<p>Wed 3.30 pm to 5.30 pm Development Squad</p>
+<p>Wed 3.30 pm to 5.00 pm Training Squad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>ACS(J) Football shirt, shorts and socks.
@@ -152,7 +139,7 @@ Schools tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note </strong>
 <br>
 <br>
 <br>
