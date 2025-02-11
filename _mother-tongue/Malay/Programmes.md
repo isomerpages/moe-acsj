@@ -3,39 +3,40 @@ title: Programmes
 permalink: /departments/mother-tongue/malay/programmes/
 description: ""
 third_nav_title: Malay
+variant: tiptap
 ---
-Programmes
-==========
-
-**Mother Tongue Fortnight**<br>
-The Mother Tongue Fortnight is a two week programme in the year where students are exposed to authentic use of the mother tongue language through a wide range of activities. For the Malay language unit, these activities are organised based on a thematic approach.
-
-2018: Traditional Malay houses<br>
-2019: Traditional Malay outfit<br>
-2020: Traditional Malay herbs and spices<br>
-2021: Malay Weddings & Celebrations<br>
-2022: Malay Cakes & Desserts
-
-During these two weeks, students will get the opportunity to;
-
-*   create products,
-*   present their end products,
-*   participate in recess activities,
-*   embark on a learning journey to a destination related to the theme, and
-*   communicate in Malay language in various authentic learning environment. 
-
-Parents involvement are greatly encouraged during the conduct of the Mother Tongue Fortnight.
-
-**Hinch Programme**<br>
-The Hinch Programme aims to enthuse students and develop in them an abiding interest in Malay language and culture through reading, reading comprehension and creative writing. Additional learning support is also provided to students through this after school programme.
-
-**Extensive Reading Programme**<br>
-In 2020, the Malay language unit started its Extensive Reading Programme (ERP) for all levels. In this programme, students are introduced to various genres of Malay language books so as to encourage them to read for enjoyment and to develop general reading skills. From this programme, students will be able to increase their reading and writing competencies, improve their oral and aural skills, grow their vocabulary and increase their motivation, self-esteem and empathy. Students who read extensively also become more autonomous learners. At the end of Term 1, there will be a showcase of the Extensive Reading Programme and parents are invited to watch their children perform skits based on the books they have explored and enjoyed.
-
-To further encourage children to read Mother Tongue language books, students are encouraged to read a Malay language storybook every Thursday and Friday morning from 7.20 am to 7.30 am. This will help to cultivate good reading habits and create a deeper appreciation of the Malay language.
-
-**South Zone S5 Cluster Malay Storytelling Competition 'Bacalah Adikku'**<br>
-'Bacalah Adikku' is an annual Malay storytelling competition organised by the Malay language unit of ACS(J). Students from all of the S5 Cluster schools take part in this competition virtually and prizes are awarded to top winners of each category. All Primary 1 to 3 students from ACS(J) are encouraged to take part in this competition. Through this competition, students will get the opportunity to use the language in an authentic learning experience and further instill their love for the language. 
-
-**Hari Raya Celebrations**<br>
-Every year, during this festive period, our students will put up a short assembly programme for the school to share about Hari Raya Aidilfitri. Students will be given the opportunity to become emcees and also to put up a short performance related to Hari Raya Aidilfitri. The whole school will also learn more about Hari Raya Aidilfitri through activities and quizzes prepared on the Student Learning Space.
+<h1>Programmes</h1>
+<p><strong><u>A. Tamil Enrichment</u></strong>
+<br><strong>1) Recess ‘traditional game time’</strong>
+<br>Every recess time after having food, students will meet in the Tamil room
+to play traditional games.&nbsp; This helps them to appreciate Indian/Tamil
+culture.</p>
+<p><strong>2) Power Reading</strong>
+<br>P1- P6 students read books and do the following: P1 &amp; P2 – draw their
+favourite character; P3 &amp; P4 - make book jackets portraying their favourite
+character P5 &amp; P6 - note down beautiful words and phrases and write
+a short 1-paragraph scene using those words/phrases.</p>
+<p><strong>3) Mother Tongue Fortnight</strong>
+<br>Tamil Department organizes the Mother Tongue Fortnight, which aims at
+promoting the learning of Tamil and culture by engaging students in fun
+activities. Over two weeks, there will be a series of activities such as
+Roleplay, dress-up, music and dance carried out in class. During Mother
+Tongue Fortnight, our students engage in online hands-on activities such
+as weaving palm leaves, drawing Kolam and henna designing. Students will
+also take part in a series of class competitions such as word-search and
+playing traditional games. All activities cater to the learning of our
+students and create vibrancy for the learning of the Tamil Language.&nbsp;
+&nbsp;</p>
+<p><strong>4) Hinch Programme</strong>
+<br>The Hinch Programme aims to enthuse students and develop in them an abiding
+interest in the Tamil language through reading, reading comprehension,
+creative writing and oral. We provide additional learning support to students
+through this after-school programme.</p>
+<p><strong>5) Pazhahutamil Online Learning</strong>
+<br>All students taking Tamil language has Pazhahutamil Online Learning Account.
+This online resource allows students to learn and revise at their own pace.
+The website also provides Oral practice materials and practice lessons.
+The platform has rich illustration, and audio support and is interactive.
+Teachers also make use of this online resource.&nbsp;</p>
+<p><strong>6) Festivals</strong>
+<br>Deepavalli – 10 min sharing during assembly about the celebration.</p>
