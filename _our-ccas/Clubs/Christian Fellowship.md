@@ -51,7 +51,7 @@ at our school chapel.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Teachers</strong>
 <br>
 </p>
@@ -66,7 +66,20 @@ at our school chapel.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Pei Yee</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Irene Phua</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="irene_phua@acsjunior.sg" rel="noopener nofollow" target="_blank">irene_phua@acsjunior.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3. Pei Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pei_yee@acsjunior.sg" rel="noopener noreferrer nofollow" target="_blank">pei_yee@acsjunior.sg</a>
