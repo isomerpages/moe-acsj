@@ -59,8 +59,8 @@ and National Primary Schools tournaments.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Wed 2.15pm to 4.15pm Training Squad
-<br>Fri 2.15pm to 4.15pm Training Squad</p>
+<p>Wed 2.15 pm to 4.15 pm Training Squad
+<br>Fri 2.15 pm to 4.15 pm Training Squad</p>
 </td>
 </tr>
 <tr>
