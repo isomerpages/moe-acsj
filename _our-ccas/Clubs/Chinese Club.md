@@ -78,7 +78,7 @@ commitment, perseverance and teamwork.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Fridays
-<br>2.15pm to 4.00pm</p>
+<br>2.15 pm to 4.15 pm</p>
 </td>
 </tr>
 <tr>
