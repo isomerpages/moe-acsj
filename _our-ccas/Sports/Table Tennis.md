@@ -24,10 +24,7 @@ and National Primary Schools tournaments.</p>
 <tbody>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Teachers
-<br>
-<br>
-<br>
+<p><strong>Teachers <br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,8 +55,8 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time</p>
+<p><strong>CCA Sub-Group / <br>Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Wed 2.15pm to 4.15pm Training Squad
@@ -69,7 +66,8 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Multi-Purpose Hall</p>
@@ -77,7 +75,8 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -85,7 +84,8 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota</p>
+<p><strong>Quota</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>ACSplore: 40
@@ -94,8 +94,7 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)
-<br>
+<p><strong>Attire / Training Kit (once accepted as a member) <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
