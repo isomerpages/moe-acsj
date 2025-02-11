@@ -17,19 +17,19 @@ qualities such as honour, courage and determination in the pupils.</p>
 only learning how to swim but have the competitive spirit as well. Training
 is once a week.</p>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/swimcca01.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/swimcca01.jpeg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/swimcca02.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/swimcca02.jpeg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/swimcca03.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/swimcca03.jpeg">
 </div>
 <table style="minWidth: 100px">
 <colgroup>
@@ -41,7 +41,8 @@ is once a week.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Programme / Activities</p>
+<p><strong>Programme / Activities</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Games Day
@@ -56,7 +57,8 @@ learnt, have fun and to improve team camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="2">
-<p>Teachers</p>
+<p><strong>Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Mr Kelvin Lim Lye Lee</p>
@@ -77,8 +79,8 @@ learnt, have fun and to improve team camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>CCA Sub-Group /
-<br>Day / Time</p>
+<p><strong>CCA Sub-Group / <br>Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>ACSplore
@@ -87,7 +89,8 @@ learnt, have fun and to improve team camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Clementi Swimming Pool</p>
@@ -95,7 +98,8 @@ learnt, have fun and to improve team camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -103,7 +107,7 @@ learnt, have fun and to improve team camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Attire / Training Kit (once accepted as a member)
+<p><strong>Attire / Training Kit (once accepted as a member)</strong> 
 <br>
 </p>
 </td>
@@ -117,7 +121,7 @@ learnt, have fun and to improve team camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note </strong>
 <br>
 <br>
 <br>

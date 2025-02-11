@@ -40,8 +40,8 @@ P2 to P6.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities</p>
+<p><strong>Programme / <br>Activities</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>(Details to be confirmed)
@@ -53,7 +53,7 @@ P2 to P6.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Teachers
+<p><strong>Teachers</strong> 
 <br>
 <br>
 <br>
@@ -101,9 +101,8 @@ P2 to P6.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time
+<td rowspan="3" colspan="1">
+<p><strong>CCA Sub-Group / <br>Day / Time </strong>
 <br>
 <br>
 <br>
@@ -111,29 +110,35 @@ P2 to P6.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Recruits (P2s)
-<br>Wednesdays
-<br>2.00pm to 5.00pm</p>
+<p>Mondays
+<br>2.15 pm to 4.15 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Main Band
-<br>Wednesdays &amp; Fridays
-<br>2.00pm to 5.00pm</p>
+<p>Wednesdays
+<br>2.15 pm to 5.15 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Fridays
+<br>2.15 pm to 5.15 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Music Room / Band Room</p>
+<p>Band Room</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P2 to P6</p>
@@ -141,7 +146,8 @@ P2 to P6.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota</p>
+<p><strong>Quota</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Main Band : 60
@@ -150,7 +156,8 @@ P2 to P6.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note</p>
+<p><strong>Note</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>• Members are strongly advised to have Concert Band as their only CCA.

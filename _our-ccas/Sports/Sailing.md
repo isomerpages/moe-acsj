@@ -43,11 +43,7 @@ ACScite Sailing for their Training Squad experience.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Teachers
-<br>
-<br>
-<br>
-<br>
+<p><strong>Teachers <br><br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,18 +74,17 @@ ACScite Sailing for their Training Squad experience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Day /
-<br>Time</p>
+<p><strong>CCA Day / <br>Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Wednesday &amp; Friday
-<br>2pm to 5.30pm</p>
+<br>2.00 pm to 5.00 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
-<br>
+<p><strong>Venue <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -99,7 +94,8 @@ ACScite Sailing for their Training Squad experience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -107,7 +103,8 @@ ACScite Sailing for their Training Squad experience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Booties, life-jacket, sailing gear, sunglass, hat, sunblock lotion</p>
@@ -115,9 +112,7 @@ ACScite Sailing for their Training Squad experience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Note
-<br>
+<p><strong><br>Note <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">

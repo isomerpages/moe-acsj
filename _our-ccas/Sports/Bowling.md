@@ -37,7 +37,7 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Teachers
+<p><strong>Teachers </strong>
 <br>
 <br>
 <br>
@@ -81,17 +81,20 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time</p>
+<p><strong>CCA Sub-Group / <br>Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Wed 1.55pm to 5.00pm (Training Squad only)
-<br>Fri 1.55pm to 5.00pm (ACSplore/Training Squad)</p>
+<p>Wednesdays</p>
+<p>2.00 pm to 5.00 pm (Training Squad only)
+<br>Fridays</p>
+<p>2.00 pm to 5.00pm (ACSplore/Training Squad)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Singapore Bowling @ Temasek Club</p>
@@ -99,7 +102,8 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -107,7 +111,8 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota</p>
+<p><strong>Quota</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>20 for ACSplore</p>
@@ -115,7 +120,8 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>ACSplore: Corporate T-shirt
@@ -124,7 +130,7 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note</strong> 
 <br>
 <br>
 <br>

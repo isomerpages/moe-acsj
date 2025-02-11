@@ -23,11 +23,8 @@ and National Primary Schools tournaments.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
-<p>Teachers
-<br>
-<br>
-<br>
+<td rowspan="3" colspan="1">
+<p><strong>Teachers <br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,10 +37,10 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Mdm Tan Kuan Bee</p>
+<p>2. Mdm Fauziah Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_kuan_bee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kuan_bee@moe.edu.sg</a>
+<p><a href="fauziah_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">fauziah_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,21 +55,18 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time
-<br>
-<br>
+<p><strong>CCA Sub-Group / <br>Day / Time</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Wed 2.15pm to 4.15pm Training Squad
-<br>Fri 2.15pm to 4.15pm Training Squad
-<br>Fri 2.15pm to 3.45pm (ACSplore)</p>
+<td rowspan="1" colspan="2">
+<p>Wed 2.15 pm to 4.15 pm Training Squad
+<br>Fri 2.15 pm to 4.15 pm Training Squad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Multi-Purpose Hall</p>
@@ -80,7 +74,8 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -88,7 +83,8 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota</p>
+<p><strong>Quota</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>ACSplore: 40
@@ -97,8 +93,7 @@ and National Primary Schools tournaments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)
-<br>
+<p><strong>Attire / Training Kit (once accepted as a member) <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
