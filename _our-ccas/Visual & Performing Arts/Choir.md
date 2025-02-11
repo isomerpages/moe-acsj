@@ -36,12 +36,11 @@ through Community Involvement Programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities</p>
+<p><strong>Programme / <br>Activities</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Choir Festival
-<br>
 <br>SYF Arts Presentation
 <br>VIA project
 <br>Excursions
@@ -50,7 +49,7 @@ through Community Involvement Programmes.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Teachers
+<p><strong>Teachers </strong>
 <br>
 </p>
 </td>
@@ -73,18 +72,19 @@ through Community Involvement Programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day / Time
+<p><strong>Day / Time </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Wednesdays
-<br>2:00 pm to 5:00 pm</p>
+<br>2.15 pm to 4.15 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>PAL Room (Level 1)</p>
@@ -92,7 +92,8 @@ through Community Involvement Programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P2 to P6</p>
@@ -100,15 +101,16 @@ through Community Involvement Programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota</p>
+<p><strong>Quota</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>60</p>
+<p>58</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note </strong>
 <br>
 <br>
 <br>
