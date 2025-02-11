@@ -6,7 +6,11 @@ third_nav_title: Tamil
 variant: tiptap
 ---
 <h1>Useful Links</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -18,11 +22,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/approved_mtl_dictionaries_2024_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">E-Dictionary List</a>
-</p>
+<p>Approved List of e-Dictionary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approved List of e-Dictionary</p>
+<p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener nofollow" target="_blank">https://file.go.gov.sg/seab-approveddictionaries.pdf</a>
+</p>
 </td>
 </tr>
 <tr>
