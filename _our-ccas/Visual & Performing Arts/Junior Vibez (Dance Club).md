@@ -42,8 +42,7 @@ national competitions throughout the year. Membership is subject to auditions.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities
+<p><strong>Programme / <br>Activities </strong>
 <br>
 <br>
 <br>
@@ -65,7 +64,7 @@ and to learn about other dance forms
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Teachers
+<p><strong>Teachers </strong>
 <br>
 </p>
 </td>
@@ -101,8 +100,7 @@ and to learn about other dance forms
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time
+<p><strong>CCA Sub-Group / <br>Day / Time </strong>
 <br>
 </p>
 </td>
@@ -114,7 +112,8 @@ and to learn about other dance forms
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Dance Room (Wednesdays &amp; Fridays)</p>
@@ -122,7 +121,8 @@ and to learn about other dance forms
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6 (Only P6 returning members are accepted)</p>
@@ -130,15 +130,16 @@ and to learn about other dance forms
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota</p>
+<p><strong>Quota</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>40</p>
+<p>24</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note</strong> 
 <br>
 <br>
 <br>
