@@ -87,7 +87,7 @@ commitment, perseverance and teamwork.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>2023 P5.8 Classroom</p>
+<p>P5.8 Classroom</p>
 </td>
 </tr>
 <tr>
