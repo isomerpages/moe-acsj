@@ -38,7 +38,7 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Teachers
+<p><strong>Teachers </strong>
 <br>
 <br>
 </p>
@@ -80,8 +80,8 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time</p>
+<p><strong>CCA Sub-Group / <br>Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mon and Wed 2-3.30pm ACSPlore
@@ -90,7 +90,8 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Multi-Purpose Hall</p>
@@ -98,7 +99,8 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -106,9 +108,7 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)
-<br>
-<br>
+<p><strong>Attire / Training Kit (once accepted as a member) <br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -124,7 +124,7 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note 1
+<p><strong>Note 1 </strong>
 <br>
 <br>
 <br>
@@ -145,7 +145,7 @@ be emailed to all parents).
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note 2
+<p><strong>Note 2</strong> 
 <br>
 </p>
 </td>
