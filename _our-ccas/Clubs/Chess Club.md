@@ -39,17 +39,15 @@ school in individual and team championships at the inter-school level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities
+<p><strong>Programme / <br>Activities </strong>
 <br>
 <br>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>In a typical CCA session, the Chess coach will provide a 45 min lesson
 on :
-<br>
 <br>
 <br>(a) a specific tactic/strategy used in an opening / mid-game / end-game;
 <br>
@@ -62,16 +60,14 @@ tactics and
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers</p>
+<p><strong>Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Mr Royston Siah Kim Tian I/C</p>
+<p>1. Mr Royston Siah Kim Tian (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siah_kim_tian_royston@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siah_kim_tian_royston@moe.edu.sg</a>
@@ -92,7 +88,7 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day / Time
+<p><strong>Day / Time </strong>
 <br>
 </p>
 </td>
@@ -103,7 +99,8 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>2023 P5.4 Classroom – Beginner / Novice Players</p>
@@ -119,7 +116,8 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -127,7 +125,8 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota</p>
+<p><strong>Quota</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>50-60</p>
@@ -135,7 +134,8 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>School uniform or white corporate shirt.</p>
@@ -143,7 +143,7 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
+<p><strong>Note </strong>
 <br>
 </p>
 </td>
