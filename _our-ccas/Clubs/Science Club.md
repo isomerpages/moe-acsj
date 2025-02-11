@@ -93,7 +93,7 @@ volcanoes, meteorological experiments, Lego Robotics, etc.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Fridays
-<br>2.15pm to 4.00pm</p>
+<br>2.15pm to 4.15pm</p>
 </td>
 </tr>
 <tr>
