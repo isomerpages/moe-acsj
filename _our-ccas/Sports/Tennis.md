@@ -39,13 +39,7 @@ to their skill level, from Beginner to Intermediate, and then Advanced.</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>Teachers
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p><strong>Teachers <br><br><br><br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,12 +88,7 @@ to their skill level, from Beginner to Intermediate, and then Advanced.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time
-<br>
-<br>
-<br>
-<br>
+<p><strong>CCA Sub-Group / <br>Day / Time <br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -112,7 +101,8 @@ to their skill level, from Beginner to Intermediate, and then Advanced.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>School Tennis Courts</p>
@@ -120,9 +110,7 @@ to their skill level, from Beginner to Intermediate, and then Advanced.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quota
-<br>
-<br>
+<p><strong>Quota <br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -133,10 +121,7 @@ to their skill level, from Beginner to Intermediate, and then Advanced.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)
-<br>
-<br>
-<br>
+<p><strong>Attire / Training Kit (once accepted as a member) <br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
