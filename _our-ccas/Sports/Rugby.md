@@ -41,8 +41,8 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme /
-<br>Activities</p>
+<p><strong>Programme / <br>Activities</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>• National School Games Senior and Junior boys
@@ -55,10 +55,7 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Teachers
-<br>
-<br>
-<br>
+<p><strong>Teachers <br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,21 +86,19 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time
-<br>
-<br>
+<p><strong>CCA Sub-Group / <br>Day / Time <br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Wed 2 pm to 4 pm - Training Squad
+<p>Wed 2.00 pm to 4.00 pm - Training Squad
 <br>Fri 3.30 pm to 5.30 pm -Training Squad
-<br>Fri 2 pm to 3.30 pm - ACSplore / Development Squad</p>
+<br>Fri 2.00 pm to 3.30 pm - ACSplore / Development Squad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>School Field</p>
@@ -111,7 +106,8 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>P3 to P6</p>
@@ -119,7 +115,8 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>• ACS(J) Rugby shirt or CCA shirt or PE attire.
@@ -134,8 +131,7 @@ squad members).
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note 1
-<br>
+<p><strong>Note 1 <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -146,8 +142,7 @@ is required.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note 2
-<br>
+<p><strong>Note 2 <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
