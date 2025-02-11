@@ -34,8 +34,7 @@ to bring out the best of all our members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers
-<br>
+<p><strong>Teachers <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,8 +47,8 @@ to bring out the best of all our members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time</p>
+<p><strong>CCA Sub-Group / <br>Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mon 2.15pm-3.45pm (ACSplore)</p>
@@ -57,7 +56,8 @@ to bring out the best of all our members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>School Field</p>
@@ -65,17 +65,17 @@ to bring out the best of all our members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>P3 to P6
-<br>
-</p>
+<p>P3 to P6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)</p>
+<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>• School PE attire
@@ -85,10 +85,7 @@ to bring out the best of all our members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
-<br>
-<br>
-<br>
+<p><strong>Note <br><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
