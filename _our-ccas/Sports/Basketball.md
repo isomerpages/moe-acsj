@@ -38,7 +38,7 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Teachers
+<p><strong>Teachers </strong>
 <br>
 <br>
 <br>
@@ -96,85 +96,60 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Sub-Group /
-<br>Day / Time
-<br>
-<br>
+<p><strong>CCA Sub-Group / <br>Day / Time </strong>
 <br>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>Wed 2.15pm-3.45pm (ACSplore P4/P5/P6)
 <br>Wed 3.45pm-5.15pm (Training Team)
 <br>Fri 2.15pm-3.45pm (ACSplore P3)
 <br>Fri 3.45pm-5.15pm (Training Team)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>Basketball Court</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members
-<br>
-<br>
+<p><strong>Members </strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>P3 to P6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire / Training Kit (once accepted as a member)
-<br>
-<br>
-<br>
+<p><strong>Attire / Training Kit (once accepted as a member) </strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>• School PE attire
 <br>• ACSJ basketball T-shirt, shorts and socks
 <br>• School shoes / basketball shoes
 <br>
-<br>
-<br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note
-<br>
+<p><strong>Note </strong>
 <br>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>• If a student is absent, an email or letter of excuse or a medical certificate
 is required.
 <br>• There will be no make-up or refund if students are absent.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
