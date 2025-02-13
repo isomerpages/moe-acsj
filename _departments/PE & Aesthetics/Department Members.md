@@ -87,6 +87,8 @@ variant: tiptap
 <br>Mr Teo Zhihao
 <br>Mr Muhammad Hakim Mustadza
 <br>Ms Grace Wong Jie Er</p>
+<p>Mr Andy Tan (Head of Innovation)</p>
+<p>Miss Lee May Po (Year Head)</p>
 </td>
 </tr>
 </tbody>
