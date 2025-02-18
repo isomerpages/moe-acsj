@@ -29,13 +29,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Admin Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Filza Binte Sarip Udin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:filza_sarip_udin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">filza_sarip_udin@schools.gov.sg</a>
+<p><a href="mailto:filza_sarip_udin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Filza_Sarip_Udin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Manager 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Marian Chng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Chng_Siew_Ting_Marian@schools.gov.sg" rel="noopener nofollow" target="_blank">Chng_Siew_Ting_Marian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +59,7 @@ variant: tiptap
 <p>Ms Esther M Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:esther_mg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">esther_mg@schools.gov.sg</a>
+<p><a href="mailto:esther_mg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Esther_MG@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -59,7 +71,7 @@ variant: tiptap
 <p>Mrs Jenny Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_ah_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ah_lian@schools.gov.sg</a>
+<p><a href="mailto:ong_ah_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Ah_Lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -83,7 +95,7 @@ variant: tiptap
 <p>Mdm Lin Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lin_hui_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_hui_ling_b@schools.gov.sg</a>
+<p><a href="lin_hui_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lin_Hui_Ling_B@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -139,7 +151,7 @@ variant: tiptap
 <p>Mr Noor Azhar Bin Parnen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="noor_azhar_parnen@schools.gov.sg" rel="noopener nofollow" target="_blank">noor_azhar_parnen@schools.gov.sg</a>
+<p><a href="noor_azhar_parnen@schools.gov.sg" rel="noopener nofollow" target="_blank">Noor_Azhar_Parnen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
