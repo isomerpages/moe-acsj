@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Manager 1</p>
+<p>Admin Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marian Chng</p>
@@ -213,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Lim Fong Twong</p>
@@ -225,7 +225,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager (Adjt)</p>
+<p>Operations Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Zhiwei, Adrian</p>
