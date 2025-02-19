@@ -56,7 +56,7 @@ without being accompanied by a parent/guardian.</p>
 <br>Proper attire and grooming have a positive impact on the image of the
 school and the students. Every student must project an appropriate and
 well-groomed appearance and wear his school uniform with pride and propriety.</p>
-<p><strong>Pupils are to wear the prescribed school uniform. </strong>
+<p><strong>Pupils are to wear the prescribed school uniform.</strong>
 </p>
 <p><strong>Modification to the uniform is not allowed.</strong>
 </p>
@@ -215,10 +215,10 @@ to, caning, probation, suspension, expulsion and/or any other action deemed
 appropriate by the school. Where necessary, the assistance of students’
 parents/guardians will be sought to obtain home support for remedial action.</p>
 <p>The following types of behaviour will not be tolerated and will be considered
-as a serious offence:</p>
+a serious offence:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>open defiance and rudeness (in behaviour or speech) eg. refusing to follow
+<p>open defiance and rudeness (in behaviour or speech) e.g. refusing to follow
 instructions or speaking back to a staff member or student leader.</p>
 </li>
 <li>
@@ -235,7 +235,7 @@ property</p>
 <p>harassment and bullying</p>
 </li>
 <li>
-<p>possession of weapons or dangerous items.</p>
+<p>possession of weapons or dangerous items</p>
 </li>
 <li>
 <p>offensive language or behaviour</p>
@@ -244,13 +244,12 @@ property</p>
 <p>cheating</p>
 </li>
 <li>
-<p>truancy</p>
+<p>truancy&nbsp;</p>
 </li>
 </ul>
-<p>All students are not allowed to have in their possession any weapon. They
-are also not allowed to bring any weapon-like item which is used or intended
-to be used&nbsp;to cause harm to others.</p>
-<p></p>
+<p>Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which can be used or
+intended to be used&nbsp;to cause harm to others.</p>
 <p><strong><em>Respect for authority and members of the school community</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -286,37 +285,42 @@ and the persons involved is obtained.</p>
 <p>No hand-held electronic games are allowed in the school.</p>
 </li>
 </ul>
-<p><u>Use of Mobile Phones</u>
+<p><strong><u>Use of smartphones and/or smartwatches</u></strong>
 </p>
+<p>While we discourage students from bringing smartphones/smartwatches, we
+understand that some parents prefer to have their children carry these
+devices for the convenience of communication and safety, especially children
+who are travelling alone on public transport or commuting long distances
+to school. Kindly refer to the points below which are designed to provide
+students and parents with guidelines and instructions for the appropriate
+use of these devices during school hours.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>While we discourage pupils from bringing mobile phones, we understand
-that some parents prefer to have their children carry mobile phones for
-the convenience of communication and safety, especially children travelling
-alone on public transport or commuting long distances to school. Kindly
-refer to the points below which are designed to provide pupils and parents
-with guidelines and instructions for the appropriate use of mobile phones
-during school hours.</p>
+<p>Students are <strong>not to use smartphones and/or smartwatches during school hours including recess, CCA and after-school programmes</strong> (e.g.
+supplementary / enrichment / remedial lessons)</p>
 </li>
 <li>
-<p><strong>The mobile phone must be labelled with pupil’s name and class.</strong>&nbsp;</p>
+<p>Students who bring such devices are <strong>to put them in their school bags before the start of school</strong>.
+They can retrieve their devices after school ends. Students should bear
+responsibility for safekeeping of devices.<strong> The school will not be responsible for the loss or damage of these devices.&nbsp;</strong>
+</p>
 </li>
 <li>
-<p>The mobile phone must be switched off and kept out of sight during all
-school activities (ie. lessons, chapel, assembly, recess, CCAs, excursions).</p>
+<p>Students are allowed to wear the POSB Smart Buddy watch for payment purposes.
+The straps may also be changed to make identification easier. GPS Trackers
+and Fitness Trackers that only have tracking functionalities are also allowed.
+These trackers must not have any communication or recording functionalities.
+All other smartwatches (i.e. a wearable computing device capable of communicating
+and transmitting information) are <strong><u>not allowed</u></strong> in
+our school.</p>
 </li>
 <li>
-<p>Pupils will use the mobile phones&nbsp;solely&nbsp;for communication and
-not for playing games, taking still or moving images, or surfing the internet.</p>
+<p>Students will use these devices <u>solely</u> for communication (e.g. Whatsapp
+messaging and calling) and <strong>not for playing games, taking photos or videos, or watching videos… etc</strong>
+</p>
 </li>
 <li>
-<p>The use of the mobile phone is restricted to before and after school at
-the foyer only and/or when permission is granted by a teacher. Restriction
-on use of mobile phone applies to pupils during excursions, camps and co-curriculum
-activities.</p>
-</li>
-<li>
-<p><strong>The school will not be responsible for the loss or damage of the mobile phone.</strong>&nbsp;</p>
+<p><strong>Students who fail to abide by the rules will have their devices confiscated. Confiscated devices can only be collected by student’s parents.</strong>&nbsp;</p>
 </li>
 <li>
 <p>No mobile phones will be allowed in examination rooms. Pupils are to surrender
@@ -330,19 +334,11 @@ to the pupils after all the examinations for that day.</p>
 </li>
 <li>
 <p>Repeat offenders will be barred from bringing any mobile phone to school.</p>
+<p></p>
 </li>
 </ul>
-<p><u>Smart Watches</u>
-<br>All Smart Watches (i.e. a wearable computing device capable for communicating
-and transmitting information) are&nbsp;<strong><u>not allowed</u></strong>&nbsp;in
-our school. Pupils who wear Smart Watches will have their devices confiscated.
-Confiscated Smart Watches can only be collected by pupil’s parents.
-<br>
-<br>GPS Trackers and Fitness Trackers that only have tracking functionalities
-are allowed. These trackers must not have any communication or recording
-functionalities.</p>
 <p><strong><u>ACSJ Classification of Offences &amp; Follow-up Action</u></strong>
-<br>ACS (Junior) groups offences into 3 levels; Level 1 offences are characterized
+<br>ACS (Junior) groups offences into 3 levels; Level 1 offences are characterised
 as minor misdemeanours while Level 3 is for very serious offences. The
 school will take one or more of the following actions when students misbehave.</p>
 <table style="minWidth: 50px">
@@ -441,12 +437,12 @@ school will take one or more of the following actions when students misbehave.</
 </tr>
 </tbody>
 </table>
-<p><strong><em>School Transport</em></strong>
-<br>Pupils will:</p>
+<p><strong><em><u>School Transport</u></em></strong>
+<br>Students will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>sit properly on a seat (in an allocated seat if directed by the driver)
-throughout the journey</p>
+<p><strong>sit properly on a seat (in an allocated seat if directed by the driver) throughout the journey</strong>
+</p>
 </li>
 <li>
 <p>treat bus drivers and other people and their possessions with respect</p>
@@ -504,13 +500,13 @@ objects</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>No vandalism</p>
-</li>
-<li>
 <p>No littering; keep the school a clean and conducive place to learn in</p>
 </li>
 <li>
-<p>Pupils are expected to use school facilities and equipment with care.
+<p>No vandalism</p>
+</li>
+<li>
+<p>Students are expected to use school facilities and equipment with care.
 Acts of vandalism include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -527,8 +523,8 @@ lockers, fire alarm, etc); and</p>
 </li>
 <li>
 <p>No wasting of water and electricity. Pupils must take care not to waste
-water or electricity. The practice of&nbsp; &nbsp; strict economy in the
-use of both utilities is encouraged</p>
+water or electricity. The practice of&nbsp;strict economy in the use of
+both utilities is encouraged</p>
 </li>
 <li>
 <p>No stealing or misuse of school property / equipment or property belonging
@@ -540,15 +536,15 @@ to others</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Pupils who are&nbsp;Singapore&nbsp;citizens must sing the National Anthem and take the Pledge at each Assembly. Pupils should take the Pledge with the right fist placed over the heart.</strong>
+<p><strong>Students who are&nbsp;Singapore&nbsp;citizens must sing the National Anthem and take the Pledge at each Assembly. Studentss should take the Pledge with the right fist placed over the heart.</strong>
 </p>
 </li>
 <li>
-<p>Pupils in the school campus are to stand at attention and face the flag
+<p>Students in the school campus are to stand at attention and face the flag
 poles once the National Anthem is played</p>
 </li>
 <li>
-<p>These ceremonies are to be taken seriously by all pupils, with due respect
+<p>These ceremonies are to be taken seriously by all students, with due respect
 given to the nation’s flag, anthem and pledge.</p>
 </li>
 </ul>
@@ -563,7 +559,7 @@ teacher.</p>
 <p>No food or flavoured drinks to be consumed in the classroom.</p>
 </li>
 <li>
-<p>No pupils are allowed in the classroom during recess without the presence
+<p>No students are allowed in the classroom during recess without the presence
 of a teacher.</p>
 </li>
 <li>
@@ -589,7 +585,7 @@ do so</p>
 <p>Do not download anything unless told to do so</p>
 </li>
 <li>
-<p>Never give out or share personal information e.g. Passwords</p>
+<p>Never give out or share personal information e.g. passwords</p>
 </li>
 <li>
 <p>Improper, unlawful, or incorrect use of information technology and communications
@@ -615,7 +611,7 @@ will be considered as abuse of technology&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pupils must queue up in an orderly manner for their food and drinks. They
-are expected to return the crockery&nbsp; &nbsp;and cutlery to the receptacles
+are expected to return the crockery&nbsp;and cutlery to the receptacles
 in the canteen after their meal.</p>
 </li>
 </ul>
@@ -655,22 +651,24 @@ by a teacher.</p>
 <br>- respect each other; queue to play
 <br>- be inclusive; allowing others to play
 <br>- play fair; play safe
-<br>- play by the rules
-<br>- Playground
+<br>- play by the rules</p>
+</li>
+<li>
+<p>Playground
 <br>- No playing when the playground is wet or it is raining
 <br>- Play safe; take turns; no rough play
-<br>
 <br>
 </p>
 </li>
 <li>
 <p>The following areas are non-play areas:
-<br>- Around Admin block
-<br>- Corridors around the PAH and Computer Labs
+<br>- Around the Administration Block
+<br>- Corridors around the Performing Arts Hall (PAH) and Computer Labs
 <br>- Parade square / carpark
 <br>- Around the teaching blocks / along corridors / staircases
 <br>- Slopes at playground &amp; around Block E
-<br>- Soccer field, tennis courts, basketball court, fitness area, MPH</p>
+<br>- Soccer field, tennis courts, basketball court, fitness area, Multi-purpose
+Hall (MPH)</p>
 </li>
 </ul>
 <p><strong>Conduct Grade</strong>
@@ -691,10 +689,7 @@ by a teacher.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br><strong>Excellent</strong>
+<p><strong>Excellent</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,9 +705,7 @@ time.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br><strong>Very Good</strong>
+<p><strong>Very Good</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -728,10 +721,7 @@ and Excellence.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br><strong>Good</strong>
+<p><strong>Good</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -748,10 +738,7 @@ received a late-coming letter)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br><strong>Fair</strong>
+<p><strong>Fair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -769,10 +756,7 @@ of Conduct.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br><strong>Poor</strong>
+<p><strong>Poor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
