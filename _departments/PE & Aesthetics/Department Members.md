@@ -38,8 +38,7 @@ variant: tiptap
 <p>Subject Head (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gloria Chia (Music &amp; Arts)
-<br>Mdm Ong Junie (e21CC)</p>
+<p>Mrs Gloria Chia (Music &amp; Arts)</p>
 </td>
 </tr>
 <tr>
