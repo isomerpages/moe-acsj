@@ -62,15 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acsjp1orientation" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Microsite</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/our-partners/parents/psle/" rel="noopener noreferrer nofollow" target="_blank">PSLE Matters</a>
 </p>
 </td>
