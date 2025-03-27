@@ -62,10 +62,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. Mdm Tan Lee San</p>
+<p>3. Mr See Cheun Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_lee_san_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lee_san_a@moe.edu.sg</a>
+<p><a href="see-cheun_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">see-cheun_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -84,8 +84,8 @@ members.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mon and Wed 2-3.30pm ACSPlore
-<br>Mon and Wed 3.30-530pm Training Squad</p>
+<p>Mon and Wed 2-3.30pm ACSPlore</p>
+<p>Mon and Wed 3.30-5.30pm Training Squad</p>
 </td>
 </tr>
 <tr>
