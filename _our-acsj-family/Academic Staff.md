@@ -1597,6 +1597,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Abdul Hamid Mohamed Kassim (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="abdul_hamid_mohamed_kassim_b@moe.edu.sg" rel="noopener nofollow" target="_blank">abdul_hamid_mohamed_kassim_b@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Ann Cher (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="toh_ann_cher@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_ann_cher@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Karen Wee Mun Hoon (SENO AJT)</p>
 </td>
 <td rowspan="1" colspan="1">
