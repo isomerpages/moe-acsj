@@ -1501,10 +1501,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Heng Soo Inn</p>
+<p>Mdm Lee Yin Luen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="heng_soo_inn@moe.edu.sg" rel="noopener nofollow" target="_blank">heng_soo_inn@moe.edu.sg</a>
+<p><a href="lee_yin_luen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yin_luen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
