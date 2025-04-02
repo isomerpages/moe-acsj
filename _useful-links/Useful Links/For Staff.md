@@ -56,12 +56,6 @@ for MOE employees.&nbsp;&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ictconnection.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
 </p>
 </td>
@@ -105,7 +99,7 @@ records management. ​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.sg/content/student/en/primary.html" class="" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture Student Portal</a>
 </p>
 </td>
 </tr>
