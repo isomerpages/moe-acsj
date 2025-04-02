@@ -23,7 +23,8 @@ sections:
       id: infopic
       image: /images/2025_School_Theme.jpg
       alt: Image alt text
-      title: ACS (Junior) 2025 School Theme
+      title: Soaring in Unity
+      subtitle: 2025 School Theme
   - infopic:
       title: Digital ECHO
       id: infopic
