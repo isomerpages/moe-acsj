@@ -23,4 +23,5 @@ sections:
       id: infopic
       image: /images/2025_School_Theme.jpg
       alt: Image alt text
+      subtitle: ACS (Junior) 2025 School Theme
 ---
