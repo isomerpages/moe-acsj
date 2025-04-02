@@ -36,25 +36,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.nlb.gov.sg/sure/" rel="noopener noreferrer nofollow" target="_blank">National Library Board (NLB) S.U.R.E Campaign</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.scamalert.sg/resources/videos" rel="noopener noreferrer nofollow" target="_blank">SCAM Alert Resources</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.csa.gov.sg/gosafeonline" rel="noopener noreferrer nofollow" target="_blank">Resources by Cyber Security Agency (CSA)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pdpc.gov.sg/resources/for-individuals" rel="noopener noreferrer nofollow" target="_blank">Resources by Personal Data Protection Commission Singapore (PDPC</a>)</p>
+<p><a href="https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act" rel="noopener nofollow" target="_blank">Resources by Personal Data Protection Commission Singapore</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -70,10 +59,6 @@ variant: tiptap
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/studicon.jpg">
-</div>
-<h3><strong>ACS Echo</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital%20Echo%20Icon.jpg">
 </div>
 <p><strong><em><a href="https://acsecho.com" rel="noopener noreferrer nofollow" target="_blank">Link to ACS Digital ECHO Magazine</a></em></strong>
 </p>
