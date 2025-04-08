@@ -35,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Siti Mohamad (Social Studies)
@@ -60,7 +60,6 @@ variant: tiptap
 <br>Mdm Lee Kit Cheng Irene
 <br>Mdm Leelavathy Gopal
 <br>Miss Lim Jie Ning
-<br>Mrs Tan Iyleng
 <br>Mdm Lu Liwen
 <br>Mrs Ng-Tang Pui Fun
 <br>Mr Siah Kim Tian Royston
@@ -120,8 +119,9 @@ variant: tiptap
 <p>Assistant Year Heads</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Su-Ping (AYH/Middle Primary)
-<br>Mrs Jennifer Chua (AYH/Upper Primary)</p>
+<p>Ms Tan Su-Ping (AYH/Lower Primary)
+<br>Mrs Jennifer Chua (AYH/Middle Primary)</p>
+<p>Mr Teow Jing Ho (AYH/Upper Primary)</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Cai Yiwei</p>
 <p>Mdm Chen Xue Lei
-<br>Mr Colin Koh (ST/Physical Education)
+<br>Mr Colin Koh
 <br>Miss Desiree Chang
 <br>Mdm Fang Siew Fong
 <br>Mr Goh Eng Tat
