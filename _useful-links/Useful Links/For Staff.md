@@ -113,6 +113,14 @@ to support strategic planning and decision making.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/acsjwebsiteform" rel="noopener nofollow" target="_blank">School Website Update e-Form</a>
+</p>
+<p>This e-Form is to be filled and submitted if you require an update or
+change to the content of the school website.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://scmobile.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="">SC Mobile &amp; FlexiLink</a>&nbsp;-&nbsp;<strong><em>Use MIMS account to log in</em></strong>
 </p>
 <p>​This is a mobile system that provides schools with attendance &amp; temperature
