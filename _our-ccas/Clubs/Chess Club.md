@@ -48,11 +48,8 @@ school in individual and team championships at the inter-school level.</p>
 <td rowspan="1" colspan="2">
 <p>In a typical CCA session, the Chess coach will provide a 45 min lesson
 on :
-<br>
 <br>(a) a specific tactic/strategy used in an opening / mid-game / end-game;
-<br>
 <br>(b) a specific opening / defence;
-<br>
 <br>(c) chess puzzles to test understanding and facilitate application of
 tactics and
 <br>strategies; followed by a 45 min practice session where members play against
@@ -100,8 +97,8 @@ tactics and
 </p>
 </td>
 <td rowspan="2" colspan="2">
-<p>P5.4 Classroom – Beginner / Novice Players</p>
-<p>P5.5 Classroom – Intermediate / Advanced Players</p>
+<p>P5.4 Classroom – Beginner / Novice Players
+<br>P5.5 Classroom – Intermediate / Advanced Players</p>
 </td>
 </tr>
 <tr></tr>
