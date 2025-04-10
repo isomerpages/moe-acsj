@@ -182,8 +182,8 @@ BBHQ sometime towards the end of the school year
 wear Full Uniform or Day Dress (BB shirt and shorts, white belt, name tag,
 dark blue socks and black shoes) or Fatigue Dress (BB polo tee shirt, BB
 shorts, name tag and school shoes).
-<br>For new members, the 12J will arrange a day to go down to the BBHQ (105
-Ganges Avenue S(169695)) to effect uniform purchases. Regular members can
+<br>For new members, the 12J will arrange a day to go down to the BBHQ [105
+Ganges Avenue S(169695)] to effect uniform purchases. Regular members can
 also join in to go down to buy items. However, only new members will be
 given a subsidy.
 <br>Subsequently, BB members are expected to go on their own to purchase whatever
