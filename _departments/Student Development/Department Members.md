@@ -120,8 +120,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Su-Ping (AYH/Lower Primary)
-<br>Mrs Jennifer Chua (AYH/Middle Primary)</p>
-<p>Mr Teow Jing Ho (AYH/Upper Primary)</p>
+<br>Mrs Jennifer Chua (AYH/Middle Primary)
+<br>Mr Teow Jing Ho (AYH/Upper Primary)</p>
 </td>
 </tr>
 <tr>
@@ -129,8 +129,8 @@ variant: markdown
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cai Yiwei</p>
-<p>Mdm Chen Xue Lei
+<p>Ms Cai Yiwei
+<br>Mdm Chen Xue Lei
 <br>Mr Colin Koh
 <br>Miss Desiree Chang
 <br>Mdm Fang Siew Fong
