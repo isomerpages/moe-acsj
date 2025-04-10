@@ -3,12 +3,12 @@ title: Sailing
 permalink: /our-ccas/sports/sailing/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
-<h2>Sailing</h2>
+<h3>Sailing</h3>
 <h4>Overview</h4>
 <p>Being able to sail your own little boat is a BIG achievement. Many children
 are now taking the bold step of learning how to sail the Optimist and the
