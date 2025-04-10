@@ -16,13 +16,13 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Head of Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ms Hemalatha N Perumal</p>
-</th>
-</tr>
+
+</td><td rowspan="1" colspan="1">
+<p>Miss Hemalatha N Perumal</p>
+
+</td></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Level Head</p>
@@ -44,12 +44,12 @@ variant: markdown
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Ashraff Karim</p>
-<p>Mr Lim Siow Way
+<p>Mr Mohammed Ashraff Karim
+<br>Mr Lim Siow Way
 <br>Mdm Tuty Sulastri Subri
 <br>Mr Jonathan Koh Boon Kit
-<br>Mdm Nur 'Izzati Suhaiemi</p>
-</td>
+<br>Mdm Nur 'Izzati Suhaiemi
+</p></td>
 </tr>
 </tbody>
 </table>
