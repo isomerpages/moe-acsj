@@ -3,7 +3,7 @@ title: For Staff
 permalink: /useful-links/for-staff/
 description: ""
 third_nav_title: Useful Links
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -16,15 +16,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers (AST)</a>&nbsp;</p>
-<p></p>
-</td>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers (AST)</a> 
+<br>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acsjavit" class="" rel="noopener noreferrer nofollow" target="_blank">ACSJ AV-IT Request Form</a>
-</p>
-<p>For ACSJ Staff to submit AV or IT requests for resources and services.</p>
+<p><a href="https://go.gov.sg/acsjavit" class="" rel="noopener noreferrer nofollow" target="_blank">ACSJ AV-IT Request Form</a> 
+<br>For ACSJ Staff to submit AV or IT requests for resources and services.</p>
 </td>
 </tr>
 <tr>
@@ -36,9 +35,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">Human Resource Portal (HRP)</a>&nbsp;<strong><em>- Use SingPass to Log In</em></strong> 
-<br>
-</p>
-<p>Human Resource and Payroll (HRP) is a Whole-of-Government HR and Payroll
+ 
+<br>Human Resource and Payroll (HRP) is a Whole-of-Government HR and Payroll
 portal that streamlines processes and integrates all HR and Payroll systems
 across all Ministries, organs of state and 11 Statboards. It covers the
 end to end lifecycle of an employee from recruitment to exit and re-employment.
@@ -48,9 +46,8 @@ PaC@Gov.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/hronline/pages/home.aspx" rel="noopener noreferrer nofollow" target="_blank">Human Resource Online</a>
-</p>
-<p>HR Online is a MOE-wide HR portal containing a wealth of useful HR information
+<p><a href="https://intranet.moe.gov.sg/hronline/pages/home.aspx" rel="noopener noreferrer nofollow" target="_blank">Human Resource Online</a> 
+<br>HR Online is a MOE-wide HR portal containing a wealth of useful HR information
 for MOE employees.&nbsp;&nbsp; &nbsp;</p>
 </td>
 </tr>
@@ -68,9 +65,8 @@ for MOE employees.&nbsp;&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" class="" rel="noopener noreferrer nofollow" target="">iEXAMS2</a>
-</p>
-<p>Integrated Examinations Management System - This is the system used by
+<p><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" class="" rel="noopener noreferrer nofollow" target="">iEXAMS2</a> 
+<br>Integrated Examinations Management System - This is the system used by
 the schools in the administration management of all the national examinations.</p>
 </td>
 </tr>
@@ -82,9 +78,9 @@ personalised and collaborative learning using a mobile-first strategy.
 It is a one-stop user-centric learning platform, focusing on new capabilities
 to facilitate professional development planning and management, online
 collaboration, operational efficiency in course administration and learning
-records management. ​</p>
-</td>
-</tr>
+records management. 
+<br>
+</p></td></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" class="" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
@@ -113,24 +109,23 @@ to support strategic planning and decision making.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acsjwebsiteform" rel="noopener nofollow" target="_blank">School Website Update e-Form</a>
-</p>
-<p>This e-Form is to be filled and submitted if you require an update or
+<p><a href="https://go.gov.sg/acsjwebsiteform" rel="noopener nofollow" target="_blank">School Website Update e-Form</a> 
+<br>This e-Form is to be filled and submitted if you require an update or
 change to the content of the school website.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://scmobile.moe.edu.sg/" class="" rel="noopener noreferrer nofollow" target="">SC Mobile &amp; FlexiLink</a>&nbsp;-&nbsp;<strong><em>Use MIMS account to log in</em></strong>
-</p>
-<p>​This is a mobile system that provides schools with attendance &amp; temperature
+ 
+<br>This is a mobile system that provides schools with attendance &amp; temperature
 monitoring.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;<strong><em>- Use MIMS account to log in</em></strong>&nbsp;</p>
-<p>Parents Gateway is an effort to help streamline the administrative processes
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;<strong><em>- Use MIMS account to log in</em></strong> 
+<br>Parents Gateway is an effort to help streamline the administrative processes
 between schools and parents. It allows schools/teachers to post announcements,
 consent forms and easily collate all responses (including declaration of
 travel plans by parents) as well as create individual groups of students,
@@ -142,25 +137,23 @@ their children are in different schools.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>&nbsp;-&nbsp;<strong><em>Use MIMS account to log in</em></strong>
-</p>
-<p>Resource Booking System (RBS) allows staff to book resources, such as
+ 
+<br>Resource Booking System (RBS) allows staff to book resources, such as
 meeting rooms, training rooms, function rooms, and halls.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rems.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">REMS 2.0</a>
-</p>
-<p>The Registration and Engagement Management System (REMS 2.0) supports
+<p><a href="https://rems.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">REMS 2.0</a> 
+<br>The Registration and Engagement Management System (REMS 2.0) supports
 the administrative management of all MOE casual employment schemes (Flexi-AJT/FAJ(LBS)/FAJ(SC)/FAJ(MKE)/SRE/READ/FRS)
 in schools and MOE HQ.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
-</p>
-<p>An online learning portal that allows learners to have access to quality
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a> 
+<br>An online learning portal that allows learners to have access to quality
 curriculum-aligned resources. In line with the development of 21st Century
 Competencies (21CC), the SLS encourages learners to be self-directed and
 allows them to personalise their learning according to their needs and
@@ -176,17 +169,16 @@ interests.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/#!/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
-</p>
-<p>&nbsp;self-service form builder for public officers to create online forms
+<p><a href="https://form.gov.sg/#!/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> 
+<br>A self-service form builder for public officers to create online forms
 that capture classified data, with the goal of replacing paper forms.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>&nbsp;<strong><em>(Use MIMS account to login)</em></strong>
-</p>
-<p>A generic data collection tools built for schools that is integrated with
+ 
+<br>A generic data collection tools built for schools that is integrated with
 class lists in School Cockpit.&nbsp;</p>
 <p>School users can create forms and assign to specific students or teachers
 to collect responses. Form creators can easily track the response rate,
@@ -202,9 +194,8 @@ surveys, lessons and many more!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a>
-</p>
-<p>ChatGPT for the Singapore Government</p>
+<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a> 
+<br>ChatGPT for the Singapore Government</p>
 </td>
 </tr>
 </tbody>

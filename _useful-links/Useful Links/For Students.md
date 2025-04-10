@@ -3,7 +3,7 @@ title: For Students
 permalink: /useful-links/for-pupils/
 description: ""
 third_nav_title: Useful Links
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -29,10 +29,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+
+<td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Practising Cyber Wellness</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
