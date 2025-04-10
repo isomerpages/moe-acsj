@@ -75,10 +75,10 @@ variant: markdown
 <br>Mr Wong Soong Hung
 <br>Mdm Hanisa d/o Mustakim (FAJT)
 <br>Mrs Gayathri Unnikrishnan (FAJT)
-<br>Mrs Tan Siah Wee Francis (FAJT)</p>
-<p>Mdm Heng Soo Inn (FAJT)</p>
-<p>Mdm Tang Keen Yeen (FAJT)</p>
-</td>
+<br>Mrs Tan Siah Wee Francis (FAJT)
+<br>Mdm Heng Soo Inn (FAJT)
+<br>Mdm Tang Keen Yeen (FAJT)
+</p></td>
 </tr>
 </tbody>
 </table>
