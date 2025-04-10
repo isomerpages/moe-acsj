@@ -82,7 +82,7 @@ variant: markdown
 <p>Members (PE/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Boon Kock Colin
+<p>Mr Koh Boon Hock Colin
 <br>Miss Lim Jie Ning
 <br>Mr Teo Zhihao
 <br>Mr Muhammad Hakim Mustadza
