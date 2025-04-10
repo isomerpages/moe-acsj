@@ -78,40 +78,35 @@ Adventure Quest (conducted by the BBHQ).
 level and that we are required to participate in. These are the Character
 Quest, Juniors Adventure Quest, BB Week, BB CARES and BBSGB.
 <br>
-<br>Character Quest (Competition)
-<br>
+<br><strong>Character Quest (Competition) </strong>
 <br>A group of Boys will be asked or selected to participate. A portion of
 the Bible will be selected and the Boys will participate in a competition
 that will test them on how well they have understood the chosen portion.
 It is also a competition and the companies will be assessed on their performance.
 <br>
-<br>Juniors Adventure Quest (Competition)
-<br>
+<br><strong>Juniors Adventure Quest (Competition) </strong>
 <br>P6 Boys who wish to be considered for the Gold badge must participate
 in this activity. Through a series of adventure type quests (amazing race
 style), Boys will be tested on what they have learnt in their time in the
 BB. It is also a competition and the companies will be assessed on their
 performance.
 <br>
-<br>BB Week (Competition)
+<br><strong>BB Week (Competition) </strong>
 <br>Boys are given BB Week cards in order to solicit donations. Targets are
 set to encourage the Boys to do their best. A portion of the funds collected
 go to the BB and the rest goes to the company.
 <br>
-<br>BB CARES
-<br>
+<br><strong>BB CARES</strong> 
 <br>This is an activity that rallies BB Boys (and their community) to serve.
 It is conducted over a week-end and involves the Boys working with a VWO.
 More will be made known in due course.
 <br>
-<br>BB Share-A-Gift
-<br>
+<br><strong>BB Share-A-Gift </strong>
 <br>This is a nation-wide BB initiative to collect food items for the needy.
 In our company, we collect food items from the school and send them to
 BBHQ sometime towards the end of the school year
 <br>
-<br>BB Camp
-<br>
+<br><strong>BB Camp </strong>
 <br>This is our annual camp which will be held in March.</p>
 </td>
 </tr>
@@ -184,15 +179,14 @@ BBHQ sometime towards the end of the school year
 </td>
 <td rowspan="1" colspan="2">
 <p>BB members wear a uniform. Depending on the occasion, they will either
-wear Full Uniform or Day Dress (BB shirt and shorts, white belt, name tag,
-dark blue socks and black shoes) or Fatigue Dress (BB polo tee shirt, BB
-shorts, name tag and school shoes).
-<br>For new members, the 12J will arrange a day to go down to the BBHQ (105
-Ganges Avenue S(169695)) to effect uniform purchases. Regular members can
+wear Full Uniform or Day Dress <em>(BB shirt and shorts, white belt, name tag, dark blue socks and black shoes)</em> or
+Fatigue Dress (BB polo tee shirt, BB shorts, name tag and school shoes).
+<br>For new members, the 12J will arrange a day to go down to the BBHQ - 105
+Ganges Avenue S(169695) to effect uniform purchases. Regular members can
 also join in to go down to buy items. However, only new members will be
 given a subsidy.
 <br>Subsequently, BB members are expected to go on their own to purchase whatever
-items they may need (as and when the need requires).</p>
+items they may need <em>(as and when the need requires)</em>.</p>
 </td>
 </tr>
 <tr>

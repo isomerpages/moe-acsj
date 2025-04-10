@@ -3,7 +3,7 @@ title: Christian Fellowship
 permalink: /our-ccas/clubs/christian/
 description: ""
 third_nav_title: Clubs
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -17,7 +17,7 @@ character and foster love among its members, to become a worshipful community
 that pray for and serve ACS Junior, the nation and the world.</p>
 <p>Membership is open to all Pri.3 to Pri.6 pupils, as their first or second
 CCA, since it is held on a different day as most other CCA.</p>
-<table style="minWidth: 75px">
+<p></p><p></p><table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -66,11 +66,7 @@ at our school chapel.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Irene Phua</p>
-</li>
-</ol>
+<p>2. Irene Phua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="irene_phua@acsjunior.sg" rel="noopener nofollow" target="_blank">irene_phua@acsjunior.sg</a>
@@ -78,13 +74,12 @@ at our school chapel.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3. Pei Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pei_yee@acsjunior.sg" rel="noopener noreferrer nofollow" target="_blank">pei_yee@acsjunior.sg</a>
-</p>
-</td>
+
+
+</tr>
+<tr>
+
+
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

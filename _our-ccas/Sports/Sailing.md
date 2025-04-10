@@ -9,6 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
 <h3>Sailing</h3>
+<h4>Overview</h4>
 <p>Being able to sail your own little boat is a BIG achievement. Many children
 are now taking the bold step of learning how to sail the Optimist and the
 fact that children can sail on their own shows how easy and safe sailing

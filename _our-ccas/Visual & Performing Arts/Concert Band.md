@@ -3,7 +3,7 @@ title: Concert Band
 permalink: /our-ccas/visual-and-performing-arts/band/
 description: ""
 third_nav_title: Visual & Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -91,8 +91,8 @@ P2 to P6.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4. Mdm Yang Hsin-Wen</p>
-</td>
+<p>4. Mdm Yang Hsin-Wen
+</p></td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yang_hsin-wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_hsin-wen@moe.edu.sg</a>
 <br>

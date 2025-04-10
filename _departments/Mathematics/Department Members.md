@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/mathematics/members/
 description: ""
 third_nav_title: Mathematics
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -44,11 +44,11 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norfaiza Zainal</p>
-<p>Mdm Lum Mei Pheng</p>
-<p>Miss Yeo Chiew Hoon Rinda</p>
-<p>Mrs Ong Bee Yeng</p>
-<p>Mrs Chua-Fok Mei Ping
+<p>Mdm Norfaiza Zainal
+<br>Mdm Lum Mei Pheng
+<br>Miss Yeo Chiew Hoon Rinda
+<br>Mrs Ong Bee Yeng
+<br>Mrs Chua-Fok Mei Ping
 <br>Miss Koh Hsiao Lan Charine
 <br>Miss Tan Yew Lin Regina
 <br>Mdm Tan Lee San
@@ -56,10 +56,10 @@ variant: tiptap
 <br>Mdm Tan Ei Leen
 <br>Mrs Siah Kim Tian Royston
 <br>Mrs Ho-Lim Woan Jen (FAJT)
-<br>Mr Aw Meng Hong (FAJT)</p>
-<p>Mdm Rahilah Rahmat (FAJT)
-<br>Ms Ng Mui Keng Elisabeth (FAJT)</p>
-</td>
+<br>Mr Aw Meng Hong (FAJT)
+<br>Mdm Rahilah Rahmat (FAJT)
+<br>Ms Ng Mui Keng Elisabeth (FAJT)
+</p></td>
 </tr>
 </tbody>
 </table>

@@ -3,7 +3,7 @@ title: Chinese Club
 permalink: /our-ccas/clubs/chinese/
 description: ""
 third_nav_title: Clubs
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">

@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/english/members/
 description: ""
 third_nav_title: English
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -75,10 +75,10 @@ variant: tiptap
 <br>Mr Wong Soong Hung
 <br>Mdm Hanisa d/o Mustakim (FAJT)
 <br>Mrs Gayathri Unnikrishnan (FAJT)
-<br>Mrs Tan Siah Wee Francis (FAJT)</p>
-<p>Mdm Heng Soo Inn (FAJT)</p>
-<p>Mdm Tang Keen Yeen (FAJT)</p>
-</td>
+<br>Mrs Tan Siah Wee Francis (FAJT)
+<br>Mdm Heng Soo Inn (FAJT)
+<br>Mdm Tang Keen Yeen (FAJT)
+</p></td>
 </tr>
 </tbody>
 </table>

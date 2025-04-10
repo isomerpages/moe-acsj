@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/ict/members/
 description: ""
 third_nav_title: ICT
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -76,8 +76,8 @@ variant: tiptap
 <p>Desktop Engineers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John Ong Choon Hui</p>
-<p>Mr Mohd Zuhaili Che Zakaria</p>
+<p>Mr John Ong Choon Hui
+<br>Mr Mohd Zuhaili Che Zakaria</p>
 </td>
 </tr>
 <tr>
@@ -85,16 +85,16 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yeo Chiew Hoon Rinda</p>
-<p>Mr Wong Soong Hung</p>
-<p>Mdm Lin Miaoting Eunice</p>
-<p>Mdm Tan Ei Leen</p>
-<p>Miss Nur 'Amirah Jumat</p>
-<p>Mdm Nurulhuda Abdul Hamid</p>
-<p>Mr Teo Zhihao</p>
-<p>Mdm Yee Zhuoying Karmene</p>
-<p></p>
-</td>
+<p>Miss Yeo Chiew Hoon Rinda
+<br>Mr Wong Soong Hung
+<br>Mdm Lin Miaoting Eunice
+<br>Mdm Tan Ei Leen
+<br>Miss Nur 'Amirah Jumat
+<br>Mdm Nurulhuda Abdul Hamid
+<br>Mr Teo Zhihao
+<br>Mdm Yee Zhuoying Karmene
+<br>
+</p></td>
 </tr>
 </tbody>
 </table>

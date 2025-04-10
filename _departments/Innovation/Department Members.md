@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/innovation/members/
 description: ""
 third_nav_title: Innovation
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -36,10 +36,10 @@ variant: tiptap
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Junie (e21CC)</p>
-<p>Mdm Teong Wen Jia Ivy (Science)</p>
-<p>Lam Yuk Wing (Mother Tongue)</p>
-</td>
+<p>Mdm Ong Junie (e21CC)
+<br>Mdm Teong Wen Jia Ivy (Science)
+<br>Lam Yuk Wing (Mother Tongue)
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,8 +54,8 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bonnie Ho</p>
-<p>Mdm Tan Lee San
+<p>Mrs Bonnie Ho
+<br>Mdm Tan Lee San
 <br>Mrs Chua-Fok Mei Ping
 <br>MrMohammed Ashraff Karim
 <br>Mr Jonathan Koh Boon Kit

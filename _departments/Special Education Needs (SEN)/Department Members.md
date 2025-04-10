@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/special-education-needs/members/
 description: ""
 third_nav_title: Special Education Needs (SEN)
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -46,14 +46,16 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Chua (Senior SENO)
+<p>Mrs Maivilli Reshitharan (Senior SC)
 <br>Ms Lauren Ng (Senior SENO)
+<br>Mr Kevin Chua (Senior SENO)
 <br>Mr Ranny Choi (SENO)
-<br>Mrs Maivilli Reshitharan (Senior SC)
+<br>Mr Abdul Hamid Mohamed Kassim (SENO)
+<br>Ms Toh Ann Cher (SENO)
 <br>Mrs Caroline Tang
 <br>Miss Tan Yew Lin Regina
-<br>Mdm Shabnam Phillips</p>
-</td>
+<br>Mdm Shabnam Phillips
+</p></td>
 </tr>
 </tbody>
 </table>

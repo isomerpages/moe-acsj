@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/pe-cca-and-aesthetics/
 description: ""
 third_nav_title: PE & Aesthetics
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -71,25 +71,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Members (PE/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Jie Ning
+<p>Mr Koh Boon Hock Colin
+<br>Miss Lim Jie Ning
 <br>Mr Teo Zhihao
 <br>Mr Muhammad Hakim Mustadza
-<br>Ms Grace Wong Jie Er</p>
-<p>Mr Andy Tan (Head of Innovation)</p>
-<p>Miss Lee May Po (Year Head)</p>
-<p>Mr Lim Fang Yi (U/T)</p>
-</td>
+<br>Ms Grace Wong Jie Er
+<br>Mr Andy Tan (Head of Innovation)
+<br>Miss Lee May Po (Year Head)
+<br>Mr Lim Fang Yi (U/T)
+</p></td>
 </tr>
 </tbody>
 </table>
