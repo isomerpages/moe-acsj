@@ -79,10 +79,10 @@ links:
   - title: Our Partners
     url: /our-partners/parents/generalinfo/
     sublinks:
-      - title: Parents
-        url: /our-partners/parents/generalinfo/
       - title: The ACS Family
         url: /our-partners/acsfamily/
+      - title: Parents
+        url: /our-partners/parents/generalinfo/
       - title: ACS(J) PSG
         url: /our-partners/psg/
       - title: Prayer Groups
