@@ -29,19 +29,19 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>          P3</strong>
+<p><strong>P3</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>           P4</strong>
+<p><strong>P4</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>          P5</strong>
+<p><strong>P5</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>          P6</strong>
+<p><strong>P6</strong>
 </p>
 </th>
 </tr>
