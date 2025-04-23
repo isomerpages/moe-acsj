@@ -1415,7 +1415,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Heng</p>
+<p>Mdm Tan Hui Fen Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST for Music</p>
