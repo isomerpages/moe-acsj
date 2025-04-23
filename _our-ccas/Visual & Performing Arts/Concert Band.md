@@ -61,7 +61,7 @@ P2 to P6.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Mrs Rachel Heng (OIC)</p>
+<p>1. Mdm Tan Hui Fen Rachel (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hui_fen_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_fen_rachel@moe.edu.sg</a>

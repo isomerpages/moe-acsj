@@ -932,7 +932,7 @@ variant: tiptap
 <p>P5.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Heng Hui Fen Rachel (ST Music)</p>
+<p>Mdm Tan Hui Fen Rachel (ST Music)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_hui_fen_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_hui_fen_rachel@moe.edu.sg</a>
@@ -1415,7 +1415,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Heng</p>
+<p>Mdm Tan Hui Fen Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST for Music</p>
