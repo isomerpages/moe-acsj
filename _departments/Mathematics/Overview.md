@@ -3,30 +3,57 @@ title: Overview
 permalink: /departments/mathematics/overview/
 description: ""
 third_nav_title: Mathematics
+variant: tiptap
 ---
-![](/images/Sub-banner2.jpg)
-
-Overview
-========
-
-The Mathematics Department seek to nurture every ACSian to be a passionate learner and a confident and creative problem-solver.
-
-We aim to:
-
-*   Create a dynamic learning environment and equip ACSians with skills to apply Mathematics in real life
-*   Provide a holistic Math programme divided into three areas, Fun in Mathematics, Discovery in Mathematics and Mastery in Mathematics
-*   Challenge pupils to be creative problem-solvers and develop their passion for Mathematics
-
-<b><u>FUN in MATHEMATICS (P1 and P2)</u></b><br>
-In the area of Fun in Mathematics, the Primary 1 and 2 pupils are engaged in Math games and Heuristics. As the pupils are in the early stages of learning Mathematics, more hands-on activities are used to teach mathematics. In the area of heuristics, pupils will learn the basic model drawing.
-
-<b><u>DISCOVERY in MATHEMATICS (P3 and P4)</u></b><br>
-For Discovery in Mathematics, the Primary 3 and Primary 4 pupils are exposed to real-life mathematics. Pupils will find more meaning in Math as they discover how Math is used in a real-life scenario. Pupils are also exposed to Mathematics games to reinforce their learning. Pupils who have high ability in Math are selected to be in the Thoburn programme where they learnt Mathematics in greater depth through investigation of real-life problems and making interdisciplinary connections.
-
-<b><u>MASTERY in MATHEMATICS (P5 and P6)</u></b><br>
-In the area of Mastery in Mathematics, for the primary 5 and 6 pupils, we want to consolidate and reinforce their learning in Math. To stretch the higher ability pupils, there is a Math Olympiad programme and the Thoburn programme catered for them. As for the pupils who need more coaching in Mathematics, there is a Math pull-out programme for them where pupils are taught at a pace that is suitable for them.
-
-<b><u>Mathematics Framework</u></b><br>
-The Mathematics Framework focuses on using Mathematics for problem-solving. The development of problem-solving ability is dependent on five inter-related components, namely, conceptual understanding, skills proficiency, mathematical processes, and attitudes and metacognition.
-
-<img src="/images/maths_framework.jpg" style="width:85%">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
+</div>
+<h1>Overview</h1>
+<p>The Mathematics Department aims to nurture every ACSian into a passionate
+learner and a confident, creative problem-solver.</p>
+<p>We strive to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create a dynamic and engaging learning environment that equips ACSians
+with the skills to apply Mathematics in real-life situations</p>
+</li>
+<li>
+<p>Provide a holistic Mathematics programme across three key areas: <em>Fun in Mathematics</em>, <em>Discovery in Mathematics</em>,
+and <em>Mastery in Mathematics</em>
+</p>
+</li>
+<li>
+<p>Inspire students to think critically, solve problems creatively, and develop
+a lifelong passion for Mathematics</p>
+</li>
+</ul>
+<p><strong><u>FUN in MATHEMATICS (P1 and P2)</u></strong>
+<br>At the lower primary level, the focus is on cultivating joy in learning
+Mathematics. Students are engaged in hands-on activities, games, and basic
+heuristics to build foundational understanding. They are introduced to
+simple model drawing as a visual strategy to solve problems. These experiences
+aim to develop their confidence and curiosity from an early stage.</p>
+<p><strong><u>DISCOVERY in MATHEMATICS (P3 and P4)</u></strong>
+<br>In middle primary, students explore real-life applications of Mathematics
+to discover its relevance and meaning in the world around them. Games continue
+to be used to reinforce learning in a fun and interactive way. Students
+who demonstrate strong aptitude and interest in Mathematics may be selected
+to join the <em>Thoburn Programme</em>, where they delve deeper into Mathematical
+concepts through problem investigation and interdisciplinary connections.</p>
+<p><strong><u>MASTERY in MATHEMATICS (P5 and P6)</u></strong>
+<br>At the upper primary level, the emphasis shifts towards consolidation
+and mastery of key Mathematical concepts. Students are challenged to apply
+their learning in more complex contexts. Those with a strong aptitude for
+Mathematics can further stretch their potential through the <em>Math Olympiad</em> and <em>Thoburn</em> programmes.
+Students who benefit from additional support are placed in the <em>Mathematics Foundation Programme</em>,
+where they receive targeted instruction tailored to their learning needs
+and pace.</p>
+<p><strong><u>Mathematics Framework</u></strong>
+<br>The central focus of the mathematics curriculum is the development of
+mathematical problem-solving competency. Supporting this focus are five
+inter-related components – concepts, skills, processes, metacognition and
+attitudes.</p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/maths_framework.jpg">
+</div>
+<p></p>
