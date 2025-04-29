@@ -10,13 +10,7 @@ variant: tiptap
 </div>
 <p><strong>Thought for the Day</strong>
 </p>
-<p>23 Sept 2024</p>
-<p><a href="/files/TFTD_PSLE_Study_Break_Day_1_Mdm_Gladys_Ong.pdf" rel="noopener nofollow" target="_blank">TFTD Day 1</a>
-</p>
-<p>24 Sept 2024</p>
-<p><a href="/files/TFTD_PSLE_Study_Break_Day_2_Mdm_Lee_Pei_Yee.pdf" rel="noopener nofollow" target="_blank">TFTD Day 2</a>
-</p>
-<p>25 Sept 2024</p>
-<p><a href="/files/TFTD_PSLE_Study_Break_Day_3_Mdm_Gladys_Ong.pdf" rel="noopener nofollow" target="_blank">TFTD Day 3</a>
-</p>
+<p>2 May 2025</p>
+<p>TFTD</p>
+<p></p>
 <p></p>
