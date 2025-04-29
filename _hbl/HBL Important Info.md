@@ -8,7 +8,7 @@ variant: tiptap
 <ol>
 <li>
 <p>For <strong>technical issues</strong> pertaining to the use of the SLS such
-as unlocking accounts and resetting password, please refer to the <strong>SLS Self-Help Guide in the school website under HBL</strong>.</p>
+as unlocking accounts and resetting password, please refer to the <strong><a href="https://www.learning.moe.edu.sg/" rel="noopener nofollow" target="_blank">SLS Website</a></strong>.</p>
 </li>
 <li>
 <p>Alternatively, for <strong>technical issues on SLS</strong>, you may call <strong>MOE SLS Helpdesk</strong>
