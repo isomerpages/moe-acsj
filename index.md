@@ -33,4 +33,11 @@ sections:
       url: https://acsecho.com/
       image: /images/Digital Echo Icon.jpg
       alt: Image alt text
+  - infopic:
+      title: HBL Matters
+      id: infopic
+      button: Link to HBL Matter Page
+      url: https://acsj.moe.edu.sg/hbl
+      image: /images/TFTD.jpg
+      alt: Image alt text
 ---
