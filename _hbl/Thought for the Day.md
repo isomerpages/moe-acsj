@@ -11,6 +11,7 @@ variant: tiptap
 <p><strong>Thought for the Day</strong>
 </p>
 <p>2 May 2025</p>
-<p>TFTD</p>
+<p><strong><em><a href="/files/2May_Devo.pdf" rel="noopener nofollow" target="_blank">TFTD</a></em></strong>
+</p>
 <p></p>
 <p></p>
