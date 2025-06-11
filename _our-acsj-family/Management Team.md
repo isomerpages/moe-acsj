@@ -440,13 +440,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Henry Phua yong Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="henry_phua_yong_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">henry_phua_yong_xiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
