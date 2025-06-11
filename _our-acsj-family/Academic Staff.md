@@ -1437,6 +1437,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Debbie Goh Ai Tiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST for Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="debbie_goh_tiang_ai@moe.edu.sg" rel="noopener nofollow" target="_blank">debbie_goh_tiang_ai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>NON-FT TEACHERS</h3>
