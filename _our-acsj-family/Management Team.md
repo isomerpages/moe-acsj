@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE, CCA &amp; Aest</p>
+<p>PE, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Fan-Goh Qiumei</p>
