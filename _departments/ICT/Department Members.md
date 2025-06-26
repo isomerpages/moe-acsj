@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/ict/members/
 description: ""
 third_nav_title: ICT
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -28,7 +28,7 @@ variant: markdown
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norahmah Haron</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,8 @@ variant: markdown
 <br>Mr Teo Zhihao
 <br>Mdm Yee Zhuoying Karmene
 <br>
-</p></td>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
