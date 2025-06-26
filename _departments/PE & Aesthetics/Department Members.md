@@ -3,7 +3,7 @@ title: Department Members
 permalink: /departments/pe-cca-and-aesthetics/
 description: ""
 third_nav_title: PE & Aesthetics
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -81,8 +81,8 @@ variant: markdown
 <br>Ms Grace Wong Jie Er
 <br>Mr Andy Tan (Head of Innovation)
 <br>Miss Lee May Po (Year Head)
-<br>Mr Lim Fang Yi (U/T)
-</p></td>
+<br>Mr Lim Fang Yi (U/T)</p>
+</td>
 </tr>
 </tbody>
 </table>
