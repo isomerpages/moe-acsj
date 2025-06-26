@@ -9,140 +9,6 @@ variant: tiptap
 </div>
 <h1>Management Team</h1>
 <h3>HEADS OF DEPARTMENTS</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Department &amp; Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>English Language</strong>
-<br>Ms Rachel Gayathri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gayathri_kunnasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayathri_kunnasekaran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
-<br>Mr Goh Chee Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_chee_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chee_wei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Science</strong>
-<br>Miss Hemalatha Perumal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hemalatha_n_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hemalatha_n_perumal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>PE, CCA &amp; Aesthetics</strong>
-<br>Mrs Fan-Goh Qiumei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_qiumei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_qiumei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mother Tongue Language</strong>
-<br>Mdm Kuah Hui Hu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kuah_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_hui_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Special Education Needs</strong>
-<br>Miss Noelle Selvadurai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selvadurai_noelle_chitrani@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education</strong>
-<br>Mrs Michelle Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_shuyun_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shuyun_michelle@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Info-Comm Technology</strong>
-<br>Mdm Norahmah Haron</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norahmah_haron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norahmah_haron@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
-<br>Mdm Ng Xinyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_xinyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xinyi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Student Management</strong>
-<br>Mr Chen Jieming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_jieming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jieming@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Innovation</strong>
-<br>Mr Andy Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_zi_yang_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zi_yang_andy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>YEAR HEADS</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -440,13 +306,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Henry Phua Yong Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="henry_phua_yong_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">henry_phua_yong_xiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
