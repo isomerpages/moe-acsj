@@ -9,6 +9,146 @@ variant: tiptap
 </div>
 <h1>Management Team</h1>
 <h3>HEADS OF DEPARTMENTS</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Gayathri Kunnasekaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="gayathri_kunnasekaran@moe.edu.sg" rel="noopener nofollow" target="_blank">gayathri_kunnasekaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kuah Hui Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="kuah_hui_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">kuah_hui_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Chee Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_chee_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_chee_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Hemalatha N Perumal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="hemalatha_n_perumal@moe.edu.sg" rel="noopener nofollow" target="_blank">hemalatha_n_perumal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE, CCA &amp; Aest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Fan-Goh Qiumei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_qiumei@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_qiumei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Shuyun Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lee_shuyun_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_shuyun_michelle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Selvadurai Noelle Chitrani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="selvadurai_noelle_chitrani@moe.edu.sg" rel="noopener nofollow" target="_blank">selvadurai_noelle_chitrani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Jieming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chen_jieming@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_jieming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_zi_yang_andy@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_zi_yang_andy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Xinyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_xinyi@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_xinyi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>YEAR HEADS</h3>
 <table style="minWidth: 75px">
 <colgroup>
