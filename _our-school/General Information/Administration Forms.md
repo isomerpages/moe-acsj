@@ -28,7 +28,7 @@ more information. They can submit via the follows:</p>
 <li>
 <p><strong><u>Waitlist Application</u></strong>
 </p>
-<p><a href="https://go.gov.sg/acsjwaitlist2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/acsjwaitlist2025</a>
+<p><a href="https://go.gov.sg/acsjwaitlist2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/acsjwaitlist2026</a>
 </p>
 <p></p>
 </li>
