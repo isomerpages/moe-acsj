@@ -9,6 +9,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
 </div>
 <h1>Announcements</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/5th_Principal_s_Letter__27_June_2025_.pdf" rel="noopener nofollow" target="_blank">Latest Principal's Letter</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
