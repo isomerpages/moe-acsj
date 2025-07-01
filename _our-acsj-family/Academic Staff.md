@@ -563,18 +563,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norahmah Haron (HOD ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="norahmah_haron@moe.edu.sg" rel="noopener nofollow" target="_blank">norahmah_haron@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P3.3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -626,10 +614,34 @@ variant: tiptap
 <p>P3.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bala</p>
+<p>Mrs Bala Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="balasubramaniam_sarasu@moe.edu.sg" rel="noopener nofollow" target="_blank">balasubramaniam_sarasu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chang Ke Xin Desiree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chang_ke_xin_desiree@moe.edu.sg" rel="noopener nofollow" target="_blank">chang_ke_xin_desiree@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Debbie Goh (ST Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="debbie_goh_tiang_ai@moe.edu.sg" rel="noopener nofollow" target="_blank">debbie_goh_tiang_ai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1415,7 +1427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Debbie Goh Ai Tiang</p>
+<p>Ms Debbie Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST for Science</p>
