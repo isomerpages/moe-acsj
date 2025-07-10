@@ -32,7 +32,7 @@ variant: tiptap
 <p>P1.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Jie Ning</p>
+<p>Miss Lim Jie Ning v</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="jie_ning_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">jie_ning_lim@moe.edu.sg</a>
