@@ -437,10 +437,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp; Rahilah Bte Rahmat</p>
+<p>Mr Mo Liwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="rahilah_rahmat_a@moe.edu.sg" rel="noopener nofollow" target="_blank">rahilah_rahmat_a@moe.edu.sg</a>
+<p><a href="mo_liwen@moe.edu.sg" rel="noopener nofollow" target="_blank">mo_liwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -449,10 +449,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mo Liwen</p>
+<p>Ms Nguee Sin Ee Kym</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mo_liwen@moe.edu.sg" rel="noopener nofollow" target="_blank">mo_liwen@moe.edu.sg</a>
+<p><a href="nguee_sin_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">nguee_sin_ee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
