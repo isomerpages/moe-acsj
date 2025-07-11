@@ -671,6 +671,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Attan Angeline Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="angeline_lim_gnuk_youn@moe.edu.sg" rel="noopener nofollow" target="_blank">angeline_lim_gnuk_youn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3.5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -698,7 +710,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Debbie Goh (ST Science)</p>
+<p>Mrs Debbie Lam</p>
+<p>(ST Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="debbie_goh_tiang_ai@moe.edu.sg" rel="noopener nofollow" target="_blank">debbie_goh_tiang_ai@moe.edu.sg</a>
@@ -939,6 +952,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="teow_jing_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">teow_jing_ho@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Leong Kiet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="wong_leong_kiet@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_leong_kiet@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1516,15 +1541,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nguee Sin Ee Kym</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nguee_sin_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">nguee_sin_ee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lee Yin Luen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1538,24 +1554,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_ciau_er@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ciau_er@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Leong Kiet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="wong_leong_kiet@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_leong_kiet@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Angeline Lim Gnuk Youn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="angeline_lim_gnuk_youn@moe.edu.sg" rel="noopener nofollow" target="_blank">angeline_lim_gnuk_youn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
