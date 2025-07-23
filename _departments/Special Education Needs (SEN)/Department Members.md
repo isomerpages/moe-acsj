@@ -52,6 +52,7 @@ variant: markdown
 <br>Mr Ranny Choi (SENO)
 <br>Mr Abdul Hamid Mohamed Kassim (SENO)
 <br>Ms Toh Ann Cher (SENO)
+<br>Mr Teo Thai Peng Gavin (Adjunct SENO)
 <br>Mrs Caroline Tang
 <br>Miss Tan Yew Lin Regina
 <br>Mdm Shabnam Phillips
