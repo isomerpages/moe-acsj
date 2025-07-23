@@ -1689,6 +1689,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Teo Thai Peng Gavin (SENO AJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="teo_thai_peng_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_thai_peng_gavin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Vidya Suresh (T&amp;L)</p>
 </td>
 <td rowspan="1" colspan="1">
