@@ -30,5 +30,9 @@ variant: tiptap
 <p><a href="/files/5th_Principal_s_Letter__27_June_2025_.pdf" rel="noopener nofollow" target="_blank">5th Principal's Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/6th_Principal_s_Letter__30_July_2025_.pdf" rel="noopener nofollow" target="_blank">6th Principal's Letter</a>
+</p>
+</li>
 </ul>
 <p></p>
