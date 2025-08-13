@@ -80,18 +80,6 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sara-U Cumarasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sara-u_cumarasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sara-u_cumarasamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Lin Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
