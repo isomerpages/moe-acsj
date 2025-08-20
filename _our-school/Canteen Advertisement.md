@@ -34,6 +34,17 @@ variant: tiptap
 <p>Mixed rice is acceptable.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Local Rice Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mixed rice is acceptable.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Application Procedure</strong>
