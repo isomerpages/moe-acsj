@@ -14,8 +14,8 @@ both the rights of individuals to protect their personal data and the need
 of organisations to collect, use or disclose personal data for purposes
 that a reasonable person would consider appropriate in the circumstances.</p>
 <p>2. The purpose of this Data Protection Policy (DPP) is to inform individuals
-of how&nbsp;Crest Secondary School (‘the school’) manages personal data
-in accordance with the Personal Data Protection Act 2012 (“the Act”).&nbsp;This
+of how&nbsp;Anglo-Chinese School (Junior) (‘the school’) manages personal
+data in accordance with the Personal Data Protection Act 2012 (“the Act”).&nbsp;This
 DPP supplements but does not supersede nor replace any other consent you
 may have previously provided to the School. The School may from time to
 time update this protection policy to ensure that it is consistent with
