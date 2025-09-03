@@ -57,7 +57,6 @@ variant: markdown
 <br>Mrs Siah Kim Tian Royston
 <br>Mrs Ho-Lim Woan Jen (FAJT)
 <br>Mr Aw Meng Hong (FAJT)
-<br>Mdm Rahilah Rahmat (FAJT)
 <br>Ms Ng Mui Keng Elisabeth (FAJT)
 </p></td>
 </tr>
