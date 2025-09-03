@@ -81,7 +81,8 @@ variant: tiptap
 <br>Ms Grace Wong Jie Er
 <br>Mr Andy Tan (Head of Innovation)
 <br>Miss Lee May Po (Year Head)
-<br>Mr Lim Fang Yi (U/T)</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
