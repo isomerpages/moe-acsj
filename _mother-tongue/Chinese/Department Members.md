@@ -63,7 +63,8 @@ variant: tiptap
 <p>Mdm Yee Zhuoying, Karmene
 <br>Ms Zhang Siyuan Nikko
 <br>Ms Lim Kailing (FAJT)
-<br>Mdm Zhang Li (FAJT)</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
