@@ -36,9 +36,8 @@ variant: markdown
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremiah Nga (Educational Support)
-<br>Mrs Lilian Lai (Lower Primary Learners)
-<br>Ms Quek Soo Kim (Special Needs)</p>
+<br>Mrs Lilian Lai (Lower Primary)
+<br>Ms Quek Soo Kim (Special Education Needs)<p></p>
 </td>
 </tr>
 <tr>
@@ -49,7 +48,7 @@ variant: markdown
 <p>Mrs Maivilli Reshitharan (Senior SC)
 <br>Ms Lauren Ng (Senior SENO)
 <br>Mr Kevin Chua (Senior SENO)
-<br>Mr Ranny Choi (SENO)
+<br>Mr Ranny Choi (Senior SENO)
 <br>Mr Abdul Hamid Mohamed Kassim (SENO)
 <br>Ms Toh Ann Cher (SENO)
 <br>Ms Karen Wee Mun Hoon (Adjunct SENO)	
