@@ -53,8 +53,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Siti Mohammad (Social Studies)
-<br>Mrs Lai Li Lian (Lower-Progress Learners)
-<br>Ms Arlette Teo (High Ability Learners)
+<br>Mrs Lai Li Lian (Lower-Primary)
+<br>Mdm Arlette Teo (High Ability Learners)
 <br>Ms Quek Soo Kim (Special Education Needs)</p>
 </td>
 </tr>
