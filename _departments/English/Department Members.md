@@ -52,10 +52,10 @@ variant: markdown
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Siti Mohammad
-<br>Mrs Lai Li Lian
-<br>Mdm Teo Puay Boon Arlette
-<br>Ms Quek Soo Kim</p>
+<p>Mrs Siti Mohammad (Social Studies)
+<br>Mrs Lai Li Lian (Lower-Progress Learners)
+<br>Ms Arlette Teo (High Ability Learners)
+<br>Ms Quek Soo Kim (Special Education Needs)</p>
 </td>
 </tr>
 <tr>
