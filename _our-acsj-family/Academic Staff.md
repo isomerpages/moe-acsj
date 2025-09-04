@@ -260,7 +260,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lai Lilian (ST LPL)</p>
+<p>Mrs Lai Lilian (ST LP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="kok_li_lian@moe.edu.sg" rel="noopener nofollow" target="_blank">kok_li_lian@moe.edu.sg</a>
@@ -1455,7 +1455,7 @@ variant: tiptap
 <p>Mrs Lai Lilian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST for Lower-Progress Learners</p>
+<p>ST for Lower-Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kok_li_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kok_li_lian@moe.edu.sg</u></a>
