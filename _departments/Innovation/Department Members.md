@@ -36,9 +36,9 @@ variant: markdown
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Junie (e21CC)
+<p>Mdm Ong Junie (21CC)
 <br>Mdm Teong Wen Jia Ivy (Science)
-<br>Lam Yuk Wing (Mother Tongue)
+<br>Mdm Lam Yuk Wing (Mother Tongue)
 </p></td>
 </tr>
 <tr>
