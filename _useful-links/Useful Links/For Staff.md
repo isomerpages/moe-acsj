@@ -53,7 +53,7 @@ for MOE employees.&nbsp;&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ records management.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://adfs.schools.moe.edu.sg/adfs/ls/?SAMLRequest=jVJLT8JAEP4rzd7pC6i4oSQVYiTx0Qh68DbtTmGT7W7d2aL%2Be0vBiAeI19nvNfPtlKBWccOz1m31M763SM77rJUmfnhJWWs1N0CSuIYaibuSr7KHex77IW%2BscaY0inkZEVonjZ4bTW2NdoV2J0t8eb5P2da5hngQEBmM%2Fdqgj6L1aRNo2DWwQV8Y5i06a6lhr%2FHLAFGRT%2BXWGEWnxP08UBQw79bYEvv4KatAETJvuUjZ6nGeJJNCQBiJJLkORzCaAEBxPbmCIhoOw2LYASkHIrnDXypRi0tNDrRLWRzG0SCKB8NoHYY8HvMw8cfR1Rvz8uPiN1ILqTeXr1QcQMTv1ut8kD%2Bt1r3ATgq0jx36nwd6RUv9cTpNNpv2%2FfA%2BsD2t7HIW%2BOmJzc6ZToNT6aNRw%2FdJl4vcKFl%2BeZlS5mNuEVyX3tkW%2ByJqcOfdIz%2FqJ1IMqh7KW00NlrKSKFgwO9r%2B%2FYuzbw%3D%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="">SSOE2 Portal</a>
+<p><a href="https://ssoe2.moe.edu.sg" rel="noopener noreferrer nofollow" target="">SSOE2 Portal</a>
 </p>
 </td>
 </tr>
