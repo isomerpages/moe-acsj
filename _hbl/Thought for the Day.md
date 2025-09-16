@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TFTD_Cover_Slide.jpg">
 </div>
-<p><strong>PLSE Study Break - Thought of the Day</strong>
+<p><strong>PSLE Study Break - Thought of the Day</strong>
 </p>
 <p><u>22 Sept 2025 (Day 1)</u>
 </p>
