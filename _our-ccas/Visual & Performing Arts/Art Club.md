@@ -29,17 +29,6 @@ exposure as they will visit exhibitions and view galleries.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities </strong>
 <br>
@@ -47,15 +36,12 @@ exposure as they will visit exhibitions and view galleries.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1) Printmaking Project
 <br>2) Sculpture-making
 <br>3) Painting with the different medium
 <br>4) VIA activities
 <br>5) Art Learning Journey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
