@@ -261,10 +261,21 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mya Win</p>
+<p>Mdm Cheau Soo Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Gee Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
