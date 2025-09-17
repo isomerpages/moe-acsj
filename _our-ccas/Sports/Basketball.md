@@ -34,22 +34,22 @@ resilience, sportsmanship, and a positive sense of self.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>1. Miss Grace Wong</p>
-<p><a href="mailto:grace_wong_jie_er@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_wong_jie_er@moe.edu.sg</a>
+<p>1. Miss Grace Wong<br>
+<a href="mailto:grace_wong_jie_er@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_wong_jie_er@moe.edu.sg</a>
+
+</p></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>2. Mdm Lam Ker Sim<br>
+<a href="mailto:lam_ker_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_ker_sim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>2. Mdm Lam Ker Sim</p>
-<p><a href="mailto:lam_ker_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_ker_sim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>3. Mrs Ng-Tang Pui Fun (OIC)</p>
-<p><a href="mailto:ng-tang_pui_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng-tang_pui_fun@moe.edu.sg</a>
+<p>3. Mrs Ng-Tang Pui Fun (OIC)<br>
+<a href="mailto:ng-tang_pui_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng-tang_pui_fun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
