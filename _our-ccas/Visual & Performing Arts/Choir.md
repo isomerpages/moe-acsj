@@ -43,15 +43,15 @@ through Community Involvement Programmes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1. Mrs Lai Li Lian (OIC)</p>
-<p><a href="mailto:kok_li_lian@moe.edu.sg%C2%A0" rel="noopener noreferrer nofollow" target="_blank">kok_li_lian@moe.edu.sg</a>
+<p>1. Mrs Lai Li Lian (OIC)<br>
+<a href="mailto:kok_li_lian@moe.edu.sg%C2%A0" rel="noopener noreferrer nofollow" target="_blank">kok_li_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2. Ms Zhang Siyuan</p>
-<p><a href="mailto:zhang_siyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_siyuan@moe.edu.sg</a>
+<p>2. Ms Zhang Siyuan<br>
+<a href="mailto:zhang_siyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_siyuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
