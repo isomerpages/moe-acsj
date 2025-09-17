@@ -63,10 +63,8 @@ exposure as they will visit exhibitions and view galleries.</p>
 <p><strong>Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Ms April Ella Liang (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:april_ella_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">april_ella_liang@moe.edu.sg</a>
 </p>
 </td>
@@ -75,10 +73,8 @@ exposure as they will visit exhibitions and view galleries.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Ms Desiree Chang Ke Xin</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chang_ke_xin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ke_xin_desiree@moe.edu.sg</a>
 </p>
 </td>
