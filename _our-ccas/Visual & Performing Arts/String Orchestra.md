@@ -36,17 +36,6 @@ Violin, Viola, Cello or Double Bass.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities</strong>
 <br>
@@ -68,24 +57,16 @@ Violin, Viola, Cello or Double Bass.
 <p><strong>Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mrs Ong Bee Yeng (I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:koh_bee_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_bee_yeng@moe.edu.sg</a>
-<br>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Mdm Goh Shu Hui
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_shu_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shu_hui_a@moe.edu.sg</a>
-<br>
+<br><a href="mailto:goh_shu_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shu_hui_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
