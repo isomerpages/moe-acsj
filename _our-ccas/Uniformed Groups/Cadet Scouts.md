@@ -65,22 +65,22 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1. Mrs Bonnie Ho</p>
-<p><a href="mailto:lim_lian_hong_bonnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lian_hong_bonnie@moe.edu.sg</a>
+<p>1. Mr Jonathan Koh Boon Kit (OIC)
+<br><a href="mailto:koh_boon_kit_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_boon_kit_jonathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2. Mr Jonathan Koh Boon Kit (OIC)</p>
-<p><a href="mailto:koh_boon_kit_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_boon_kit_jonathan@moe.edu.sg</a>
+<p>2. Mrs Bonnie Ho
+<br><a href="mailto:lim_lian_hong_bonnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lian_hong_bonnie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>3. Mdm Lum Mei Pheng</p>
-<p><a href="mailto:lum_mei_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_mei_pheng@moe.edu.sg</a>
+<p>3. Mdm Lum Mei Pheng
+<br><a href="mailto:lum_mei_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_mei_pheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
