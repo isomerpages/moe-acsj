@@ -58,8 +58,8 @@ Violin, Viola, Cello or Double Bass.
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1. Mrs Ong Bee Yeng (I/C)</p>
-<p><a href="mailto:koh_bee_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_bee_yeng@moe.edu.sg</a>
+<p>1. Mrs Ong Bee Yeng (I/C)
+<br><a href="mailto:koh_bee_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_bee_yeng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
