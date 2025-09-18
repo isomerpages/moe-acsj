@@ -47,28 +47,22 @@ ACScite Sailing for their Training Squad experience.</p>
 <p><strong>Teachers <br><br><br><br></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mr Mo Liwen</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:mo_liwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mo_liwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Mr Goh Eng Tat (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="http://goh_eng_tat@moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">goh_eng_tat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>3. Mrs Tan Ei Leen</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:mah_ei_leen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_ei_leen@moe.edu.sg</a>
 </p>
 </td>
