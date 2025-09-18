@@ -48,15 +48,15 @@ ACScite Sailing for their Training Squad experience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1. Mr Mo Liwen</p>
-<p><a href="mailto:mo_liwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mo_liwen@moe.edu.sg</a>
+<p>1. Mr Goh Eng Tat (OIC)</p>
+<p><a href="http://goh_eng_tat@moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">goh_eng_tat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2. Mr Goh Eng Tat (OIC)</p>
-<p><a href="http://goh_eng_tat@moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">goh_eng_tat@moe.edu.sg</a>
+<p>2. Mr Mo Liwen</p>
+<p><a href="mailto:mo_liwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mo_liwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
