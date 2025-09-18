@@ -38,17 +38,6 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities </strong>
 <br>
@@ -111,9 +100,7 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>To Be Confirmed
-<br>
-</p>
+<p>To Be Confirmed</p>
 </td>
 </tr>
 <tr>
