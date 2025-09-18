@@ -59,15 +59,15 @@ at our school chapel.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1. Gladys Ong</p>
-<p><a href="gladys_ong@acsjunior.sg" rel="noopener nofollow" target="_blank">gladys_ong@acsjunior.sg</a>
+<p>1. Gladys Ong
+<br><a href="gladys_ong@acsjunior.sg" rel="noopener nofollow" target="_blank">gladys_ong@acsjunior.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2. Irene Phua</p>
-<p><a href="irene_phua@acsjunior.sg" rel="noopener nofollow" target="_blank">irene_phua@acsjunior.sg</a>
+<p>2. Irene Phua
+<br><a href="irene_phua@acsjunior.sg" rel="noopener nofollow" target="_blank">irene_phua@acsjunior.sg</a>
 </p>
 </td>
 </tr>
