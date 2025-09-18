@@ -27,61 +27,40 @@ to their skill level, from Beginner to Intermediate, and then Advanced.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="5" colspan="1">
 <p><strong>Teachers <br><br><br><br><br><br></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mr Colin Koh (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:koh_boon_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_boon_hock@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Mdm Karmene Yee</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:yee_zhuoying_karmene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_zhuoying_karmene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>3. Mdm Siti Mohammad</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="siti_fauziah_abdul_latiff@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_fauziah_abdul_latiff@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>4. Mdm Chen Xuelei</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chen_xue_lei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xue_lei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>5. Mdm Hu Lan Ying</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:hu_lan_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_lan_ying@moe.edu.sg</a>
 </p>
 </td>
