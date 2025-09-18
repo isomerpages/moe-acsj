@@ -3,7 +3,7 @@ title: Christian Fellowship
 permalink: /our-ccas/clubs/christian/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -17,7 +17,9 @@ character and foster love among its members, to become a worshipful community
 that pray for and serve ACS Junior, the nation and the world.</p>
 <p>Membership is open to all Pri.3 to Pri.6 pupils, as their first or second
 CCA, since it is held on a different day as most other CCA.</p>
-<p></p><p></p><table style="minWidth: 75px">
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -51,35 +53,23 @@ at our school chapel.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Teachers</strong>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Gladys Ong</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="gladys_ong@acsjunior.sg" rel="noopener nofollow" target="_blank">gladys_ong@acsjunior.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Irene Phua</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="irene_phua@acsjunior.sg" rel="noopener nofollow" target="_blank">irene_phua@acsjunior.sg</a>
 </p>
 </td>
-</tr>
-<tr>
-
-
-</tr>
-<tr>
-
-
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -112,7 +102,7 @@ at our school chapel.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+<p><strong>Attire</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
