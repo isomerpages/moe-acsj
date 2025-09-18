@@ -41,15 +41,15 @@ volcanoes, meteorological experiments, Lego Robotics, etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1. Mr Mohammed Ashraff Karim (OIC)</p>
-<p><a href="mailto:mohammed_ashraff_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_ashraff_karim@moe.edu.sg</a>
+<p>1. Mr Mohammed Ashraff Karim (OIC)
+<br><a href="mailto:mohammed_ashraff_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_ashraff_karim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2. Mdm Tuty Sulastri Subri</p>
-<p><a href="mailto:tuty_sulastri_subri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_sulastri_subri@moe.edu.sg</a>
+<p>2. Mdm Tuty Sulastri Subri
+<br><a href="mailto:tuty_sulastri_subri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_sulastri_subri@moe.edu.sg</a>
 </p>
 </td>
 </tr>
