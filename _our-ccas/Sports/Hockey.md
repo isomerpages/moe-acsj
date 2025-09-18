@@ -26,10 +26,8 @@ to bring out the best of all our members.</p>
 <p><strong>Teachers <br></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mdm Nurulhuda Binte Abdul Hamid (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nurulhuda_ab_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulhuda_ab_hamid@moe.edu.sg</a>
 </p>
 </td>
