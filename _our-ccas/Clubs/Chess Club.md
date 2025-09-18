@@ -3,7 +3,7 @@ title: Chess Club
 permalink: /our-ccas/clubs/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -63,19 +63,15 @@ tactics and
 <p><strong>Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mr Royston Siah Kim Tian (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:siah_kim_tian_royston@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siah_kim_tian_royston@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Miss Regina Tan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yew_lin_regina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_lin_regina@moe.edu.sg</a>
 </p>
 </td>
