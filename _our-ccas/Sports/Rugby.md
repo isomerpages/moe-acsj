@@ -29,17 +29,6 @@ National School Games.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities</strong>
 </p>
@@ -48,9 +37,7 @@ National School Games.</p>
 <p>• National School Games Senior and Junior boys
 <br>• Friendly Games with other schools
 <br>• Team building Activities
-<br>• Parent-Son Game
-<br>
-</p>
+<br>• Parent-Son Game</p>
 </td>
 </tr>
 <tr>
@@ -58,28 +45,22 @@ National School Games.</p>
 <p><strong>Teachers <br><br><br></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Ms Lim Jie Ning (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:jie_ning_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jie_ning_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Mr Muhammad Hakim Mustadza</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hakim_mustadza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hakim_mustadza@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>3. Mdm Norfaiza Zainal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="norfaiza_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norfaiza_zainal@moe.edu.sg</a>
 </p>
 </td>
