@@ -26,54 +26,35 @@ members.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="4" colspan="1">
 <p><strong>Teachers </strong>
 <br>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Ms Cai Yiwei Charlotte (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:cai_yiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_yiwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Mdm Arlette Teo</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="teo_puay_boon@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_puay_boon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>3. Mr See Cheun Wah</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="see-cheun_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">see-cheun_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>4. Ms Gan Bing Ping Saige</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:gan_ping_bing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ping_bing@moe.edu.sg</a>
 </p>
 </td>
@@ -117,9 +98,7 @@ members.</p>
 <br>• Badminton racket (shuttlecocks will be provided for all sessions)
 <br>• Water bottle
 <br>• Face towel
-<br>• Inhaler (for boys with asthma)
-<br>
-</p>
+<br>• Inhaler (for boys with asthma)</p>
 </td>
 </tr>
 <tr>
