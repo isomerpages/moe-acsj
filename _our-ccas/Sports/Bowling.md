@@ -25,17 +25,6 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="4" colspan="1">
 <p><strong>Teachers </strong>
 <br>
@@ -44,37 +33,29 @@ the school in the National Primary Schools Tenpin Bowling Championships.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mdm Fang Siew Fong</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:fang_siew_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_siew_fong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Ms Rinda Yeo Chiew Hoon (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_chiew_hoon_rinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_chiew_hoon_rinda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>3. Mr Goh Tiow Hua</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="goh_tiow_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_tiow_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>4. Mr See Cheun Wah</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:see_cheun_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_cheun_wah@moe.edu.sg</a>
 </p>
 </td>
