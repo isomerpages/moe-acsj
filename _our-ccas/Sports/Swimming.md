@@ -60,19 +60,15 @@ learnt, have fun and to improve team camaraderie.</p>
 <p><strong>Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. Mr Kelvin Lim Lye Lee</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p>1. Mr Kelvin Lim Lye Lee (OIC)</p>
 <p><a href="mailto:kelvin_lim_lye_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_lim_lye_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Miss Lou Jiu En Felice</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:lou_jiu_en_felice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lou_jiu_en_felice@moe.edu.sg</a>
 </p>
 </td>

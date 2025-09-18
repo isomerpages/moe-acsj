@@ -3,7 +3,7 @@ title: Cadet Scouts
 permalink: /our-ccas/uniformed-groups/
 description: ""
 third_nav_title: Uniformed Groups
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -38,17 +38,6 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities </strong>
 <br>
@@ -75,29 +64,23 @@ sportsmanship, book reader, young naturalist etc.)</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. Mrs Bonnie Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lian_hong_bonnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lian_hong_bonnie@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>1. Mr Jonathan Koh Boon Kit (OIC)
+<br><a href="mailto:koh_boon_kit_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_boon_kit_jonathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2. Mr Jonathan Koh Boon Kit (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_boon_kit_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_boon_kit_jonathan@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>2. Mrs Bonnie Ho
+<br><a href="mailto:lim_lian_hong_bonnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lian_hong_bonnie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3. Mdm Lum Mei Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lum_mei_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_mei_pheng@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>3. Mdm Lum Mei Pheng
+<br><a href="mailto:lum_mei_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_mei_pheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -117,9 +100,7 @@ sportsmanship, book reader, young naturalist etc.)</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>To Be Confirmed
-<br>
-</p>
+<p>To Be Confirmed</p>
 </td>
 </tr>
 <tr>

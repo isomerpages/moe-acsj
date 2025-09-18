@@ -3,7 +3,7 @@ title: The Boys' Brigade
 permalink: /our-ccas/uniformed-groups/bb/
 description: ""
 third_nav_title: Uniformed Groups
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -38,17 +38,6 @@ obedience. In practice, the Object means:</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities </strong>
@@ -117,28 +106,22 @@ BBHQ sometime towards the end of the school year
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mr Wong Soong Hung (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:wong_soong_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_soong_hung@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Ms Charine Koh Hsiao Lan (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:koh_hsiao_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hsiao_lan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>3. Mdm Wong Siew Yin</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="wong_siew_yin_a@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_siew_yin_a@moe.edu.sg</a>
 </p>
 </td>

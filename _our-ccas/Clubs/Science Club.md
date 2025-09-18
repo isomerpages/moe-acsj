@@ -3,7 +3,7 @@ title: Science Club
 permalink: /our-ccas/clubs/science/
 description: ""
 third_nav_title: Clubs
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -24,17 +24,6 @@ and field trips.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities (optional)</strong>
 </p>
@@ -51,37 +40,23 @@ volcanoes, meteorological experiments, Lego Robotics, etc.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1. Mr Mohammed Ashraff Karim (OIC)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_ashraff_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_ashraff_karim@moe.edu.sg</a>
-<br>
+<br><a href="mailto:mohammed_ashraff_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_ashraff_karim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Mdm Tuty Sulastri Subri
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tuty_sulastri_subri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_sulastri_subri@moe.edu.sg</a>
-<br>
+<br><a href="mailto:tuty_sulastri_subri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_sulastri_subri@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>3. Mr Lim Siow Way
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lim_siow_way@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_siow_way@moe.edu.sg</a>
+<br><a href="lim_siow_way@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_siow_way@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -116,7 +91,7 @@ volcanoes, meteorological experiments, Lego Robotics, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+<p><strong>Attire</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">

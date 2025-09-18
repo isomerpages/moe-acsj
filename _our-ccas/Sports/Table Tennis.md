@@ -27,29 +27,23 @@ and National Primary Schools tournaments.</p>
 <p><strong>Teachers <br><br><br></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. Mdm Lu Liwen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lu_liwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_liwen@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>1. Ms Zhang Min (OIC)</p>
+<p><a href="mailto:zhang_min_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_min_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>2. Mdm Fauziah Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="fauziah_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">fauziah_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3. Ms Zhang Min (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_min_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_min_a@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>3. Mdm Lu Liwen</p>
+<p><a href="mailto:lu_liwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_liwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>

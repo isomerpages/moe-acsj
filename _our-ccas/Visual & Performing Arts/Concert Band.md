@@ -60,43 +60,30 @@ P2 to P6.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. Mdm Tan Hui Fen Rachel (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_fen_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_fen_rachel@moe.edu.sg</a>
-<br>
+<td rowspan="1" colspan="2">
+<p>1. Mdm Tan Hui Fen Rachel (OIC)
+<br><a href="mailto:tan_hui_fen_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_fen_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2. Mdm Nur Shazielah Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_shazielah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shazielah_abdul_rahim@moe.edu.sg</a>
-<br>
+<td rowspan="1" colspan="2">
+<p>2. Mdm Nur Shazielah Abdul Rahim
+<br><a href="mailto:nur_shazielah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shazielah_abdul_rahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3. Mdm Wong Shiow Jiuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_shiow_jiuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shiow_jiuan@moe.edu.sg</a>
-<br>
+<td rowspan="1" colspan="2">
+<p>3. Mdm Wong Shiow Jiuan
+<br><a href="mailto:wong_shiow_jiuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shiow_jiuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>4. Mdm Yang Hsin-Wen
-</p></td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yang_hsin-wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_hsin-wen@moe.edu.sg</a>
-<br>
-<br>
+<br><a href="mailto:yang_hsin-wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_hsin-wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>

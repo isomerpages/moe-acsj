@@ -3,7 +3,7 @@ title: Junior Vibez (Dance Club)
 permalink: /our-ccas/visual-and-performing-arts/dance/
 description: ""
 third_nav_title: Visual & Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -29,17 +29,6 @@ national competitions throughout the year. Membership is subject to auditions.</
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities </strong>
@@ -68,33 +57,23 @@ and to learn about other dance forms
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. Miss Nur Amirah Jumat (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nur_amirah_jumat@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_amirah_jumat@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>1. Miss Nur Amirah Jumat (OIC)
+<br><a href="nur_amirah_jumat@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_amirah_jumat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2. Mdm Tan Kuan Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tan_kuan_bee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kuan_bee@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>2. Mdm Tan Kuan Bee
+<br><a href="tan_kuan_bee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kuan_bee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Mdm Chua-Fok Mei Ping</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="fok_mei_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">fok_mei_ping@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>3. Mdm Chua-Fok Mei Ping
+<br><a href="fok_mei_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">fok_mei_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>

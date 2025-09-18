@@ -63,20 +63,16 @@ tactics and
 <p><strong>Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. Mr Royston Siah Kim Tian (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siah_kim_tian_royston@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siah_kim_tian_royston@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>1. Mr Royston Siah Kim Tian (OIC)
+<br><a href="mailto:siah_kim_tian_royston@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siah_kim_tian_royston@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2. Miss Regina Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yew_lin_regina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_lin_regina@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>2. Miss Regina Tan
+<br><a href="mailto:tan_yew_lin_regina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_lin_regina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -122,7 +118,7 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+<p><strong>Attire</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">

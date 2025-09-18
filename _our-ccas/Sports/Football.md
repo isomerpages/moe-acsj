@@ -57,55 +57,43 @@ Schools tournament.</p>
 <p><strong>Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>1. Mr Teo Zhihao (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:teo_zhihao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhihao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>2. Mrs Balasubramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:balasubramaniam_sarasu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balasubramaniam_sarasu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>3. Ms Quek Soo Kim</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:quek_soo_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_soo_kim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>4. Mdm Soh Li Mei</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:soh_li_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_li_mei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>5. Mdm Leelavathy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:leelavathy_gopal_r@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leelavathy_gopal_r@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>6. Ms Siti Nurashikin Ajmain</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="siti_nurashikin_ajmain@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nurashikin_ajmain@moe.edu.sg</a>
 </p>
 </td>

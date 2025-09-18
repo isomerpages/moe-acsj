@@ -3,7 +3,7 @@ title: Art Club
 permalink: /our-ccas/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual & Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
@@ -29,17 +29,6 @@ exposure as they will visit exhibitions and view galleries.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Programme / <br>Activities </strong>
 <br>
@@ -47,15 +36,12 @@ exposure as they will visit exhibitions and view galleries.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1) Printmaking Project
 <br>2) Sculpture-making
 <br>3) Painting with the different medium
 <br>4) VIA activities
 <br>5) Art Learning Journey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -63,11 +49,9 @@ exposure as they will visit exhibitions and view galleries.</p>
 <p><strong>Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1. Ms April Ella Liang (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:april_ella_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">april_ella_liang@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>1. Ms April Ella Liang (OIC)<br>
+<a href="mailto:april_ella_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">april_ella_liang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -75,11 +59,9 @@ exposure as they will visit exhibitions and view galleries.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2. Ms Desiree Chang Ke Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chang_ke_xin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ke_xin_desiree@moe.edu.sg</a>
+<td rowspan="1" colspan="2">
+<p>2. Ms Desiree Chang Ke Xin<br>
+<a href="mailto:chang_ke_xin_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ke_xin_desiree@moe.edu.sg</a>
 </p>
 </td>
 </tr>
