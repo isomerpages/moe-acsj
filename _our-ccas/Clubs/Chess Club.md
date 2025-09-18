@@ -118,7 +118,7 @@ tactics and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Attire / Training Kit (once accepted as a member)</strong>
+<p><strong>Attire</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
