@@ -56,10 +56,10 @@ variant: tiptap
 <br>Tel: 6322 4330</p>
 <p><strong>Year-end School Holiday 2024</strong>
 </p>
-<p>Walk-in Purchase: 19 Nov to 26 Dec 2024</p>
-<p>Bookshop Closed on Saturday, Sunday, Holiday Eve and Public Holidays</p>
-<p>Open on selected Saturdays: 30 Nov, 7 Dec, 14 Dec from 9 am to 12pm</p>
-<p>More information can be found on Booklist for Year 2025
+<p>Walk-in Purchase: 25 Nov to 26 Dec 2025</p>
+<p>Bookshop closed on Saturday, Sunday, Holiday Eve and Public Holidays</p>
+<p>Open on selected Saturdays: 29 Nov, 6 Dec, 13 Dec 2025 from 9am to 12pm</p>
+<p>More information can be found on Booklist for Year 2026
 <br>
 </p>
 <h3><strong>School Bus</strong></h3>
