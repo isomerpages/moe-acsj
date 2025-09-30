@@ -14,10 +14,10 @@ variant: tiptap
 </p>
 <p>Contact person: Shikin / Herman</p>
 <p>Tel: 87689011</p>
-<p>Email: <strong><a href="mailto:acsjscc@nable2.com" rel="noopener noreferrer nofollow" target="_blank">acsjscc@nable2.com</a></strong>
+<p>Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="_blank">teii.acsjscc@gmail.com</a></strong>
 </p>
 <p>Request for Admission:</p>
-<p><strong><a href="https://forms.gle/ZR4pGLi5mCSH6o2j9" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/ZR4pGLi5mCSH6o2j9</a></strong>
+<p><strong><a href="https://forms.gle/pXwgRMG4HHhn8XzA8" rel="noopener nofollow" target="_blank">https://forms.gle/pXwgRMG4HHhn8XzA8</a></strong>
 </p>
 <h3><strong>School Uniform</strong></h3>
 <p><strong>BIBI &amp; BABA Private Limited</strong> 
