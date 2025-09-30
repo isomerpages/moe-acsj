@@ -14,10 +14,10 @@ variant: tiptap
 </p>
 <p>Contact person: Shikin / Herman</p>
 <p>Tel: 87689011</p>
-<p>Email: <strong><a href="mailto:acsjscc@nable2.com" rel="noopener noreferrer nofollow" target="_blank">acsjscc@nable2.com</a></strong>
+<p>Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="_blank">teii.acsjscc@gmail.com</a></strong>
 </p>
 <p>Request for Admission:</p>
-<p><strong><a href="https://forms.gle/ZR4pGLi5mCSH6o2j9" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/ZR4pGLi5mCSH6o2j9</a></strong>
+<p><strong><a href="https://forms.gle/pXwgRMG4HHhn8XzA8" rel="noopener nofollow" target="_blank">https://forms.gle/pXwgRMG4HHhn8XzA8</a></strong>
 </p>
 <h3><strong>School Uniform</strong></h3>
 <p><strong>BIBI &amp; BABA Private Limited</strong> 
@@ -56,10 +56,10 @@ variant: tiptap
 <br>Tel: 6322 4330</p>
 <p><strong>Year-end School Holiday 2024</strong>
 </p>
-<p>Walk-in Purchase: 19 Nov to 26 Dec 2024</p>
-<p>Bookshop Closed on Saturday, Sunday, Holiday Eve and Public Holidays</p>
-<p>Open on selected Saturdays: 30 Nov, 7 Dec, 14 Dec from 9 am to 12pm</p>
-<p>More information can be found on Booklist for Year 2025
+<p>Walk-in Purchase: 25 Nov to 26 Dec 2025</p>
+<p>Bookshop closed on Saturday, Sunday, Holiday Eve and Public Holidays</p>
+<p>Open on selected Saturdays: 29 Nov, 6 Dec, 13 Dec 2025 from 9am to 12pm</p>
+<p>More information can be found on Booklist for Year 2026
 <br>
 </p>
 <h3><strong>School Bus</strong></h3>
