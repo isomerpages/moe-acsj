@@ -3,20 +3,23 @@ title: School Vendors
 permalink: /our-school/vendors/
 description: ""
 third_nav_title: General Information
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
 </div>
 <h1>School Vendors</h1>
 <h3><strong>Student Care Centre</strong></h3>
-<strong>The Enablers II Pte Ltd</strong>
+<p><strong>The Enablers II Pte Ltd</strong>
+</p>
 <p></p>
-Contact person: Shikin / Herman<br>
-Tel: 87689011<br>
-Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="_blank">teii.acsjscc@gmail.com</a></strong>
+<p>Contact person: Shikin / Herman
+<br>Tel: 87689011
+<br>Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="_blank">teii.acsjscc@gmail.com</a></strong>
+</p>
 <p></p>
-<p>Request for Admission:<br><strong><a href="https://forms.gle/pXwgRMG4HHhn8XzA8" rel="noopener nofollow" target="_blank">https://forms.gle/pXwgRMG4HHhn8XzA8</a></strong>
+<p>Request for Admission:
+<br><strong><a href="https://forms.gle/pXwgRMG4HHhn8XzA8" rel="noopener nofollow" target="_blank">https://forms.gle/pXwgRMG4HHhn8XzA8</a></strong>
 </p>
 <h3><strong>School Uniform</strong></h3>
 <p><strong>BIBI &amp; BABA Private Limited</strong> 
@@ -35,20 +38,27 @@ Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="
 <br>Sundays &amp; PH : Closed</p>
 <p></p>
 <p><strong><u>Online Purchases:</u></strong>
-<br>School Uniform<br><strong><a href="http://www.schooluniforms.sg/bb-acs-junior" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior</u></a></strong>
+<br>School Uniform
+<br><strong><a href="http://www.schooluniforms.sg/bb-acs-junior" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior</u></a></strong>
 </p>
-<p>Name Tags for primary 1 (2025)<br><strong><a href="https://www.schooluniforms.sg/bb-acs-junior/acs-junior-name-tag-pri-1" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schooluniforms.sg/bb-acs-junior/acs-junior-name-tag-pri-1</u></a></strong>
+<p>Name Tags for primary 1 (2025)
+<br><strong><a href="https://www.schooluniforms.sg/bb-acs-junior/acs-junior-name-tag-pri-1" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schooluniforms.sg/bb-acs-junior/acs-junior-name-tag-pri-1</u></a></strong>
 </p>
-<p>Name Tags for Primary 1 to 6<br><strong><a href="http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag</u></a></strong>
+<p>Name Tags for Primary 1 to 6
+<br><strong><a href="http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag</u></a></strong>
 </p>
 <h3><strong>School Bookshop</strong></h3>
 <p><strong>Casco Publication Pte Ltd</strong>
-<br>Tel: 6322 4330<br>Email: <strong><a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a></strong>
+<br>Tel: 6322 4330
+<br>Email: <strong><a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a></strong>
 </p>
 <p>Opening Hours: Mondays to Fridays from 8 am to 3.30 pm
 <br>Tel: 6322 4330</p>
 <p><strong>Year-end School Holiday 2024</strong>
-<br>Walk-in Purchase: 25 Nov to 26 Dec 2025<br>Bookshop closed on Saturday, Sunday, Holiday Eve and Public Holidays<br>Open on selected Saturdays: 29 Nov, 6 Dec, 13 Dec 2025 from 9am to 12pm<br>More information can be found on Booklist for Year 2026
+<br>Walk-in Purchase: 25 Nov to 26 Dec 2025
+<br>Bookshop closed on Saturday, Sunday, Holiday Eve and Public Holidays
+<br>Open on selected Saturdays: 29 Nov, 6 Dec, 13 Dec 2025 from 9am to 12pm
+<br>More information can be found on Booklist for Year 2026
 <br>
 </p>
 <h3><strong>School Bus</strong></h3>
@@ -123,14 +133,18 @@ Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="
 </ul>
 <h3><strong>School Dental Service</strong></h3>
 <p><strong>ACS (Junior) Dental Clinic</strong>
-<br>16 Winstedt Road Singapore 227988<br>Tel: 87645860</p>
+<br>16 Winstedt Road Singapore 227988
+<br>Tel: 87645860</p>
 <p>In the event when the clinic is closed, please contact the buddy clinics
-stated below:<br><strong>Anglo-Chinese School (Primary)</strong>
-<br>Add: 50 Barker Road Singapore 309918<br>Tel No: 8764 6032</p>
+stated below:
+<br><strong>Anglo-Chinese School (Primary)</strong>
+<br>Add: 50 Barker Road Singapore 309918
+<br>Tel No: 8764 6032</p>
 <p><strong>Hong Wen School</strong>
-<br>Add: 30 Towner Road Singapore 32829<br>Tel No: 8764 7854</p>
-<p>For any emergency such as facial swelling &amp; trauma, please contact Health Promotion Board at 6435 3895 or email
-<a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_YPS@hpb.gov.sg</a>
+<br>Add: 30 Towner Road Singapore 32829
+<br>Tel No: 8764 7854</p>
+<p>For any emergency such as facial swelling &amp; trauma, please contact <strong>Health Promotion Board</strong> at
+6435 3895 or email <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_YPS@hpb.gov.sg</a>
 </p>
 <p><strong>Health Promotion Board</strong>
 <br><strong>Opening Hours:</strong>
