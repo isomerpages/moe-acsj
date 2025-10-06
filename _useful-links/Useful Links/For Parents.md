@@ -53,5 +53,5 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Parents Gateway</h2>
-<p>&nbsp;<a href="/files/faq%20on%20parent's%20gateway.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ on Parent's Gateway</a>
+<p><a href="/files/PG_Onboarding___FAQs.pdf" rel="noopener nofollow" target="_blank">Onboarding &amp; FAQs</a>
 </p>
