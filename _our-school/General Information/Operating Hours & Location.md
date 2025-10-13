@@ -22,7 +22,7 @@ variant: tiptap
 <h3>Public Bus</h3>
 <p>Buses plying Scotts Road (Newton Station Exit B, Scotts Road, Bus Stop
 No. B40189)
-<br><strong>5, 54, 124, 143, 167 and 518</strong>
+<br><strong>5, 54, 124, 143, 167, 518, 518A &amp; 972M</strong>
 </p>
 <p>Buses plying Bukit Timah Road (near the entrance of Winstedt Road/ Bus
 stop 40029 after Makepeace Road on the opposite side)
