@@ -52,12 +52,11 @@ variant: tiptap
 <br>Tel: 6322 4330
 <br>Email: <strong><a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a></strong>
 </p>
-<p>Opening Hours: Mondays to Fridays from 8 am to 3.30 pm
-<br>Tel: 6322 4330</p>
-<p><strong>Year-end School Holiday 2024</strong>
-<br>Walk-in Purchase: 25 Nov to 26 Dec 2025
+<p>Opening Hours: Mondays to Fridays from 8 am to 3.30 pm</p>
+<p><strong>Year-end School Holiday 2025</strong>
+<br>Walk-in Purchase: 24 Nov to 26 Dec 2025 from 9 am to 3 pm
 <br>Bookshop closed on Saturday, Sunday, Holiday Eve and Public Holidays
-<br>Open on selected Saturdays: 29 Nov, 6 Dec, 13 Dec 2025 from 9am to 12pm
+<br>Open on selected Saturdays: 29 Nov, 13 Dec, 20 Dec 2025 from 9am to 12pm
 <br>More information can be found on Booklist for Year 2026
 <br>
 </p>
