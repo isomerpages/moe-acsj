@@ -11,9 +11,7 @@ variant: markdown
 <h1>School Vendors</h1>
 <h3><strong>Student Care Centre</strong></h3>
 <p><strong>The Enablers II Pte Ltd</strong>
-</p>
-<p></p>
-<p>Contact person: Shikin / Herman
+<br>Contact person: Shikin / Herman
 <br>Tel: 87689011
 <br>Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="_blank">teii.acsjscc@gmail.com</a></strong>
 </p>
@@ -23,26 +21,19 @@ variant: markdown
 </p>
 <h3><strong>School Uniform</strong></h3>
 <p><strong>BIBI &amp; BABA Private Limited</strong>
-</p>
-<p>
-<br><strong>1)Bibi &amp; Baba Orchard Road : Retail Walk-In Sales</strong>
-<br>Add: 545 Orchard Road #02-28&nbsp;S 238882
-<br>Tel: 67327022&nbsp;</p>
-<p><strong><u>Business Hours:</u></strong> 
+<br><strong>1) Bibi &amp; Baba Orchard Road : Retail Walk-In Sales</strong>
+<br>Address: 545 Orchard Road #02-28 Singapore (238882)
+<br>Tel: 6732 7022<br><strong><u>Business Hours:</u></strong> 
 <br>Mondays to Saturdays : 10.00 am to 7.00 pm
-<br>Sundays : 10.00 am to 6.00 pm&nbsp;</p>
-<p><strong>December Holiday Open Hours</strong>
-</p>
-<p>Christmas Eve - Wed, 24 December 2025 10 am to 4 pm</p>
-<p>Christmas Day - Thu, 25 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close</p>
-<p>New Year’s Eve - Wed, 31 December 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10
-am to 4 pm</p>
-<p>New Year’s Day - Thu, 1 January 2026&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Sundays : 10.00 am to 6.00 pm</p>
+<p><strong>December Holiday Opening Hours</strong>
+<br>Christmas Eve - Wed, 24 December 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 am to 4 pm<br>Christmas Day - Thu, 25 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close<br>New Year’s Eve - Wed, 31 December 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10am to 4 pm<br>New Year’s Day - Thu, 1 January 2026&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;10
 am to 6 pm</p>
-<p><strong>2)Bibi &amp; Baba Henderson Shop : Made-to-Measure Orders + Retail Walk-In Sales</strong>
+<p><strong>2) Bibi &amp; Baba Henderson Shop : Made-to-Measure Orders + Retail Walk-In Sales</strong>
 <br>Add: Blk 213 Henderson Road #01-12 S(159553)
 <br>Tel: 6271 9248</p>
 <p><strong><u>Business Hours:</u></strong> 
@@ -50,38 +41,27 @@ am to 6 pm</p>
 <br>Saturdays : 9.00 am to 1.00pm
 <br>Sundays &amp; PH : Closed</p>
 <p><strong><u>December Holiday Opening Hours</u></strong>
-</p>
-<p>Christmas Eve - Wed, 24 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Christmas Eve - Wed, 24 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-9 am to 1 pm</p>
-<p>Christmas Day - Thu, 25 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+9 am to 1 pm<br>Christmas Day - Thu, 25 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Close<br>New Year’s Eve - Wed, 31 December 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+9 am to 1 pm<br>New Year’s Day - Thu, 1 January 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Close</p>
-<p>New Year’s Eve - Wed, 31 December 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-9 am to 1 pm</p>
-<p>New Year’s Day - Thu, 1 January 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Close</p>
-<p><strong><u>3)Online Sales : Delivery &amp; Collection for Back-To-School 2026:</u></strong>
-</p>
-<p><strong>Note : Please refer to School's PG sent out on 31 October for the ONLINE Password</strong>
-</p>
-<p><strong>a)Home Delivery Order</strong>
-<br>Within 5 – 10 working days due to year-end peak season.</p>
-<p>No delivery from 18 Dec 2025 to 1 January 2026.</p>
-<p>Delivery will resume on 2 January 2026.</p>
+<p><strong><u>3) Online Sales : Delivery &amp; Collection for Back-To-School 2026:</u></strong>
+<br><strong>Note : Please refer to School's PG sent out on 31 October for the ONLINE Password</strong>
+<br><strong>a) Home Delivery Order</strong>
+<br>Within 5 – 10 working days due to year-end peak season.<br>No delivery from 18 Dec 2025 to 1 January 2026.<br>Delivery will resume on 2 January 2026.</p>
 <p><strong>b)Self-Collection Orders<br></strong>Collection will be 4 working
-days after Order Day.</p>
-<p>(Working days exclude Sat, Sun and Public Holidays)</p>
+days after Order Day.<br>(Working days exclude Sat, Sun and Public Holidays)</p>
 <p><strong><u>Online Purchases:</u></strong>
 <br>School Uniform
 <br><strong><a href="http://www.schooluniforms.sg/bb-acs-junior" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior</u></a></strong>
-</p>
-<p>Name Tags for primary 1 (2025)
+<br>Name Tags for primary 1 (2025)
 <br><strong><a href="https://www.schooluniforms.sg/bb-acs-junior/acs-junior-name-tag-pri-1" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schooluniforms.sg/bb-acs-junior/acs-junior-name-tag-pri-1</u></a></strong>
-</p>
-<p>Name Tags for Primary 1 to 6
+<br>Name Tags for Primary 1 to 6
 <br><strong><a href="http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior/acsj-name-tag</u></a></strong>
 </p>
 <h3><strong>School Bookshop</strong></h3>
