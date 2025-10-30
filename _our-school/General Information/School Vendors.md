@@ -22,21 +22,58 @@ variant: tiptap
 <br><strong><a href="https://forms.gle/pXwgRMG4HHhn8XzA8" rel="noopener nofollow" target="_blank">https://forms.gle/pXwgRMG4HHhn8XzA8</a></strong>
 </p>
 <h3><strong>School Uniform</strong></h3>
-<p><strong>BIBI &amp; BABA Private Limited</strong> 
-<br><strong>Retail Sales @Far East Shopping Centre</strong> 
+<p><strong>BIBI &amp; BABA Private Limited</strong>
+</p>
+<p>
+<br><strong>1)Bibi &amp; Baba Orchard Road : Retail Walk-In Sales</strong>
 <br>Add: 545 Orchard Road #02-28&nbsp;S 238882
 <br>Tel: 67327022&nbsp;</p>
 <p><strong><u>Business Hours:</u></strong> 
 <br>Mondays to Saturdays : 10.00 am to 7.00 pm
 <br>Sundays : 10.00 am to 6.00 pm&nbsp;</p>
-<p><strong>Made-to-Measure Orders @Henderson Factory</strong> 
+<p><strong>December Holiday Open Hours</strong>
+</p>
+<p>Christmas Eve - Wed, 24 December 2025 10 am to 4 pm</p>
+<p>Christmas Day - Thu, 25 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close</p>
+<p>New Year’s Eve - Wed, 31 December 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10
+am to 4 pm</p>
+<p>New Year’s Day - Thu, 1 January 2026&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;10
+am to 6 pm</p>
+<p><strong>2)Bibi &amp; Baba Henderson Shop : Made-to-Measure Orders + Retail Walk-In Sales</strong>
 <br>Add: Blk 213 Henderson Road #01-12 S(159553)
 <br>Tel: 6271 9248</p>
 <p><strong><u>Business Hours:</u></strong> 
 <br>Mondays to Fridays : 9.00 am to 6.00 pm
 <br>Saturdays : 9.00 am to 1.00pm
 <br>Sundays &amp; PH : Closed</p>
-<p></p>
+<p><strong><u>December Holiday Opening Hours</u></strong>
+</p>
+<p>Christmas Eve - Wed, 24 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+9 am to 1 pm</p>
+<p>Christmas Day - Thu, 25 December 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Close</p>
+<p>New Year’s Eve - Wed, 31 December 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+9 am to 1 pm</p>
+<p>New Year’s Day - Thu, 1 January 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Close</p>
+<p><strong><u>3)Online Sales : Delivery &amp; Collection for Back-To-School 2026:</u></strong>
+</p>
+<p><strong>Note : Please refer to School's PG sent out on 31 October for the ONLINE Password</strong>
+</p>
+<p><strong>a)Home Delivery Order</strong>
+<br>Within 5 – 10 working days due to year-end peak season.</p>
+<p>No delivery from 18 Dec 2025 to 1 January 2026.</p>
+<p>Delivery will resume on 2 January 2026.</p>
+<p><strong>b)Self-Collection Orders<br></strong>Collection will be 4 working
+days after Order Day.</p>
+<p>(Working days exclude Sat, Sun and Public Holidays)</p>
 <p><strong><u>Online Purchases:</u></strong>
 <br>School Uniform
 <br><strong><a href="http://www.schooluniforms.sg/bb-acs-junior" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.schooluniforms.sg/bb-acs-junior</u></a></strong>
