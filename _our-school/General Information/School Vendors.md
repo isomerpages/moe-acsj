@@ -73,7 +73,7 @@ days after Order Day.<br>(Working days exclude Sat, Sun and Public Holidays)</p>
 <p><strong>Year-end School Holiday 2025</strong>
 <br>Walk-in Purchase: 24 Nov to 26 Dec 2025 from 9 am to 3 pm
 <br>Bookshop closed on Saturday, Sunday, Holiday Eve and Public Holidays
-<br>Open on selected Saturdays: 29 Nov, 13 Dec, 20 Dec 2025 from 9am to 12pm
+<br>Open on selected Saturdays: 29 Nov, 6 Dec, 13 Dec 2025 from 9am to 12pm
 <br>More information can be found on Booklist for Year 2026
 <br>
 </p>
