@@ -89,6 +89,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alicia Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Ho_Suat_Lian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ho_Suat_Lian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
