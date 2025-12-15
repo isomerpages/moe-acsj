@@ -14,11 +14,11 @@ variant: tiptap
 </p>
 <h3>VICE PRINCIPAL (Academic)</h3>
 <p>Mr Goh Sheow En
-<br><a href="mailto: Goh_SHEOW_EN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ANG_Chai_Ting@schools.gov.sg</a>
+<br><a href="mailto: Goh_SHEOW_EN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_SHEOW_EN@schools.gov.sg</a>
 </p>
 <h3>VICE PRINCIPAL (Academic)</h3>
-<p>Mr Goh Sheow En
-<br><a href="mailto:Goh_SHEOW_EN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_SHEOW_EN@schools.gov.sg</a>
+<p>Mr Feng Wenfu
+<br><a href="mailto:Goh_SHEOW_EN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> Feng_Wenfu@schools.gov.sg</a>
 </p>
 <h3>VICE PRINCIPAL (Administration)</h3>
 <p>Mr Aaron Chua
