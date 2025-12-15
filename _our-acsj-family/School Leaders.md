@@ -13,8 +13,8 @@ variant: tiptap
 <br><a href="mailto:Cheryl_CHEE@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cheryl_CHEE@schools.gov.sg</a>
 </p>
 <h3>VICE PRINCIPAL (Academic)</h3>
-<p>Mrs Heng-Ang Chai Ting, Jessie
-<br><a href="mailto:ANG_Chai_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ANG_Chai_Ting@schools.gov.sg</a>
+<p>Mr Goh Sheow En
+<br><a href="mailto: Goh_SHEOW_EN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ANG_Chai_Ting@schools.gov.sg</a>
 </p>
 <h3>VICE PRINCIPAL (Academic)</h3>
 <p>Mr Goh Sheow En
