@@ -12,17 +12,14 @@ Programmes
 <b><u>Lit@AC!</u></b><br>
 The Literature Programme is held over 3 weeks and gives our boys the space and opportunity to develop many different skills.  They are encouraged to think about various perspectives and develop empathy through appreciating different views and adopting appropriate social conventions. The P3, P4 and P5 boys will read books and do classroom activities which will allow them to delve deeper into each storyline. Through these classroom activities, they also learn to work collaboratively. The Lit@AC! Programme encourages creativity and harmony through interactions with peers to achieve shared goals. The ACSian Outcome of a joyful learner who takes ownership of his own learning is achieved through the Literature Programme.
 
-<img src="/images/eng1.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/eng2.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/eng3.jpg" style="width:30%;margin-right:15px;" align="left">
-
+<img src="/images/EL2026P1.jpg" style="width:30%;margin-left:55px;" align="left">
+<img src="/images/EL2026P2.jpg" style="width:30%;margin-right:55px;" align="right">
 <br clear="left">
 				 
 Through the Lit@AC! Programme, boys are given the opportunity to work on and showcase their oracy skills through an Advocacy Project. In the course of the 3 weeks, boys are taught how to write a convincing speech and how best to advocate for their selected cause.
 
-<img src="/images/eng4.jpg" style="width:53%;margin-left:55px;" align="left">
-<img src="/images/eng5.jpg" style="width:31%;margin-right:55px;" align="right">
-
+<img src="/images/EL2026P3.jpg" style="width:30%;margin-left:55px;" align="left">
+<img src="/images/EL2026P4.jpg" style="width:30%;margin-right:55px;" align="right">
 <br clear="left">
 
 By engaging in hands-on experiences, boys are better able to connect knowledge that is learnt through the Literature Programme to real world situations.
@@ -32,11 +29,17 @@ English Week is an annual event eagerly anticipated by students, held yearly wit
 
 Throughout the week, boys immerse themselves in activities centered around the chosen theme, sparking creativity and imagination. From lessons that make learning to recess activities, there's something for everyone.
 
-<img src="/images/eng6.jpg" style="width:45%" align="left">
+<img src="/images/EL2026P5.jpg" style="width:30%;margin-left:55px;" align="left">
+<img src="/images/EL2026P6.jpg" style="width:30%;margin-right:55px;" align="right">
 
 <br clear="left">
 
 As the week progresses, the excitement builds towards the grand finale: ACS (J)’s Book Character Day. This special day provides boys with the opportunity to unleash their creativity and bring their favorite literary characters to life through costumes and role-play. It's a celebration of literature, imagination, and the joy of learning that marks the culmination of an enriching English Week experience.
+
+<img src="/images/EL2026P7.jpg" style="width:30%;margin-left:55px;" align="left">
+<img src="/images/EL2026P8.jpg" style="width:30%;margin-right:55px;" align="right">
+
+<br clear="left">
 
 <b><u>P6 Oracy Programme</u></b><br>
 The Primary 6 Oracy Programme is a targeted initiative designed to provide additional support to students in the lead-up to the Primary School Leaving Examination (PSLE). Recognizing the importance of oral communication skills, especially in English Language (EL), this programme focuses on enhancing students' oracy abilities through structured practice sessions.
