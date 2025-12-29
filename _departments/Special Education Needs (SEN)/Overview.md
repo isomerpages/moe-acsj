@@ -20,7 +20,7 @@ This is for our students with learning or physical disabilities requesting acces
 
 Please note that the deadline for all applications for access arrangements need to reach us by the following dates for us to process your application.
 
-The closing date for&nbsp;<b><u>new applications</u></b>&nbsp;P4 to P5 SA2 as well as the closing date for the 2026 PSLE AAs is&nbsp;**Monday 25 August 2025.**
+The closing date for&nbsp;<b><u>new applications</u></b>&nbsp;P4 to P5 SA2 as well as the closing date for the 2027 PSLE AAs is&nbsp;**Monday 31 August 2026.**
 
 ### [Access Arrangements Form](/files/AA%20Application_Form_AAs_21%20Feb%202022.pdf)
 
