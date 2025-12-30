@@ -215,7 +215,7 @@ variant: tiptap
 <p>Mdm Neo Qingxia Jennifer (Mrs Lum)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="neo_qingxia_jennifer@moe.edu.sg" rel="noopener nofollow" target="_blank">neo_qingxia_jennifer@moe.edu.sg  </a>
+<p><a href="neo_qingxia_jennifer@moe.edu.sg" rel="noopener nofollow" target="_blank">neo_qingxia_jennifer@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -641,7 +641,7 @@ variant: tiptap
 <p>Mrs Jayadevi Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jayadevi_ramakrishnan_b@moe.edu.sg" rel="noopener nofollow" target="_blank">jayadevi_ramakrishnan_b@moe.edu.sg </a>
+<p><a href="jayadevi_ramakrishnan_b@moe.edu.sg" rel="noopener nofollow" target="_blank">jayadevi_ramakrishnan_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -794,7 +794,7 @@ variant: tiptap
 <p>Mr Henry Phua Yong Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="henry_phua_yong_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">henry_phua_yong_xiang@moe.edu.sg </a>
+<p><a href="henry_phua_yong_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">henry_phua_yong_xiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -902,7 +902,7 @@ variant: tiptap
 <p>Ms Chua Meng Hua Adela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="adela_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">adela_chua@moe.edu.sg </a>
+<p><a href="adela_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">adela_chua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1115,7 +1115,7 @@ variant: tiptap
 <p>Mr Yogeeindran Ramerchandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yogeeindran_ramerchandra@moe.edu.sg" rel="noopener nofollow" target="_blank">yogeeindran_ramerchandra@moe.edu.sg </a>
+<p><a href="yogeeindran_ramerchandra@moe.edu.sg" rel="noopener nofollow" target="_blank">yogeeindran_ramerchandra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
