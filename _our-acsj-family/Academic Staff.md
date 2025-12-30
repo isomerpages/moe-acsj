@@ -437,7 +437,7 @@ variant: tiptap
 <p>P2.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lam Ker Sim</p>
+<p>Ms Lam Ker Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lam_ker_sim@moe.edu.sg" rel="noopener nofollow" target="_blank">lam_ker_sim@moe.edu.sg</a>
@@ -710,7 +710,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gayathri Unnikrishnan (Mrs Yogeeindran)</p>
+<p>Mdm Gayathri Unnikrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="gayathri_unnikrishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">gayathri_unnikrishnan@moe.edu.sg</a>
@@ -1016,7 +1016,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdn K. Raveena (Mrs Dinesh)</p>
+<p>Mdm K. Raveena (Mrs Dinesh)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="k_raveena@moe.edu.sg" rel="noopener nofollow" target="_blank">k_raveena@moe.edu.sg</a>
