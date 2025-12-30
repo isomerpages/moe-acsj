@@ -89,6 +89,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_zi_yang_andy@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_zi_yang_andy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,13 +125,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Development</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Jieming</p>
+<p>Mr Yogeeindran Ramerchandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chen_jieming@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_jieming@moe.edu.sg</a>
+<p><a href="yogeeindran_ramerchandra@moe.edu.sg" rel="noopener nofollow" target="_blank">yogeeindran_ramerchandra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -128,10 +140,10 @@ variant: tiptap
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Tan</p>
+<p>Mr Chen Jieming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_zi_yang_andy@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_zi_yang_andy@moe.edu.sg</a>
+<p><a href="chen_jieming@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_jieming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -272,17 +284,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>LEVEL HEADS</h3>
@@ -352,17 +353,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>SUBJECT HEADS</h3>
@@ -398,18 +388,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alwyn Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chin_keat_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_keat_alwyn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,7 +400,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Info-Comm Technology</p>
+<p>Mdm. Nur Shazielah Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nur_shazielah_abdul_rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_shazielah_abdul_rahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Hui San</p>

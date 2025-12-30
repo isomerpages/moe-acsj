@@ -36,9 +36,9 @@ variant: markdown
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<br>Mrs Lilian Lai (Lower Primary)
-<br>Ms Quek Soo Kim (Special Education Needs)<p></p>
-</td>
+<p>Mrs Lilian Lai (Lower Primary)
+<br>Ms Quek Soo Kim (Special Education Needs)</p><p>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
