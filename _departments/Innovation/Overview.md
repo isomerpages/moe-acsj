@@ -23,8 +23,7 @@ innovation from its precursors, such as creativity and invention.</p>
 <p>Middle Primary: Interdisciplinary Project Work: Care for the Environment&nbsp;</p>
 </li>
 <li>
-<p>Primary 5 ALP: Sustainability Challenge - Puzzle Hunt&nbsp;@ Marina Bay
-(Term 1)</p>
+<p>Primary 5 ALP: Care for the Social Environment (Term 2)</p>
 </li>
 <li>
 <p>Primary 6 ALP: Go Out &amp; Learn (GOAL)-ECG Learning Journey (Term 4)</p>
