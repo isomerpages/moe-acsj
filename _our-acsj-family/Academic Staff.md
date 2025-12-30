@@ -32,7 +32,7 @@ variant: tiptap
 <p>P1.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Jie NingLin Miao Ting Eunice</p>
+<p>Mdm Lin Miao Ting Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lin_miao_ting_eunice@moe.edu.sg" rel="noopener nofollow" target="_blank">lin_miao_ting_eunice@moe.edu.sg</a>
@@ -84,6 +84,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_lian_hong_bonnie@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_lian_hong_bonnie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Siyuan Nikko</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="zhang_siyuan@noe.edu.sg" rel="noopener nofollow" target="_blank">zhang_siyuan@noe.edu.sg</a>
 </p>
 </td>
 </tr>
