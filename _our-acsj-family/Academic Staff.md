@@ -95,7 +95,7 @@ variant: tiptap
 <p>Ms Zhang Siyuan Nikko</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="zhang_siyuan@noe.edu.sg" rel="noopener nofollow" target="_blank">zhang_siyuan@noe.edu.sg</a>
+<p><a href="zhang_siyuan@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_siyuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
