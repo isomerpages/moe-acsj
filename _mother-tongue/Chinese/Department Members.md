@@ -56,13 +56,14 @@ variant: tiptap
 <p>Mr See Cheun Wah&nbsp;
 <br>Mdm Soh Li Mei
 <br>Mdm Tan Kuan Bee</p>
-<p>Mr Teow Jing Ho (AYH P6)
+<p>Mr Teow Jing Ho (AYH P5)
 <br>Mdm Wong Siew Yin
 <br>Mdm Wong Shiow Jiuan
 <br>Mdm Yang Hsin Wen</p>
 <p>Mdm Yee Zhuoying, Karmene
 <br>Ms Zhang Siyuan Nikko
-<br>Ms Lim Kailing (FAJT)
+<br>Ms Lim Kailing (FAJT)</p>
+<p>Miss Chia Yi Zhen (FAJT)
 <br>
 </p>
 </td>
