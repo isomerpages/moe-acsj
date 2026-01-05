@@ -1567,7 +1567,7 @@ variant: tiptap
 <p>Miss Lin Huiling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lin_huiling@moe.edu.sg" rel="noopener nofollow" target="_blank">lin_huiling@moe.edu.sg</a>
+<p><a href="lin_huiling_b@moe.edu.sg" rel="noopener nofollow" target="_blank">lin_huiling_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
