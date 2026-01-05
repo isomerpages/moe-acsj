@@ -45,12 +45,10 @@ variant: tiptap
 <br>
 <br>
 <br>
-<br>P1 to P6 Notes For Parents</p>
+<br>Notes For Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/chinese5.pdf" rel="noopener noreferrer nofollow" target="_blank">3A</a>
-<br><a href="/files/chinese6.pdf" rel="noopener noreferrer nofollow" target="_blank">3B</a>
-<br><a href="/files/chinese7.pdf" rel="noopener noreferrer nofollow" target="_blank">4A</a>
+<p><a href="/files/chinese7.pdf" rel="noopener noreferrer nofollow" target="_blank">4A</a>
 <br><a href="/files/chinese8.pdf" rel="noopener noreferrer nofollow" target="_blank">4B</a>
 <br><a href="/files/chinese9.pdf" rel="noopener noreferrer nofollow" target="_blank">5A</a>
 <br><a href="/files/chinese10.pdf" rel="noopener noreferrer nofollow" target="_blank">5B</a>
@@ -66,7 +64,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>1. <a href="/files/chineseholidayreadingguide2.pdf" rel="noopener nofollow" target="_blank">Book Recommendation</a>
-<br>2. <a href="https://go.gov.sg/38c0nd" rel="noopener noreferrer nofollow" target="_blank">Lee Kuan Yew Fund for Bilingualism Singapore</a>
+<br>2. <a href="https://www.bilingualism.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kuan Yew Fund for Bilingualism Singapore</a>
 </p>
 </td>
 </tr>
