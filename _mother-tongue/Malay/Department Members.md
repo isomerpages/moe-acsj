@@ -17,7 +17,7 @@ variant: tiptap
 <p>Malay Language Coordinator</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurulhuda Abdul Hamid</p>
+<p>Mdm Siti Nurashikin Ajmain</p>
 </td>
 </tr>
 <tr>
@@ -26,7 +26,6 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah Abdullah</p>
-<p>Mdm Siti Nurashikin Ajmain</p>
 </td>
 </tr>
 </tbody>
