@@ -400,10 +400,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Nur Shazielah Abdul Rahim</p>
+<p>Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Well-Being</p>
+<p>Mdm. Nur Shazielah Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nur_shazielah_abdul_rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_shazielah_abdul_rahim@moe.edu.sg</a>
