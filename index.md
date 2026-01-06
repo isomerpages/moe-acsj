@@ -21,7 +21,7 @@ sections:
           url: /calendar/
   - infopic:
       id: infopic
-      image: /images/2026_Sch_Theme.jpg
+      image: /images/2026SchTheme.jpg
       alt: Image alt text
       title: A Beacon of Truth & Light
       subtitle: 2026 School Theme
