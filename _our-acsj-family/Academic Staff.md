@@ -665,7 +665,7 @@ variant: tiptap
 <p>Mdm Yang Hsin-Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yang_hsin_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">yang_hsin_wen@moe.edu.sg</a>
+<p><a href="mailto:yang_hsin-wen@moe.edu.sg" rel="noopener nofollow" target="_blank">yang_hsin_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
