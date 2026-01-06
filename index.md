@@ -21,10 +21,10 @@ sections:
           url: /calendar/
   - infopic:
       id: infopic
-      image: /images/2025_School_Theme.jpg
+      image: /images/2026_Sch_Theme.jpg
       alt: Image alt text
-      title: Soaring in Unity
-      subtitle: 2025 School Theme
+      title: A Beacon of Truth & Light
+      subtitle: 2026 School Theme
   - infopic:
       title: Digital ECHO
       id: infopic
