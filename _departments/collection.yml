@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - CCE/Members.md
-      - CCE/Overview.md
       - CCE/.keep
+      - CCE/Overview.md
+      - CCE/Members.md
       - English/.keep
       - English/Overview.md
       - English/Department Members.md
