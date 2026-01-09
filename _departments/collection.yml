@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Overview.md
-      - CCE/Members.md
       - English/.keep
       - English/Overview.md
       - English/Department Members.md
@@ -30,6 +27,9 @@ collections:
       - Student Management/.keep
       - Student Management/Overview.md
       - Student Management/Department Members.md
+      - CCE/.keep
+      - CCE/Overview.md
+      - CCE/Members.md
       - ICT/.keep
       - ICT/Overview.md
       - ICT/Department Members.md
