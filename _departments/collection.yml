@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character and Citizenship Education.md
       - English/.keep
       - English/Overview.md
       - English/Department Members.md
