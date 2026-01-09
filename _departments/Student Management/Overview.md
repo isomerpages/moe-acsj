@@ -2,7 +2,7 @@
 title: Overview
 permalink: /departments/cce/overview/
 description: ""
-third_nav_title: Student Development
+third_nav_title: Student Management
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

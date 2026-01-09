@@ -37,17 +37,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Junie (21CC)
-<br>Mdm Teong Wen Jia Ivy (Science)
-<br>Mdm Lam Yuk Wing (Mother Tongue)
 </p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teachers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Arlette Teo (High Ability Learners)</p>
-</td>
+
+
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -55,13 +49,15 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Bonnie Ho
-<br>Mdm Tan Lee San
+<br>Mr Alwyn Tan
 <br>Mrs Chua-Fok Mei Ping
 <br>MrMohammed Ashraff Karim
-<br>Mr Jonathan Koh Boon Kit
+<br>Mdm Lu Liwen
 <br>Ms Koh Hsio Lan Charine
 <br>Ms Lam Ker Sim
-<br>Mdm Tuty Sulastri Subri</p>
+<br>Mdm Mabel Ng
+<br>Mdm Mah Ei Leen
+<br> Mdm Eunice Lin</p>
 </td>
 </tr>
 </tbody>
