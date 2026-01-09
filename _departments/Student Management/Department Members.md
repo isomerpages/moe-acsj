@@ -8,9 +8,11 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner2" src="/images/Sub-banner2.jpg">
 </div>
-<h1>Department Members</h1>
-<p><strong><u>Character and Citizenship Education Department Members</u></strong>
-</p>
+
+
+
+
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,70 +32,7 @@ variant: markdown
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teachers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Siti Mohamad (Social Studies)
-<br>Ms April Liang (Arts)
-<br>Mrs Rachel Heng (Music)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>Members
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Balasubramaniam Sarasu
-<br>Mdm Fauziah Abdullah
-<br>Miss Lou Jiu En Felice
-<br>Ms Grace Wong Jie Er
-<br>Mdm Hu Lan Ying
-<br>Mrs Ong Bee Yeng
-<br>Mdm Lee Kit Cheng Irene
-<br>Mdm Leelavathy Gopal
-<br>Miss Lim Jie Ning
-<br>Mdm Lu Liwen
-<br>Mrs Ng-Tang Pui Fun
-<br>Mr Siah Kim Tian Royston
-<br>Mr See Cheun Wah
-<br>Mrs Vera Balakrishnan
-<br>Mdm Wong Shiow Jiuan
-<br>Mdm Wong Siew Yin
-<br>Mdm Zhang Siyuan Nikko</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Student Management Department Members</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chen Jieming</p>
+<p>Mr Yogeeindran Ramerchandra</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +40,8 @@ variant: markdown
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Karen Tham</p>
+<p>Ms Karen Tham (Student Leader)
+<br>Mdm Nur Shazielah (Student Well Being)</p>
 </td>
 </tr>
 <tr>
@@ -137,19 +77,17 @@ variant: markdown
 <br>Mr Goh Eng Tat
 <br>Mr Goh Tiow Hua
 <br>Mdm Goh Shu Hui
-<br>Mrs Josephine Chan
+<br>Mdm Siti Nurashikin Binte Ajmain
 <br>Mr Kelvin Lim
-<br>Mdm Lum Mei Pheng
+<br>Ms Karmene Yee
 <br>Mr Muhammad Hakim Bin Mustadza
 <br>Mdm Norfaiza Zainal
-<br>Mdm Nur Shazielah Binte Abdul Rahim
-<br>Mrs Raveena Dinesh
-<br>Miss Rubinder Kaur
-<br>Ms Gan Bing Ping Saige
+<br>Mr Timothy Loe
+<br>Ms Zhang Siyuan Nikko
+<br>Mdm Tan Lee San
 <br>Mdm Soh Li Mei
 <br>Mr Lim Siow Way
 <br>Mdm Tan Kuan Bee
-<br>Mr Teow Jing Ho
 <br>Mdm Yang Hsin-Wen</p>
 </td>
 </tr>
