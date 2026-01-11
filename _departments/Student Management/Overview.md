@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/cce/overview/
+permalink: /departments/student-management/overview/
 description: ""
 third_nav_title: Student Management
 variant: tiptap

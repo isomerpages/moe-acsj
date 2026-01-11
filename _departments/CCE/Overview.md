@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /overview/
+permalink: /departments/cce/overview/
 variant: tiptap
 description: ""
 third_nav_title: CCE

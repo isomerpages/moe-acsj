@@ -1,6 +1,6 @@
 ---
 title: Members
-permalink: /members/
+permalink: /departments/cce/members/
 variant: markdown
 description: ""
 third_nav_title: CCE

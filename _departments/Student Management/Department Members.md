@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/cce/members/
+permalink: /departments/student-management/members/
 description: ""
 third_nav_title: Student Management
 variant: markdown
