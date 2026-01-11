@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner1.jpg">
+</div>
+<h1>Overview</h1>
 <p>Through their everyday interactions with others and various learning experiences,
 we hope to guide them in developing their character and citizenship competencies
 and dispositions.</p>
