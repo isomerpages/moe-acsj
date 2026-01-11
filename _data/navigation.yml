@@ -44,7 +44,7 @@ links:
     url: /departments/english/
     sublinks:
       - title: English
-        url: /departments/english/
+        url: /departments/english/overview/
       - title: Mother Tongue
         url: /departments/mother-tongue/chinese/
       - title: Mathematics
@@ -53,8 +53,10 @@ links:
         url: /departments/science/overview/
       - title: PE & Aesthetics
         url: /departments/pe-cca-and-aesthetics/overview/
-      - title: Student Development
-        url: /departments/cce/overview/
+      - title: Student Management
+        url: /departments/student-management/overview/
+      - title: CCE
+        url: /departments/CCE/overview/
       - title: ICT
         url: /departments/ict/overview/
       - title: Innovation

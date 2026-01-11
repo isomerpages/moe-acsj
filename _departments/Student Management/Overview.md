@@ -14,42 +14,7 @@ variant: tiptap
 as unique individuals, with different talents and strengths. We believe
 that each of them has the potential to flourish and live a fulfilling life
 as an individual, a family member, a friend, a community member, and a
-citizen of Singapore and the world. Through their everyday interactions
-with others and various learning experiences, we hope to guide them in
-developing their character and citizenship competencies and dispositions.</p>
-<p>Our Character and Citizenship Education Learning Experiences include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>CCE (Form Teacher Guidance Period)</p>
-</li>
-<li>
-<p>CCE (Mother Tongue Languages)</p>
-</li>
-<li>
-<p>Programme for Active Learning (Social Studies)</p>
-</li>
-<li>
-<p>Values in Action</p>
-</li>
-<li>
-<p>Learning Journeys</p>
-</li>
-<li>
-<p>Co-Curricular Activities</p>
-</li>
-<li>
-<p>Student Leadership Development</p>
-</li>
-<li>
-<p>Student Well-Being</p>
-</li>
-</ul>
-<p><strong>Values in Action</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_2024_VIA.png">
-</div>
-<p></p>
+citizen of Singapore and the world.</p>
 <p><strong>Student Leadership</strong> 
 <br>Objectives:</p>
 <ul data-tight="true" class="tight">
@@ -64,7 +29,7 @@ standards of discipline</p>
 <p>To uphold and preserve the traditions of the school</p>
 </li>
 <li>
-<p>To lead in the organisation of school activities, and to rally the support
+<p>To lead in the organization of school activities, and to rally the support
 of the student body</p>
 </li>
 <li>
@@ -84,7 +49,7 @@ the desired outcome:</p>
 <p>The three guiding principles:
 <br>&nbsp;<strong><u>Principle 1</u></strong> 
 <br>Values are at the base as they guide and provide the purpose for one’s
-behaviours. These values are our school core values. Actions without grounding
+behaviors. These values are our school core values. Actions without grounding
 in values would lead to inconsistency in purpose and actions&nbsp;</p>
 <p><strong><u>Principle 2</u></strong> 
 <br>All ACSians can be and should be developed as a leader. Student leadership
