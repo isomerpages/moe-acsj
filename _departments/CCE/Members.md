@@ -38,7 +38,7 @@ third_nav_title: CCE
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr henry Phua Yong Xiang</p>
+<p>Mr Henry Phua Yong Xiang</p>
 </td>
 </tr>
 <tr>
