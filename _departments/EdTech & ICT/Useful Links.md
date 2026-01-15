@@ -2,7 +2,7 @@
 title: Useful Links
 permalink: /departments/ict/links/
 description: ""
-third_nav_title: ICT
+third_nav_title: EdTech & ICT
 variant: tiptap
 ---
 <h1>Useful Links</h1>
