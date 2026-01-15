@@ -52,10 +52,10 @@ variant: markdown
 <br>Miss Rinda Yeo (MA)
 <br>Ms Jennifer Neo (MA)
 <br>Mr Mo Liwen Maurice (CL)
-<br>Mdm Tuty Sulastri (SC)</p>
-<p>Mr Teo Zhihao (PAM)</p>
-<p>Ms Saige Gan (PAM)</p>
-</td>
+<br>Mdm Tuty Sulastri (SC)
+<br>Mr Teo Zhihao (PAM)
+<br>Ms Saige Gan (PAM)
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
