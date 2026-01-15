@@ -25,6 +25,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Department/EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Atn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,34 +41,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EdTech Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Soh (LT/EL)
+<br>Miss Zhang Min (ST/MT)
+<br>Ms Debbie Goh (ST/SC)
+<br>Mr Wong Soong Hung (EL)
+<br>Mdm Lum Mei Pheng (EL)
+<br>Miss Rinda Yeo (MA)
+<br>Ms Jennifer Neo (MA)
+<br>Mr Mo Liwen Maurice (CL)
+<br>Mdm Tuty Sulastri (SC)</p>
+<p>Mr Teo Zhihao (PAM)</p>
+<p>Ms Saige Gan (PAM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Noor Azhar Parnen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alvin Soh (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Zhang Min (Mother Tongue)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AV Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mo Liwen Maurice</p>
+<p>Mr Noor Azhar</p>
 </td>
 </tr>
 <tr>
@@ -70,23 +72,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr John Ong Choon Hui
 <br>Mr Mohd Zuhaili Che Zakaria</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Members</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Yeo Chiew Hoon Rinda
-<br>Mr Wong Soong Hung
-<br>Mdm Lin Miaoting Eunice
-<br>Mdm Tan Ei Leen
-<br>Miss Nur 'Amirah Jumat
-<br>Mdm Nurulhuda Abdul Hamid
-<br>Mr Teo Zhihao
-<br>Mdm Yee Zhuoying Karmene
-<br>
-</p>
 </td>
 </tr>
 </tbody>
