@@ -28,7 +28,7 @@ variant: markdown
 <p>Head of Department/EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Atn</p>
+<p>Mr Andy Tan</p>
 </td>
 </tr>
 <tr>
