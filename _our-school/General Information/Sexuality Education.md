@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /our-school/sexed/
+permalink: /our-school/sed/
 description: ""
 third_nav_title: General Information
 variant: tiptap
