@@ -77,7 +77,7 @@ Violin, Viola, Cello or Double Bass.
 </td>
 <td rowspan="1" colspan="2">
 <p>Wednesdays
-<br>2.15 pm to 4.15 pm</p>
+<br>2.00 pm to 4.30 pm</p>
 </td>
 </tr>
 <tr>
