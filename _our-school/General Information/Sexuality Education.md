@@ -56,7 +56,7 @@ ones.</p>
 </ul>
 <p>You may&nbsp;click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of ACS Junior’s Sexuality Education Programme</strong>
+<p><strong>Overview of Anglo-Chinese School (Junior)’s Sexuality Education Programme For 2026</strong>
 </p>
 <p>4.&nbsp;Sexuality Education is delivered in a holistic manner through
 the school curriculum.&nbsp;The content for Sexuality Education is grouped
@@ -92,17 +92,17 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p><strong>At ACS (Junior), the following Sexuality Education lessons will be taught:</strong>
+<p><strong>At Anglo-Chinese (Junior), the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE2025P5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_SEd_Lessons_2026.png">
 </div>
 <p><strong>Primary 6</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE2025P6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_SEd_Lessons_2026.png">
 </div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
@@ -110,8 +110,9 @@ themselves safe from sexuality-related risks.</p>
 and/or supplementary sexuality education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated&nbsp;
-to parents at the start of the year. The completed opt-out form is to be <strong>submitted by 11/04/2025</strong>.</p>
-<p>10. Parents can contact Mr Royston Siah at <a href="siah_kim_tian_royston@schools.gov.sg" rel="noopener nofollow" target="_blank">siah_kim_tian_royston@schools.gov.sg</a>&nbsp;for
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://go.gov.sg/sedacsj2026" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be <strong>submitted by 30/01/2026</strong>.</p>
+<p>10. Parents can contact the school at <a href="lee_shuyun_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_shuyun_michelle@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
