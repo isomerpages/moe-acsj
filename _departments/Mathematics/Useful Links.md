@@ -25,7 +25,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Polypad</p>
+<p><strong>Polypad</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://polypad.amplify.com/p" rel="noopener nofollow" target="_blank">https://polypad.amplify.com/p</a>
@@ -34,7 +35,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Isometric Drawing Tool</p>
+<p><strong>Isometric Drawing Tool</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Isometric-Drawing-Tool/" rel="noopener nofollow" target="_blank">https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Isometric-Drawing-Tool/</a>
@@ -43,7 +45,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Learning Space</p>
+<p><strong>Student Learning Space</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://vle.learning.moe.edu.sg/</a>
