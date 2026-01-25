@@ -41,10 +41,10 @@ links:
       - title: Administrative Staff
         url: /administrativestaff/
   - title: Departments
-    url: /departments/english/
+    url: /departments/English/
     sublinks:
       - title: English
-        url: /departments/english/overview/
+        url: /departments/English/overview/
       - title: Mother Tongue
         url: /departments/mother-tongue/chinese/
       - title: Mathematics
