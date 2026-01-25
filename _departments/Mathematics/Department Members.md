@@ -54,7 +54,7 @@ variant: markdown
 <br>Mdm Tan Lee San
 <br>Mdm Nur Shazielah Abdul Rahim
 <br>Mdm Tan Ei Leen
-<br>Mrs Siah Kim Tian Royston
+<br>Mr Siah Kim Tian Royston
 <br>Mrs Ho-Lim Woan Jen (FAJT)
 <br>Mr Aw Meng Hong (FAJT)
 <br>Ms Ng Mui Keng Elisabeth (FAJT)

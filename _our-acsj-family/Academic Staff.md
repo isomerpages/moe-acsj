@@ -602,7 +602,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Md Quek Soo Kim</p>
+<p>Ms Quek Soo Kim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="quek_soo_kim@moe.edu.sg" rel="noopener nofollow" target="_blank">quek_soo_kim@moe.edu.sg</a>
