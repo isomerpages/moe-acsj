@@ -3,6 +3,7 @@ title: Overview
 permalink: /departments/english/
 description: ""
 third_nav_title: English
+variant: tiptap
 ---
 ![](/images/Sub-banner1.jpg)
 
