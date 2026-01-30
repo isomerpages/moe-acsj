@@ -9,16 +9,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>P1 MTP 2025 Slides ( <strong><em><a href="/files/2025_P1_MTP_slides_final_reduce.pdf" rel="noopener nofollow" target="_blank">Download</a></em></strong> )</p>
-</li>
-<li>
-<p>P2 MTP 2025 Slides ( <strong><em><a href="/files/BOY_P2_MTP_YH_AYH_Slides__P2__2025_parents_reduce.pdf" rel="noopener nofollow" target="_blank">Download</a></em></strong> )</p>
-</li>
-<li>
 <p>P3 MTP 2026 Slides ( <strong><em><a href="/files/P3_MTP_BOY__Principal_Slides.pdf" rel="noopener nofollow" target="_blank">Principal</a></em></strong> / <strong><em><a href="/files/P3_MTP_BOY__YH_Slides.pdf" rel="noopener nofollow" target="_blank">YH</a></em></strong> )</p>
-</li>
-<li>
-<p>P4 MTP 2025 Slides ( <strong><em><a href="/files/P4_MTP_AYH_2025__for_School_Website_.pdf" rel="noopener nofollow" target="_blank">Download</a></em></strong> )</p>
 </li>
 <li>
 <p>P5 MTP 2026 Slides ( <strong><em><a href="/files/P5_MTP_2026_Slides__Principal_.pdf" rel="noopener nofollow" target="_blank">Principal</a></em> </strong>/<strong> <em><a href="/files/P5_MTP_2026_Slides__AYH_.pdf" rel="noopener nofollow" target="_blank">AYH</a></em> </strong>/<strong> <em><a href="/files/P5_MTP_2026_Slides__SM_.pdf" rel="noopener nofollow" target="_blank">SM</a></em> </strong>)</p>
