@@ -11,12 +11,12 @@ variant: tiptap
 <h1>Assessment</h1>
 <p><strong><u>2025 Assessment Information and Weighting from Primary 1 to Primary 6</u></strong>
 </p>
-<p>Primary 1 Assessment Handbook ( <strong><a href="/files/2025Assessment_Handbook_P1.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)
-<br>Primary 2 Assessment Handbook (<strong> <a href="/files/2025Assessment_Handbook_P2.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)
-<br>Primary 3 Assessment Handbook (<strong> <a href="/files/2025Assessment_Handbook_P3.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)<strong> </strong>
-<br>Primary 4 Assessment Handbook (<strong> <a href="/files/2025Assessment_Handbook_P4.pdf" rel="noopener nofollow" target="_blank">Download</a></strong> )
-<br>Primary 5 Assessment Handbook (<strong> <a href="/files/2025updatedAssessment_Handbook_P5.pdf" rel="noopener nofollow" target="_blank">Download </a></strong>)
-<br>Primary 6 Assessment Handbook (<strong> <a href="/files/2025Assessment_Handbook_P6.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)</p>
+<p>Primary 1 Assessment Handbook ( <strong><a href="/files/Primary_1_2026_Assessment_Handbook.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)
+<br>Primary 2 Assessment Handbook ( <strong><a href="/files/Primary_2__2026_Assessment_Handbook.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)
+<br>Primary 3 Assessment Handbook (<strong> <a href="/files/Primary_3__2026_Assessment_Handbook.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)<strong> </strong>
+<br>Primary 4 Assessment Handbook (<strong> <a href="/files/Primary_4__2026_Assessment_Handbook.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)
+<br>Primary 5 Assessment Handbook (<strong> <a href="/files/Primary_5__2026_Assessment_Handbook.pdf" rel="noopener nofollow" target="_blank">Download</a><a href="/files/2025updatedAssessment_Handbook_P5.pdf" rel="noopener nofollow" target="_blank"> </a></strong>)
+<br>Primary 6 Assessment Handbook (<strong> <a href="/files/Primary_6__2026_Assessment_Handbook.pdf" rel="noopener nofollow" target="_blank">Download</a> </strong>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Assessment.jpg">
 </div>
