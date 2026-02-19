@@ -2,7 +2,7 @@
 title: School Rules
 permalink: /rules/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -236,36 +236,36 @@ when students misbehave.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;Attendance</p>
-<p>- Late-coming</p>
-<p>- Skipping classes</p>
-<p>•&nbsp;Misconduct</p>
-<p>- Improper attire and grooming</p>
-<p>- Littering</p>
-<p>- Not doing assignments</p>
-<p>•&nbsp;Inappropriate behaviours</p>
-<p>- Insensitive acts/remarks</p>
-<p>- Playful/uncooperative behaviours</p>
-<p>- Online misconduct</p>
-<p>- Using vulgar/abusive language or gestures</p>
-<p>•&nbsp;Damage to property or resources</p>
-<p>- Negligent Damage of Property</p>
-<p>• Unauthorised use of electronic devices</p>
-<p>• Other minor offences</p>
-</td>
+<p>•&nbsp;Attendance
+<br> - Late-coming
+<br> - Skipping classes
+<br>•&nbsp;Misconduct
+<br> - Improper attire and grooming
+<br> - Littering
+<br> - Not doing assignments
+<br>•&nbsp;Inappropriate behaviours
+<br> - Insensitive acts/remarks
+<br> - Playful/uncooperative behaviours
+<br> - Online misconduct
+<br> - Using vulgar/abusive language or gestures
+<br>•&nbsp;Damage to property or resources
+<br> - Negligent Damage of Property
+<br>• Unauthorised use of electronic devices
+<br>• Other minor offences
+</p></td>
 <td rowspan="1" colspan="1">
-<p>• Verbal Warning</p>
-<p>• Detention</p>
-<p>• Corrective Work</p>
-<p>• Confiscation of electronic devices</p>
-<p>• Reflection Essays</p>
-<p>• Pledge of Good Behaviour</p>
-<p>• Research &amp; Presentation to class on harms caused</p>
-<p>• Formal Warning Letters</p>
-<p>• Ineligibility for Scholarships/Awards, Leadership Appointments, Overseas
-Trips, School Team Representation</p>
-<p>• Conduct Grade adjustment</p>
-</td>
+<p>• Verbal Warning
+<br>• Detention
+<br>• Corrective Work
+<br>• Confiscation of electronic devices
+<br>• Reflection Essays
+<br>• Pledge of Good Behaviour
+<br>• Research &amp; Presentation to class on harms caused
+<br>• Formal Warning Letters
+<br>• Ineligibility for Scholarships/Awards, Leadership Appointments, Overseas
+Trips, School Team Representation
+<br>• Conduct Grade adjustment
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -279,45 +279,45 @@ Trips, School Team Representation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Attendance</p>
-<p>- Truancy</p>
-<p>- Leaving school without permission</p>
-<p>• Misconduct</p>
-<p>- Bullying / Cyber-bullying</p>
-<p>- Cheating in assessments</p>
-<p>- Forgery</p>
-<p>- Open defiance and/or rudeness</p>
-<p>• Theft/Damage to Property</p>
-<p>- Arson</p>
-<p>- Theft</p>
-<p>- Vandalism</p>
-<p>• Other Serious Offences</p>
-<p>- Assault</p>
-<p>- Fighting</p>
-<p>- Gambling</p>
-<p>- Gangsterism</p>
-<p>- Pornography</p>
-<p>- Possession of weapons or weapon-like objects</p>
-<p>- Sexual Misconduct</p>
-<p>- Smoking</p>
-<p>- Vaping</p>
-<p>- Alcohol</p>
-<p>- Drugs</p>
-<p>- Inhalants</p>
-<p>- Others</p>
-</td>
+<p>• Attendance
+<br> - Truancy
+<br> - Leaving school without permission
+<br>• Misconduct
+<br> - Bullying / Cyber-bullying
+<br> - Cheating in assessments
+<br> - Forgery
+<br> - Open defiance and/or rudeness
+<br>• Theft/Damage to Property
+<br> - Arson
+<br> - Theft
+<br> - Vandalism
+<br>• Other Serious Offences
+<br> - Assault
+<br> - Fighting
+<br> - Gambling
+<br> - Gangsterism
+<br> - Pornography
+<br> - Possession of weapons or weapon-like objects
+<br> - Sexual Misconduct
+<br> - Smoking
+<br> - Vaping
+<br> - Alcohol
+<br> - Drugs
+<br> - Inhalants
+<br> - Others
+</p></td>
 <td rowspan="1" colspan="1">
-<p>• Formal Warning Letters</p>
-<p>• Detention</p>
-<p>• Corrective Work</p>
-<p>• Deduction of marks (cheating cases)</p>
-<p>• Counselling</p>
-<p>• Conduct Grade adjustment</p>
-<p>• Downgrade / Removal of School Award</p>
-<p>• Removal of Leadership position</p>
-<p>• Internal suspension</p>
-<p>• Home suspension</p>
-<p>• Caning</p>
+<br>• Formal Warning Letters
+<br>• Detention
+<br>• Corrective Work
+<br>• Deduction of marks (cheating cases
+<br>• Counselling
+<br>• Conduct Grade adjustment
+<br>• Downgrade / Removal of School Award
+<br>• Removal of Leadership position
+<br>• Internal suspension
+<br>• Home suspension
+<br>• Caning
 </td>
 </tr>
 </tbody>
