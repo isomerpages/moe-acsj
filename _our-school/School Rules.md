@@ -116,9 +116,14 @@ A medical certificate stating that the student is unable to wear shoes
 is required.</p>
 </li>
 </ul>
-<p><strong><em>Pupils in uniform must not wear the following</em></strong><em>:</em>
+<p><strong><em>Pupils in uniform must not wear or bring the following</em></strong><em>:</em>
 </p>
 <ul>
+<li>
+<p>Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which can be used or
+intended to be used&nbsp;to cause harm to others.</p>
+</li>
 <li>
 <p>Tinted lenses for spectacles/tinted contact lenses unless on medical grounds.</p>
 </li>
@@ -209,47 +214,114 @@ the school values</p>
 <p>Demonstrating the school motto that the “The Best is Yet To Be”</p>
 </li>
 </ul>
-<p>Misbehaviour will not be tolerated and will be dealt with accordingly.
-For serious offences, disciplinary action will include, but not be restricted
-to, caning, probation, suspension, expulsion and/or any other action deemed
-appropriate by the school. Where necessary, the assistance of students’
-parents/guardians will be sought to obtain home support for remedial action.</p>
-<p>The following types of behaviour will not be tolerated and will be considered
-a serious offence:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>open defiance and rudeness (in behaviour or speech) e.g. refusing to follow
-instructions or speaking back to a staff member or student leader.</p>
-</li>
-<li>
-<p>vandalism e.g. deliberately damaging or misuse of school or another’s
-property</p>
-</li>
-<li>
-<p>fighting</p>
-</li>
-<li>
-<p>extortion and theft</p>
-</li>
-<li>
-<p>harassment and bullying</p>
-</li>
-<li>
-<p>possession of weapons or dangerous items</p>
-</li>
-<li>
-<p>offensive language or behaviour</p>
-</li>
-<li>
-<p>cheating</p>
-</li>
-<li>
-<p>truancy&nbsp;</p>
-</li>
-</ul>
-<p>Students are not allowed to have in their possession any weapon. They
-are also not allowed to bring any weapon-like item which can be used or
-intended to be used&nbsp;to cause harm to others.</p>
+<p>Misbehaviour will not be tolerated and will be dealt with accordingly.</p>
+<p><strong>ACS(J) Classification of Offences &amp; Follow-up Action</strong>
+</p>
+<p>ACS (Junior) groups offences into 3 levels: Minor, Serious and Very Serious
+offences.&nbsp; The school will take one or more of the following actions
+when students misbehave.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Minor offences</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Follow Up Actions (one of more of the following will be carried out)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;Attendance</p>
+<p>- Late-coming</p>
+<p>- Skipping classes</p>
+<p>•&nbsp;Misconduct</p>
+<p>- Improper attire and grooming</p>
+<p>- Littering</p>
+<p>- Not doing assignments</p>
+<p>•&nbsp;Inappropriate behaviours</p>
+<p>- Insensitive acts/remarks</p>
+<p>- Playful/uncooperative behaviours</p>
+<p>- Online misconduct</p>
+<p>- Using vulgar/abusive language or gestures</p>
+<p>•&nbsp;Damage to property or resources</p>
+<p>- Negligent Damage of Property</p>
+<p>• Unauthorised use of electronic devices</p>
+<p>• Other minor offences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Verbal Warning</p>
+<p>• Detention</p>
+<p>• Corrective Work</p>
+<p>• Confiscation of electronic devices</p>
+<p>• Reflection Essays</p>
+<p>• Pledge of Good Behaviour</p>
+<p>• Research &amp; Presentation to class on harms caused</p>
+<p>• Formal Warning Letters</p>
+<p>• Ineligibility for Scholarships/Awards, Leadership Appointments, Overseas
+Trips, School Team Representation</p>
+<p>• Conduct Grade adjustment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Serious and Very Serious Offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Follow Up Actions (one of more of the following will be carried out)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>• Attendance</p>
+<p>- Truancy</p>
+<p>- Leaving school without permission</p>
+<p>• Misconduct</p>
+<p>- Bullying / Cyber-bullying</p>
+<p>- Cheating in assessments</p>
+<p>- Forgery</p>
+<p>- Open defiance and/or rudeness</p>
+<p>• Theft/Damage to Property</p>
+<p>- Arson</p>
+<p>- Theft</p>
+<p>- Vandalism</p>
+<p>• Other Serious Offences</p>
+<p>- Assault</p>
+<p>- Fighting</p>
+<p>- Gambling</p>
+<p>- Gangsterism</p>
+<p>- Pornography</p>
+<p>- Possession of weapons or weapon-like objects</p>
+<p>- Sexual Misconduct</p>
+<p>- Smoking</p>
+<p>- Vaping</p>
+<p>- Alcohol</p>
+<p>- Drugs</p>
+<p>- Inhalants</p>
+<p>- Others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Formal Warning Letters</p>
+<p>• Detention</p>
+<p>• Corrective Work</p>
+<p>• Deduction of marks (cheating cases)</p>
+<p>• Counselling</p>
+<p>• Conduct Grade adjustment</p>
+<p>• Downgrade / Removal of School Award</p>
+<p>• Removal of Leadership position</p>
+<p>• Internal suspension</p>
+<p>• Home suspension</p>
+<p>• Caning</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><em>Respect for authority and members of the school community</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -334,115 +406,14 @@ to the pupils after all the examinations for that day.</p>
 </li>
 <li>
 <p>Repeat offenders will be barred from bringing any mobile phone to school.</p>
-<p></p>
 </li>
 </ul>
-<p><strong><u>ACSJ Classification of Offences &amp; Follow-up Action</u></strong>
-<br>ACS (Junior) groups offences into 3 levels; Level 1 offences are characterised
-as minor misdemeanours while Level 3 is for very serious offences. The
-school will take one or more of the following actions when students misbehave.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Level 1 Offences</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Level 1 Follow-up Action</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>- Late-coming
-<br>- Not handing in work
-<br>- Disruptive behaviour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Verbal Warning
-<br>- Detention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level 2 Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Level 2 Follow-up Action</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>- Use of vulgar language
-<br>- Unauthorized use of electronic devices (e.g. playing games on smartphone)
-<br>- Any Persistent Level 1 Offences</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Verbal Warning
-<br>- Written Warning
-<br>- Detention
-<br>- Confiscation of electronic devices</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level 3 Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Level 3 Follow-up Action</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>- Truancy / Leaving school without permission
-<br>- Bullying / Cyber-bullying
-<br>- Cheating / Forgery
-<br>- Stealing
-<br>- Vandalism / Misuse of school property
-<br>- Possession of dangerous weapons or weapon-like objects
-<br>- Actions leading to potential danger
-<br>- Disrespectful / Defiant to teachers/staff
-<br>- Other serious offences
-<br>- Any Persistent Level 2 Offences</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Written warning
-<br>- Corrective Work Order
-<br>- Detention
-<br>- Deduction of marks (cheating cases)
-<br>- Counselling
-<br>- Downgrade/Removal of School Award
-<br>- Removal of Leadership position
-<br>- Internal suspension
-<br>- Home suspension
-<br>- Caning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><em><u>School Transport</u></em></strong>
 <br>Students will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>sit properly on a seat (in an allocated seat if directed by the driver) throughout the journey</strong>
-</p>
+<p>sit properly on a seat (in an allocated seat if directed by the driver)
+throughout the journey</p>
 </li>
 <li>
 <p>treat bus drivers and other people and their possessions with respect</p>
@@ -536,7 +507,7 @@ to others</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Students who are&nbsp;Singapore&nbsp;citizens must sing the National Anthem and take the Pledge at each Assembly. Studentss should take the Pledge with the right fist placed over the heart.</strong>
+<p><strong>Students who are&nbsp;Singapore&nbsp;citizens must sing the National Anthem and take the Pledge at each Assembly. Students should take the Pledge with the right fist placed over the heart.</strong>
 </p>
 </li>
 <li>
