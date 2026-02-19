@@ -49,7 +49,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h3><strong>QR Code For SLS Account Locked &amp; Reset</strong></h3>
+<h3><strong>ACS Junior SLS Student Account (Application  &amp; Re-Activation)</strong></h3>
 <p>eForm Link: <strong><em><a href="https://go.gov.sg/acsjsls" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></em></strong>
 </p>
 <div class="isomer-image-wrapper">
