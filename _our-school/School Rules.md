@@ -2,7 +2,7 @@
 title: School Rules
 permalink: /rules/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub-banner2.jpg">
@@ -251,8 +251,8 @@ when students misbehave.</p>
 <br>•&nbsp;Damage to property or resources
 <br> - Negligent Damage of Property
 <br>• Unauthorised use of electronic devices
-<br>• Other minor offences
-</p></td>
+<br>• Other minor offences</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>• Verbal Warning
 <br>• Detention
@@ -264,8 +264,8 @@ when students misbehave.</p>
 <br>• Formal Warning Letters
 <br>• Ineligibility for Scholarships/Awards, Leadership Appointments, Overseas
 Trips, School Team Representation
-<br>• Conduct Grade adjustment
-</p></td>
+<br>• Conduct Grade adjustment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -304,9 +304,10 @@ Trips, School Team Representation
 <br> - Alcohol
 <br> - Drugs
 <br> - Inhalants
-<br> - Others
-</p></td>
+<br> - Others</p>
+</td>
 <td rowspan="1" colspan="1">
+<p>
 <br>• Formal Warning Letters
 <br>• Detention
 <br>• Corrective Work
@@ -317,7 +318,7 @@ Trips, School Team Representation
 <br>• Removal of Leadership position
 <br>• Internal suspension
 <br>• Home suspension
-<br>• Caning
+<br>• Caning</p>
 </td>
 </tr>
 </tbody>
