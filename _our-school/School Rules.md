@@ -307,8 +307,7 @@ Trips, School Team Representation
 <br> - Others</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>• Formal Warning Letters
+<p>• Formal Warning Letters
 <br>• Detention
 <br>• Corrective Work
 <br>• Deduction of marks (cheating cases
