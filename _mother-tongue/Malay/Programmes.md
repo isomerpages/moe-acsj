@@ -17,7 +17,12 @@ sparking curiosity and joy in reading. Extensions of the reading experience,
 such as story dramatization, further enhance reading comprehension and
 understanding.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML2.png">
+</div>
 <p><strong><u>B.&nbsp;Mother Tongue Fortnight</u></strong>
 </p>
 <p>The Malay Department’s Mother Tongue Fortnight came alive through a whole-school
@@ -27,7 +32,12 @@ tried traditional games such as <em>capteh</em>, <em>gasing</em> and <em>five st
 strengthening their social and cross-cultural awareness as they interacted
 with peers from different cultures.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CL3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML4.png">
+</div>
 <p>In classrooms, batik painting encouraged creative expression and thoughtful
 decision-making through patterns and colour design, while <em>rumah kampung</em> exploration
 deepened students’ understanding of cultural identity and heritage. Puppet
@@ -36,7 +46,12 @@ worked together to create and present their creation. Through these activities,
 students developed creativity and cultural understanding, enhancing their
 appreciation for the Malay language and culture.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML6.png">
+</div>
 <p><strong><u>C.&nbsp;Cultural Performance Exposure Scheme</u></strong>
 </p>
 <p>The Malay Department invited Storyscribblers to showcase an engaging performance
@@ -49,7 +64,12 @@ expressed their aspirations while reflecting on personal goals. Collaborative
 interactions developed critical and creative thinking, empathy, and social
 awareness.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML8.png">
+</div>
 <p><strong><u>D. Ed-Tech</u></strong>
 </p>
 <p>ML lessons integrate educational technology to enhance and deepen student
@@ -63,7 +83,12 @@ ideas purposefully and effectively. EdTech learning experiences provide
 students with choice and agency, empowering them to create, reflect, and
 engage actively in a collaborative learning environment.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML10.png">
+</div>
 <p><strong><u>E. LEGO</u></strong>
 </p>
 <p>ML lessons integrate LEGO-based learning to enhance student engagement.
@@ -73,7 +98,12 @@ Through hands-on exploration, students develop creative thinking skills,
 problem-solving, and flexible thinking, while expressing their thoughts
 in meaningful ways.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML11.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML12.png">
+</div>
 <p><strong><u>F. Conversational Malay Programme</u></strong>
 </p>
 <p>As part of our efforts to develop civic literacy and cross-cultural understanding,
@@ -84,7 +114,12 @@ and interactive way. Using ICT tools such as videos and a Kahoot quiz,
 students not only learn to communicate effectively but also develop appreciation
 for Malay language and culture, building stronger friendships across communities.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML13.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ML14.png">
+</div>
 <p><strong><u>G. Hari Raya Celebration</u></strong>
 </p>
 <p>The spirit of Hari Raya came alive at ACS (Junior) as students took centre
@@ -97,6 +132,9 @@ festive booths were set up at the foyer, providing hands-on experiences
 for the wider school community. These activities enabled the school to
 celebrate together while deepening appreciation of Malay culture and tradition.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML15_.png">
+</div>
 <p></p>
 <p><strong><u>H. Bacalah Adikku by ACS(J) – Cluster competition</u></strong>
 </p>
@@ -105,3 +143,8 @@ Digital Storytelling Competition, <em>“Bacalah Adikku,”</em> offering studen
 a platform for creative expression and meaningful learning through stories.
 Entries were professionally judged, building students’ confidence and deepening
 their appreciation of the Malay language.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML16.png">
+</div>
+<p></p>
