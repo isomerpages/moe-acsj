@@ -38,8 +38,9 @@ designing.
 <br>Class competitions like word search and traditional games further enhance
 learning and create a vibrant language-learning atmosphere for all Tamil
 students.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL1.png">
+</div>
 <p><strong>Mother Tongue Fortnight ( Tamil Activities for Non-Tamil Students)</strong>
 </p>
 <p>During Mother Tongue Fortnight, non-Tamil students are introduced to the
@@ -48,7 +49,9 @@ participate in simple Tamil greetings, traditional games, kolam drawing,
 music, and hands-on cultural activities. These experiences help students
 appreciate Tamil culture, promote inclusiveness, and spark interest in
 learning new languages in a joyful and meaningful way.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL2.png">
+</div>
 <p><strong>3. Hinch Programme</strong>
 </p>
 <p>The Hinch Programme aims to develop students’ interest in Tamil through
@@ -79,8 +82,9 @@ activities like colouring pictures of ponggal pot, role-play, and discussions,
 which make learning meaningful and enjoyable. This learning journey help
 students appreciate the values of thankfulness, community, and cultural
 heritage while strengthening their interest in the Tamil language.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL3.png">
+</div>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deepavali (Assembly Sharing – 10 Minutes)</strong>
 </p>
 <p>Deepavali, also known as the Festival of Lights, is celebrated by Hindus
@@ -102,8 +106,6 @@ the importance of values such as gratitude, kindness, and togetherness.
 <br>Through this sharing, students gain a deeper understanding of&nbsp; Tamil
 culture and learn to appreciate the traditions and values celebrated during
 Deepavali.</p>
-<p></p>
-<p></p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deepavali Recess Activities (For All Students)</strong>
 </p>
 <p>During recess, students take part in Deepavali-themed activities that
@@ -111,5 +113,7 @@ introduce them to the joy and significance of the Festival of Lights. Through
 simple traditional games, kolam designs, greeting card designing, students
 learn about Tamil culture in a fun and inclusive environment. These activities
 foster cultural appreciation, friendship, and festive cheer among all students.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL4.png">
+</div>
 <p></p>
