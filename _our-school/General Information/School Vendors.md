@@ -156,9 +156,9 @@ stated below:
 <br><strong>Anglo-Chinese School (Primary)</strong>
 <br>Add: 50 Barker Road Singapore 309918
 <br>Tel No: 8764 6032</p>
-<p><strong>Hong Wen School</strong>
-<br>Add: 30 Towner Road Singapore 32829
-<br>Tel No: 8764 7854</p>
+<p><strong>Singapore Chinese Girls' School</strong>
+<br>Add: 190 Dunearn Road Singapore 309437
+<br>Tel No: 8909 7659</p>
 <p>For any emergency such as facial swelling &amp; trauma, please contact <strong>Health Promotion Board</strong> at
 6435 3895 or email <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_YPS@hpb.gov.sg</a>
 </p>
