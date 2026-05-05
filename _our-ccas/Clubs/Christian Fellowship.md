@@ -10,13 +10,8 @@ variant: markdown
 </div>
 <h3>Christian Fellowship</h3>
 <h4>Overview</h4>
-<p>Christian Fellowship(CF) aims to provide a safe haven for pupils to ask
-questions about God, experience personal spiritual revival and be equipped
-to worship and witness for Christ. Through it all, we hope to build godly
-character and foster love among its members, to become a worshipful community
-that pray for and serve ACS Junior, the nation and the world.</p>
-<p>Membership is open to all Pri.3 to Pri.6 pupils, as their first or second
-CCA, since it is held on a different day as most other CCA.</p>
+<p>Christian Fellowship(CF) aims to provide a safe haven for pupils to ask questions about God, experience personal spiritual revival and be equipped to worship and witness for Christ. Through it all, we hope to build godly character and foster love among its members, to become a worshipful community that pray for and serve ACS Junior, the nation and the world.</p>
+<p>Membership is open to all Pri 3 to Pri 6 students, as their first or second CCA, since it is held on a different day as most other CCA.</p>
 <p></p>
 <p></p>
 <table style="minWidth: 75px">
@@ -43,18 +38,13 @@ CCA, since it is held on a different day as most other CCA.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>The programme is designed to expose pupils to the wonders of God’s goodness
-through His manifold attributes, so they can freely respond and grow in
-faith, hope and love.
-<br>Activities include praise and worship, Bible studies followed by discussions,
-role play, prayer, video screening and art and craft. There are also opportunities
-to learn how to play the ukulele and participate to lead singing and prayer
-at our school chapel.</p>
+<p>The programme is designed to expose pupils to the wonders of God’s goodness through His manifold attributes, so they can freely respond and grow in faith, hope and love.
+<br>Activities include praise and worship, Bible studies followed by discussions, role play, prayer, video screening and art and craft. There are also opportunities to lead worship and prayer at school events.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Teachers</strong>
+<p><strong>Teachers In-Charge</strong>
 <br>
 </p>
 </td>
@@ -79,7 +69,7 @@ at our school chapel.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Tuesdays
-<br>2.15pm to 4.00pm</p>
+<br>2.00pm to 4.00pm</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +78,7 @@ at our school chapel.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>P6.1 Classroom</p>
+<p>PAL Room</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +96,7 @@ at our school chapel.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>School uniform or white corporate shirt</p>
+<p>Christian Fellowship shirt with school pants</p>
 </td>
 </tr>
 <tr>
