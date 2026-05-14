@@ -113,13 +113,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Priscilla Lum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="lum_yoke_yin_priscilla@moe.edu.sg" rel="noopener nofollow" target="_blank">lum_yoke_yin_priscilla@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
