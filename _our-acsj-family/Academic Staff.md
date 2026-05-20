@@ -1652,10 +1652,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Hamid Mohamed Kassim (SENO)</p>
+<p>Ms Toh Cher Ann (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="abdul_hamid_mohamed_kassim_b@moe.edu.sg" rel="noopener nofollow" target="_blank">abdul_hamid_mohamed_kassim_b@moe.edu.sg</a>
+<p><a href="toh_cher_ann@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_cher_ann@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1679,7 +1679,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Vidya Suresh (T&amp;L)</p>
+<p>Mrs Vidya Suresh (T&amp;L Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="vidya_suresh@moe.edu.sg" rel="noopener nofollow" target="_blank">vidya_suresh@moe.edu.sg</a>
