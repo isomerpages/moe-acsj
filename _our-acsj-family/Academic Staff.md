@@ -1652,10 +1652,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Cher Ann (SENO)</p>
+<p>Ms Toh Ann Cher (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="toh_cher_ann@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_cher_ann@moe.edu.sg</a>
+<p><a href="toh_ann_cher@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_ann_cher@moe.edu.sg</a>
 </p>
 </td>
 </tr>
