@@ -49,7 +49,7 @@ variant: markdown
 <br>Ms Lauren Ng (Senior SENO)
 <br>Mr Kevin Chua (Senior SENO)
 <br>Mr Ranny Choi (Senior SENO)
-<br>Ms Toh Cher Ann (SENO)
+<br>Ms Toh Ann Cher (SENO)
 <br>Ms Karen Wee Mun Hoon (Adjunct SENO)	
 <br>Mr Teo Thai Peng Gavin (Adjunct SENO)	
 <br>Mrs Caroline Tang
