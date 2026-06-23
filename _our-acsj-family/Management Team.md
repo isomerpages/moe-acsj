@@ -56,10 +56,10 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Chee Wei</p>
+<p>Mdm See Chui Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="goh_chee_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_chee_wei@moe.edu.sg</a>
+<p><a href="goh_chee_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">see_chui_geok@moe.edu.sg</a>
 </p>
 </td>
 </tr>
