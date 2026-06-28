@@ -1573,10 +1573,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Li Mei</p>
+<p>Ms Jeanie Quek Jun Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="soh_li_mei@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_li_mei@moe.edu.sg</a>
+<p><a href="jeanie_quek_jun_li@moe.edu.sg" rel="noopener nofollow" target="_blank">jeanie_quek_jun_li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Bernice Lau Li Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="bernice_lau_li_yuan_d@moe.edu.sg" rel="noopener nofollow" target="_blank">bernice_lau_li_yuan_d@moe.edu.sg</a>
 </p>
 </td>
 </tr>
