@@ -54,7 +54,6 @@ variant: tiptap
 <br>Mr Mo Liwen</p>
 <p>Mrs Ng-Tang Pui Fun</p>
 <p>Mr See Cheun Wah&nbsp;
-<br>Mdm Soh Li Mei
 <br>Mdm Tan Kuan Bee</p>
 <p>Mr Teow Jing Ho (AYH P5)
 <br>Mdm Wong Siew Yin
