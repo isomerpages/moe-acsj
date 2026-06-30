@@ -1537,15 +1537,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Lay Peng Angeline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chua_lay_peng_angeline@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_lay_peng_angeline@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Chia Yizhen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1573,7 +1564,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jeanie Quek Jun Li</p>
+<p>Ms Jeanie Quek Jun Li (Mrs Koh)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="jeanie_quek_jun_li@moe.edu.sg" rel="noopener nofollow" target="_blank">jeanie_quek_jun_li@moe.edu.sg</a>
