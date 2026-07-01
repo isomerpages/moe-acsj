@@ -10,7 +10,7 @@ variant: markdown
 </div>
 <h1>School Vendors</h1>
 <h3><strong>Student Care Centre</strong></h3>
-<p><strong>The Enablers II Pte Ltd</strong>
+<p><strong>Star Campus Pte Ltd</strong>
 <br>Contact person: Shikin / Herman
 <br>Tel: 87689011 / 88590233
 <br>Email: <strong><a href="teii.acsjscc@gmail.com" rel="noopener nofollow" target="_blank">teii.acsjscc@gmail.com</a></strong>
