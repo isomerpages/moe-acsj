@@ -64,6 +64,7 @@ variant: markdown
 <br>Ms Lim Kailing (FAJT)
 <br>Miss Chia Yi Zhen (FAJT)
 <br>Ms Bernice Lau (FAJT)
+	<br>Ms Ouyang Cengbo (CT)
 </p></td>
 </tr>
 </tbody>
