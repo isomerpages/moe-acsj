@@ -94,11 +94,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls" rel="noopener noreferrer nofollow" target="_blank">Parental Controls: How do you set parental controls on your child's ICT devices</a>
-</p>
+<p>Children and their devices: How to strike the right balance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls</p>
+<p><a href="https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/</a>
+</p>
 </td>
 </tr>
 <tr>
